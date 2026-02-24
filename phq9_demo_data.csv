@@ -1,0 +1,1001 @@
+member_id,email,first_name,last_name,age,gender,enrollment_date,therapy_type,on_medication,phq9_day0,phq9_day30,phq9_day60,phq9_day90,score_change_90d,sessions_scheduled,sessions_attended,attendance_rate,outcome_label
+MBR100000,katherine.davis4@outlook.com,Katherine,Davis,33,Male,2024-09-08,CBT,True,12,11,10,5,-7,5,4,0.8,Improved
+MBR100001,eric.hill4@icloud.com,Eric,Hill,30,Non-binary,2024-09-11,Supportive,False,20,16,14,9,-11,6,4,0.67,Improved
+MBR100002,emily.martinez28@outlook.com,Emily,Martinez,24,Male,2024-09-30,Supportive,True,16,15,12,8,-8,11,4,0.36,Improved
+MBR100003,ronald.garcia71@outlook.com,Ronald,Garcia,71,Non-binary,2024-09-28,CBT,True,19,16,14,12,-7,9,7,0.78,Improved
+MBR100004,ashley.miller49@outlook.com,Ashley,Miller,47,Non-binary,2024-09-18,DBT,True,15,13,10,6,-9,8,8,1.0,Improved
+MBR100005,catherine.thomas21@hotmail.com,Catherine,Thomas,42,Female,2024-09-09,DBT,False,20,18,15,13,-7,9,4,0.44,Improved
+MBR100006,william.wilson73@outlook.com,William,Wilson,31,Non-binary,2024-09-24,Supportive,False,17,13,9,6,-11,7,6,0.86,Improved
+MBR100007,scott.ramirez75@hotmail.com,Scott,Ramirez,41,Male,2024-09-26,CBT,True,12,8,7,5,-7,11,6,0.55,Improved
+MBR100008,rachel.ramirez77@gmail.com,Rachel,Ramirez,42,Female,2024-09-04,CBT,False,19,15,12,10,-9,12,12,1.0,Improved
+MBR100009,donna.ramirez21@hotmail.com,Donna,Ramirez,18,Non-binary,2024-09-18,DBT,True,14,12,11,7,-7,8,6,0.75,Improved
+MBR100010,anna.smith77@outlook.com,Anna,Smith,49,Male,2024-09-03,CBT,True,11,8,5,2,-9,11,7,0.64,Improved
+MBR100011,catherine.young9@icloud.com,Catherine,Young,67,Male,2024-09-23,Mindfulness-Based,True,12,8,6,2,-10,11,7,0.64,Improved
+MBR100012,michelle.sanchez86@outlook.com,Michelle,Sanchez,46,Non-binary,2024-09-19,CBT,True,17,16,14,11,-6,9,9,1.0,Improved
+MBR100013,mark.smith10@gmail.com,Mark,Smith,32,Male,2024-09-24,Supportive,True,10,7,6,3,-7,11,11,1.0,Improved
+MBR100014,emma.torres61@yahoo.com,Emma,Torres,68,Female,2024-09-15,Mindfulness-Based,False,16,14,13,11,-5,12,9,0.75,Improved
+MBR100015,catherine.brown87@gmail.com,Catherine,Brown,21,Female,2024-09-14,DBT,True,15,14,12,9,-6,12,12,1.0,Improved
+MBR100016,betty.moore60@yahoo.com,Betty,Moore,73,Male,2024-09-16,CBT,False,17,16,15,13,-4,8,7,0.88,Improved
+MBR100017,amy.wilson52@gmail.com,Amy,Wilson,28,Female,2024-09-05,Supportive,False,10,6,3,0,-10,12,10,0.83,Improved
+MBR100018,matthew.jackson28@gmail.com,Matthew,Jackson,55,Non-binary,2024-10-01,CBT,True,18,17,14,12,-6,11,11,1.0,Improved
+MBR100019,shirley.garcia24@gmail.com,Shirley,Garcia,56,Male,2024-09-22,DBT,False,20,18,14,12,-8,5,4,0.8,Improved
+MBR100020,scott.torres67@outlook.com,Scott,Torres,34,Male,2024-09-15,Mindfulness-Based,False,20,17,15,11,-9,11,6,0.55,Improved
+MBR100021,kevin.carter10@gmail.com,Kevin,Carter,47,Non-binary,2024-09-29,Supportive,True,19,18,17,14,-5,8,6,0.75,Improved
+MBR100022,dorothy.white37@yahoo.com,Dorothy,White,46,Non-binary,2024-09-24,DBT,True,14,13,10,8,-6,8,8,1.0,Improved
+MBR100023,larry.martinez35@outlook.com,Larry,Martinez,56,Male,2024-09-27,Supportive,False,15,13,10,5,-10,5,4,0.8,Improved
+MBR100024,emily.williams1@outlook.com,Emily,Williams,67,Male,2024-09-03,Mindfulness-Based,True,20,17,15,10,-10,12,12,1.0,Improved
+MBR100025,alexander.martinez70@gmail.com,Alexander,Martinez,71,Female,2024-09-29,CBT,True,19,17,13,10,-9,10,8,0.8,Improved
+MBR100026,melissa.wilson88@yahoo.com,Melissa,Wilson,60,Male,2024-09-06,DBT,True,15,11,9,6,-9,9,6,0.67,Improved
+MBR100027,jack.perez53@yahoo.com,Jack,Perez,35,Male,2024-09-10,DBT,False,11,7,6,1,-10,10,7,0.7,Improved
+MBR100028,ashley.anderson4@yahoo.com,Ashley,Anderson,43,Female,2024-09-04,Mindfulness-Based,True,14,13,10,6,-8,12,12,1.0,Improved
+MBR100029,kimberly.lopez75@outlook.com,Kimberly,Lopez,20,Male,2024-09-29,Mindfulness-Based,False,19,15,12,8,-11,12,12,1.0,Improved
+MBR100030,emma.gonzalez33@gmail.com,Emma,Gonzalez,63,Female,2024-09-24,CBT,True,10,8,5,0,-10,11,9,0.82,Improved
+MBR100031,joshua.allen40@hotmail.com,Joshua,Allen,38,Female,2024-09-13,Mindfulness-Based,False,14,12,10,5,-9,10,6,0.6,Improved
+MBR100032,larry.smith39@outlook.com,Larry,Smith,31,Female,2024-09-26,Mindfulness-Based,False,19,16,12,7,-12,11,7,0.64,Improved
+MBR100033,jack.hernandez85@gmail.com,Jack,Hernandez,36,Non-binary,2024-09-01,Supportive,True,20,17,16,13,-7,8,7,0.88,Improved
+MBR100034,jennifer.thomas61@icloud.com,Jennifer,Thomas,72,Male,2024-09-21,Mindfulness-Based,True,17,13,11,6,-11,10,10,1.0,Improved
+MBR100035,alexander.smith97@gmail.com,Alexander,Smith,67,Female,2024-09-26,DBT,True,13,11,7,5,-8,12,5,0.42,Improved
+MBR100036,kathleen.nelson68@icloud.com,Kathleen,Nelson,56,Female,2024-09-27,Mindfulness-Based,True,17,13,9,6,-11,12,11,0.92,Improved
+MBR100037,katherine.moore99@icloud.com,Katherine,Moore,49,Non-binary,2024-09-11,Supportive,False,13,10,6,4,-9,9,7,0.78,Improved
+MBR100038,brenda.garcia18@yahoo.com,Brenda,Garcia,32,Female,2024-09-02,Mindfulness-Based,False,12,10,9,4,-8,12,9,0.75,Improved
+MBR100039,anthony.clark50@icloud.com,Anthony,Clark,62,Male,2024-09-18,Supportive,False,19,15,11,9,-10,11,8,0.73,Improved
+MBR100040,maria.mitchell70@icloud.com,Maria,Mitchell,75,Male,2024-09-22,Mindfulness-Based,False,17,15,12,7,-10,10,4,0.4,Improved
+MBR100041,frank.sanchez93@yahoo.com,Frank,Sanchez,71,Female,2024-09-06,CBT,False,12,11,7,5,-7,10,10,1.0,Improved
+MBR100042,michael.taylor49@outlook.com,Michael,Taylor,31,Female,2024-09-01,Mindfulness-Based,False,15,12,8,4,-11,8,8,1.0,Improved
+MBR100043,maria.wright7@outlook.com,Maria,Wright,32,Non-binary,2024-09-05,DBT,True,11,10,9,6,-5,6,4,0.67,Improved
+MBR100044,gary.nelson15@icloud.com,Gary,Nelson,31,Female,2024-09-30,DBT,True,14,11,9,7,-7,8,8,1.0,Improved
+MBR100045,michelle.torres87@hotmail.com,Michelle,Torres,43,Non-binary,2024-09-18,Supportive,False,13,12,10,8,-5,5,5,1.0,Improved
+MBR100046,jeffrey.nelson48@gmail.com,Jeffrey,Nelson,50,Non-binary,2024-09-23,CBT,False,15,14,10,5,-10,11,10,0.91,Improved
+MBR100047,lisa.ramirez23@icloud.com,Lisa,Ramirez,59,Female,2024-09-09,Supportive,True,19,15,11,6,-13,10,9,0.9,Improved
+MBR100048,cynthia.thomas97@hotmail.com,Cynthia,Thomas,54,Non-binary,2024-09-07,Mindfulness-Based,False,20,16,13,11,-9,10,9,0.9,Improved
+MBR100049,melissa.taylor44@outlook.com,Melissa,Taylor,74,Non-binary,2024-09-23,DBT,True,14,13,11,9,-5,11,10,0.91,Improved
+MBR100050,gary.adams92@hotmail.com,Gary,Adams,46,Male,2024-09-16,DBT,False,11,8,6,1,-10,12,8,0.67,Improved
+MBR100051,larry.king45@hotmail.com,Larry,King,65,Non-binary,2024-09-24,Supportive,True,15,12,8,4,-11,9,8,0.89,Improved
+MBR100052,matthew.lee16@icloud.com,Matthew,Lee,66,Non-binary,2024-09-27,Supportive,True,12,10,8,3,-9,12,12,1.0,Improved
+MBR100053,matthew.jackson30@outlook.com,Matthew,Jackson,29,Female,2024-09-21,CBT,True,10,8,5,3,-7,12,12,1.0,Improved
+MBR100054,nicholas.miller2@icloud.com,Nicholas,Miller,36,Female,2024-09-27,CBT,True,17,13,10,7,-10,11,8,0.73,Improved
+MBR100055,william.sanchez63@gmail.com,William,Sanchez,54,Non-binary,2024-09-18,Supportive,True,20,19,17,14,-6,8,5,0.62,Improved
+MBR100056,sharon.hill77@icloud.com,Sharon,Hill,32,Non-binary,2024-09-20,Mindfulness-Based,True,16,12,8,4,-12,12,8,0.67,Improved
+MBR100057,jack.miller98@yahoo.com,Jack,Miller,58,Male,2024-09-01,DBT,True,14,13,11,8,-6,12,12,1.0,Improved
+MBR100058,jason.lewis89@icloud.com,Jason,Lewis,48,Female,2024-09-26,Mindfulness-Based,False,10,8,5,1,-9,8,5,0.62,Improved
+MBR100059,samuel.nguyen85@yahoo.com,Samuel,Nguyen,45,Male,2024-09-26,DBT,True,18,16,14,10,-8,5,5,1.0,Improved
+MBR100060,michelle.hill96@icloud.com,Michelle,Hill,36,Female,2024-09-03,Supportive,False,11,7,4,0,-11,12,12,1.0,Improved
+MBR100061,brandon.williams56@outlook.com,Brandon,Williams,56,Female,2024-09-17,Supportive,False,10,9,7,5,-5,6,4,0.67,Improved
+MBR100062,christine.lewis36@yahoo.com,Christine,Lewis,55,Female,2024-09-22,Supportive,False,20,16,15,10,-10,11,10,0.91,Improved
+MBR100063,jessica.hernandez43@hotmail.com,Jessica,Hernandez,62,Female,2024-09-04,CBT,False,14,10,9,4,-10,11,9,0.82,Improved
+MBR100064,rebecca.allen1@icloud.com,Rebecca,Allen,47,Female,2024-09-18,Mindfulness-Based,False,10,8,5,0,-10,7,4,0.57,Improved
+MBR100065,thomas.jackson57@hotmail.com,Thomas,Jackson,25,Male,2024-09-08,CBT,True,20,18,16,12,-8,12,12,1.0,Improved
+MBR100066,joseph.robinson16@yahoo.com,Joseph,Robinson,49,Non-binary,2024-09-13,Mindfulness-Based,True,14,11,7,2,-12,10,7,0.7,Improved
+MBR100067,matthew.hill66@yahoo.com,Matthew,Hill,73,Male,2024-09-28,CBT,False,14,10,7,3,-11,10,8,0.8,Improved
+MBR100068,lisa.lewis69@hotmail.com,Lisa,Lewis,40,Female,2024-09-08,DBT,False,18,14,10,6,-12,11,7,0.64,Improved
+MBR100069,jason.williams41@hotmail.com,Jason,Williams,63,Female,2024-09-28,DBT,True,16,14,10,8,-8,12,12,1.0,Improved
+MBR100070,ryan.miller68@hotmail.com,Ryan,Miller,18,Non-binary,2024-09-21,Mindfulness-Based,False,12,8,6,4,-8,10,8,0.8,Improved
+MBR100071,david.perez87@icloud.com,David,Perez,42,Female,2024-09-14,DBT,True,20,16,15,13,-7,9,8,0.89,Improved
+MBR100072,richard.carter82@gmail.com,Richard,Carter,46,Male,2024-09-14,CBT,False,14,13,12,8,-6,10,8,0.8,Improved
+MBR100073,charles.thomas68@hotmail.com,Charles,Thomas,54,Non-binary,2024-09-08,Mindfulness-Based,True,12,10,8,6,-6,10,7,0.7,Improved
+MBR100074,kathleen.green33@hotmail.com,Kathleen,Green,34,Non-binary,2024-09-21,CBT,False,10,6,3,0,-10,12,11,0.92,Improved
+MBR100075,jeffrey.hall33@hotmail.com,Jeffrey,Hall,72,Female,2024-09-19,DBT,False,13,9,5,3,-10,12,10,0.83,Improved
+MBR100076,donna.hall38@gmail.com,Donna,Hall,71,Non-binary,2024-09-08,Mindfulness-Based,False,16,13,12,10,-6,9,8,0.89,Improved
+MBR100077,katherine.gonzalez80@outlook.com,Katherine,Gonzalez,61,Non-binary,2024-09-24,Supportive,False,20,18,17,15,-5,11,11,1.0,Improved
+MBR100078,thomas.garcia38@outlook.com,Thomas,Garcia,65,Female,2024-10-01,Supportive,False,12,10,8,4,-8,8,6,0.75,Improved
+MBR100079,donna.mitchell44@gmail.com,Donna,Mitchell,47,Male,2024-09-18,CBT,False,12,10,6,2,-10,10,10,1.0,Improved
+MBR100080,sarah.robinson48@outlook.com,Sarah,Robinson,55,Female,2024-09-30,Mindfulness-Based,False,20,17,16,13,-7,12,4,0.33,Improved
+MBR100081,benjamin.anderson83@gmail.com,Benjamin,Anderson,58,Female,2024-09-04,CBT,False,14,10,9,6,-8,8,4,0.5,Improved
+MBR100082,richard.thomas69@yahoo.com,Richard,Thomas,42,Female,2024-09-02,CBT,False,15,11,9,4,-11,12,11,0.92,Improved
+MBR100083,alexander.white28@hotmail.com,Alexander,White,46,Male,2024-10-01,CBT,True,15,14,11,7,-8,11,10,0.91,Improved
+MBR100084,sarah.robinson12@yahoo.com,Sarah,Robinson,59,Non-binary,2024-09-03,DBT,True,19,18,17,13,-6,12,6,0.5,Improved
+MBR100085,larry.wilson76@yahoo.com,Larry,Wilson,70,Male,2024-09-26,DBT,False,15,13,12,8,-7,10,6,0.6,Improved
+MBR100086,daniel.davis85@gmail.com,Daniel,Davis,26,Male,2024-09-24,DBT,True,15,13,10,8,-7,8,8,1.0,Improved
+MBR100087,sharon.king15@gmail.com,Sharon,King,48,Female,2024-09-21,CBT,False,15,14,10,7,-8,12,12,1.0,Improved
+MBR100088,patricia.brown62@hotmail.com,Patricia,Brown,45,Non-binary,2024-09-05,CBT,True,11,7,3,1,-10,10,9,0.9,Improved
+MBR100089,emily.flores82@icloud.com,Emily,Flores,53,Non-binary,2024-09-14,Mindfulness-Based,True,15,11,8,3,-12,6,5,0.83,Improved
+MBR100090,cynthia.anderson53@outlook.com,Cynthia,Anderson,70,Female,2024-10-01,Mindfulness-Based,False,16,12,11,7,-9,11,9,0.82,Improved
+MBR100091,lisa.baker61@gmail.com,Lisa,Baker,23,Male,2024-09-22,DBT,False,11,7,6,2,-9,12,12,1.0,Improved
+MBR100092,sarah.clark46@hotmail.com,Sarah,Clark,73,Non-binary,2024-09-22,CBT,True,10,7,4,0,-10,12,12,1.0,Improved
+MBR100093,amy.anderson14@outlook.com,Amy,Anderson,72,Non-binary,2024-09-01,Mindfulness-Based,False,15,14,11,8,-7,12,12,1.0,Improved
+MBR100094,betty.moore90@outlook.com,Betty,Moore,39,Female,2024-09-03,CBT,True,10,8,6,1,-9,11,6,0.55,Improved
+MBR100095,maria.king28@hotmail.com,Maria,King,44,Female,2024-09-06,Supportive,True,15,13,10,6,-9,5,5,1.0,Improved
+MBR100096,samantha.brown87@gmail.com,Samantha,Brown,35,Female,2024-09-12,Mindfulness-Based,True,20,16,12,7,-13,9,8,0.89,Improved
+MBR100097,laura.davis37@icloud.com,Laura,Davis,49,Non-binary,2024-09-10,Mindfulness-Based,True,20,17,16,13,-7,4,4,1.0,Improved
+MBR100098,sandra.roberts18@outlook.com,Sandra,Roberts,36,Female,2024-09-17,DBT,True,11,10,6,1,-10,9,6,0.67,Improved
+MBR100099,pamela.nelson46@gmail.com,Pamela,Nelson,43,Non-binary,2024-09-23,CBT,False,10,6,5,0,-10,12,9,0.75,Improved
+MBR100100,katherine.clark38@gmail.com,Katherine,Clark,43,Male,2024-09-14,CBT,True,15,13,9,5,-10,10,10,1.0,Improved
+MBR100101,nicole.sanchez68@gmail.com,Nicole,Sanchez,43,Female,2024-09-29,CBT,True,15,13,10,7,-8,12,12,1.0,Improved
+MBR100102,george.thompson94@yahoo.com,George,Thompson,33,Male,2024-09-15,DBT,False,12,9,7,4,-8,7,5,0.71,Improved
+MBR100103,justin.carter75@hotmail.com,Justin,Carter,61,Non-binary,2024-09-21,Mindfulness-Based,False,20,17,14,11,-9,12,5,0.42,Improved
+MBR100104,joshua.moore76@gmail.com,Joshua,Moore,40,Non-binary,2024-09-03,CBT,False,11,8,4,0,-11,9,4,0.44,Improved
+MBR100105,raymond.garcia79@icloud.com,Raymond,Garcia,50,Female,2024-09-15,Supportive,True,17,16,12,9,-8,11,11,1.0,Improved
+MBR100106,jessica.perez92@gmail.com,Jessica,Perez,50,Non-binary,2024-09-12,Mindfulness-Based,False,12,11,9,4,-8,12,12,1.0,Improved
+MBR100107,andrew.harris53@outlook.com,Andrew,Harris,61,Non-binary,2024-09-09,CBT,False,10,7,6,2,-8,12,12,1.0,Improved
+MBR100108,raymond.nelson78@yahoo.com,Raymond,Nelson,39,Male,2024-09-10,Mindfulness-Based,True,19,17,14,10,-9,10,6,0.6,Improved
+MBR100109,pamela.harris83@outlook.com,Pamela,Harris,70,Male,2024-10-01,CBT,True,20,19,15,11,-9,11,9,0.82,Improved
+MBR100110,sandra.perez99@hotmail.com,Sandra,Perez,30,Male,2024-09-29,CBT,False,12,10,9,5,-7,12,12,1.0,Improved
+MBR100111,samantha.rodriguez77@hotmail.com,Samantha,Rodriguez,27,Male,2024-09-20,Mindfulness-Based,False,12,10,6,4,-8,10,9,0.9,Improved
+MBR100112,andrew.carter96@hotmail.com,Andrew,Carter,32,Non-binary,2024-09-25,Supportive,False,13,10,6,3,-10,12,11,0.92,Improved
+MBR100113,ronald.allen68@hotmail.com,Ronald,Allen,28,Male,2024-09-10,Mindfulness-Based,True,19,17,14,12,-7,9,9,1.0,Improved
+MBR100114,david.carter21@outlook.com,David,Carter,46,Non-binary,2024-09-02,Mindfulness-Based,False,12,8,7,4,-8,9,9,1.0,Improved
+MBR100115,edward.allen48@yahoo.com,Edward,Allen,42,Male,2024-09-02,CBT,True,15,13,12,8,-7,10,9,0.9,Improved
+MBR100116,andrew.walker90@yahoo.com,Andrew,Walker,66,Non-binary,2024-09-18,CBT,True,17,13,12,10,-7,9,8,0.89,Improved
+MBR100117,catherine.hill68@hotmail.com,Catherine,Hill,25,Female,2024-09-03,DBT,False,13,10,9,7,-6,12,10,0.83,Improved
+MBR100118,joseph.young77@icloud.com,Joseph,Young,19,Non-binary,2024-09-19,Mindfulness-Based,True,18,16,14,10,-8,9,4,0.44,Improved
+MBR100119,sharon.lopez86@gmail.com,Sharon,Lopez,51,Female,2024-09-24,CBT,False,11,10,6,1,-10,11,10,0.91,Improved
+MBR100120,john.thompson9@outlook.com,John,Thompson,33,Non-binary,2024-09-27,CBT,True,20,19,16,13,-7,11,9,0.82,Improved
+MBR100121,rachel.robinson90@hotmail.com,Rachel,Robinson,58,Male,2024-09-29,Supportive,True,12,11,7,5,-7,7,7,1.0,Improved
+MBR100122,jennifer.lee40@icloud.com,Jennifer,Lee,43,Non-binary,2024-09-09,Supportive,False,17,14,13,10,-7,9,9,1.0,Improved
+MBR100123,sarah.white56@hotmail.com,Sarah,White,65,Female,2024-09-24,Mindfulness-Based,True,16,13,11,6,-10,11,9,0.82,Improved
+MBR100124,jeffrey.garcia56@icloud.com,Jeffrey,Garcia,70,Male,2024-09-15,CBT,False,18,15,12,10,-8,11,9,0.82,Improved
+MBR100125,helen.rivera55@yahoo.com,Helen,Rivera,62,Female,2024-09-22,Mindfulness-Based,True,15,11,10,6,-9,8,8,1.0,Improved
+MBR100126,katherine.sanchez47@icloud.com,Katherine,Sanchez,69,Non-binary,2024-09-08,Mindfulness-Based,True,20,18,17,14,-6,6,4,0.67,Improved
+MBR100127,raymond.white47@hotmail.com,Raymond,White,54,Male,2024-09-17,Supportive,True,19,17,13,9,-10,11,11,1.0,Improved
+MBR100128,timothy.sanchez41@outlook.com,Timothy,Sanchez,33,Male,2024-09-07,CBT,False,10,8,4,0,-10,10,8,0.8,Improved
+MBR100129,benjamin.jackson89@hotmail.com,Benjamin,Jackson,30,Male,2024-09-23,Mindfulness-Based,False,12,11,7,4,-8,10,5,0.5,Improved
+MBR100130,william.scott70@outlook.com,William,Scott,75,Female,2024-09-26,CBT,True,12,10,7,4,-8,8,7,0.88,Improved
+MBR100131,angela.johnson47@icloud.com,Angela,Johnson,54,Female,2024-09-17,Supportive,False,17,15,14,12,-5,12,10,0.83,Improved
+MBR100132,jason.roberts53@icloud.com,Jason,Roberts,22,Male,2024-09-25,Supportive,True,15,14,10,5,-10,12,6,0.5,Improved
+MBR100133,thomas.ramirez65@gmail.com,Thomas,Ramirez,71,Male,2024-10-01,DBT,False,18,16,13,10,-8,10,9,0.9,Improved
+MBR100134,jonathan.jackson11@outlook.com,Jonathan,Jackson,30,Non-binary,2024-09-06,CBT,True,18,15,13,9,-9,12,12,1.0,Improved
+MBR100135,gregory.flores93@icloud.com,Gregory,Flores,39,Non-binary,2024-09-20,Supportive,False,10,9,8,6,-4,11,7,0.64,Improved
+MBR100136,katherine.johnson64@icloud.com,Katherine,Johnson,36,Non-binary,2024-09-06,Supportive,True,14,10,8,3,-11,11,11,1.0,Improved
+MBR100137,ryan.clark62@hotmail.com,Ryan,Clark,31,Female,2024-09-17,Supportive,False,19,17,14,10,-9,10,10,1.0,Improved
+MBR100138,pamela.miller41@yahoo.com,Pamela,Miller,47,Male,2024-09-28,CBT,False,14,10,8,5,-9,8,4,0.5,Improved
+MBR100139,benjamin.clark32@yahoo.com,Benjamin,Clark,70,Female,2024-09-29,Mindfulness-Based,False,19,16,14,11,-8,12,12,1.0,Improved
+MBR100140,michelle.young3@gmail.com,Michelle,Young,43,Non-binary,2024-09-20,CBT,False,17,15,13,9,-8,8,4,0.5,Improved
+MBR100141,christine.baker61@outlook.com,Christine,Baker,52,Male,2024-09-13,Supportive,True,11,7,5,1,-10,11,10,0.91,Improved
+MBR100142,michael.torres72@yahoo.com,Michael,Torres,41,Non-binary,2024-09-13,Supportive,True,14,13,9,4,-10,7,5,0.71,Improved
+MBR100143,deborah.perez72@outlook.com,Deborah,Perez,66,Male,2024-09-26,CBT,False,13,9,8,6,-7,11,6,0.55,Improved
+MBR100144,gary.king59@yahoo.com,Gary,King,56,Non-binary,2024-09-17,Mindfulness-Based,False,12,9,6,3,-9,12,8,0.67,Improved
+MBR100145,shirley.wright63@icloud.com,Shirley,Wright,37,Female,2024-09-09,Mindfulness-Based,False,10,7,4,2,-8,8,8,1.0,Improved
+MBR100146,christine.roberts75@icloud.com,Christine,Roberts,32,Non-binary,2024-09-07,DBT,True,10,6,4,0,-10,7,7,1.0,Improved
+MBR100147,john.lewis41@hotmail.com,John,Lewis,27,Female,2024-09-22,DBT,False,13,9,5,3,-10,12,12,1.0,Improved
+MBR100148,amy.king49@outlook.com,Amy,King,29,Female,2024-09-18,Mindfulness-Based,False,18,15,12,8,-10,8,7,0.88,Improved
+MBR100149,joshua.anderson39@outlook.com,Joshua,Anderson,63,Male,2024-09-29,Supportive,False,17,14,10,6,-11,8,8,1.0,Improved
+MBR100150,edward.thompson99@yahoo.com,Edward,Thompson,36,Male,2024-09-27,Supportive,True,14,13,10,5,-9,11,11,1.0,Improved
+MBR100151,stephen.moore72@outlook.com,Stephen,Moore,26,Male,2024-09-14,DBT,True,19,17,15,13,-6,7,7,1.0,Improved
+MBR100152,brian.rivera61@gmail.com,Brian,Rivera,61,Male,2024-09-10,Mindfulness-Based,False,10,8,4,0,-10,9,7,0.78,Improved
+MBR100153,raymond.brown99@gmail.com,Raymond,Brown,59,Non-binary,2024-09-06,DBT,False,13,12,10,5,-8,10,4,0.4,Improved
+MBR100154,maria.jackson5@gmail.com,Maria,Jackson,37,Non-binary,2024-09-28,Mindfulness-Based,True,19,18,15,11,-8,12,12,1.0,Improved
+MBR100155,eric.robinson35@yahoo.com,Eric,Robinson,69,Male,2024-09-19,DBT,False,15,13,9,5,-10,9,4,0.44,Improved
+MBR100156,frank.carter25@yahoo.com,Frank,Carter,57,Non-binary,2024-09-16,Mindfulness-Based,True,16,12,9,7,-9,7,5,0.71,Improved
+MBR100157,carol.thomas1@outlook.com,Carol,Thomas,42,Male,2024-09-02,CBT,True,17,14,11,7,-10,10,8,0.8,Improved
+MBR100158,debra.davis60@outlook.com,Debra,Davis,28,Female,2024-09-16,Supportive,True,20,17,16,12,-8,8,7,0.88,Improved
+MBR100159,lisa.robinson96@icloud.com,Lisa,Robinson,41,Female,2024-09-03,CBT,False,18,14,12,9,-9,12,12,1.0,Improved
+MBR100160,justin.davis8@icloud.com,Justin,Davis,75,Non-binary,2024-09-03,Mindfulness-Based,False,13,11,9,5,-8,8,5,0.62,Improved
+MBR100161,shirley.lewis8@hotmail.com,Shirley,Lewis,26,Non-binary,2024-09-27,Supportive,False,16,12,11,6,-10,10,4,0.4,Improved
+MBR100162,james.mitchell28@icloud.com,James,Mitchell,22,Male,2024-09-14,CBT,False,16,13,12,10,-6,11,11,1.0,Improved
+MBR100163,betty.roberts18@hotmail.com,Betty,Roberts,41,Female,2024-09-18,DBT,True,17,13,9,7,-10,9,9,1.0,Improved
+MBR100164,edward.king17@yahoo.com,Edward,King,71,Male,2024-09-12,Mindfulness-Based,False,10,7,3,0,-10,8,7,0.88,Improved
+MBR100165,lisa.moore25@gmail.com,Lisa,Moore,20,Non-binary,2024-09-20,CBT,False,16,15,13,10,-6,5,5,1.0,Improved
+MBR100166,frank.rivera7@yahoo.com,Frank,Rivera,65,Male,2024-09-08,CBT,False,16,12,10,7,-9,10,6,0.6,Improved
+MBR100167,catherine.torres41@icloud.com,Catherine,Torres,56,Non-binary,2024-09-02,DBT,False,15,13,10,7,-8,11,10,0.91,Improved
+MBR100168,pamela.nguyen95@yahoo.com,Pamela,Nguyen,58,Non-binary,2024-09-14,Mindfulness-Based,False,16,12,11,7,-9,12,12,1.0,Improved
+MBR100169,lisa.martin49@yahoo.com,Lisa,Martin,66,Non-binary,2024-10-01,DBT,False,17,15,13,9,-8,11,11,1.0,Improved
+MBR100170,sharon.scott68@yahoo.com,Sharon,Scott,42,Male,2024-09-02,Mindfulness-Based,True,14,12,9,7,-7,9,9,1.0,Improved
+MBR100171,paul.harris87@icloud.com,Paul,Harris,56,Male,2024-09-07,DBT,True,11,9,7,2,-9,11,9,0.82,Improved
+MBR100172,matthew.mitchell16@hotmail.com,Matthew,Mitchell,33,Non-binary,2024-09-18,Supportive,False,19,17,13,10,-9,11,8,0.73,Improved
+MBR100173,christine.thompson40@outlook.com,Christine,Thompson,41,Non-binary,2024-09-14,Supportive,False,17,13,12,7,-10,9,7,0.78,Improved
+MBR100174,jennifer.torres29@yahoo.com,Jennifer,Torres,19,Female,2024-09-19,DBT,False,18,14,11,8,-10,10,9,0.9,Improved
+MBR100175,dorothy.young71@outlook.com,Dorothy,Young,34,Female,2024-09-06,Supportive,False,20,16,12,9,-11,7,6,0.86,Improved
+MBR100176,brenda.adams8@icloud.com,Brenda,Adams,20,Male,2024-09-01,DBT,True,20,19,18,13,-7,7,7,1.0,Improved
+MBR100177,sandra.allen59@outlook.com,Sandra,Allen,21,Non-binary,2024-09-01,CBT,True,20,16,12,10,-10,12,12,1.0,Improved
+MBR100178,anna.campbell36@icloud.com,Anna,Campbell,36,Male,2024-09-07,CBT,True,18,14,12,10,-8,12,12,1.0,Improved
+MBR100179,samantha.king33@outlook.com,Samantha,King,35,Female,2024-09-21,DBT,True,11,8,4,0,-11,9,7,0.78,Improved
+MBR100180,christine.carter5@gmail.com,Christine,Carter,43,Female,2024-09-21,DBT,False,16,12,11,9,-7,12,5,0.42,Improved
+MBR100181,brian.torres13@icloud.com,Brian,Torres,20,Male,2024-09-06,CBT,True,13,9,6,4,-9,12,8,0.67,Improved
+MBR100182,kevin.johnson27@icloud.com,Kevin,Johnson,27,Non-binary,2024-09-13,DBT,False,16,15,12,9,-7,12,10,0.83,Improved
+MBR100183,jack.rodriguez89@gmail.com,Jack,Rodriguez,50,Non-binary,2024-09-25,DBT,False,15,14,13,8,-7,10,5,0.5,Improved
+MBR100184,carol.johnson82@outlook.com,Carol,Johnson,68,Female,2024-09-03,Mindfulness-Based,False,17,15,12,7,-10,11,6,0.55,Improved
+MBR100185,samantha.jackson32@gmail.com,Samantha,Jackson,23,Female,2024-09-01,Supportive,True,12,8,6,1,-11,9,9,1.0,Improved
+MBR100186,michelle.lewis47@outlook.com,Michelle,Lewis,24,Male,2024-09-12,Mindfulness-Based,True,11,9,5,0,-11,5,5,1.0,Improved
+MBR100187,larry.garcia77@icloud.com,Larry,Garcia,68,Female,2024-09-22,Mindfulness-Based,True,16,15,12,7,-9,8,5,0.62,Improved
+MBR100188,ronald.hernandez18@outlook.com,Ronald,Hernandez,37,Female,2024-09-16,Mindfulness-Based,False,17,15,14,11,-6,11,8,0.73,Improved
+MBR100189,barbara.white33@yahoo.com,Barbara,White,64,Non-binary,2024-09-11,DBT,False,17,15,11,9,-8,8,8,1.0,Improved
+MBR100190,samantha.harris43@hotmail.com,Samantha,Harris,39,Female,2024-10-01,DBT,True,20,18,15,11,-9,12,11,0.92,Improved
+MBR100191,edward.lee38@hotmail.com,Edward,Lee,54,Male,2024-09-22,Supportive,True,15,11,8,3,-12,8,5,0.62,Improved
+MBR100192,larry.johnson94@hotmail.com,Larry,Johnson,63,Male,2024-09-08,Mindfulness-Based,False,17,14,13,8,-9,11,6,0.55,Improved
+MBR100193,steven.nelson20@hotmail.com,Steven,Nelson,68,Female,2024-09-23,Mindfulness-Based,False,11,7,3,0,-11,12,12,1.0,Improved
+MBR100194,stephen.hill82@gmail.com,Stephen,Hill,24,Male,2024-09-01,Mindfulness-Based,True,20,17,15,13,-7,12,9,0.75,Improved
+MBR100195,richard.taylor29@icloud.com,Richard,Taylor,65,Non-binary,2024-09-01,Mindfulness-Based,False,18,16,12,8,-10,11,11,1.0,Improved
+MBR100196,amy.miller38@hotmail.com,Amy,Miller,23,Male,2024-09-12,Mindfulness-Based,False,12,9,6,2,-10,11,7,0.64,Improved
+MBR100197,gary.miller57@hotmail.com,Gary,Miller,38,Male,2024-09-17,Supportive,True,14,13,12,10,-4,7,5,0.71,Improved
+MBR100198,daniel.scott21@outlook.com,Daniel,Scott,53,Female,2024-09-24,DBT,True,17,15,11,8,-9,11,10,0.91,Improved
+MBR100199,benjamin.gonzalez58@icloud.com,Benjamin,Gonzalez,45,Female,2024-09-11,CBT,False,10,8,6,2,-8,7,5,0.71,Improved
+MBR100200,margaret.robinson15@outlook.com,Margaret,Robinson,60,Female,2024-09-20,CBT,False,18,15,11,6,-12,11,9,0.82,Improved
+MBR100201,daniel.baker91@outlook.com,Daniel,Baker,57,Non-binary,2024-09-12,DBT,True,11,9,6,4,-7,8,8,1.0,Improved
+MBR100202,alexander.martinez66@hotmail.com,Alexander,Martinez,44,Non-binary,2024-09-16,Mindfulness-Based,True,12,8,4,1,-11,12,12,1.0,Improved
+MBR100203,andrew.rodriguez24@outlook.com,Andrew,Rodriguez,71,Female,2024-10-01,Mindfulness-Based,False,19,18,15,13,-6,7,6,0.86,Improved
+MBR100204,pamela.allen84@hotmail.com,Pamela,Allen,44,Non-binary,2024-09-10,DBT,True,17,13,9,4,-13,5,5,1.0,Improved
+MBR100205,robert.moore29@icloud.com,Robert,Moore,36,Male,2024-09-25,Supportive,True,17,13,12,10,-7,12,12,1.0,Improved
+MBR100206,raymond.lewis70@yahoo.com,Raymond,Lewis,45,Male,2024-09-15,Mindfulness-Based,True,20,18,15,13,-7,10,8,0.8,Improved
+MBR100207,sarah.roberts31@yahoo.com,Sarah,Roberts,69,Non-binary,2024-09-19,DBT,True,19,16,12,9,-10,8,7,0.88,Improved
+MBR100208,george.wright36@icloud.com,George,Wright,52,Male,2024-09-30,CBT,False,15,12,9,5,-10,12,6,0.5,Improved
+MBR100209,linda.moore84@yahoo.com,Linda,Moore,62,Male,2024-09-21,Mindfulness-Based,False,13,11,8,5,-8,11,11,1.0,Improved
+MBR100210,sharon.harris58@gmail.com,Sharon,Harris,58,Male,2024-09-24,Mindfulness-Based,True,16,13,10,5,-11,9,9,1.0,Improved
+MBR100211,jacob.green86@outlook.com,Jacob,Green,72,Male,2024-09-27,DBT,False,18,14,12,7,-11,12,11,0.92,Improved
+MBR100212,andrew.perez71@icloud.com,Andrew,Perez,26,Non-binary,2024-09-30,CBT,True,17,14,13,11,-6,11,11,1.0,Improved
+MBR100213,christopher.lewis59@gmail.com,Christopher,Lewis,45,Male,2024-09-12,CBT,True,12,9,7,3,-9,11,9,0.82,Improved
+MBR100214,debra.adams22@gmail.com,Debra,Adams,43,Non-binary,2024-09-03,CBT,False,14,12,8,6,-8,7,4,0.57,Improved
+MBR100215,thomas.nguyen29@icloud.com,Thomas,Nguyen,61,Female,2024-09-08,Mindfulness-Based,True,10,9,6,4,-6,9,6,0.67,Improved
+MBR100216,stephanie.garcia94@gmail.com,Stephanie,Garcia,24,Female,2024-09-20,DBT,True,15,12,10,5,-10,6,6,1.0,Improved
+MBR100217,christine.hernandez57@outlook.com,Christine,Hernandez,64,Male,2024-09-25,DBT,True,20,18,14,9,-11,6,5,0.83,Improved
+MBR100218,sarah.nguyen94@hotmail.com,Sarah,Nguyen,40,Female,2024-09-25,CBT,False,15,13,11,7,-8,11,7,0.64,Improved
+MBR100219,alexander.johnson85@outlook.com,Alexander,Johnson,31,Non-binary,2024-09-04,CBT,False,19,17,13,9,-10,10,7,0.7,Improved
+MBR100220,donald.young82@icloud.com,Donald,Young,22,Non-binary,2024-09-25,Mindfulness-Based,True,10,7,4,1,-9,11,10,0.91,Improved
+MBR100221,gary.roberts10@gmail.com,Gary,Roberts,55,Male,2024-09-21,CBT,False,10,7,5,3,-7,12,10,0.83,Improved
+MBR100222,janet.allen99@hotmail.com,Janet,Allen,45,Non-binary,2024-09-26,CBT,True,16,15,13,9,-7,8,8,1.0,Improved
+MBR100223,lisa.wright42@hotmail.com,Lisa,Wright,55,Non-binary,2024-09-30,DBT,True,20,19,16,11,-9,7,4,0.57,Improved
+MBR100224,laura.davis59@icloud.com,Laura,Davis,56,Male,2024-10-01,DBT,False,14,12,11,9,-5,6,4,0.67,Improved
+MBR100225,george.king67@outlook.com,George,King,28,Female,2024-09-09,Supportive,True,12,9,8,6,-6,11,10,0.91,Improved
+MBR100226,janet.torres81@gmail.com,Janet,Torres,49,Female,2024-09-25,DBT,False,18,15,14,9,-9,10,9,0.9,Improved
+MBR100227,jessica.torres87@gmail.com,Jessica,Torres,32,Non-binary,2024-09-13,DBT,False,18,17,16,14,-4,11,4,0.36,Improved
+MBR100228,lisa.lopez5@icloud.com,Lisa,Lopez,69,Non-binary,2024-09-09,DBT,False,20,16,14,10,-10,12,10,0.83,Improved
+MBR100229,barbara.torres48@gmail.com,Barbara,Torres,50,Non-binary,2024-09-25,Mindfulness-Based,False,10,8,6,4,-6,12,5,0.42,Improved
+MBR100230,michelle.lee12@icloud.com,Michelle,Lee,47,Male,2024-09-25,DBT,False,15,13,10,6,-9,12,11,0.92,Improved
+MBR100231,margaret.campbell70@yahoo.com,Margaret,Campbell,27,Male,2024-09-28,CBT,False,16,15,13,9,-7,9,9,1.0,Improved
+MBR100232,jack.campbell40@gmail.com,Jack,Campbell,31,Non-binary,2024-09-30,DBT,True,13,9,5,3,-10,8,8,1.0,Improved
+MBR100233,ashley.king53@outlook.com,Ashley,King,47,Non-binary,2024-09-08,CBT,True,11,10,8,3,-8,10,4,0.4,Improved
+MBR100234,donna.taylor41@hotmail.com,Donna,Taylor,62,Non-binary,2024-09-25,DBT,True,15,12,8,4,-11,8,5,0.62,Improved
+MBR100235,scott.miller20@gmail.com,Scott,Miller,28,Female,2024-09-15,Supportive,False,17,14,10,8,-9,10,7,0.7,Improved
+MBR100236,kimberly.davis12@yahoo.com,Kimberly,Davis,69,Non-binary,2024-09-13,DBT,False,14,13,11,7,-7,8,5,0.62,Improved
+MBR100237,shirley.brown87@outlook.com,Shirley,Brown,34,Male,2024-09-04,CBT,True,10,6,2,0,-10,11,11,1.0,Improved
+MBR100238,mary.brown29@yahoo.com,Mary,Brown,30,Female,2024-09-26,CBT,False,15,14,11,9,-6,8,5,0.62,Improved
+MBR100239,thomas.garcia43@gmail.com,Thomas,Garcia,20,Female,2024-09-06,Mindfulness-Based,False,10,8,4,0,-10,10,4,0.4,Improved
+MBR100240,melissa.wilson24@outlook.com,Melissa,Wilson,35,Female,2024-09-02,Mindfulness-Based,False,12,11,9,5,-7,12,10,0.83,Improved
+MBR100241,susan.moore50@yahoo.com,Susan,Moore,44,Male,2024-09-30,Supportive,False,20,18,17,12,-8,12,11,0.92,Improved
+MBR100242,justin.allen42@hotmail.com,Justin,Allen,35,Male,2024-09-25,Supportive,False,10,7,5,3,-7,11,4,0.36,Improved
+MBR100243,scott.anderson21@gmail.com,Scott,Anderson,33,Non-binary,2024-09-08,Mindfulness-Based,True,13,10,9,6,-7,10,9,0.9,Improved
+MBR100244,nicole.lee95@outlook.com,Nicole,Lee,55,Male,2024-09-03,Supportive,True,15,13,11,6,-9,9,6,0.67,Improved
+MBR100245,linda.anderson78@yahoo.com,Linda,Anderson,19,Non-binary,2024-09-02,DBT,False,17,16,13,10,-7,10,9,0.9,Improved
+MBR100246,john.martinez76@yahoo.com,John,Martinez,67,Male,2024-09-11,Mindfulness-Based,False,18,15,14,10,-8,10,5,0.5,Improved
+MBR100247,karen.hernandez94@hotmail.com,Karen,Hernandez,68,Non-binary,2024-09-24,DBT,False,17,14,12,8,-9,9,6,0.67,Improved
+MBR100248,alexander.jackson17@yahoo.com,Alexander,Jackson,64,Male,2024-09-30,Supportive,True,19,15,14,11,-8,12,7,0.58,Improved
+MBR100249,angela.martinez43@gmail.com,Angela,Martinez,33,Female,2024-09-08,Mindfulness-Based,True,15,13,12,8,-7,8,4,0.5,Improved
+MBR100250,alexander.jones45@outlook.com,Alexander,Jones,68,Male,2024-09-29,Mindfulness-Based,False,10,9,5,0,-10,9,6,0.67,Improved
+MBR100251,ronald.thompson70@hotmail.com,Ronald,Thompson,24,Female,2024-09-11,CBT,True,19,17,15,10,-9,8,4,0.5,Improved
+MBR100252,kimberly.miller10@outlook.com,Kimberly,Miller,28,Female,2024-09-20,Mindfulness-Based,True,12,11,10,6,-6,10,4,0.4,Improved
+MBR100253,laura.hernandez7@gmail.com,Laura,Hernandez,39,Male,2024-09-13,Supportive,True,13,9,6,2,-11,7,7,1.0,Improved
+MBR100254,emma.scott63@yahoo.com,Emma,Scott,21,Female,2024-09-07,Mindfulness-Based,True,10,6,5,1,-9,7,7,1.0,Improved
+MBR100255,nancy.green38@gmail.com,Nancy,Green,48,Male,2024-09-12,Supportive,True,14,10,6,1,-13,11,5,0.45,Improved
+MBR100256,ronald.white24@hotmail.com,Ronald,White,20,Female,2024-09-03,Supportive,True,17,13,10,7,-10,6,4,0.67,Improved
+MBR100257,debra.thompson70@hotmail.com,Debra,Thompson,66,Non-binary,2024-09-03,Mindfulness-Based,False,13,12,8,3,-10,10,7,0.7,Improved
+MBR100258,edward.rivera5@icloud.com,Edward,Rivera,54,Non-binary,2024-09-05,DBT,True,19,17,16,11,-8,7,6,0.86,Improved
+MBR100259,jennifer.ramirez11@hotmail.com,Jennifer,Ramirez,30,Non-binary,2024-09-18,CBT,False,12,9,6,4,-8,12,10,0.83,Improved
+MBR100260,carol.moore67@hotmail.com,Carol,Moore,73,Male,2024-09-30,DBT,True,19,15,14,9,-10,10,6,0.6,Improved
+MBR100261,jessica.torres13@outlook.com,Jessica,Torres,73,Non-binary,2024-09-09,Mindfulness-Based,True,15,11,8,3,-12,11,11,1.0,Improved
+MBR100262,rebecca.martinez80@icloud.com,Rebecca,Martinez,61,Non-binary,2024-09-29,DBT,False,16,15,11,7,-9,11,4,0.36,Improved
+MBR100263,deborah.johnson44@outlook.com,Deborah,Johnson,37,Female,2024-09-24,Supportive,False,17,16,14,11,-6,12,11,0.92,Improved
+MBR100264,sharon.hill83@gmail.com,Sharon,Hill,30,Female,2024-09-10,CBT,True,13,9,5,1,-12,12,12,1.0,Improved
+MBR100265,patrick.allen52@yahoo.com,Patrick,Allen,67,Non-binary,2024-09-15,DBT,True,19,18,16,13,-6,7,4,0.57,Improved
+MBR100266,michael.white91@yahoo.com,Michael,White,35,Female,2024-09-06,DBT,False,17,13,12,10,-7,12,9,0.75,Improved
+MBR100267,gary.nguyen71@outlook.com,Gary,Nguyen,40,Male,2024-09-28,Mindfulness-Based,True,14,13,10,8,-6,6,4,0.67,Improved
+MBR100268,mark.adams29@yahoo.com,Mark,Adams,35,Non-binary,2024-09-08,DBT,True,16,15,14,9,-7,10,6,0.6,Improved
+MBR100269,steven.hill40@outlook.com,Steven,Hill,45,Female,2024-09-19,Mindfulness-Based,False,15,11,8,5,-10,12,8,0.67,Improved
+MBR100270,jessica.smith66@outlook.com,Jessica,Smith,53,Non-binary,2024-09-21,Mindfulness-Based,False,19,16,13,11,-8,10,5,0.5,Improved
+MBR100271,carol.moore34@outlook.com,Carol,Moore,30,Male,2024-09-21,Supportive,True,18,16,15,10,-8,11,6,0.55,Improved
+MBR100272,angela.jackson34@hotmail.com,Angela,Jackson,43,Female,2024-09-27,Mindfulness-Based,True,10,8,5,2,-8,11,9,0.82,Improved
+MBR100273,gregory.scott24@outlook.com,Gregory,Scott,24,Female,2024-09-24,CBT,True,12,9,7,3,-9,9,7,0.78,Improved
+MBR100274,michelle.clark43@outlook.com,Michelle,Clark,34,Non-binary,2024-09-17,CBT,True,14,10,9,4,-10,12,5,0.42,Improved
+MBR100275,sarah.baker49@icloud.com,Sarah,Baker,37,Female,2024-09-05,Supportive,False,10,8,6,3,-7,12,10,0.83,Improved
+MBR100276,kevin.rivera24@gmail.com,Kevin,Rivera,49,Female,2024-09-25,CBT,True,20,18,15,13,-7,12,11,0.92,Improved
+MBR100277,nancy.torres98@yahoo.com,Nancy,Torres,49,Male,2024-09-02,Mindfulness-Based,True,12,8,4,0,-12,12,11,0.92,Improved
+MBR100278,stephen.gonzalez94@outlook.com,Stephen,Gonzalez,18,Female,2024-09-10,DBT,False,18,16,15,13,-5,12,7,0.58,Improved
+MBR100279,thomas.miller50@icloud.com,Thomas,Miller,55,Female,2024-09-29,Supportive,False,12,11,10,6,-6,12,11,0.92,Improved
+MBR100280,rachel.rodriguez44@hotmail.com,Rachel,Rodriguez,40,Male,2024-09-19,DBT,True,12,8,7,4,-8,7,6,0.86,Improved
+MBR100281,eric.hernandez16@outlook.com,Eric,Hernandez,63,Non-binary,2024-09-23,CBT,True,10,6,3,1,-9,5,5,1.0,Improved
+MBR100282,joseph.clark57@hotmail.com,Joseph,Clark,25,Non-binary,2024-09-22,CBT,True,14,10,8,5,-9,11,8,0.73,Improved
+MBR100283,jonathan.moore80@icloud.com,Jonathan,Moore,62,Male,2024-09-20,CBT,True,16,15,14,10,-6,12,5,0.42,Improved
+MBR100284,margaret.roberts34@icloud.com,Margaret,Roberts,30,Female,2024-09-11,Mindfulness-Based,False,16,13,11,9,-7,12,7,0.58,Improved
+MBR100285,donald.smith2@gmail.com,Donald,Smith,25,Non-binary,2024-09-15,CBT,True,20,16,14,12,-8,9,5,0.56,Improved
+MBR100286,donna.taylor60@gmail.com,Donna,Taylor,24,Male,2024-09-01,Mindfulness-Based,True,10,7,4,0,-10,6,5,0.83,Improved
+MBR100287,karen.nelson83@yahoo.com,Karen,Nelson,39,Female,2024-09-13,Supportive,False,17,14,13,9,-8,6,6,1.0,Improved
+MBR100288,jacob.moore50@hotmail.com,Jacob,Moore,69,Female,2024-09-30,CBT,False,20,18,17,14,-6,6,6,1.0,Improved
+MBR100289,nicole.walker73@hotmail.com,Nicole,Walker,29,Non-binary,2024-09-15,Mindfulness-Based,False,16,13,12,9,-7,11,11,1.0,Improved
+MBR100290,jennifer.jones34@outlook.com,Jennifer,Jones,18,Non-binary,2024-09-22,Mindfulness-Based,False,20,18,15,13,-7,10,7,0.7,Improved
+MBR100291,frank.adams50@yahoo.com,Frank,Adams,71,Non-binary,2024-09-25,Mindfulness-Based,True,19,18,17,14,-5,11,11,1.0,Improved
+MBR100292,nicholas.lee31@outlook.com,Nicholas,Lee,35,Male,2024-09-26,DBT,False,18,16,12,7,-11,12,5,0.42,Improved
+MBR100293,emma.lewis12@hotmail.com,Emma,Lewis,46,Female,2024-09-27,Mindfulness-Based,True,11,7,6,4,-7,10,10,1.0,Improved
+MBR100294,susan.hill80@outlook.com,Susan,Hill,74,Non-binary,2024-09-11,Supportive,False,18,16,12,8,-10,7,4,0.57,Improved
+MBR100295,pamela.roberts80@icloud.com,Pamela,Roberts,48,Non-binary,2024-09-12,CBT,False,20,17,13,11,-9,7,7,1.0,Improved
+MBR100296,katherine.jackson71@icloud.com,Katherine,Jackson,41,Non-binary,2024-09-20,DBT,False,11,10,8,3,-8,10,10,1.0,Improved
+MBR100297,margaret.gonzalez16@hotmail.com,Margaret,Gonzalez,31,Female,2024-09-22,CBT,False,13,10,9,4,-9,12,5,0.42,Improved
+MBR100298,nicole.allen18@hotmail.com,Nicole,Allen,18,Non-binary,2024-09-22,DBT,False,10,6,2,0,-10,6,6,1.0,Improved
+MBR100299,brandon.hill42@icloud.com,Brandon,Hill,74,Female,2024-09-05,Supportive,True,16,14,11,6,-10,11,8,0.73,Improved
+MBR100300,jason.hill90@icloud.com,Jason,Hill,37,Non-binary,2024-09-23,DBT,True,18,15,13,10,-8,10,8,0.8,Improved
+MBR100301,christine.lopez65@icloud.com,Christine,Lopez,62,Non-binary,2024-09-26,Mindfulness-Based,False,15,14,11,6,-9,12,12,1.0,Improved
+MBR100302,mary.king14@gmail.com,Mary,King,42,Male,2024-09-27,DBT,True,10,9,7,3,-7,10,8,0.8,Improved
+MBR100303,linda.hall38@yahoo.com,Linda,Hall,66,Non-binary,2024-09-17,DBT,True,10,7,3,1,-9,12,12,1.0,Improved
+MBR100304,carolyn.jackson89@gmail.com,Carolyn,Jackson,42,Female,2024-09-27,Supportive,False,16,13,12,10,-6,11,7,0.64,Improved
+MBR100305,mark.green91@outlook.com,Mark,Green,66,Non-binary,2024-09-06,Mindfulness-Based,True,18,16,14,10,-8,11,6,0.55,Improved
+MBR100306,daniel.mitchell66@gmail.com,Daniel,Mitchell,42,Male,2024-09-15,DBT,False,16,13,10,7,-9,8,8,1.0,Improved
+MBR100307,patrick.martinez6@yahoo.com,Patrick,Martinez,38,Non-binary,2024-09-17,CBT,True,10,7,3,0,-10,10,9,0.9,Improved
+MBR100308,william.allen21@hotmail.com,William,Allen,52,Non-binary,2024-09-10,DBT,False,16,15,12,9,-7,11,9,0.82,Improved
+MBR100309,sandra.carter80@icloud.com,Sandra,Carter,48,Non-binary,2024-10-01,Mindfulness-Based,True,20,19,18,14,-6,12,7,0.58,Improved
+MBR100310,jennifer.baker42@hotmail.com,Jennifer,Baker,68,Male,2024-09-02,Supportive,False,16,13,10,8,-8,12,12,1.0,Improved
+MBR100311,donna.adams25@outlook.com,Donna,Adams,50,Male,2024-09-27,DBT,False,11,9,8,6,-5,12,7,0.58,Improved
+MBR100312,jessica.wilson69@hotmail.com,Jessica,Wilson,59,Male,2024-09-02,Supportive,True,20,18,17,12,-8,5,4,0.8,Improved
+MBR100313,daniel.taylor72@gmail.com,Daniel,Taylor,54,Male,2024-09-13,Mindfulness-Based,True,14,10,6,1,-13,11,10,0.91,Improved
+MBR100314,frank.davis69@gmail.com,Frank,Davis,59,Non-binary,2024-09-26,Supportive,False,19,18,17,15,-4,12,12,1.0,Improved
+MBR100315,rachel.martin78@gmail.com,Rachel,Martin,36,Female,2024-09-24,DBT,True,16,12,11,6,-10,12,12,1.0,Improved
+MBR100316,edward.wright38@yahoo.com,Edward,Wright,37,Non-binary,2024-09-18,CBT,False,20,17,16,13,-7,4,4,1.0,Improved
+MBR100317,larry.garcia40@yahoo.com,Larry,Garcia,65,Non-binary,2024-09-07,DBT,False,15,13,9,6,-9,7,6,0.86,Improved
+MBR100318,joseph.lopez86@icloud.com,Joseph,Lopez,72,Male,2024-09-24,CBT,True,18,14,13,9,-9,8,8,1.0,Improved
+MBR100319,scott.young43@outlook.com,Scott,Young,26,Non-binary,2024-09-15,CBT,False,20,18,17,13,-7,9,7,0.78,Improved
+MBR100320,brian.flores85@outlook.com,Brian,Flores,62,Non-binary,2024-09-26,DBT,True,12,9,6,1,-11,9,4,0.44,Improved
+MBR100321,mark.rivera95@hotmail.com,Mark,Rivera,35,Female,2024-09-18,Mindfulness-Based,False,12,9,5,0,-12,11,9,0.82,Improved
+MBR100322,jessica.lopez83@icloud.com,Jessica,Lopez,23,Female,2024-09-27,CBT,True,12,10,7,5,-7,12,4,0.33,Improved
+MBR100323,scott.nguyen52@icloud.com,Scott,Nguyen,31,Male,2024-09-05,Supportive,False,18,15,11,8,-10,10,10,1.0,Improved
+MBR100324,kathleen.allen66@gmail.com,Kathleen,Allen,43,Female,2024-09-19,DBT,True,18,17,15,12,-6,11,11,1.0,Improved
+MBR100325,justin.nelson19@hotmail.com,Justin,Nelson,40,Male,2024-09-22,Supportive,True,13,9,7,5,-8,10,9,0.9,Improved
+MBR100326,anthony.king47@hotmail.com,Anthony,King,48,Female,2024-09-13,Supportive,True,10,9,6,4,-6,12,8,0.67,Improved
+MBR100327,christine.harris47@icloud.com,Christine,Harris,59,Male,2024-09-26,Mindfulness-Based,False,18,15,11,8,-10,11,9,0.82,Improved
+MBR100328,amy.hill1@icloud.com,Amy,Hill,74,Male,2024-09-06,Supportive,True,17,15,13,11,-6,8,7,0.88,Improved
+MBR100329,timothy.hill92@gmail.com,Timothy,Hill,60,Male,2024-09-21,Mindfulness-Based,True,16,13,12,7,-9,11,11,1.0,Improved
+MBR100330,jason.johnson32@gmail.com,Jason,Johnson,26,Non-binary,2024-09-30,DBT,False,19,17,15,13,-6,6,4,0.67,Improved
+MBR100331,betty.king52@icloud.com,Betty,King,54,Non-binary,2024-09-08,Mindfulness-Based,True,10,7,6,3,-7,12,11,0.92,Improved
+MBR100332,jason.hill19@icloud.com,Jason,Hill,70,Male,2024-09-13,Mindfulness-Based,False,19,16,14,10,-9,8,5,0.62,Improved
+MBR100333,thomas.miller3@yahoo.com,Thomas,Miller,51,Non-binary,2024-09-03,DBT,True,20,16,14,12,-8,11,11,1.0,Improved
+MBR100334,amy.nelson17@icloud.com,Amy,Nelson,52,Male,2024-10-01,CBT,True,20,16,12,8,-12,12,12,1.0,Improved
+MBR100335,amy.roberts49@outlook.com,Amy,Roberts,55,Non-binary,2024-09-10,Supportive,True,19,18,14,11,-8,11,11,1.0,Improved
+MBR100336,brandon.wright53@outlook.com,Brandon,Wright,30,Male,2024-09-04,DBT,False,10,9,8,3,-7,12,9,0.75,Improved
+MBR100337,lisa.ramirez84@icloud.com,Lisa,Ramirez,34,Female,2024-09-06,Mindfulness-Based,False,18,14,11,7,-11,10,7,0.7,Improved
+MBR100338,deborah.scott72@hotmail.com,Deborah,Scott,34,Female,2024-09-04,CBT,True,19,16,12,9,-10,10,7,0.7,Improved
+MBR100339,sandra.allen52@outlook.com,Sandra,Allen,69,Non-binary,2024-09-30,CBT,False,19,18,16,11,-8,7,5,0.71,Improved
+MBR100340,brandon.ramirez12@gmail.com,Brandon,Ramirez,34,Male,2024-10-01,Mindfulness-Based,True,15,14,13,8,-7,12,12,1.0,Improved
+MBR100341,daniel.green64@hotmail.com,Daniel,Green,18,Male,2024-09-12,DBT,True,20,17,15,13,-7,11,6,0.55,Improved
+MBR100342,donald.adams1@yahoo.com,Donald,Adams,23,Female,2024-09-30,DBT,True,16,13,9,4,-12,12,12,1.0,Improved
+MBR100343,susan.scott37@icloud.com,Susan,Scott,55,Female,2024-09-09,Mindfulness-Based,True,15,12,10,7,-8,12,10,0.83,Improved
+MBR100344,daniel.clark65@gmail.com,Daniel,Clark,53,Male,2024-10-01,Supportive,False,18,15,12,10,-8,12,12,1.0,Improved
+MBR100345,ronald.torres62@yahoo.com,Ronald,Torres,66,Female,2024-09-21,CBT,False,17,13,12,7,-10,8,8,1.0,Improved
+MBR100346,mark.baker90@yahoo.com,Mark,Baker,69,Female,2024-09-22,DBT,False,16,13,12,8,-8,8,8,1.0,Improved
+MBR100347,maria.perez10@icloud.com,Maria,Perez,29,Female,2024-09-08,DBT,True,15,12,10,6,-9,10,7,0.7,Improved
+MBR100348,jack.thomas34@yahoo.com,Jack,Thomas,32,Male,2024-09-25,CBT,True,13,10,8,6,-7,12,5,0.42,Improved
+MBR100349,brenda.williams62@outlook.com,Brenda,Williams,57,Female,2024-09-02,Supportive,True,17,14,10,7,-10,10,10,1.0,Improved
+MBR100350,anna.ramirez62@icloud.com,Anna,Ramirez,20,Non-binary,2024-09-23,CBT,False,15,11,9,4,-11,12,12,1.0,Improved
+MBR100351,mary.smith87@yahoo.com,Mary,Smith,42,Non-binary,2024-09-09,DBT,True,11,8,5,1,-10,12,12,1.0,Improved
+MBR100352,gary.flores44@outlook.com,Gary,Flores,29,Female,2024-09-06,Supportive,False,16,14,10,6,-10,11,10,0.91,Improved
+MBR100353,emma.rodriguez74@yahoo.com,Emma,Rodriguez,70,Male,2024-09-16,DBT,True,14,12,8,3,-11,12,6,0.5,Improved
+MBR100354,mary.lopez54@hotmail.com,Mary,Lopez,26,Non-binary,2024-09-04,Supportive,False,18,15,11,7,-11,12,12,1.0,Improved
+MBR100355,alexander.hernandez8@yahoo.com,Alexander,Hernandez,70,Female,2024-09-12,Supportive,False,17,16,12,8,-9,11,9,0.82,Improved
+MBR100356,john.clark16@outlook.com,John,Clark,73,Non-binary,2024-09-29,Supportive,False,19,17,15,11,-8,12,9,0.75,Improved
+MBR100357,david.harris79@outlook.com,David,Harris,47,Non-binary,2024-09-11,Mindfulness-Based,True,12,10,7,2,-10,6,5,0.83,Improved
+MBR100358,ashley.lee41@outlook.com,Ashley,Lee,63,Female,2024-09-06,Supportive,False,19,15,12,7,-12,12,12,1.0,Improved
+MBR100359,betty.johnson17@yahoo.com,Betty,Johnson,60,Female,2024-09-18,CBT,False,11,9,7,2,-9,6,5,0.83,Improved
+MBR100360,michael.johnson99@hotmail.com,Michael,Johnson,51,Male,2024-09-24,Mindfulness-Based,True,11,8,6,4,-7,9,8,0.89,Improved
+MBR100361,andrew.lewis81@yahoo.com,Andrew,Lewis,26,Non-binary,2024-09-18,Supportive,False,12,11,10,6,-6,12,11,0.92,Improved
+MBR100362,ryan.rodriguez90@icloud.com,Ryan,Rodriguez,29,Non-binary,2024-09-15,Supportive,True,19,15,11,7,-12,11,11,1.0,Improved
+MBR100363,michelle.white53@outlook.com,Michelle,White,27,Female,2024-10-01,Supportive,False,10,9,7,3,-7,11,11,1.0,Improved
+MBR100364,amy.martin2@hotmail.com,Amy,Martin,69,Female,2024-09-13,DBT,False,19,17,16,12,-7,12,10,0.83,Improved
+MBR100365,dorothy.hernandez92@hotmail.com,Dorothy,Hernandez,71,Female,2024-09-21,DBT,False,13,10,9,4,-9,12,12,1.0,Improved
+MBR100366,maria.wright35@hotmail.com,Maria,Wright,30,Male,2024-09-07,Mindfulness-Based,False,12,10,7,5,-7,12,11,0.92,Improved
+MBR100367,carol.johnson20@gmail.com,Carol,Johnson,52,Male,2024-09-03,DBT,True,12,11,8,4,-8,11,11,1.0,Improved
+MBR100368,lisa.smith64@yahoo.com,Lisa,Smith,39,Female,2024-09-02,CBT,True,14,10,7,2,-12,9,9,1.0,Improved
+MBR100369,paul.roberts51@gmail.com,Paul,Roberts,52,Female,2024-09-25,CBT,False,12,10,7,2,-10,8,5,0.62,Improved
+MBR100370,ryan.thomas95@gmail.com,Ryan,Thomas,30,Female,2024-09-24,Supportive,True,11,9,5,0,-11,10,9,0.9,Improved
+MBR100371,larry.king16@outlook.com,Larry,King,48,Non-binary,2024-09-11,DBT,False,14,12,9,7,-7,8,5,0.62,Improved
+MBR100372,mary.hernandez36@icloud.com,Mary,Hernandez,25,Female,2024-09-06,DBT,True,13,12,11,6,-7,9,9,1.0,Improved
+MBR100373,angela.garcia88@icloud.com,Angela,Garcia,39,Non-binary,2024-09-11,CBT,True,10,9,6,3,-7,9,6,0.67,Improved
+MBR100374,pamela.adams97@outlook.com,Pamela,Adams,69,Female,2024-09-23,DBT,False,13,12,8,4,-9,8,8,1.0,Improved
+MBR100375,ryan.scott38@icloud.com,Ryan,Scott,62,Female,2024-09-03,Mindfulness-Based,True,13,11,8,4,-9,12,8,0.67,Improved
+MBR100376,anna.martinez58@outlook.com,Anna,Martinez,70,Female,2024-09-25,Mindfulness-Based,False,18,15,11,9,-9,6,6,1.0,Improved
+MBR100377,samantha.thomas42@gmail.com,Samantha,Thomas,60,Non-binary,2024-09-04,Supportive,False,16,14,10,7,-9,12,9,0.75,Improved
+MBR100378,richard.king85@gmail.com,Richard,King,20,Male,2024-09-19,Mindfulness-Based,True,12,11,9,7,-5,7,7,1.0,Improved
+MBR100379,raymond.harris85@hotmail.com,Raymond,Harris,51,Non-binary,2024-09-21,DBT,True,19,16,15,11,-8,5,5,1.0,Improved
+MBR100380,nicholas.garcia60@gmail.com,Nicholas,Garcia,41,Non-binary,2024-10-01,CBT,True,16,13,12,8,-8,9,5,0.56,Improved
+MBR100381,sandra.king13@gmail.com,Sandra,King,64,Male,2024-09-24,DBT,False,18,14,12,9,-9,10,6,0.6,Improved
+MBR100382,jessica.roberts82@icloud.com,Jessica,Roberts,40,Non-binary,2024-09-22,DBT,False,17,13,12,9,-8,12,12,1.0,Improved
+MBR100383,christopher.wright77@hotmail.com,Christopher,Wright,40,Female,2024-09-13,Mindfulness-Based,True,18,15,12,7,-11,10,9,0.9,Improved
+MBR100384,larry.mitchell33@outlook.com,Larry,Mitchell,46,Female,2024-09-01,CBT,False,16,15,14,10,-6,12,12,1.0,Improved
+MBR100385,joshua.anderson28@outlook.com,Joshua,Anderson,19,Non-binary,2024-09-09,Mindfulness-Based,True,14,12,11,9,-5,10,9,0.9,Improved
+MBR100386,timothy.nguyen32@yahoo.com,Timothy,Nguyen,34,Female,2024-09-27,Supportive,False,11,7,5,3,-8,11,11,1.0,Improved
+MBR100387,alexander.hall74@gmail.com,Alexander,Hall,56,Non-binary,2024-09-14,CBT,False,14,13,9,7,-7,11,9,0.82,Improved
+MBR100388,sarah.roberts30@icloud.com,Sarah,Roberts,18,Non-binary,2024-09-17,CBT,False,20,16,15,11,-9,10,9,0.9,Improved
+MBR100389,carolyn.anderson20@gmail.com,Carolyn,Anderson,61,Non-binary,2024-09-05,Mindfulness-Based,True,16,12,11,8,-8,11,8,0.73,Improved
+MBR100390,amanda.garcia61@icloud.com,Amanda,Garcia,65,Male,2024-09-25,Mindfulness-Based,True,18,14,11,9,-9,12,12,1.0,Improved
+MBR100391,karen.walker72@yahoo.com,Karen,Walker,49,Female,2024-09-22,CBT,False,20,18,16,13,-7,11,8,0.73,Improved
+MBR100392,emma.garcia15@hotmail.com,Emma,Garcia,45,Female,2024-09-20,CBT,False,15,13,10,6,-9,9,8,0.89,Improved
+MBR100393,ryan.flores19@hotmail.com,Ryan,Flores,20,Male,2024-09-28,CBT,True,13,10,8,6,-7,7,4,0.57,Improved
+MBR100394,andrew.smith44@gmail.com,Andrew,Smith,37,Female,2024-09-18,DBT,False,17,16,13,10,-7,11,7,0.64,Improved
+MBR100395,amy.flores94@yahoo.com,Amy,Flores,62,Non-binary,2024-09-07,Supportive,False,20,19,15,13,-7,6,6,1.0,Improved
+MBR100396,carolyn.flores35@gmail.com,Carolyn,Flores,47,Non-binary,2024-09-28,Supportive,False,10,9,5,1,-9,5,5,1.0,Improved
+MBR100397,christine.harris30@hotmail.com,Christine,Harris,50,Non-binary,2024-09-18,DBT,False,11,8,4,2,-9,11,7,0.64,Improved
+MBR100398,janet.johnson6@yahoo.com,Janet,Johnson,51,Female,2024-09-21,CBT,False,15,11,7,4,-11,11,9,0.82,Improved
+MBR100399,joshua.thomas65@outlook.com,Joshua,Thomas,69,Male,2024-09-29,Supportive,False,20,17,13,11,-9,8,7,0.88,Improved
+MBR100400,edward.nelson18@gmail.com,Edward,Nelson,64,Female,2024-09-15,DBT,False,18,16,12,9,-9,11,10,0.91,Improved
+MBR100401,brenda.rodriguez27@yahoo.com,Brenda,Rodriguez,55,Non-binary,2024-09-11,DBT,True,20,18,16,12,-8,10,10,1.0,Improved
+MBR100402,william.scott69@gmail.com,William,Scott,29,Female,2024-09-05,Mindfulness-Based,False,12,11,8,3,-9,11,8,0.73,Improved
+MBR100403,matthew.miller17@yahoo.com,Matthew,Miller,19,Non-binary,2024-09-23,DBT,True,19,16,14,11,-8,9,4,0.44,Improved
+MBR100404,amy.rodriguez65@icloud.com,Amy,Rodriguez,48,Non-binary,2024-09-07,Mindfulness-Based,True,20,17,15,10,-10,11,11,1.0,Improved
+MBR100405,mark.williams53@gmail.com,Mark,Williams,35,Female,2024-09-28,DBT,False,13,11,9,7,-6,12,11,0.92,Improved
+MBR100406,jacob.thomas55@hotmail.com,Jacob,Thomas,67,Male,2024-09-15,CBT,False,19,15,12,7,-12,12,12,1.0,Improved
+MBR100407,jennifer.thomas67@icloud.com,Jennifer,Thomas,43,Non-binary,2024-09-25,Supportive,False,10,6,5,2,-8,12,11,0.92,Improved
+MBR100408,andrew.robinson22@hotmail.com,Andrew,Robinson,36,Non-binary,2024-09-25,CBT,True,10,8,4,0,-10,12,12,1.0,Improved
+MBR100409,scott.hall70@yahoo.com,Scott,Hall,43,Female,2024-09-09,Mindfulness-Based,True,15,11,10,7,-8,10,7,0.7,Improved
+MBR100410,carol.hall84@yahoo.com,Carol,Hall,63,Non-binary,2024-09-13,Supportive,True,11,10,9,4,-7,11,5,0.45,Improved
+MBR100411,larry.harris6@yahoo.com,Larry,Harris,39,Non-binary,2024-09-10,DBT,False,20,18,16,13,-7,10,4,0.4,Improved
+MBR100412,catherine.roberts58@outlook.com,Catherine,Roberts,58,Male,2024-09-28,Supportive,False,11,9,7,5,-6,11,4,0.36,Improved
+MBR100413,angela.wright1@icloud.com,Angela,Wright,74,Female,2024-09-08,Mindfulness-Based,True,13,11,7,2,-11,11,11,1.0,Improved
+MBR100414,larry.moore80@icloud.com,Larry,Moore,70,Male,2024-09-22,Supportive,True,10,8,6,4,-6,6,4,0.67,Improved
+MBR100415,emma.hill39@outlook.com,Emma,Hill,23,Male,2024-09-24,Supportive,False,11,7,5,2,-9,12,12,1.0,Improved
+MBR100416,scott.white5@gmail.com,Scott,White,67,Female,2024-09-16,Mindfulness-Based,False,15,12,8,6,-9,12,12,1.0,Improved
+MBR100417,karen.davis89@outlook.com,Karen,Davis,39,Non-binary,2024-09-24,CBT,False,16,14,12,10,-6,12,12,1.0,Improved
+MBR100418,alexander.hill91@outlook.com,Alexander,Hill,45,Non-binary,2024-09-26,Mindfulness-Based,False,15,12,9,6,-9,12,12,1.0,Improved
+MBR100419,betty.flores30@outlook.com,Betty,Flores,30,Male,2024-09-11,DBT,True,11,10,6,4,-7,11,10,0.91,Improved
+MBR100420,george.scott82@yahoo.com,George,Scott,18,Non-binary,2024-09-25,Supportive,False,13,10,7,5,-8,12,8,0.67,Improved
+MBR100421,james.davis88@outlook.com,James,Davis,39,Female,2024-09-26,Supportive,False,19,18,16,13,-6,12,9,0.75,Improved
+MBR100422,robert.adams18@hotmail.com,Robert,Adams,27,Non-binary,2024-09-18,CBT,False,17,14,10,5,-12,12,12,1.0,Improved
+MBR100423,stephen.johnson27@icloud.com,Stephen,Johnson,61,Female,2024-09-19,CBT,True,15,14,12,8,-7,12,9,0.75,Improved
+MBR100424,helen.harris24@icloud.com,Helen,Harris,25,Female,2024-09-15,CBT,False,15,14,11,6,-9,11,11,1.0,Improved
+MBR100425,joshua.wilson68@outlook.com,Joshua,Wilson,29,Male,2024-09-29,Mindfulness-Based,False,15,14,12,10,-5,12,12,1.0,Improved
+MBR100426,eric.martinez25@outlook.com,Eric,Martinez,48,Non-binary,2024-09-24,CBT,True,18,15,12,9,-9,12,12,1.0,Improved
+MBR100427,robert.robinson50@icloud.com,Robert,Robinson,25,Male,2024-09-01,Mindfulness-Based,False,14,13,12,8,-6,5,4,0.8,Improved
+MBR100428,emma.carter40@yahoo.com,Emma,Carter,38,Male,2024-09-06,Mindfulness-Based,True,13,10,7,3,-10,9,5,0.56,Improved
+MBR100429,emily.davis2@icloud.com,Emily,Davis,53,Non-binary,2024-09-19,Supportive,False,11,9,6,2,-9,11,6,0.55,Improved
+MBR100430,dorothy.hernandez10@outlook.com,Dorothy,Hernandez,57,Female,2024-09-13,CBT,True,18,14,13,10,-8,11,11,1.0,Improved
+MBR100431,michael.garcia55@hotmail.com,Michael,Garcia,29,Non-binary,2024-09-30,Supportive,True,19,15,12,8,-11,12,7,0.58,Improved
+MBR100432,kathleen.torres17@gmail.com,Kathleen,Torres,70,Non-binary,2024-09-05,Mindfulness-Based,True,17,16,12,8,-9,11,11,1.0,Improved
+MBR100433,benjamin.taylor47@hotmail.com,Benjamin,Taylor,29,Non-binary,2024-09-04,Mindfulness-Based,False,20,17,14,9,-11,5,4,0.8,Improved
+MBR100434,george.walker60@yahoo.com,George,Walker,36,Female,2024-09-18,CBT,False,19,17,16,11,-8,9,9,1.0,Improved
+MBR100435,kathleen.sanchez76@hotmail.com,Kathleen,Sanchez,33,Non-binary,2024-09-26,CBT,False,13,11,7,2,-11,10,9,0.9,Improved
+MBR100436,laura.torres44@icloud.com,Laura,Torres,62,Male,2024-09-06,Mindfulness-Based,False,12,11,7,5,-7,9,9,1.0,Improved
+MBR100437,michelle.sanchez9@icloud.com,Michelle,Sanchez,24,Non-binary,2024-09-29,CBT,True,19,15,12,7,-12,8,5,0.62,Improved
+MBR100438,scott.carter82@gmail.com,Scott,Carter,66,Male,2024-09-22,Mindfulness-Based,True,20,18,14,10,-10,11,11,1.0,Improved
+MBR100439,kevin.martin73@outlook.com,Kevin,Martin,45,Non-binary,2024-09-29,DBT,False,15,14,13,8,-7,8,8,1.0,Improved
+MBR100440,larry.brown1@icloud.com,Larry,Brown,70,Female,2024-09-23,Mindfulness-Based,False,11,8,7,4,-7,12,10,0.83,Improved
+MBR100441,ronald.sanchez49@hotmail.com,Ronald,Sanchez,52,Male,2024-09-27,DBT,False,20,18,14,11,-9,12,12,1.0,Improved
+MBR100442,sharon.martinez37@yahoo.com,Sharon,Martinez,26,Male,2024-09-21,Mindfulness-Based,True,11,10,8,3,-8,6,6,1.0,Improved
+MBR100443,sharon.robinson90@icloud.com,Sharon,Robinson,45,Non-binary,2024-09-14,Mindfulness-Based,True,12,8,4,0,-12,10,9,0.9,Improved
+MBR100444,helen.smith74@hotmail.com,Helen,Smith,72,Non-binary,2024-09-04,CBT,False,13,10,6,2,-11,11,4,0.36,Improved
+MBR100445,scott.walker89@gmail.com,Scott,Walker,27,Non-binary,2024-09-22,CBT,True,18,15,11,9,-9,10,7,0.7,Improved
+MBR100446,katherine.wright75@outlook.com,Katherine,Wright,57,Male,2024-10-01,Mindfulness-Based,False,15,14,10,5,-10,12,9,0.75,Improved
+MBR100447,donna.jackson22@gmail.com,Donna,Jackson,62,Non-binary,2024-09-10,DBT,True,14,11,10,5,-9,8,4,0.5,Improved
+MBR100448,nicholas.garcia17@icloud.com,Nicholas,Garcia,22,Female,2024-09-30,Supportive,True,14,12,9,5,-9,5,4,0.8,Improved
+MBR100449,nicole.mitchell20@hotmail.com,Nicole,Mitchell,41,Male,2024-09-20,CBT,True,14,12,8,5,-9,9,9,1.0,Improved
+MBR100450,lisa.young97@hotmail.com,Lisa,Young,67,Female,2024-09-02,Supportive,True,13,9,7,4,-9,8,4,0.5,Improved
+MBR100451,nancy.robinson52@hotmail.com,Nancy,Robinson,37,Female,2024-09-01,Mindfulness-Based,False,18,16,12,7,-11,9,8,0.89,Improved
+MBR100452,andrew.lewis49@outlook.com,Andrew,Lewis,51,Non-binary,2024-09-26,Supportive,False,10,9,6,1,-9,11,9,0.82,Improved
+MBR100453,richard.taylor84@icloud.com,Richard,Taylor,43,Female,2024-09-27,DBT,True,20,18,16,12,-8,9,9,1.0,Improved
+MBR100454,william.smith53@gmail.com,William,Smith,51,Male,2024-09-01,Supportive,True,20,16,13,10,-10,9,8,0.89,Improved
+MBR100455,samantha.garcia8@icloud.com,Samantha,Garcia,60,Male,2024-09-29,DBT,True,19,18,17,15,-4,12,10,0.83,Improved
+MBR100456,joseph.hall24@outlook.com,Joseph,Hall,36,Female,2024-09-25,Mindfulness-Based,True,20,19,15,11,-9,11,9,0.82,Improved
+MBR100457,barbara.moore8@hotmail.com,Barbara,Moore,42,Female,2024-09-20,Mindfulness-Based,True,10,7,4,1,-9,12,5,0.42,Improved
+MBR100458,edward.lopez83@hotmail.com,Edward,Lopez,24,Male,2024-09-03,Mindfulness-Based,True,18,14,12,10,-8,8,8,1.0,Improved
+MBR100459,barbara.torres94@outlook.com,Barbara,Torres,67,Female,2024-09-23,CBT,True,10,6,4,2,-8,11,10,0.91,Improved
+MBR100460,brian.sanchez74@gmail.com,Brian,Sanchez,50,Non-binary,2024-09-13,CBT,True,17,13,9,4,-13,12,12,1.0,Improved
+MBR100461,alexander.roberts62@gmail.com,Alexander,Roberts,54,Non-binary,2024-09-03,CBT,False,15,12,9,4,-11,10,5,0.5,Improved
+MBR100462,jacob.carter99@outlook.com,Jacob,Carter,59,Male,2024-09-16,Supportive,False,12,11,7,4,-8,10,10,1.0,Improved
+MBR100463,david.green57@yahoo.com,David,Green,26,Male,2024-09-18,Mindfulness-Based,False,13,12,10,5,-8,9,5,0.56,Improved
+MBR100464,cynthia.johnson5@outlook.com,Cynthia,Johnson,21,Female,2024-09-30,Mindfulness-Based,True,10,6,5,2,-8,12,12,1.0,Improved
+MBR100465,barbara.williams95@yahoo.com,Barbara,Williams,49,Non-binary,2024-09-29,DBT,True,10,6,5,2,-8,6,4,0.67,Improved
+MBR100466,michelle.miller59@icloud.com,Michelle,Miller,28,Non-binary,2024-09-11,DBT,False,11,10,9,4,-7,8,5,0.62,Improved
+MBR100467,jack.baker52@outlook.com,Jack,Baker,25,Non-binary,2024-09-04,CBT,True,19,17,14,11,-8,8,6,0.75,Improved
+MBR100468,emily.martinez97@hotmail.com,Emily,Martinez,28,Non-binary,2024-09-25,CBT,False,15,13,9,6,-9,6,6,1.0,Improved
+MBR100469,christopher.johnson63@gmail.com,Christopher,Johnson,18,Male,2024-09-21,Mindfulness-Based,True,12,11,8,3,-9,7,6,0.86,Improved
+MBR100470,paul.king58@hotmail.com,Paul,King,33,Male,2024-09-01,CBT,False,19,18,16,11,-8,10,8,0.8,Improved
+MBR100471,pamela.thomas25@gmail.com,Pamela,Thomas,51,Male,2024-09-04,DBT,True,19,16,14,9,-10,8,8,1.0,Improved
+MBR100472,lisa.baker61@hotmail.com,Lisa,Baker,29,Male,2024-09-11,Supportive,False,20,19,18,14,-6,10,7,0.7,Improved
+MBR100473,benjamin.carter59@gmail.com,Benjamin,Carter,24,Non-binary,2024-09-29,Mindfulness-Based,True,10,8,6,4,-6,12,12,1.0,Improved
+MBR100474,donald.campbell57@icloud.com,Donald,Campbell,55,Female,2024-09-08,CBT,True,16,14,11,8,-8,10,9,0.9,Improved
+MBR100475,jack.clark26@hotmail.com,Jack,Clark,75,Male,2024-09-06,Mindfulness-Based,False,11,7,3,1,-10,7,6,0.86,Improved
+MBR100476,stephanie.white18@hotmail.com,Stephanie,White,64,Male,2024-09-09,Supportive,True,20,17,14,11,-9,6,6,1.0,Improved
+MBR100477,karen.davis60@hotmail.com,Karen,Davis,44,Male,2024-09-14,DBT,True,15,13,10,7,-8,12,12,1.0,Improved
+MBR100478,jonathan.young28@icloud.com,Jonathan,Young,48,Female,2024-09-29,DBT,True,14,13,9,6,-8,12,9,0.75,Improved
+MBR100479,nicole.martinez74@gmail.com,Nicole,Martinez,44,Male,2024-09-16,Mindfulness-Based,False,10,6,5,0,-10,11,11,1.0,Improved
+MBR100480,donald.garcia72@gmail.com,Donald,Garcia,62,Non-binary,2024-09-01,Supportive,True,16,14,12,8,-8,12,7,0.58,Improved
+MBR100481,amy.nelson40@yahoo.com,Amy,Nelson,63,Female,2024-09-21,DBT,False,19,18,14,9,-10,10,10,1.0,Improved
+MBR100482,kathleen.rivera82@gmail.com,Kathleen,Rivera,73,Non-binary,2024-09-26,Supportive,True,11,7,4,2,-9,11,10,0.91,Improved
+MBR100483,rachel.garcia80@outlook.com,Rachel,Garcia,65,Male,2024-09-12,Mindfulness-Based,True,18,15,14,12,-6,12,9,0.75,Improved
+MBR100484,timothy.lopez83@icloud.com,Timothy,Lopez,63,Male,2024-09-24,DBT,False,18,16,14,10,-8,12,12,1.0,Improved
+MBR100485,scott.hall27@yahoo.com,Scott,Hall,38,Female,2024-09-16,CBT,False,14,10,7,5,-9,11,9,0.82,Improved
+MBR100486,eric.king16@hotmail.com,Eric,King,63,Non-binary,2024-09-03,CBT,True,20,17,13,9,-11,10,7,0.7,Improved
+MBR100487,edward.lopez37@gmail.com,Edward,Lopez,24,Male,2024-09-10,DBT,True,14,13,11,6,-8,11,7,0.64,Improved
+MBR100488,sharon.baker70@yahoo.com,Sharon,Baker,48,Female,2024-09-27,DBT,True,16,12,11,7,-9,5,5,1.0,Improved
+MBR100489,jonathan.adams43@hotmail.com,Jonathan,Adams,55,Female,2024-09-29,Mindfulness-Based,True,20,17,13,8,-12,12,8,0.67,Improved
+MBR100490,michelle.hernandez34@yahoo.com,Michelle,Hernandez,48,Female,2024-09-23,Supportive,True,14,13,11,7,-7,11,11,1.0,Improved
+MBR100491,stephen.jackson24@yahoo.com,Stephen,Jackson,71,Non-binary,2024-09-15,CBT,True,20,18,16,13,-7,9,4,0.44,Improved
+MBR100492,kimberly.white24@yahoo.com,Kimberly,White,53,Non-binary,2024-09-04,Supportive,False,10,7,4,1,-9,11,11,1.0,Improved
+MBR100493,patricia.sanchez64@yahoo.com,Patricia,Sanchez,47,Female,2024-09-26,Mindfulness-Based,True,12,11,8,4,-8,12,8,0.67,Improved
+MBR100494,justin.campbell57@outlook.com,Justin,Campbell,62,Male,2024-09-15,Supportive,True,17,16,14,12,-5,10,4,0.4,Improved
+MBR100495,melissa.garcia42@gmail.com,Melissa,Garcia,56,Non-binary,2024-09-17,CBT,True,13,11,8,5,-8,12,5,0.42,Improved
+MBR100496,edward.gonzalez63@outlook.com,Edward,Gonzalez,56,Non-binary,2024-09-12,DBT,False,18,17,14,9,-9,11,10,0.91,Improved
+MBR100497,mary.jackson45@outlook.com,Mary,Jackson,37,Female,2024-09-26,Mindfulness-Based,True,18,17,15,10,-8,12,11,0.92,Improved
+MBR100498,catherine.ramirez94@hotmail.com,Catherine,Ramirez,26,Non-binary,2024-09-30,Supportive,True,19,18,16,13,-6,12,11,0.92,Improved
+MBR100499,nicole.carter49@gmail.com,Nicole,Carter,18,Female,2024-09-27,Mindfulness-Based,True,20,17,13,10,-10,7,6,0.86,Improved
+MBR100500,ronald.jackson71@hotmail.com,Ronald,Jackson,20,Female,2024-09-05,Mindfulness-Based,True,19,19,21,24,5,4,4,1.0,Not Improved
+MBR100501,kimberly.martin82@hotmail.com,Kimberly,Martin,25,Non-binary,2024-09-25,Mindfulness-Based,True,20,20,22,22,2,4,4,1.0,Not Improved
+MBR100502,emily.young9@icloud.com,Emily,Young,65,Female,2024-09-17,Supportive,False,19,20,23,25,6,8,8,1.0,Not Improved
+MBR100503,catherine.torres3@outlook.com,Catherine,Torres,28,Non-binary,2024-09-09,DBT,True,10,9,10,12,2,7,6,0.86,Not Improved
+MBR100504,timothy.clark82@outlook.com,Timothy,Clark,21,Female,2024-09-18,DBT,True,14,16,15,18,4,4,3,0.75,Not Improved
+MBR100505,carol.lee88@outlook.com,Carol,Lee,35,Non-binary,2024-09-17,Supportive,True,15,13,16,19,4,3,3,1.0,Not Improved
+MBR100506,andrew.white63@hotmail.com,Andrew,White,39,Male,2024-09-14,DBT,True,11,10,10,13,2,12,4,0.33,Not Improved
+MBR100507,jacob.jones15@yahoo.com,Jacob,Jones,19,Female,2024-09-01,Mindfulness-Based,False,15,15,16,16,1,7,6,0.86,Not Improved
+MBR100508,maria.davis29@yahoo.com,Maria,Davis,72,Non-binary,2024-09-14,DBT,True,12,15,15,16,4,6,4,0.67,Not Improved
+MBR100509,alexander.carter15@gmail.com,Alexander,Carter,19,Female,2024-09-30,CBT,True,16,14,14,13,-3,8,1,0.12,Not Improved
+MBR100510,steven.williams9@outlook.com,Steven,Williams,60,Male,2024-09-03,DBT,True,11,9,12,12,1,8,3,0.38,Not Improved
+MBR100511,charles.mitchell36@icloud.com,Charles,Mitchell,40,Female,2024-09-17,CBT,True,12,14,17,17,5,11,2,0.18,Not Improved
+MBR100512,sandra.rivera25@outlook.com,Sandra,Rivera,28,Non-binary,2024-09-15,Mindfulness-Based,True,10,13,12,12,2,11,6,0.55,Not Improved
+MBR100513,frank.miller24@outlook.com,Frank,Miller,42,Female,2024-09-04,CBT,False,13,15,15,17,4,6,6,1.0,Not Improved
+MBR100514,jonathan.rodriguez64@outlook.com,Jonathan,Rodriguez,63,Female,2024-09-10,Supportive,False,18,21,20,19,1,8,8,1.0,Not Improved
+MBR100515,jacob.hill95@outlook.com,Jacob,Hill,61,Female,2024-10-01,Mindfulness-Based,False,13,15,17,18,5,5,4,0.8,Not Improved
+MBR100516,frank.white23@gmail.com,Frank,White,61,Female,2024-09-13,CBT,False,20,18,20,22,2,4,2,0.5,Not Improved
+MBR100517,alexander.nguyen14@yahoo.com,Alexander,Nguyen,22,Female,2024-09-24,Mindfulness-Based,False,13,13,13,16,3,5,2,0.4,Not Improved
+MBR100518,angela.moore98@icloud.com,Angela,Moore,55,Female,2024-09-05,Mindfulness-Based,False,20,21,22,24,4,12,8,0.67,Not Improved
+MBR100519,jacob.miller16@outlook.com,Jacob,Miller,49,Female,2024-09-22,CBT,False,13,16,16,15,2,2,1,0.5,Not Improved
+MBR100520,patricia.lopez49@icloud.com,Patricia,Lopez,61,Female,2024-09-26,CBT,False,12,12,15,18,6,12,2,0.17,Not Improved
+MBR100521,kathleen.gonzalez38@hotmail.com,Kathleen,Gonzalez,49,Non-binary,2024-09-13,CBT,True,14,16,17,20,6,7,1,0.14,Not Improved
+MBR100522,cynthia.lee49@hotmail.com,Cynthia,Lee,47,Male,2024-09-05,Supportive,False,10,9,12,16,6,10,3,0.3,Not Improved
+MBR100523,michelle.rivera50@hotmail.com,Michelle,Rivera,66,Male,2024-09-17,Mindfulness-Based,True,19,22,24,27,8,12,8,0.67,Not Improved
+MBR100524,linda.sanchez34@hotmail.com,Linda,Sanchez,55,Female,2024-09-05,Supportive,True,19,22,23,24,5,1,1,1.0,Not Improved
+MBR100525,timothy.thompson95@icloud.com,Timothy,Thompson,19,Non-binary,2024-09-02,Supportive,False,15,16,15,17,2,9,6,0.67,Not Improved
+MBR100526,gregory.thomas32@yahoo.com,Gregory,Thomas,59,Female,2024-09-18,CBT,True,19,17,16,17,-2,7,6,0.86,Not Improved
+MBR100527,carol.williams59@hotmail.com,Carol,Williams,54,Non-binary,2024-09-19,Mindfulness-Based,False,16,16,15,19,3,6,1,0.17,Not Improved
+MBR100528,stephanie.lee74@gmail.com,Stephanie,Lee,69,Female,2024-09-12,Mindfulness-Based,False,11,14,14,15,4,7,6,0.86,Not Improved
+MBR100529,laura.gonzalez64@gmail.com,Laura,Gonzalez,71,Non-binary,2024-09-23,Supportive,True,13,13,14,13,0,8,7,0.88,Not Improved
+MBR100530,scott.miller76@outlook.com,Scott,Miller,35,Male,2024-09-21,DBT,True,19,21,23,25,6,12,6,0.5,Not Improved
+MBR100531,joshua.allen39@hotmail.com,Joshua,Allen,60,Non-binary,2024-09-29,Supportive,True,15,14,16,18,3,12,8,0.67,Not Improved
+MBR100532,john.green91@icloud.com,John,Green,73,Male,2024-09-17,Mindfulness-Based,True,19,20,20,24,5,11,5,0.45,Not Improved
+MBR100533,margaret.white60@yahoo.com,Margaret,White,33,Male,2024-09-28,Supportive,True,20,20,22,24,4,12,2,0.17,Not Improved
+MBR100534,jason.moore37@yahoo.com,Jason,Moore,34,Non-binary,2024-09-08,CBT,True,19,18,20,20,1,6,3,0.5,Not Improved
+MBR100535,michelle.robinson63@icloud.com,Michelle,Robinson,45,Female,2024-09-26,Supportive,False,20,18,18,18,-2,3,3,1.0,Not Improved
+MBR100536,emily.nelson71@yahoo.com,Emily,Nelson,59,Male,2024-09-29,Supportive,False,17,15,14,13,-4,6,5,0.83,Not Improved
+MBR100537,timothy.nelson85@gmail.com,Timothy,Nelson,43,Non-binary,2024-09-08,CBT,True,12,11,10,13,1,12,5,0.42,Not Improved
+MBR100538,brandon.davis99@outlook.com,Brandon,Davis,39,Non-binary,2024-09-07,DBT,True,16,19,19,21,5,4,3,0.75,Not Improved
+MBR100539,emily.lewis53@outlook.com,Emily,Lewis,73,Non-binary,2024-09-16,CBT,False,10,11,14,15,5,10,6,0.6,Not Improved
+MBR100540,rachel.thomas36@yahoo.com,Rachel,Thomas,41,Female,2024-09-09,CBT,True,15,15,14,18,3,12,1,0.08,Not Improved
+MBR100541,larry.harris40@outlook.com,Larry,Harris,75,Non-binary,2024-09-10,Mindfulness-Based,False,11,13,13,15,4,7,1,0.14,Not Improved
+MBR100542,susan.carter31@outlook.com,Susan,Carter,31,Male,2024-09-27,Mindfulness-Based,True,17,20,21,25,8,5,1,0.2,Not Improved
+MBR100543,nicholas.walker95@hotmail.com,Nicholas,Walker,71,Female,2024-09-20,Supportive,False,16,14,14,18,2,7,2,0.29,Not Improved
+MBR100544,catherine.scott95@outlook.com,Catherine,Scott,47,Non-binary,2024-09-07,Mindfulness-Based,False,10,8,8,12,2,3,3,1.0,Not Improved
+MBR100545,samuel.martin41@icloud.com,Samuel,Martin,23,Male,2024-09-16,DBT,False,12,11,14,18,6,9,7,0.78,Not Improved
+MBR100546,jack.rodriguez34@yahoo.com,Jack,Rodriguez,61,Non-binary,2024-09-29,Mindfulness-Based,False,15,15,15,14,-1,7,6,0.86,Not Improved
+MBR100547,ronald.torres29@gmail.com,Ronald,Torres,19,Non-binary,2024-09-02,Mindfulness-Based,True,20,22,22,21,1,8,4,0.5,Not Improved
+MBR100548,rebecca.flores55@icloud.com,Rebecca,Flores,34,Male,2024-09-25,CBT,False,11,11,11,14,3,12,1,0.08,Not Improved
+MBR100549,jacob.baker64@gmail.com,Jacob,Baker,32,Non-binary,2024-09-28,Mindfulness-Based,False,13,12,13,14,1,8,7,0.88,Not Improved
+MBR100550,anthony.hill28@outlook.com,Anthony,Hill,64,Non-binary,2024-09-08,DBT,False,13,14,14,16,3,5,1,0.2,Not Improved
+MBR100551,samantha.lewis32@outlook.com,Samantha,Lewis,55,Non-binary,2024-09-22,Mindfulness-Based,False,20,21,20,19,-1,8,3,0.38,Not Improved
+MBR100552,sandra.rivera50@hotmail.com,Sandra,Rivera,65,Non-binary,2024-09-16,CBT,True,14,12,11,14,0,6,1,0.17,Not Improved
+MBR100553,melissa.hill86@icloud.com,Melissa,Hill,63,Non-binary,2024-09-05,Mindfulness-Based,False,10,8,9,12,2,11,5,0.45,Not Improved
+MBR100554,pamela.williams75@yahoo.com,Pamela,Williams,34,Male,2024-09-05,DBT,False,18,19,20,22,4,7,2,0.29,Not Improved
+MBR100555,kimberly.davis41@gmail.com,Kimberly,Davis,26,Female,2024-09-14,Supportive,False,14,17,18,20,6,9,5,0.56,Not Improved
+MBR100556,nancy.lee95@hotmail.com,Nancy,Lee,66,Male,2024-09-06,DBT,True,18,21,23,22,4,3,3,1.0,Not Improved
+MBR100557,robert.walker34@yahoo.com,Robert,Walker,63,Female,2024-09-15,Mindfulness-Based,False,16,14,16,15,-1,11,6,0.55,Not Improved
+MBR100558,angela.davis93@yahoo.com,Angela,Davis,25,Female,2024-09-17,DBT,True,11,10,11,11,0,8,5,0.62,Not Improved
+MBR100559,emma.lopez54@gmail.com,Emma,Lopez,33,Female,2024-09-19,Supportive,False,20,18,19,18,-2,8,2,0.25,Not Improved
+MBR100560,jessica.lee20@gmail.com,Jessica,Lee,23,Female,2024-09-21,Supportive,True,20,21,23,27,7,6,1,0.17,Not Improved
+MBR100561,samantha.lewis42@icloud.com,Samantha,Lewis,26,Male,2024-09-03,CBT,False,10,13,14,15,5,10,2,0.2,Not Improved
+MBR100562,rebecca.taylor23@yahoo.com,Rebecca,Taylor,67,Female,2024-09-04,Mindfulness-Based,True,11,9,9,9,-2,9,7,0.78,Not Improved
+MBR100563,joshua.young56@outlook.com,Joshua,Young,75,Non-binary,2024-09-16,CBT,True,19,18,19,23,4,10,6,0.6,Not Improved
+MBR100564,cynthia.harris61@outlook.com,Cynthia,Harris,54,Non-binary,2024-09-03,DBT,False,16,14,16,17,1,12,7,0.58,Not Improved
+MBR100565,jennifer.allen44@hotmail.com,Jennifer,Allen,61,Male,2024-09-03,CBT,False,20,23,23,25,5,12,5,0.42,Not Improved
+MBR100566,amy.martin20@yahoo.com,Amy,Martin,61,Female,2024-09-17,CBT,True,13,15,17,18,5,2,2,1.0,Not Improved
+MBR100567,jeffrey.clark13@hotmail.com,Jeffrey,Clark,60,Non-binary,2024-09-06,CBT,False,19,19,20,21,2,2,1,0.5,Not Improved
+MBR100568,betty.sanchez6@gmail.com,Betty,Sanchez,44,Non-binary,2024-09-11,Mindfulness-Based,False,14,14,17,21,7,12,8,0.67,Not Improved
+MBR100569,betty.wilson24@gmail.com,Betty,Wilson,65,Non-binary,2024-09-01,CBT,True,14,17,16,18,4,7,1,0.14,Not Improved
+MBR100570,nancy.adams62@hotmail.com,Nancy,Adams,62,Female,2024-09-26,Mindfulness-Based,False,20,23,26,27,7,10,5,0.5,Not Improved
+MBR100571,joshua.garcia17@yahoo.com,Joshua,Garcia,18,Male,2024-09-14,DBT,True,11,9,9,8,-3,9,8,0.89,Not Improved
+MBR100572,samuel.wright25@gmail.com,Samuel,Wright,37,Female,2024-10-01,CBT,False,12,13,15,14,2,5,3,0.6,Not Improved
+MBR100573,nicholas.walker3@hotmail.com,Nicholas,Walker,55,Male,2024-09-21,CBT,True,13,13,16,18,5,6,6,1.0,Not Improved
+MBR100574,janet.ramirez54@hotmail.com,Janet,Ramirez,65,Non-binary,2024-09-17,CBT,False,19,22,25,26,7,11,8,0.73,Not Improved
+MBR100575,nicole.campbell79@hotmail.com,Nicole,Campbell,32,Non-binary,2024-09-29,Supportive,False,10,12,11,13,3,6,2,0.33,Not Improved
+MBR100576,gary.davis64@icloud.com,Gary,Davis,59,Female,2024-09-12,DBT,False,17,20,22,21,4,8,5,0.62,Not Improved
+MBR100577,ryan.anderson65@yahoo.com,Ryan,Anderson,55,Non-binary,2024-09-26,Supportive,False,15,17,19,19,4,10,7,0.7,Not Improved
+MBR100578,gary.hernandez80@yahoo.com,Gary,Hernandez,36,Non-binary,2024-09-04,DBT,False,11,14,16,16,5,6,4,0.67,Not Improved
+MBR100579,sharon.young39@yahoo.com,Sharon,Young,31,Non-binary,2024-09-26,Supportive,True,10,8,9,10,0,5,3,0.6,Not Improved
+MBR100580,william.perez56@gmail.com,William,Perez,57,Male,2024-09-25,Supportive,False,11,13,13,15,4,12,6,0.5,Not Improved
+MBR100581,jennifer.roberts72@outlook.com,Jennifer,Roberts,75,Male,2024-09-04,CBT,True,18,20,19,23,5,11,8,0.73,Not Improved
+MBR100582,benjamin.flores14@icloud.com,Benjamin,Flores,20,Non-binary,2024-09-25,Supportive,False,11,10,9,9,-2,7,3,0.43,Not Improved
+MBR100583,eric.young94@gmail.com,Eric,Young,27,Non-binary,2024-09-08,DBT,True,15,15,15,14,-1,11,8,0.73,Not Improved
+MBR100584,gary.perez37@icloud.com,Gary,Perez,28,Male,2024-09-26,DBT,False,14,14,16,17,3,11,3,0.27,Not Improved
+MBR100585,ashley.rodriguez55@hotmail.com,Ashley,Rodriguez,44,Female,2024-09-03,Mindfulness-Based,True,18,21,22,21,3,3,3,1.0,Not Improved
+MBR100586,amanda.lee52@yahoo.com,Amanda,Lee,45,Male,2024-09-29,CBT,False,16,14,14,17,1,11,5,0.45,Not Improved
+MBR100587,rachel.hall71@outlook.com,Rachel,Hall,64,Non-binary,2024-09-29,DBT,True,15,15,14,15,0,10,7,0.7,Not Improved
+MBR100588,brenda.flores80@hotmail.com,Brenda,Flores,62,Female,2024-09-13,CBT,False,20,21,21,22,2,9,1,0.11,Not Improved
+MBR100589,raymond.campbell95@yahoo.com,Raymond,Campbell,51,Non-binary,2024-09-01,Supportive,True,14,13,12,15,1,12,6,0.5,Not Improved
+MBR100590,patricia.wright76@outlook.com,Patricia,Wright,33,Female,2024-09-04,CBT,False,16,18,17,21,5,8,6,0.75,Not Improved
+MBR100591,michael.carter84@gmail.com,Michael,Carter,46,Female,2024-09-12,Supportive,True,19,22,21,23,4,12,4,0.33,Not Improved
+MBR100592,joshua.jackson86@icloud.com,Joshua,Jackson,61,Male,2024-09-04,Supportive,False,16,18,18,17,1,9,4,0.44,Not Improved
+MBR100593,charles.rivera55@hotmail.com,Charles,Rivera,23,Male,2024-09-22,DBT,False,10,11,11,13,3,8,8,1.0,Not Improved
+MBR100594,anna.sanchez76@icloud.com,Anna,Sanchez,51,Female,2024-09-27,Mindfulness-Based,False,14,16,18,22,8,11,8,0.73,Not Improved
+MBR100595,christopher.martinez65@yahoo.com,Christopher,Martinez,49,Non-binary,2024-09-02,CBT,False,17,16,19,22,5,11,4,0.36,Not Improved
+MBR100596,maria.hernandez72@outlook.com,Maria,Hernandez,25,Non-binary,2024-09-04,Supportive,True,16,14,13,14,-2,9,1,0.11,Not Improved
+MBR100597,deborah.martin48@outlook.com,Deborah,Martin,36,Female,2024-09-07,Mindfulness-Based,False,10,9,9,12,2,5,1,0.2,Not Improved
+MBR100598,betty.mitchell63@gmail.com,Betty,Mitchell,25,Non-binary,2024-09-26,Mindfulness-Based,False,15,13,12,14,-1,12,5,0.42,Not Improved
+MBR100599,ronald.walker93@icloud.com,Ronald,Walker,26,Male,2024-09-26,Mindfulness-Based,True,18,21,23,25,7,8,3,0.38,Not Improved
+MBR100600,samantha.nelson80@hotmail.com,Samantha,Nelson,42,Male,2024-09-23,Mindfulness-Based,True,16,16,19,18,2,6,5,0.83,Not Improved
+MBR100601,patricia.torres81@outlook.com,Patricia,Torres,53,Non-binary,2024-09-25,DBT,True,11,14,17,16,5,10,1,0.1,Not Improved
+MBR100602,gary.allen3@gmail.com,Gary,Allen,60,Non-binary,2024-09-13,DBT,False,12,10,11,11,-1,8,8,1.0,Not Improved
+MBR100603,nicole.williams63@gmail.com,Nicole,Williams,39,Female,2024-09-04,Supportive,True,12,13,12,15,3,9,7,0.78,Not Improved
+MBR100604,richard.wright22@outlook.com,Richard,Wright,27,Male,2024-09-06,Mindfulness-Based,False,14,12,12,13,-1,3,3,1.0,Not Improved
+MBR100605,patricia.rivera8@outlook.com,Patricia,Rivera,42,Male,2024-09-07,Supportive,True,15,14,16,17,2,7,7,1.0,Not Improved
+MBR100606,donald.carter77@icloud.com,Donald,Carter,33,Female,2024-09-18,Supportive,False,18,20,22,21,3,6,1,0.17,Not Improved
+MBR100607,jason.jones62@gmail.com,Jason,Jones,44,Non-binary,2024-09-10,CBT,True,13,11,12,15,2,12,4,0.33,Not Improved
+MBR100608,justin.clark58@gmail.com,Justin,Clark,72,Non-binary,2024-10-01,DBT,False,18,17,17,18,0,12,4,0.33,Not Improved
+MBR100609,pamela.lewis6@gmail.com,Pamela,Lewis,70,Female,2024-09-27,CBT,False,19,19,19,18,-1,10,8,0.8,Not Improved
+MBR100610,rachel.harris45@yahoo.com,Rachel,Harris,55,Non-binary,2024-09-23,CBT,False,14,12,12,16,2,6,5,0.83,Not Improved
+MBR100611,sarah.rodriguez93@icloud.com,Sarah,Rodriguez,35,Female,2024-09-08,Supportive,False,13,15,18,19,6,12,5,0.42,Not Improved
+MBR100612,gregory.lee44@yahoo.com,Gregory,Lee,47,Non-binary,2024-09-22,CBT,True,15,13,13,17,2,8,8,1.0,Not Improved
+MBR100613,daniel.clark72@hotmail.com,Daniel,Clark,66,Female,2024-09-27,CBT,False,18,16,15,18,0,8,8,1.0,Not Improved
+MBR100614,ronald.hill46@hotmail.com,Ronald,Hill,29,Non-binary,2024-09-24,DBT,True,10,8,10,11,1,8,8,1.0,Not Improved
+MBR100615,john.carter36@outlook.com,John,Carter,30,Male,2024-09-02,DBT,False,19,22,23,27,8,11,4,0.36,Not Improved
+MBR100616,emily.young91@icloud.com,Emily,Young,31,Male,2024-09-22,Supportive,True,13,16,18,17,4,9,8,0.89,Not Improved
+MBR100617,jack.torres87@icloud.com,Jack,Torres,54,Male,2024-09-29,CBT,True,11,13,13,17,6,7,3,0.43,Not Improved
+MBR100618,jonathan.campbell36@yahoo.com,Jonathan,Campbell,72,Non-binary,2024-09-21,Supportive,False,10,13,16,19,9,8,8,1.0,Not Improved
+MBR100619,frank.adams7@outlook.com,Frank,Adams,45,Female,2024-09-29,Mindfulness-Based,True,14,12,15,17,3,10,6,0.6,Not Improved
+MBR100620,raymond.anderson7@outlook.com,Raymond,Anderson,44,Non-binary,2024-09-24,DBT,True,17,17,16,18,1,6,6,1.0,Not Improved
+MBR100621,mark.hall55@gmail.com,Mark,Hall,33,Male,2024-09-26,CBT,False,12,12,13,12,0,8,1,0.12,Not Improved
+MBR100622,patricia.nguyen81@outlook.com,Patricia,Nguyen,71,Female,2024-10-01,Supportive,True,13,11,13,13,0,6,1,0.17,Not Improved
+MBR100623,barbara.roberts77@icloud.com,Barbara,Roberts,46,Male,2024-09-11,CBT,False,20,21,24,23,3,1,1,1.0,Not Improved
+MBR100624,alexander.jones17@gmail.com,Alexander,Jones,69,Female,2024-09-18,Mindfulness-Based,True,10,10,13,17,7,3,2,0.67,Not Improved
+MBR100625,michael.jackson49@hotmail.com,Michael,Jackson,24,Non-binary,2024-09-26,CBT,False,16,15,18,22,6,11,8,0.73,Not Improved
+MBR100626,jeffrey.flores80@gmail.com,Jeffrey,Flores,39,Non-binary,2024-09-01,Supportive,True,20,18,20,23,3,5,4,0.8,Not Improved
+MBR100627,brandon.rivera9@icloud.com,Brandon,Rivera,68,Male,2024-09-06,Supportive,False,19,18,21,22,3,10,7,0.7,Not Improved
+MBR100628,dorothy.rodriguez6@gmail.com,Dorothy,Rodriguez,26,Female,2024-09-16,Supportive,True,19,20,23,27,8,7,5,0.71,Not Improved
+MBR100629,michelle.hill44@outlook.com,Michelle,Hill,41,Male,2024-09-07,DBT,False,18,20,20,19,1,7,1,0.14,Not Improved
+MBR100630,margaret.green26@gmail.com,Margaret,Green,39,Male,2024-09-14,Supportive,False,20,21,23,26,6,10,6,0.6,Not Improved
+MBR100631,brian.hernandez14@hotmail.com,Brian,Hernandez,74,Male,2024-09-08,DBT,True,17,16,15,19,2,11,4,0.36,Not Improved
+MBR100632,amy.mitchell99@outlook.com,Amy,Mitchell,69,Non-binary,2024-09-12,CBT,True,16,15,17,17,1,6,6,1.0,Not Improved
+MBR100633,patricia.scott15@yahoo.com,Patricia,Scott,36,Female,2024-09-10,CBT,True,13,16,19,20,7,4,1,0.25,Not Improved
+MBR100634,daniel.anderson34@yahoo.com,Daniel,Anderson,39,Non-binary,2024-09-27,DBT,True,13,12,12,11,-2,6,5,0.83,Not Improved
+MBR100635,frank.rodriguez49@gmail.com,Frank,Rodriguez,39,Male,2024-09-29,Supportive,False,14,15,15,16,2,11,3,0.27,Not Improved
+MBR100636,janet.jones16@yahoo.com,Janet,Jones,74,Male,2024-09-21,Supportive,False,13,12,15,17,4,10,6,0.6,Not Improved
+MBR100637,dorothy.williams98@icloud.com,Dorothy,Williams,55,Male,2024-09-28,DBT,False,18,18,18,19,1,11,1,0.09,Not Improved
+MBR100638,thomas.allen75@hotmail.com,Thomas,Allen,31,Non-binary,2024-09-16,DBT,False,11,12,15,14,3,12,7,0.58,Not Improved
+MBR100639,jonathan.robinson23@outlook.com,Jonathan,Robinson,63,Female,2024-09-21,Mindfulness-Based,False,18,21,23,27,9,10,8,0.8,Not Improved
+MBR100640,scott.adams5@yahoo.com,Scott,Adams,32,Male,2024-09-30,Supportive,True,17,16,18,18,1,10,7,0.7,Not Improved
+MBR100641,deborah.taylor71@gmail.com,Deborah,Taylor,26,Male,2024-09-14,DBT,False,14,15,18,19,5,8,1,0.12,Not Improved
+MBR100642,cynthia.robinson56@hotmail.com,Cynthia,Robinson,41,Female,2024-09-21,DBT,False,15,15,17,16,1,9,8,0.89,Not Improved
+MBR100643,barbara.thompson11@outlook.com,Barbara,Thompson,71,Non-binary,2024-09-12,DBT,True,18,20,19,20,2,3,2,0.67,Not Improved
+MBR100644,robert.wright26@outlook.com,Robert,Wright,30,Non-binary,2024-09-01,Supportive,False,15,15,16,20,5,6,4,0.67,Not Improved
+MBR100645,joshua.jackson45@hotmail.com,Joshua,Jackson,43,Non-binary,2024-09-24,DBT,True,20,18,20,24,4,8,7,0.88,Not Improved
+MBR100646,maria.wilson61@yahoo.com,Maria,Wilson,51,Non-binary,2024-09-14,CBT,True,18,19,21,22,4,12,6,0.5,Not Improved
+MBR100647,carolyn.clark27@hotmail.com,Carolyn,Clark,46,Non-binary,2024-09-26,DBT,False,10,10,10,13,3,5,5,1.0,Not Improved
+MBR100648,gregory.thompson44@yahoo.com,Gregory,Thompson,44,Female,2024-09-30,Supportive,True,20,21,24,25,5,10,1,0.1,Not Improved
+MBR100649,karen.martinez43@icloud.com,Karen,Martinez,58,Non-binary,2024-09-07,DBT,False,19,21,23,25,6,7,7,1.0,Not Improved
+MBR100650,gary.miller43@icloud.com,Gary,Miller,46,Non-binary,2024-09-01,DBT,False,14,12,12,11,-3,12,1,0.08,Not Improved
+MBR100651,betty.gonzalez9@hotmail.com,Betty,Gonzalez,36,Male,2024-09-06,Mindfulness-Based,True,13,13,16,15,2,6,1,0.17,Not Improved
+MBR100652,carol.clark51@yahoo.com,Carol,Clark,25,Male,2024-09-28,CBT,True,18,19,21,25,7,8,7,0.88,Not Improved
+MBR100653,anthony.martin56@hotmail.com,Anthony,Martin,28,Non-binary,2024-09-05,Mindfulness-Based,True,19,19,22,22,3,8,5,0.62,Not Improved
+MBR100654,cynthia.jones52@icloud.com,Cynthia,Jones,69,Male,2024-09-24,Mindfulness-Based,True,18,18,21,23,5,12,8,0.67,Not Improved
+MBR100655,susan.jackson83@hotmail.com,Susan,Jackson,40,Non-binary,2024-09-15,Mindfulness-Based,False,14,15,18,18,4,6,4,0.67,Not Improved
+MBR100656,stephanie.nelson24@icloud.com,Stephanie,Nelson,24,Female,2024-09-14,Supportive,False,10,9,9,10,0,5,2,0.4,Not Improved
+MBR100657,larry.davis48@gmail.com,Larry,Davis,66,Male,2024-09-15,DBT,True,18,18,20,22,4,8,5,0.62,Not Improved
+MBR100658,patricia.jones82@hotmail.com,Patricia,Jones,42,Female,2024-09-11,CBT,True,16,15,17,16,0,6,5,0.83,Not Improved
+MBR100659,debra.mitchell60@hotmail.com,Debra,Mitchell,47,Male,2024-09-27,Mindfulness-Based,False,11,13,13,17,6,10,3,0.3,Not Improved
+MBR100660,christopher.hernandez3@icloud.com,Christopher,Hernandez,24,Male,2024-09-22,Mindfulness-Based,True,14,12,15,19,5,4,3,0.75,Not Improved
+MBR100661,paul.martinez57@outlook.com,Paul,Martinez,29,Male,2024-09-13,Mindfulness-Based,True,10,13,16,16,6,11,1,0.09,Not Improved
+MBR100662,alexander.martin57@gmail.com,Alexander,Martin,56,Male,2024-09-01,Supportive,True,10,11,11,11,1,7,4,0.57,Not Improved
+MBR100663,sharon.johnson2@outlook.com,Sharon,Johnson,70,Male,2024-09-14,CBT,True,20,23,22,22,2,5,3,0.6,Not Improved
+MBR100664,shirley.miller42@outlook.com,Shirley,Miller,53,Non-binary,2024-09-07,Mindfulness-Based,True,13,15,15,18,5,7,7,1.0,Not Improved
+MBR100665,jessica.thompson42@yahoo.com,Jessica,Thompson,18,Female,2024-09-22,DBT,True,20,20,19,21,1,9,8,0.89,Not Improved
+MBR100666,emily.adams80@outlook.com,Emily,Adams,20,Male,2024-09-09,Mindfulness-Based,True,13,14,15,18,5,10,2,0.2,Not Improved
+MBR100667,richard.hill42@hotmail.com,Richard,Hill,61,Non-binary,2024-09-01,Supportive,False,12,12,12,16,4,8,8,1.0,Not Improved
+MBR100668,helen.nguyen58@hotmail.com,Helen,Nguyen,50,Non-binary,2024-09-10,CBT,True,13,15,18,22,9,4,4,1.0,Not Improved
+MBR100669,donald.mitchell55@yahoo.com,Donald,Mitchell,57,Male,2024-09-07,Supportive,False,10,9,10,12,2,6,4,0.67,Not Improved
+MBR100670,raymond.williams31@icloud.com,Raymond,Williams,46,Non-binary,2024-09-25,CBT,False,15,14,15,16,1,12,7,0.58,Not Improved
+MBR100671,patricia.anderson94@outlook.com,Patricia,Anderson,39,Male,2024-09-06,DBT,False,13,15,14,18,5,10,4,0.4,Not Improved
+MBR100672,ryan.green1@gmail.com,Ryan,Green,73,Female,2024-09-06,DBT,True,11,10,9,13,2,6,4,0.67,Not Improved
+MBR100673,nicole.scott27@yahoo.com,Nicole,Scott,50,Male,2024-09-06,DBT,False,16,19,21,22,6,7,4,0.57,Not Improved
+MBR100674,helen.thomas39@outlook.com,Helen,Thomas,54,Female,2024-09-06,CBT,False,20,19,20,22,2,9,6,0.67,Not Improved
+MBR100675,gary.lewis55@icloud.com,Gary,Lewis,57,Non-binary,2024-09-20,Mindfulness-Based,False,16,15,17,16,0,7,7,1.0,Not Improved
+MBR100676,stephen.martinez71@yahoo.com,Stephen,Martinez,34,Female,2024-09-05,Mindfulness-Based,False,17,17,19,20,3,8,8,1.0,Not Improved
+MBR100677,janet.walker26@yahoo.com,Janet,Walker,30,Male,2024-09-13,Mindfulness-Based,False,10,12,13,15,5,10,7,0.7,Not Improved
+MBR100678,nicholas.martin83@icloud.com,Nicholas,Martin,22,Female,2024-09-25,DBT,False,10,8,10,13,3,10,4,0.4,Not Improved
+MBR100679,raymond.thompson66@hotmail.com,Raymond,Thompson,58,Non-binary,2024-09-08,Mindfulness-Based,True,15,18,17,21,6,12,7,0.58,Not Improved
+MBR100680,amy.williams47@gmail.com,Amy,Williams,62,Non-binary,2024-09-20,Mindfulness-Based,True,20,19,20,23,3,7,3,0.43,Not Improved
+MBR100681,scott.nelson21@gmail.com,Scott,Nelson,25,Male,2024-09-27,CBT,True,20,23,25,27,7,10,4,0.4,Not Improved
+MBR100682,jeffrey.taylor89@outlook.com,Jeffrey,Taylor,50,Non-binary,2024-09-27,Mindfulness-Based,False,20,21,24,25,5,3,2,0.67,Not Improved
+MBR100683,charles.moore96@yahoo.com,Charles,Moore,65,Female,2024-09-17,CBT,False,14,12,12,14,0,3,2,0.67,Not Improved
+MBR100684,sharon.adams37@hotmail.com,Sharon,Adams,28,Male,2024-09-15,Mindfulness-Based,True,15,14,14,14,-1,11,3,0.27,Not Improved
+MBR100685,justin.wilson24@yahoo.com,Justin,Wilson,21,Non-binary,2024-09-03,Mindfulness-Based,True,12,11,12,14,2,12,2,0.17,Not Improved
+MBR100686,donna.garcia49@gmail.com,Donna,Garcia,35,Male,2024-09-02,Mindfulness-Based,True,15,13,16,16,1,8,8,1.0,Not Improved
+MBR100687,paul.carter1@icloud.com,Paul,Carter,68,Male,2024-09-25,Mindfulness-Based,False,11,10,13,12,1,12,5,0.42,Not Improved
+MBR100688,amanda.hill55@outlook.com,Amanda,Hill,41,Non-binary,2024-09-12,Mindfulness-Based,True,15,15,15,16,1,11,7,0.64,Not Improved
+MBR100689,brian.miller1@hotmail.com,Brian,Miller,73,Non-binary,2024-09-15,CBT,False,16,19,19,18,2,8,5,0.62,Not Improved
+MBR100690,samantha.baker85@hotmail.com,Samantha,Baker,50,Female,2024-09-28,Supportive,False,20,19,18,22,2,11,1,0.09,Not Improved
+MBR100691,jennifer.mitchell42@hotmail.com,Jennifer,Mitchell,32,Non-binary,2024-09-24,Supportive,True,17,18,21,20,3,10,7,0.7,Not Improved
+MBR100692,stephanie.jackson78@yahoo.com,Stephanie,Jackson,63,Male,2024-09-27,DBT,False,18,20,23,22,4,8,8,1.0,Not Improved
+MBR100693,frank.scott60@yahoo.com,Frank,Scott,75,Female,2024-09-04,DBT,True,11,12,15,15,4,6,4,0.67,Not Improved
+MBR100694,laura.rivera4@yahoo.com,Laura,Rivera,38,Female,2024-09-30,Mindfulness-Based,True,14,13,14,18,4,12,2,0.17,Not Improved
+MBR100695,stephen.green93@hotmail.com,Stephen,Green,23,Non-binary,2024-09-21,CBT,False,15,14,17,20,5,9,6,0.67,Not Improved
+MBR100696,raymond.scott56@yahoo.com,Raymond,Scott,32,Female,2024-09-24,CBT,True,11,11,10,9,-2,11,6,0.55,Not Improved
+MBR100697,joseph.torres48@yahoo.com,Joseph,Torres,72,Female,2024-09-11,CBT,False,16,18,17,18,2,10,4,0.4,Not Improved
+MBR100698,timothy.baker17@icloud.com,Timothy,Baker,60,Non-binary,2024-09-27,CBT,True,19,18,17,19,0,10,8,0.8,Not Improved
+MBR100699,donna.anderson64@hotmail.com,Donna,Anderson,27,Non-binary,2024-09-28,Supportive,False,14,13,12,15,1,6,5,0.83,Not Improved
+MBR100700,patrick.torres62@yahoo.com,Patrick,Torres,49,Female,2024-09-28,DBT,True,16,14,15,15,-1,4,4,1.0,Not Improved
+MBR100701,nicholas.campbell51@outlook.com,Nicholas,Campbell,70,Non-binary,2024-09-12,Supportive,False,12,10,13,15,3,12,7,0.58,Not Improved
+MBR100702,edward.sanchez10@icloud.com,Edward,Sanchez,64,Female,2024-09-25,Mindfulness-Based,False,14,17,17,21,7,4,2,0.5,Not Improved
+MBR100703,scott.brown91@outlook.com,Scott,Brown,47,Non-binary,2024-09-07,Mindfulness-Based,True,12,14,14,16,4,7,5,0.71,Not Improved
+MBR100704,maria.gonzalez95@gmail.com,Maria,Gonzalez,41,Non-binary,2024-09-12,Mindfulness-Based,True,19,17,17,19,0,3,3,1.0,Not Improved
+MBR100705,gary.lopez7@gmail.com,Gary,Lopez,50,Non-binary,2024-09-08,Mindfulness-Based,True,15,17,19,19,4,4,4,1.0,Not Improved
+MBR100706,edward.young39@icloud.com,Edward,Young,29,Non-binary,2024-09-01,Mindfulness-Based,False,16,19,18,20,4,12,5,0.42,Not Improved
+MBR100707,sarah.davis11@gmail.com,Sarah,Davis,49,Non-binary,2024-09-13,Mindfulness-Based,True,20,22,22,21,1,6,5,0.83,Not Improved
+MBR100708,amy.adams90@hotmail.com,Amy,Adams,37,Non-binary,2024-09-13,DBT,True,12,10,11,10,-2,12,7,0.58,Not Improved
+MBR100709,pamela.wright68@hotmail.com,Pamela,Wright,22,Non-binary,2024-09-01,CBT,True,19,21,20,20,1,12,3,0.25,Not Improved
+MBR100710,pamela.lewis41@gmail.com,Pamela,Lewis,20,Male,2024-09-17,Supportive,True,19,18,18,17,-2,2,1,0.5,Not Improved
+MBR100711,joshua.white70@yahoo.com,Joshua,White,45,Non-binary,2024-09-23,Supportive,False,10,9,10,9,-1,9,8,0.89,Not Improved
+MBR100712,kevin.king46@icloud.com,Kevin,King,52,Non-binary,2024-09-05,CBT,True,13,16,15,19,6,4,4,1.0,Not Improved
+MBR100713,joshua.wilson18@icloud.com,Joshua,Wilson,53,Male,2024-09-09,Mindfulness-Based,False,19,19,20,20,1,10,2,0.2,Not Improved
+MBR100714,ronald.adams21@hotmail.com,Ronald,Adams,47,Male,2024-09-21,DBT,False,14,17,19,23,9,5,4,0.8,Not Improved
+MBR100715,carolyn.adams25@outlook.com,Carolyn,Adams,54,Non-binary,2024-09-13,Mindfulness-Based,False,20,22,25,25,5,8,3,0.38,Not Improved
+MBR100716,patricia.hill32@gmail.com,Patricia,Hill,35,Male,2024-09-12,CBT,True,18,16,19,21,3,11,6,0.55,Not Improved
+MBR100717,brian.roberts35@yahoo.com,Brian,Roberts,73,Male,2024-09-06,DBT,True,14,12,11,13,-1,7,7,1.0,Not Improved
+MBR100718,anna.campbell40@icloud.com,Anna,Campbell,70,Female,2024-09-06,Supportive,True,11,13,14,18,7,6,5,0.83,Not Improved
+MBR100719,kevin.carter50@yahoo.com,Kevin,Carter,40,Non-binary,2024-09-09,Mindfulness-Based,True,20,22,25,27,7,12,8,0.67,Not Improved
+MBR100720,mary.baker66@yahoo.com,Mary,Baker,60,Male,2024-09-23,Supportive,False,12,13,16,20,8,12,1,0.08,Not Improved
+MBR100721,dorothy.baker78@hotmail.com,Dorothy,Baker,63,Female,2024-09-10,Supportive,True,12,13,14,16,4,11,5,0.45,Not Improved
+MBR100722,katherine.garcia40@hotmail.com,Katherine,Garcia,67,Female,2024-09-03,DBT,True,11,14,13,12,1,4,2,0.5,Not Improved
+MBR100723,maria.jackson71@hotmail.com,Maria,Jackson,69,Male,2024-09-13,DBT,True,16,19,22,26,10,11,8,0.73,Not Improved
+MBR100724,mary.flores25@gmail.com,Mary,Flores,63,Female,2024-09-06,CBT,True,18,21,22,22,4,9,8,0.89,Not Improved
+MBR100725,barbara.white18@icloud.com,Barbara,White,40,Male,2024-09-27,Supportive,True,16,17,19,19,3,7,2,0.29,Not Improved
+MBR100726,brenda.roberts16@outlook.com,Brenda,Roberts,37,Female,2024-09-30,Mindfulness-Based,True,14,14,14,13,-1,8,4,0.5,Not Improved
+MBR100727,kathleen.flores63@gmail.com,Kathleen,Flores,40,Male,2024-09-29,Supportive,False,19,20,21,22,3,2,2,1.0,Not Improved
+MBR100728,raymond.lopez52@outlook.com,Raymond,Lopez,18,Male,2024-09-01,DBT,False,16,17,17,16,0,7,7,1.0,Not Improved
+MBR100729,lisa.roberts85@outlook.com,Lisa,Roberts,32,Female,2024-09-04,Mindfulness-Based,False,16,16,17,18,2,11,3,0.27,Not Improved
+MBR100730,ryan.nelson57@yahoo.com,Ryan,Nelson,26,Female,2024-09-02,DBT,False,16,14,15,19,3,5,2,0.4,Not Improved
+MBR100731,karen.sanchez54@outlook.com,Karen,Sanchez,75,Male,2024-09-18,Supportive,False,12,15,15,17,5,8,2,0.25,Not Improved
+MBR100732,angela.baker92@yahoo.com,Angela,Baker,38,Female,2024-09-05,CBT,True,18,21,23,23,5,2,2,1.0,Not Improved
+MBR100733,george.allen2@yahoo.com,George,Allen,21,Non-binary,2024-09-10,CBT,False,15,16,19,23,8,10,7,0.7,Not Improved
+MBR100734,nicholas.garcia98@hotmail.com,Nicholas,Garcia,33,Non-binary,2024-09-23,DBT,False,12,15,18,18,6,6,5,0.83,Not Improved
+MBR100735,dorothy.nelson55@yahoo.com,Dorothy,Nelson,48,Non-binary,2024-09-04,DBT,True,11,14,17,20,9,6,4,0.67,Not Improved
+MBR100736,thomas.sanchez5@outlook.com,Thomas,Sanchez,30,Male,2024-09-17,CBT,False,16,14,17,17,1,7,1,0.14,Not Improved
+MBR100737,michelle.hall82@yahoo.com,Michelle,Hall,32,Female,2024-09-09,Mindfulness-Based,True,16,17,16,19,3,5,1,0.2,Not Improved
+MBR100738,timothy.moore45@hotmail.com,Timothy,Moore,33,Female,2024-09-16,CBT,False,10,9,8,7,-3,7,6,0.86,Not Improved
+MBR100739,emily.hill13@hotmail.com,Emily,Hill,29,Female,2024-09-22,CBT,True,17,17,18,19,2,12,2,0.17,Not Improved
+MBR100740,larry.roberts17@outlook.com,Larry,Roberts,41,Non-binary,2024-09-19,Supportive,True,15,18,21,24,9,8,4,0.5,Not Improved
+MBR100741,stephanie.garcia14@yahoo.com,Stephanie,Garcia,58,Non-binary,2024-09-03,DBT,True,19,17,16,19,0,11,4,0.36,Not Improved
+MBR100742,brenda.flores44@outlook.com,Brenda,Flores,64,Female,2024-09-29,DBT,False,13,15,15,14,1,10,4,0.4,Not Improved
+MBR100743,pamela.thompson47@hotmail.com,Pamela,Thompson,58,Non-binary,2024-09-23,Mindfulness-Based,False,11,12,11,13,2,3,1,0.33,Not Improved
+MBR100744,thomas.jackson6@icloud.com,Thomas,Jackson,21,Non-binary,2024-09-18,CBT,False,13,16,18,20,7,10,3,0.3,Not Improved
+MBR100745,stephanie.sanchez78@outlook.com,Stephanie,Sanchez,31,Male,2024-09-10,CBT,False,10,9,12,12,2,12,8,0.67,Not Improved
+MBR100746,mark.jackson91@outlook.com,Mark,Jackson,53,Male,2024-10-01,DBT,True,12,11,10,13,1,5,5,1.0,Not Improved
+MBR100747,emily.rodriguez35@gmail.com,Emily,Rodriguez,59,Male,2024-10-01,Supportive,True,13,15,14,13,0,8,6,0.75,Not Improved
+MBR100748,patrick.scott34@yahoo.com,Patrick,Scott,44,Non-binary,2024-09-06,CBT,False,14,14,13,17,3,7,6,0.86,Not Improved
+MBR100749,steven.johnson69@icloud.com,Steven,Johnson,24,Non-binary,2024-09-09,DBT,False,16,19,20,24,8,9,8,0.89,Not Improved
+MBR100750,anthony.nguyen81@hotmail.com,Anthony,Nguyen,27,Female,2024-09-06,DBT,False,13,16,18,19,6,8,8,1.0,Not Improved
+MBR100751,jacob.lopez23@yahoo.com,Jacob,Lopez,54,Female,2024-09-22,Supportive,False,12,15,16,15,3,5,3,0.6,Not Improved
+MBR100752,helen.gonzalez9@yahoo.com,Helen,Gonzalez,22,Female,2024-09-13,DBT,True,13,14,16,15,2,10,1,0.1,Not Improved
+MBR100753,stephanie.johnson15@gmail.com,Stephanie,Johnson,66,Non-binary,2024-09-26,Supportive,True,10,9,9,8,-2,12,3,0.25,Not Improved
+MBR100754,mary.miller70@outlook.com,Mary,Miller,72,Non-binary,2024-09-16,Mindfulness-Based,False,11,10,10,12,1,7,3,0.43,Not Improved
+MBR100755,lisa.thomas8@icloud.com,Lisa,Thomas,62,Female,2024-09-04,CBT,False,20,22,21,20,0,10,2,0.2,Not Improved
+MBR100756,shirley.clark19@gmail.com,Shirley,Clark,32,Male,2024-09-22,Supportive,False,13,14,16,16,3,8,5,0.62,Not Improved
+MBR100757,janet.davis63@yahoo.com,Janet,Davis,25,Male,2024-09-29,Supportive,True,11,11,12,11,0,7,2,0.29,Not Improved
+MBR100758,jennifer.hill20@yahoo.com,Jennifer,Hill,45,Non-binary,2024-09-12,Mindfulness-Based,False,15,17,17,21,6,7,3,0.43,Not Improved
+MBR100759,jessica.moore64@outlook.com,Jessica,Moore,34,Non-binary,2024-09-15,DBT,False,11,9,9,13,2,7,6,0.86,Not Improved
+MBR100760,raymond.walker9@gmail.com,Raymond,Walker,54,Female,2024-09-11,DBT,False,14,13,12,13,-1,9,3,0.33,Not Improved
+MBR100761,angela.ramirez62@hotmail.com,Angela,Ramirez,56,Non-binary,2024-09-18,Mindfulness-Based,False,15,14,14,16,1,12,8,0.67,Not Improved
+MBR100762,stephen.anderson50@gmail.com,Stephen,Anderson,55,Non-binary,2024-09-01,DBT,False,16,18,21,25,9,5,2,0.4,Not Improved
+MBR100763,anthony.johnson47@icloud.com,Anthony,Johnson,48,Male,2024-09-27,DBT,True,11,9,10,11,0,12,5,0.42,Not Improved
+MBR100764,larry.clark32@yahoo.com,Larry,Clark,70,Male,2024-09-23,DBT,True,10,13,13,12,2,12,7,0.58,Not Improved
+MBR100765,jeffrey.white7@gmail.com,Jeffrey,White,60,Non-binary,2024-09-03,CBT,True,11,12,15,15,4,8,3,0.38,Not Improved
+MBR100766,dorothy.jones2@icloud.com,Dorothy,Jones,71,Female,2024-09-24,DBT,False,12,11,13,17,5,12,5,0.42,Not Improved
+MBR100767,amanda.lewis83@gmail.com,Amanda,Lewis,36,Male,2024-09-27,DBT,False,12,10,9,12,0,3,3,1.0,Not Improved
+MBR100768,jeffrey.baker59@icloud.com,Jeffrey,Baker,63,Female,2024-09-03,DBT,False,19,21,22,26,7,8,7,0.88,Not Improved
+MBR100769,jonathan.harris17@yahoo.com,Jonathan,Harris,43,Non-binary,2024-09-21,CBT,False,10,9,11,11,1,11,8,0.73,Not Improved
+MBR100770,raymond.sanchez49@yahoo.com,Raymond,Sanchez,21,Female,2024-09-20,CBT,False,20,21,21,22,2,3,2,0.67,Not Improved
+MBR100771,brian.johnson31@outlook.com,Brian,Johnson,28,Non-binary,2024-09-21,CBT,True,11,9,9,12,1,8,5,0.62,Not Improved
+MBR100772,robert.thomas35@gmail.com,Robert,Thomas,54,Non-binary,2024-09-01,CBT,False,10,12,14,13,3,6,6,1.0,Not Improved
+MBR100773,melissa.carter37@hotmail.com,Melissa,Carter,50,Male,2024-09-17,CBT,True,15,16,17,17,2,9,6,0.67,Not Improved
+MBR100774,lisa.johnson76@hotmail.com,Lisa,Johnson,48,Non-binary,2024-10-01,Mindfulness-Based,True,10,10,10,10,0,12,2,0.17,Not Improved
+MBR100775,janet.anderson28@yahoo.com,Janet,Anderson,67,Non-binary,2024-09-10,Supportive,False,12,14,17,21,9,9,8,0.89,Not Improved
+MBR100776,timothy.flores56@gmail.com,Timothy,Flores,75,Non-binary,2024-09-04,CBT,False,20,21,21,21,1,12,3,0.25,Not Improved
+MBR100777,mary.martinez99@outlook.com,Mary,Martinez,53,Male,2024-09-09,DBT,True,17,15,17,18,1,7,5,0.71,Not Improved
+MBR100778,emma.white46@gmail.com,Emma,White,22,Male,2024-09-02,Mindfulness-Based,False,17,17,19,20,3,4,3,0.75,Not Improved
+MBR100779,timothy.jackson52@hotmail.com,Timothy,Jackson,72,Non-binary,2024-09-17,Supportive,False,20,19,21,22,2,6,6,1.0,Not Improved
+MBR100780,cynthia.taylor88@gmail.com,Cynthia,Taylor,57,Non-binary,2024-09-13,CBT,False,10,13,13,17,7,4,3,0.75,Not Improved
+MBR100781,christopher.torres52@gmail.com,Christopher,Torres,32,Female,2024-09-04,Mindfulness-Based,False,17,20,19,20,3,12,8,0.67,Not Improved
+MBR100782,david.lopez94@gmail.com,David,Lopez,43,Female,2024-09-07,Supportive,False,13,14,15,14,1,10,6,0.6,Not Improved
+MBR100783,carolyn.mitchell61@gmail.com,Carolyn,Mitchell,35,Female,2024-09-20,DBT,True,10,12,12,14,4,9,4,0.44,Not Improved
+MBR100784,ronald.brown47@hotmail.com,Ronald,Brown,48,Male,2024-09-03,Mindfulness-Based,True,10,9,8,12,2,9,5,0.56,Not Improved
+MBR100785,charles.jones36@hotmail.com,Charles,Jones,23,Female,2024-09-29,Supportive,True,17,18,21,21,4,3,3,1.0,Not Improved
+MBR100786,jeffrey.perez97@outlook.com,Jeffrey,Perez,28,Male,2024-09-27,DBT,False,15,16,18,20,5,9,7,0.78,Not Improved
+MBR100787,mary.scott77@yahoo.com,Mary,Scott,22,Non-binary,2024-09-29,Supportive,True,20,22,25,25,5,6,6,1.0,Not Improved
+MBR100788,jacob.martinez64@outlook.com,Jacob,Martinez,25,Non-binary,2024-09-21,CBT,False,16,16,19,23,7,9,8,0.89,Not Improved
+MBR100789,scott.miller5@yahoo.com,Scott,Miller,65,Male,2024-10-01,Mindfulness-Based,True,16,19,22,22,6,9,4,0.44,Not Improved
+MBR100790,matthew.baker74@gmail.com,Matthew,Baker,41,Female,2024-09-14,CBT,False,10,10,11,14,4,11,8,0.73,Not Improved
+MBR100791,melissa.thompson70@hotmail.com,Melissa,Thompson,51,Female,2024-09-18,Supportive,True,11,10,12,14,3,11,3,0.27,Not Improved
+MBR100792,laura.harris37@hotmail.com,Laura,Harris,58,Female,2024-09-04,CBT,False,19,17,16,15,-4,10,1,0.1,Not Improved
+MBR100793,angela.mitchell97@icloud.com,Angela,Mitchell,52,Male,2024-09-08,CBT,True,20,21,24,27,7,11,5,0.45,Not Improved
+MBR100794,jacob.scott49@gmail.com,Jacob,Scott,30,Female,2024-09-17,Mindfulness-Based,True,11,11,13,15,4,6,1,0.17,Not Improved
+MBR100795,andrew.moore85@outlook.com,Andrew,Moore,37,Female,2024-09-26,CBT,True,20,19,18,20,0,1,1,1.0,Not Improved
+MBR100796,deborah.king95@icloud.com,Deborah,King,38,Female,2024-09-26,Mindfulness-Based,True,12,14,16,16,4,10,4,0.4,Not Improved
+MBR100797,emma.ramirez17@hotmail.com,Emma,Ramirez,64,Male,2024-09-17,Mindfulness-Based,True,16,16,19,19,3,5,4,0.8,Not Improved
+MBR100798,sarah.green74@hotmail.com,Sarah,Green,71,Non-binary,2024-09-14,DBT,True,14,16,16,17,3,3,2,0.67,Not Improved
+MBR100799,mary.green99@icloud.com,Mary,Green,27,Male,2024-09-15,Mindfulness-Based,True,19,22,25,24,5,12,1,0.08,Not Improved
+MBR100800,katherine.green46@yahoo.com,Katherine,Green,33,Non-binary,2024-09-09,DBT,True,13,13,13,16,3,9,7,0.78,Not Improved
+MBR100801,david.martinez81@gmail.com,David,Martinez,58,Non-binary,2024-09-09,CBT,False,11,9,11,14,3,4,2,0.5,Not Improved
+MBR100802,betty.garcia10@hotmail.com,Betty,Garcia,72,Female,2024-10-01,CBT,False,13,14,13,15,2,7,7,1.0,Not Improved
+MBR100803,samuel.jones27@hotmail.com,Samuel,Jones,42,Female,2024-09-04,Supportive,True,20,21,21,21,1,3,1,0.33,Not Improved
+MBR100804,amanda.thompson62@icloud.com,Amanda,Thompson,56,Non-binary,2024-09-18,Supportive,True,10,9,12,16,6,5,2,0.4,Not Improved
+MBR100805,john.king66@yahoo.com,John,King,31,Female,2024-09-09,DBT,True,11,10,9,10,-1,5,4,0.8,Not Improved
+MBR100806,emily.walker26@gmail.com,Emily,Walker,40,Non-binary,2024-09-30,Mindfulness-Based,False,18,21,22,24,6,11,7,0.64,Not Improved
+MBR100807,matthew.taylor23@yahoo.com,Matthew,Taylor,61,Non-binary,2024-09-14,Supportive,False,14,15,14,17,3,6,3,0.5,Not Improved
+MBR100808,cynthia.ramirez77@outlook.com,Cynthia,Ramirez,70,Female,2024-09-29,Mindfulness-Based,False,19,17,20,22,3,9,4,0.44,Not Improved
+MBR100809,samuel.jones58@yahoo.com,Samuel,Jones,74,Male,2024-09-04,Supportive,True,18,18,21,23,5,9,6,0.67,Not Improved
+MBR100810,betty.lee55@yahoo.com,Betty,Lee,40,Male,2024-09-11,DBT,True,11,10,11,12,1,6,6,1.0,Not Improved
+MBR100811,alexander.smith92@outlook.com,Alexander,Smith,31,Female,2024-09-17,CBT,True,19,19,19,22,3,9,7,0.78,Not Improved
+MBR100812,sandra.miller72@outlook.com,Sandra,Miller,63,Non-binary,2024-09-07,Mindfulness-Based,False,20,18,21,25,5,9,7,0.78,Not Improved
+MBR100813,margaret.brown64@hotmail.com,Margaret,Brown,20,Female,2024-09-08,DBT,False,16,14,13,15,-1,10,6,0.6,Not Improved
+MBR100814,emma.johnson37@gmail.com,Emma,Johnson,59,Non-binary,2024-09-11,Mindfulness-Based,True,10,11,12,12,2,9,1,0.11,Not Improved
+MBR100815,raymond.johnson9@hotmail.com,Raymond,Johnson,24,Female,2024-09-16,Mindfulness-Based,False,14,14,15,16,2,10,2,0.2,Not Improved
+MBR100816,benjamin.brown51@outlook.com,Benjamin,Brown,62,Female,2024-09-27,CBT,True,17,20,19,20,3,4,1,0.25,Not Improved
+MBR100817,mary.rodriguez14@outlook.com,Mary,Rodriguez,73,Non-binary,2024-09-30,DBT,True,16,15,15,14,-2,12,6,0.5,Not Improved
+MBR100818,alexander.brown34@gmail.com,Alexander,Brown,25,Male,2024-09-19,Mindfulness-Based,True,14,12,13,14,0,7,5,0.71,Not Improved
+MBR100819,jacob.davis17@outlook.com,Jacob,Davis,73,Male,2024-09-09,CBT,False,19,20,22,26,7,11,4,0.36,Not Improved
+MBR100820,carol.roberts94@hotmail.com,Carol,Roberts,32,Male,2024-09-16,DBT,True,14,14,13,14,0,5,4,0.8,Not Improved
+MBR100821,linda.wilson2@yahoo.com,Linda,Wilson,47,Female,2024-09-23,DBT,False,13,14,13,14,1,12,6,0.5,Not Improved
+MBR100822,jacob.adams20@icloud.com,Jacob,Adams,24,Male,2024-09-09,DBT,True,13,13,15,17,4,8,7,0.88,Not Improved
+MBR100823,jeffrey.hernandez88@outlook.com,Jeffrey,Hernandez,73,Non-binary,2024-09-29,CBT,True,20,18,18,20,0,5,2,0.4,Not Improved
+MBR100824,jacob.lopez35@gmail.com,Jacob,Lopez,48,Non-binary,2024-09-07,CBT,False,18,19,20,21,3,7,2,0.29,Not Improved
+MBR100825,lisa.sanchez65@hotmail.com,Lisa,Sanchez,50,Female,2024-09-24,CBT,False,10,11,12,13,3,11,1,0.09,Not Improved
+MBR100826,jeffrey.gonzalez38@yahoo.com,Jeffrey,Gonzalez,43,Male,2024-09-21,Mindfulness-Based,True,19,19,22,25,6,7,7,1.0,Not Improved
+MBR100827,dorothy.davis29@gmail.com,Dorothy,Davis,21,Male,2024-09-13,CBT,False,19,19,19,18,-1,8,5,0.62,Not Improved
+MBR100828,edward.miller29@outlook.com,Edward,Miller,49,Male,2024-09-06,Supportive,True,12,11,12,16,4,5,5,1.0,Not Improved
+MBR100829,eric.hall80@hotmail.com,Eric,Hall,65,Female,2024-09-29,CBT,False,13,12,13,17,4,5,3,0.6,Not Improved
+MBR100830,jacob.martinez2@hotmail.com,Jacob,Martinez,45,Female,2024-09-16,DBT,False,10,9,10,9,-1,10,1,0.1,Not Improved
+MBR100831,scott.smith63@yahoo.com,Scott,Smith,48,Male,2024-09-25,Supportive,True,10,8,11,15,5,12,4,0.33,Not Improved
+MBR100832,charles.roberts13@gmail.com,Charles,Roberts,37,Non-binary,2024-09-12,Supportive,False,15,16,18,22,7,12,5,0.42,Not Improved
+MBR100833,jacob.smith46@outlook.com,Jacob,Smith,63,Female,2024-09-14,CBT,True,18,21,24,26,8,5,5,1.0,Not Improved
+MBR100834,mark.nelson19@outlook.com,Mark,Nelson,49,Male,2024-09-21,DBT,False,13,15,17,18,5,5,2,0.4,Not Improved
+MBR100835,jessica.moore81@icloud.com,Jessica,Moore,75,Female,2024-10-01,Supportive,False,18,17,18,22,4,9,6,0.67,Not Improved
+MBR100836,emily.martin25@gmail.com,Emily,Martin,55,Non-binary,2024-09-01,Mindfulness-Based,True,15,17,16,18,3,8,6,0.75,Not Improved
+MBR100837,angela.baker19@hotmail.com,Angela,Baker,61,Male,2024-09-03,DBT,False,18,18,21,24,6,12,5,0.42,Not Improved
+MBR100838,donna.smith59@gmail.com,Donna,Smith,31,Female,2024-09-22,Supportive,False,19,17,16,18,-1,7,1,0.14,Not Improved
+MBR100839,james.brown33@yahoo.com,James,Brown,40,Female,2024-09-14,CBT,True,18,21,24,24,6,7,5,0.71,Not Improved
+MBR100840,scott.garcia38@yahoo.com,Scott,Garcia,20,Female,2024-09-20,Mindfulness-Based,False,15,14,16,18,3,6,2,0.33,Not Improved
+MBR100841,michelle.lopez73@hotmail.com,Michelle,Lopez,61,Female,2024-09-10,DBT,True,19,18,18,19,0,11,7,0.64,Not Improved
+MBR100842,michelle.garcia39@icloud.com,Michelle,Garcia,58,Female,2024-09-23,CBT,False,18,17,19,21,3,11,3,0.27,Not Improved
+MBR100843,kevin.allen88@outlook.com,Kevin,Allen,47,Female,2024-10-01,Mindfulness-Based,True,16,17,19,21,5,9,1,0.11,Not Improved
+MBR100844,sharon.garcia97@yahoo.com,Sharon,Garcia,57,Female,2024-09-05,DBT,False,13,15,18,19,6,5,5,1.0,Not Improved
+MBR100845,rebecca.nelson1@hotmail.com,Rebecca,Nelson,69,Non-binary,2024-09-27,Supportive,True,17,15,14,13,-4,7,2,0.29,Not Improved
+MBR100846,donna.torres62@outlook.com,Donna,Torres,73,Male,2024-09-18,CBT,True,11,14,17,21,10,12,4,0.33,Not Improved
+MBR100847,jack.young18@yahoo.com,Jack,Young,75,Non-binary,2024-09-04,Supportive,True,20,19,20,24,4,8,1,0.12,Not Improved
+MBR100848,william.smith20@icloud.com,William,Smith,74,Male,2024-09-13,CBT,False,18,16,16,16,-2,8,8,1.0,Not Improved
+MBR100849,linda.davis39@hotmail.com,Linda,Davis,48,Male,2024-09-21,Mindfulness-Based,True,13,15,16,19,6,8,2,0.25,Not Improved
+MBR100850,john.lopez19@yahoo.com,John,Lopez,28,Non-binary,2024-09-12,Supportive,False,18,17,19,21,3,6,5,0.83,Not Improved
+MBR100851,debra.moore51@hotmail.com,Debra,Moore,62,Male,2024-09-19,CBT,True,17,18,20,20,3,12,5,0.42,Not Improved
+MBR100852,stephanie.smith75@outlook.com,Stephanie,Smith,20,Non-binary,2024-09-29,CBT,False,20,23,26,27,7,7,6,0.86,Not Improved
+MBR100853,raymond.robinson36@gmail.com,Raymond,Robinson,28,Female,2024-09-12,Mindfulness-Based,True,18,20,20,21,3,4,2,0.5,Not Improved
+MBR100854,christine.campbell73@outlook.com,Christine,Campbell,47,Non-binary,2024-09-20,CBT,False,12,12,13,15,3,11,8,0.73,Not Improved
+MBR100855,gregory.lopez74@icloud.com,Gregory,Lopez,67,Non-binary,2024-09-03,Supportive,False,18,18,18,22,4,10,6,0.6,Not Improved
+MBR100856,jennifer.johnson94@yahoo.com,Jennifer,Johnson,32,Male,2024-09-25,Mindfulness-Based,True,20,18,20,24,4,12,6,0.5,Not Improved
+MBR100857,catherine.thomas14@yahoo.com,Catherine,Thomas,64,Female,2024-09-15,Supportive,True,16,14,13,16,0,2,2,1.0,Not Improved
+MBR100858,deborah.hill81@gmail.com,Deborah,Hill,29,Female,2024-09-16,DBT,False,11,14,16,18,7,7,4,0.57,Not Improved
+MBR100859,ryan.baker37@yahoo.com,Ryan,Baker,30,Non-binary,2024-09-07,CBT,True,12,13,16,16,4,11,1,0.09,Not Improved
+MBR100860,robert.rodriguez1@outlook.com,Robert,Rodriguez,67,Female,2024-09-19,DBT,True,19,21,20,21,2,9,8,0.89,Not Improved
+MBR100861,gary.allen46@outlook.com,Gary,Allen,57,Non-binary,2024-09-05,Mindfulness-Based,True,12,10,12,14,2,11,2,0.18,Not Improved
+MBR100862,jonathan.martin13@gmail.com,Jonathan,Martin,49,Male,2024-09-13,CBT,False,10,12,15,16,6,8,4,0.5,Not Improved
+MBR100863,patrick.thompson9@yahoo.com,Patrick,Thompson,36,Male,2024-09-18,Supportive,True,18,20,20,23,5,11,7,0.64,Not Improved
+MBR100864,carolyn.davis75@hotmail.com,Carolyn,Davis,34,Non-binary,2024-09-05,Supportive,True,10,8,9,11,1,9,4,0.44,Not Improved
+MBR100865,anthony.scott94@outlook.com,Anthony,Scott,66,Non-binary,2024-09-20,CBT,False,10,9,11,10,0,6,6,1.0,Not Improved
+MBR100866,jack.flores11@icloud.com,Jack,Flores,48,Male,2024-09-21,CBT,True,14,17,16,15,1,12,8,0.67,Not Improved
+MBR100867,george.ramirez62@outlook.com,George,Ramirez,68,Male,2024-09-02,Mindfulness-Based,False,10,8,7,7,-3,9,1,0.11,Not Improved
+MBR100868,stephanie.roberts49@yahoo.com,Stephanie,Roberts,45,Non-binary,2024-09-12,Mindfulness-Based,False,16,18,18,17,1,11,2,0.18,Not Improved
+MBR100869,matthew.perez56@gmail.com,Matthew,Perez,33,Male,2024-09-27,Mindfulness-Based,True,11,13,12,12,1,1,1,1.0,Not Improved
+MBR100870,linda.jones8@yahoo.com,Linda,Jones,46,Male,2024-09-16,DBT,False,14,12,13,14,0,7,5,0.71,Not Improved
+MBR100871,gregory.davis85@gmail.com,Gregory,Davis,22,Female,2024-10-01,Supportive,False,18,17,19,23,5,11,4,0.36,Not Improved
+MBR100872,timothy.roberts71@outlook.com,Timothy,Roberts,73,Non-binary,2024-09-23,CBT,False,13,15,16,17,4,6,1,0.17,Not Improved
+MBR100873,samantha.young36@gmail.com,Samantha,Young,31,Male,2024-09-02,DBT,True,18,17,18,22,4,7,2,0.29,Not Improved
+MBR100874,donald.hall57@hotmail.com,Donald,Hall,25,Male,2024-09-09,Mindfulness-Based,True,17,15,16,17,0,6,5,0.83,Not Improved
+MBR100875,benjamin.harris64@gmail.com,Benjamin,Harris,73,Female,2024-09-18,DBT,False,16,17,16,16,0,8,7,0.88,Not Improved
+MBR100876,michael.nelson40@gmail.com,Michael,Nelson,52,Female,2024-09-28,DBT,False,10,12,13,14,4,6,1,0.17,Not Improved
+MBR100877,jeffrey.campbell95@gmail.com,Jeffrey,Campbell,69,Male,2024-09-06,Mindfulness-Based,False,18,19,20,23,5,11,7,0.64,Not Improved
+MBR100878,ronald.robinson96@yahoo.com,Ronald,Robinson,26,Male,2024-09-02,DBT,False,14,17,18,17,3,10,5,0.5,Not Improved
+MBR100879,benjamin.moore47@outlook.com,Benjamin,Moore,60,Female,2024-09-28,Supportive,False,20,22,21,20,0,12,6,0.5,Not Improved
+MBR100880,daniel.lewis60@gmail.com,Daniel,Lewis,46,Male,2024-09-09,DBT,True,17,15,16,18,1,7,7,1.0,Not Improved
+MBR100881,benjamin.scott41@gmail.com,Benjamin,Scott,46,Male,2024-09-28,DBT,True,14,14,15,17,3,6,4,0.67,Not Improved
+MBR100882,samantha.adams7@yahoo.com,Samantha,Adams,25,Non-binary,2024-09-02,Supportive,True,10,9,12,14,4,9,1,0.11,Not Improved
+MBR100883,janet.taylor33@gmail.com,Janet,Taylor,61,Female,2024-09-17,DBT,True,18,21,20,23,5,6,6,1.0,Not Improved
+MBR100884,ryan.davis66@gmail.com,Ryan,Davis,33,Male,2024-09-29,Mindfulness-Based,False,15,17,18,22,7,12,2,0.17,Not Improved
+MBR100885,andrew.martinez4@outlook.com,Andrew,Martinez,56,Female,2024-09-02,Supportive,False,15,16,17,19,4,3,1,0.33,Not Improved
+MBR100886,donna.martinez76@gmail.com,Donna,Martinez,24,Non-binary,2024-09-22,Supportive,True,13,13,16,20,7,10,4,0.4,Not Improved
+MBR100887,raymond.martinez49@gmail.com,Raymond,Martinez,22,Male,2024-09-20,Mindfulness-Based,True,19,21,24,27,8,10,2,0.2,Not Improved
+MBR100888,gary.nelson68@icloud.com,Gary,Nelson,46,Female,2024-09-08,DBT,False,14,13,16,17,3,7,6,0.86,Not Improved
+MBR100889,jacob.lee96@gmail.com,Jacob,Lee,62,Male,2024-09-30,CBT,True,17,20,22,23,6,10,6,0.6,Not Improved
+MBR100890,timothy.adams62@icloud.com,Timothy,Adams,32,Female,2024-09-20,DBT,True,16,15,18,18,2,12,7,0.58,Not Improved
+MBR100891,kimberly.jackson44@outlook.com,Kimberly,Jackson,25,Male,2024-09-01,Mindfulness-Based,False,16,17,20,20,4,6,4,0.67,Not Improved
+MBR100892,nancy.davis54@outlook.com,Nancy,Davis,66,Non-binary,2024-09-03,CBT,True,17,20,19,19,2,7,7,1.0,Not Improved
+MBR100893,thomas.allen68@hotmail.com,Thomas,Allen,75,Female,2024-09-29,DBT,False,15,14,16,20,5,6,5,0.83,Not Improved
+MBR100894,amanda.nguyen78@icloud.com,Amanda,Nguyen,24,Non-binary,2024-09-25,Mindfulness-Based,False,10,8,9,11,1,11,8,0.73,Not Improved
+MBR100895,amy.hall18@yahoo.com,Amy,Hall,64,Non-binary,2024-09-15,Supportive,False,18,16,16,15,-3,11,8,0.73,Not Improved
+MBR100896,daniel.allen93@icloud.com,Daniel,Allen,35,Male,2024-09-13,CBT,False,13,13,15,16,3,9,7,0.78,Not Improved
+MBR100897,kevin.carter23@yahoo.com,Kevin,Carter,20,Non-binary,2024-09-06,Supportive,False,13,14,17,18,5,7,2,0.29,Not Improved
+MBR100898,sarah.jackson36@hotmail.com,Sarah,Jackson,46,Male,2024-09-04,CBT,True,12,12,13,16,4,8,4,0.5,Not Improved
+MBR100899,anthony.scott66@yahoo.com,Anthony,Scott,19,Non-binary,2024-09-07,CBT,False,10,12,15,15,5,8,8,1.0,Not Improved
+MBR100900,andrew.torres55@hotmail.com,Andrew,Torres,51,Male,2024-09-09,CBT,False,17,17,16,20,3,11,8,0.73,Not Improved
+MBR100901,susan.rodriguez36@gmail.com,Susan,Rodriguez,40,Male,2024-09-21,DBT,False,13,16,15,16,3,8,6,0.75,Not Improved
+MBR100902,jack.allen87@gmail.com,Jack,Allen,63,Non-binary,2024-10-01,Supportive,True,15,13,15,14,-1,12,4,0.33,Not Improved
+MBR100903,katherine.green2@yahoo.com,Katherine,Green,26,Non-binary,2024-09-24,Mindfulness-Based,True,16,15,15,16,0,10,3,0.3,Not Improved
+MBR100904,angela.jackson17@yahoo.com,Angela,Jackson,58,Male,2024-09-23,Mindfulness-Based,True,18,21,21,20,2,9,2,0.22,Not Improved
+MBR100905,daniel.williams54@outlook.com,Daniel,Williams,57,Female,2024-09-29,Supportive,True,20,22,22,26,6,12,8,0.67,Not Improved
+MBR100906,joshua.anderson38@hotmail.com,Joshua,Anderson,49,Non-binary,2024-09-04,Mindfulness-Based,True,16,18,19,22,6,6,5,0.83,Not Improved
+MBR100907,andrew.clark58@outlook.com,Andrew,Clark,33,Non-binary,2024-09-23,Supportive,False,16,14,14,16,0,7,2,0.29,Not Improved
+MBR100908,thomas.roberts62@hotmail.com,Thomas,Roberts,56,Female,2024-09-18,Supportive,True,20,19,18,19,-1,10,4,0.4,Not Improved
+MBR100909,carol.taylor87@outlook.com,Carol,Taylor,44,Female,2024-09-11,CBT,True,17,18,20,21,4,12,5,0.42,Not Improved
+MBR100910,katherine.williams40@hotmail.com,Katherine,Williams,44,Male,2024-10-01,CBT,True,19,18,21,21,2,7,6,0.86,Not Improved
+MBR100911,raymond.johnson49@gmail.com,Raymond,Johnson,67,Non-binary,2024-09-06,CBT,True,15,15,18,17,2,9,4,0.44,Not Improved
+MBR100912,stephen.sanchez92@yahoo.com,Stephen,Sanchez,36,Male,2024-09-25,DBT,True,15,15,17,17,2,1,1,1.0,Not Improved
+MBR100913,anna.miller65@hotmail.com,Anna,Miller,68,Female,2024-09-09,CBT,True,10,9,10,11,1,7,4,0.57,Not Improved
+MBR100914,maria.davis49@hotmail.com,Maria,Davis,26,Non-binary,2024-09-04,Mindfulness-Based,True,14,12,11,10,-4,1,1,1.0,Not Improved
+MBR100915,jack.nguyen51@yahoo.com,Jack,Nguyen,71,Non-binary,2024-09-07,CBT,False,14,14,16,19,5,9,5,0.56,Not Improved
+MBR100916,richard.taylor84@icloud.com,Richard,Taylor,48,Female,2024-09-30,Mindfulness-Based,False,14,15,14,14,0,12,5,0.42,Not Improved
+MBR100917,carolyn.wright65@yahoo.com,Carolyn,Wright,42,Male,2024-09-13,CBT,True,17,20,22,23,6,9,8,0.89,Not Improved
+MBR100918,ashley.lewis48@hotmail.com,Ashley,Lewis,54,Male,2024-09-07,CBT,True,20,20,21,21,1,10,2,0.2,Not Improved
+MBR100919,nicholas.nguyen32@gmail.com,Nicholas,Nguyen,27,Female,2024-09-14,DBT,False,19,20,23,27,8,8,1,0.12,Not Improved
+MBR100920,michelle.mitchell44@yahoo.com,Michelle,Mitchell,20,Female,2024-09-18,Supportive,False,19,21,23,22,3,12,4,0.33,Not Improved
+MBR100921,angela.lee84@yahoo.com,Angela,Lee,38,Female,2024-09-13,CBT,True,17,19,22,26,9,8,2,0.25,Not Improved
+MBR100922,thomas.carter2@yahoo.com,Thomas,Carter,51,Non-binary,2024-09-06,CBT,False,11,10,10,12,1,7,1,0.14,Not Improved
+MBR100923,samuel.king63@yahoo.com,Samuel,King,65,Non-binary,2024-09-17,CBT,False,16,17,16,17,1,9,7,0.78,Not Improved
+MBR100924,carol.flores48@icloud.com,Carol,Flores,59,Male,2024-09-16,DBT,False,12,12,15,19,7,10,6,0.6,Not Improved
+MBR100925,kathleen.wilson43@yahoo.com,Kathleen,Wilson,28,Non-binary,2024-09-01,DBT,True,17,15,16,18,1,10,3,0.3,Not Improved
+MBR100926,michelle.hall25@yahoo.com,Michelle,Hall,62,Male,2024-09-03,CBT,True,18,19,20,19,1,12,8,0.67,Not Improved
+MBR100927,george.green72@yahoo.com,George,Green,40,Non-binary,2024-09-30,Mindfulness-Based,False,10,9,10,11,1,10,5,0.5,Not Improved
+MBR100928,steven.scott70@yahoo.com,Steven,Scott,22,Non-binary,2024-09-26,DBT,True,12,10,10,11,-1,6,5,0.83,Not Improved
+MBR100929,jonathan.nguyen83@hotmail.com,Jonathan,Nguyen,39,Non-binary,2024-09-26,Mindfulness-Based,True,19,21,22,26,7,6,4,0.67,Not Improved
+MBR100930,ashley.wilson12@icloud.com,Ashley,Wilson,27,Male,2024-09-14,CBT,False,12,13,12,13,1,3,1,0.33,Not Improved
+MBR100931,debra.walker42@outlook.com,Debra,Walker,50,Male,2024-09-27,Mindfulness-Based,False,13,15,17,19,6,10,8,0.8,Not Improved
+MBR100932,jonathan.lee68@gmail.com,Jonathan,Lee,74,Non-binary,2024-09-16,DBT,False,13,12,13,17,4,11,7,0.64,Not Improved
+MBR100933,alexander.taylor88@gmail.com,Alexander,Taylor,53,Female,2024-09-07,Supportive,False,20,20,20,19,-1,10,8,0.8,Not Improved
+MBR100934,benjamin.scott25@hotmail.com,Benjamin,Scott,41,Male,2024-09-11,DBT,False,10,9,11,12,2,10,1,0.1,Not Improved
+MBR100935,richard.white33@icloud.com,Richard,White,18,Non-binary,2024-09-09,Mindfulness-Based,False,14,12,13,17,3,7,7,1.0,Not Improved
+MBR100936,samuel.brown74@gmail.com,Samuel,Brown,73,Non-binary,2024-09-02,DBT,True,17,19,21,23,6,12,8,0.67,Not Improved
+MBR100937,deborah.johnson79@yahoo.com,Deborah,Johnson,63,Non-binary,2024-09-11,CBT,True,12,11,10,12,0,8,1,0.12,Not Improved
+MBR100938,richard.wright36@yahoo.com,Richard,Wright,59,Non-binary,2024-10-01,DBT,True,10,10,11,15,5,10,6,0.6,Not Improved
+MBR100939,debra.sanchez54@gmail.com,Debra,Sanchez,22,Male,2024-09-20,DBT,False,18,17,18,17,-1,8,8,1.0,Not Improved
+MBR100940,margaret.hall65@hotmail.com,Margaret,Hall,29,Non-binary,2024-09-19,Supportive,False,10,10,11,14,4,7,2,0.29,Not Improved
+MBR100941,carolyn.garcia73@hotmail.com,Carolyn,Garcia,23,Male,2024-09-07,Supportive,True,11,10,9,9,-2,3,1,0.33,Not Improved
+MBR100942,katherine.white59@gmail.com,Katherine,White,74,Non-binary,2024-09-23,DBT,False,13,13,13,17,4,5,5,1.0,Not Improved
+MBR100943,andrew.lopez36@yahoo.com,Andrew,Lopez,54,Female,2024-09-23,DBT,False,16,15,15,16,0,7,3,0.43,Not Improved
+MBR100944,ryan.taylor12@hotmail.com,Ryan,Taylor,40,Non-binary,2024-09-05,DBT,False,15,15,18,20,5,10,1,0.1,Not Improved
+MBR100945,stephen.torres27@hotmail.com,Stephen,Torres,40,Non-binary,2024-09-09,Supportive,True,20,20,20,21,1,10,2,0.2,Not Improved
+MBR100946,sandra.robinson34@gmail.com,Sandra,Robinson,25,Non-binary,2024-09-12,DBT,False,20,23,23,25,5,12,8,0.67,Not Improved
+MBR100947,justin.harris85@icloud.com,Justin,Harris,75,Male,2024-09-16,Supportive,False,15,18,17,21,6,3,1,0.33,Not Improved
+MBR100948,brian.perez83@gmail.com,Brian,Perez,29,Female,2024-09-19,DBT,False,14,13,15,18,4,8,1,0.12,Not Improved
+MBR100949,emma.hall56@hotmail.com,Emma,Hall,48,Male,2024-09-02,Supportive,False,14,17,18,21,7,11,8,0.73,Not Improved
+MBR100950,ashley.carter65@gmail.com,Ashley,Carter,44,Female,2024-09-30,CBT,True,14,16,18,21,7,11,3,0.27,Not Improved
+MBR100951,joshua.hill90@icloud.com,Joshua,Hill,30,Non-binary,2024-09-15,CBT,False,12,11,12,11,-1,7,5,0.71,Not Improved
+MBR100952,edward.hernandez59@gmail.com,Edward,Hernandez,60,Male,2024-09-14,CBT,True,13,12,13,14,1,6,3,0.5,Not Improved
+MBR100953,susan.campbell32@yahoo.com,Susan,Campbell,61,Non-binary,2024-09-23,Supportive,False,15,13,15,15,0,9,2,0.22,Not Improved
+MBR100954,sandra.walker86@hotmail.com,Sandra,Walker,71,Female,2024-09-29,Supportive,False,13,11,13,13,0,9,3,0.33,Not Improved
+MBR100955,andrew.baker94@hotmail.com,Andrew,Baker,56,Female,2024-09-12,CBT,True,18,16,17,19,1,6,4,0.67,Not Improved
+MBR100956,timothy.perez65@gmail.com,Timothy,Perez,57,Non-binary,2024-09-10,Mindfulness-Based,True,16,14,14,14,-2,4,4,1.0,Not Improved
+MBR100957,laura.garcia44@hotmail.com,Laura,Garcia,59,Male,2024-10-01,Mindfulness-Based,False,16,15,16,17,1,8,8,1.0,Not Improved
+MBR100958,sharon.lopez21@hotmail.com,Sharon,Lopez,61,Non-binary,2024-09-11,CBT,True,11,12,11,12,1,7,7,1.0,Not Improved
+MBR100959,thomas.torres65@hotmail.com,Thomas,Torres,61,Female,2024-09-24,CBT,False,10,11,13,15,5,11,5,0.45,Not Improved
+MBR100960,katherine.davis78@hotmail.com,Katherine,Davis,50,Female,2024-09-18,Supportive,False,17,20,21,24,7,4,2,0.5,Not Improved
+MBR100961,stephanie.baker11@yahoo.com,Stephanie,Baker,18,Female,2024-09-10,Mindfulness-Based,False,19,19,19,22,3,7,7,1.0,Not Improved
+MBR100962,jennifer.davis63@hotmail.com,Jennifer,Davis,41,Male,2024-09-25,Mindfulness-Based,False,19,22,23,24,5,11,6,0.55,Not Improved
+MBR100963,patricia.wright35@yahoo.com,Patricia,Wright,36,Female,2024-09-12,Supportive,True,16,14,16,17,1,10,1,0.1,Not Improved
+MBR100964,catherine.williams69@hotmail.com,Catherine,Williams,33,Male,2024-09-12,DBT,False,11,13,12,12,1,11,8,0.73,Not Improved
+MBR100965,jacob.hall80@yahoo.com,Jacob,Hall,70,Non-binary,2024-09-05,CBT,True,18,20,22,21,3,8,6,0.75,Not Improved
+MBR100966,helen.campbell82@gmail.com,Helen,Campbell,42,Non-binary,2024-09-24,Mindfulness-Based,False,11,11,12,14,3,3,1,0.33,Not Improved
+MBR100967,christine.mitchell11@hotmail.com,Christine,Mitchell,25,Male,2024-09-07,DBT,False,19,19,20,23,4,6,1,0.17,Not Improved
+MBR100968,laura.moore96@yahoo.com,Laura,Moore,35,Non-binary,2024-09-14,DBT,True,20,18,21,23,3,9,5,0.56,Not Improved
+MBR100969,anthony.johnson54@yahoo.com,Anthony,Johnson,35,Female,2024-09-08,DBT,False,17,19,20,19,2,4,4,1.0,Not Improved
+MBR100970,william.flores37@icloud.com,William,Flores,70,Female,2024-09-11,Mindfulness-Based,True,19,20,23,24,5,12,8,0.67,Not Improved
+MBR100971,amanda.lee45@hotmail.com,Amanda,Lee,27,Female,2024-09-02,DBT,False,17,16,19,23,6,9,7,0.78,Not Improved
+MBR100972,gregory.torres11@hotmail.com,Gregory,Torres,53,Female,2024-09-22,Supportive,False,11,10,13,14,3,10,5,0.5,Not Improved
+MBR100973,kathleen.johnson20@icloud.com,Kathleen,Johnson,55,Male,2024-09-08,Mindfulness-Based,False,19,19,22,24,5,5,1,0.2,Not Improved
+MBR100974,ronald.wright17@hotmail.com,Ronald,Wright,56,Male,2024-09-25,CBT,True,11,12,12,12,1,7,5,0.71,Not Improved
+MBR100975,jack.sanchez71@hotmail.com,Jack,Sanchez,40,Male,2024-09-17,Supportive,False,16,18,19,20,4,12,2,0.17,Not Improved
+MBR100976,stephen.wright51@yahoo.com,Stephen,Wright,72,Female,2024-09-01,DBT,False,17,18,19,21,4,9,3,0.33,Not Improved
+MBR100977,stephen.perez98@hotmail.com,Stephen,Perez,59,Male,2024-09-21,Mindfulness-Based,True,20,18,20,23,3,10,7,0.7,Not Improved
+MBR100978,patricia.flores29@yahoo.com,Patricia,Flores,57,Non-binary,2024-09-06,Mindfulness-Based,True,18,16,19,22,4,6,1,0.17,Not Improved
+MBR100979,justin.green61@gmail.com,Justin,Green,41,Male,2024-09-24,DBT,False,19,22,24,27,8,10,3,0.3,Not Improved
+MBR100980,donald.lopez61@yahoo.com,Donald,Lopez,38,Male,2024-09-08,Mindfulness-Based,False,14,12,11,11,-3,9,8,0.89,Not Improved
+MBR100981,daniel.robinson65@gmail.com,Daniel,Robinson,69,Non-binary,2024-09-22,CBT,True,15,14,14,16,1,12,1,0.08,Not Improved
+MBR100982,frank.clark67@hotmail.com,Frank,Clark,73,Female,2024-09-27,CBT,False,11,12,13,17,6,8,1,0.12,Not Improved
+MBR100983,raymond.brown38@hotmail.com,Raymond,Brown,71,Non-binary,2024-09-05,Mindfulness-Based,True,10,10,12,16,6,7,7,1.0,Not Improved
+MBR100984,kimberly.carter75@gmail.com,Kimberly,Carter,64,Male,2024-09-04,DBT,False,15,16,17,17,2,9,8,0.89,Not Improved
+MBR100985,brian.adams89@gmail.com,Brian,Adams,47,Non-binary,2024-09-23,Supportive,False,17,16,17,18,1,10,8,0.8,Not Improved
+MBR100986,kimberly.torres36@icloud.com,Kimberly,Torres,20,Male,2024-09-23,DBT,False,12,14,15,14,2,10,6,0.6,Not Improved
+MBR100987,donna.martin92@yahoo.com,Donna,Martin,54,Non-binary,2024-09-20,Supportive,True,14,15,17,21,7,5,3,0.6,Not Improved
+MBR100988,donna.harris33@yahoo.com,Donna,Harris,19,Male,2024-09-16,CBT,False,19,19,19,22,3,10,5,0.5,Not Improved
+MBR100989,samantha.hernandez45@yahoo.com,Samantha,Hernandez,55,Non-binary,2024-09-06,Mindfulness-Based,False,15,17,18,20,5,11,3,0.27,Not Improved
+MBR100990,amy.harris2@gmail.com,Amy,Harris,39,Male,2024-09-12,Supportive,True,14,13,13,13,-1,12,2,0.17,Not Improved
+MBR100991,angela.robinson73@gmail.com,Angela,Robinson,71,Non-binary,2024-10-01,CBT,True,18,17,17,18,0,12,7,0.58,Not Improved
+MBR100992,brian.allen9@outlook.com,Brian,Allen,53,Non-binary,2024-09-23,DBT,True,18,16,15,17,-1,8,4,0.5,Not Improved
+MBR100993,christine.thomas30@hotmail.com,Christine,Thomas,29,Male,2024-09-17,CBT,True,19,19,22,23,4,5,4,0.8,Not Improved
+MBR100994,joshua.brown27@yahoo.com,Joshua,Brown,33,Non-binary,2024-09-07,CBT,True,19,20,22,21,2,12,6,0.5,Not Improved
+MBR100995,amy.davis57@gmail.com,Amy,Davis,48,Male,2024-09-28,Mindfulness-Based,False,11,13,16,16,5,5,5,1.0,Not Improved
+MBR100996,joseph.campbell57@yahoo.com,Joseph,Campbell,55,Non-binary,2024-09-11,Mindfulness-Based,True,19,20,19,20,1,12,5,0.42,Not Improved
+MBR100997,eric.walker66@outlook.com,Eric,Walker,59,Female,2024-09-25,Supportive,True,14,16,16,17,3,12,5,0.42,Not Improved
+MBR100998,betty.young1@outlook.com,Betty,Young,75,Non-binary,2024-09-04,CBT,False,17,18,18,18,1,12,7,0.58,Not Improved
+MBR100999,ryan.perez82@icloud.com,Ryan,Perez,70,Male,2024-09-04,Supportive,False,13,11,11,11,-2,10,5,0.5,Not Improved
