@@ -1,0 +1,1001 @@
+member_id,email,first_name,last_name,age,gender,enrollment_date,therapy_type,on_medication,phq9_day0,phq9_day30,phq9_day60,phq9_day90,score_change_90d,sessions_scheduled,sessions_attended,attendance_rate,outcome_label
+SYN000000,joseph.johnson95@outlook.com,Joseph,Johnson,62,Male,2024-09-08,Mindfulness-Based,False,16,14,11,7,-9,7,5,0.71,Improved
+SYN000001,jessica.baker95@icloud.com,Jessica,Baker,21,Male,2024-09-19,Supportive,False,13,10,9,8,-5,8,3,0.38,Improved
+SYN000002,patricia.garcia28@yahoo.com,Patricia,Garcia,61,Non-binary,2024-09-18,Supportive,False,19,17,15,14,-5,6,5,0.83,Improved
+SYN000003,sharon.anderson58@icloud.com,Sharon,Anderson,60,Male,2024-09-26,CBT,True,15,12,14,12,-3,8,1,0.12,Not Improved
+SYN000004,christopher.hall55@outlook.com,Christopher,Hall,48,Male,2024-09-05,Mindfulness-Based,False,14,13,11,12,-2,6,5,0.83,Not Improved
+SYN000005,amanda.miller12@hotmail.com,Amanda,Miller,64,Male,2024-09-12,Supportive,True,12,9,5,2,-10,5,5,1.0,Improved
+SYN000006,kimberly.williams94@hotmail.com,Kimberly,Williams,52,Female,2024-09-30,Supportive,False,17,12,10,6,-11,9,4,0.44,Improved
+SYN000007,donna.green80@outlook.com,Donna,Green,58,Male,2024-09-23,CBT,False,15,13,11,10,-5,7,6,0.86,Improved
+SYN000008,ashley.jackson11@yahoo.com,Ashley,Jackson,57,Male,2024-09-13,Supportive,False,18,15,14,11,-7,8,7,0.88,Improved
+SYN000009,george.hernandez48@outlook.com,George,Hernandez,43,Female,2024-09-22,DBT,False,16,13,11,9,-7,3,2,0.67,Improved
+SYN000010,barbara.hill82@yahoo.com,Barbara,Hill,42,Male,2024-09-06,DBT,False,15,13,12,10,-5,8,7,0.88,Improved
+SYN000011,paul.green89@icloud.com,Paul,Green,47,Female,2024-09-22,CBT,False,18,14,11,10,-8,12,9,0.75,Improved
+SYN000012,linda.anderson5@outlook.com,Linda,Anderson,43,Female,2024-09-09,CBT,False,15,13,10,13,-2,4,2,0.5,Not Improved
+SYN000013,joshua.wilson84@hotmail.com,Joshua,Wilson,65,Non-binary,2024-09-29,Mindfulness-Based,True,17,14,15,18,1,3,2,0.67,Not Improved
+SYN000014,ryan.martinez34@yahoo.com,Ryan,Martinez,26,Non-binary,2024-09-24,CBT,True,15,12,11,9,-6,8,5,0.62,Improved
+SYN000015,kimberly.mitchell75@hotmail.com,Kimberly,Mitchell,48,Male,2024-09-12,CBT,False,11,12,15,14,3,10,7,0.7,Not Improved
+SYN000016,karen.allen64@gmail.com,Karen,Allen,45,Male,2024-09-28,CBT,False,14,11,9,6,-8,8,8,1.0,Improved
+SYN000017,christopher.baker55@icloud.com,Christopher,Baker,59,Non-binary,2024-09-13,Supportive,False,11,8,6,3,-8,9,7,0.78,Improved
+SYN000018,kathleen.king33@icloud.com,Kathleen,King,47,Non-binary,2024-09-22,DBT,True,15,14,12,9,-6,5,3,0.6,Improved
+SYN000019,paul.adams44@gmail.com,Paul,Adams,27,Male,2024-09-14,DBT,False,10,8,10,12,2,9,5,0.56,Not Improved
+SYN000020,james.campbell93@outlook.com,James,Campbell,31,Female,2024-09-17,Mindfulness-Based,True,10,8,7,6,-4,9,6,0.67,Improved
+SYN000021,kenneth.green65@icloud.com,Kenneth,Green,63,Male,2024-09-05,Supportive,False,13,10,9,3,-10,12,9,0.75,Improved
+SYN000022,christopher.wright68@gmail.com,Christopher,Wright,52,Female,2024-09-16,Supportive,False,13,11,15,15,2,7,6,0.86,Not Improved
+SYN000023,george.martin31@gmail.com,George,Martin,18,Female,2024-09-29,DBT,True,20,19,18,16,-4,12,10,0.83,Improved
+SYN000024,david.garcia94@hotmail.com,David,Garcia,43,Female,2024-09-25,Mindfulness-Based,True,10,8,7,5,-5,12,8,0.67,Improved
+SYN000025,thomas.rodriguez85@hotmail.com,Thomas,Rodriguez,38,Female,2024-09-09,Mindfulness-Based,True,15,14,10,9,-6,12,9,0.75,Improved
+SYN000026,jason.wilson70@yahoo.com,Jason,Wilson,55,Non-binary,2024-09-13,Mindfulness-Based,True,15,13,13,15,0,12,6,0.5,Not Improved
+SYN000027,deborah.lewis67@hotmail.com,Deborah,Lewis,46,Non-binary,2024-09-08,Supportive,False,12,11,10,8,-4,11,10,0.91,Improved
+SYN000028,amanda.johnson76@icloud.com,Amanda,Johnson,66,Non-binary,2024-09-19,Mindfulness-Based,False,18,16,13,11,-7,6,4,0.67,Improved
+SYN000029,barbara.rivera81@gmail.com,Barbara,Rivera,56,Male,2024-09-03,CBT,True,11,10,8,7,-4,12,7,0.58,Improved
+SYN000030,kevin.jones66@yahoo.com,Kevin,Jones,35,Male,2024-09-22,Mindfulness-Based,False,19,18,19,21,2,10,8,0.8,Not Improved
+SYN000031,thomas.campbell74@icloud.com,Thomas,Campbell,67,Female,2024-09-08,Mindfulness-Based,True,19,14,18,18,-1,7,3,0.43,Not Improved
+SYN000032,edward.gonzalez13@gmail.com,Edward,Gonzalez,54,Female,2024-09-12,DBT,False,17,14,13,15,-2,9,3,0.33,Not Improved
+SYN000033,kathleen.campbell7@gmail.com,Kathleen,Campbell,43,Female,2024-09-13,DBT,True,15,13,8,4,-11,12,7,0.58,Improved
+SYN000034,jessica.thomas25@yahoo.com,Jessica,Thomas,45,Non-binary,2024-09-05,Mindfulness-Based,False,10,6,7,9,-1,10,4,0.4,Not Improved
+SYN000035,emily.robinson32@gmail.com,Emily,Robinson,44,Non-binary,2024-09-26,Mindfulness-Based,True,14,14,12,13,-1,7,3,0.43,Not Improved
+SYN000036,richard.brown84@icloud.com,Richard,Brown,33,Non-binary,2024-09-03,DBT,True,14,9,7,5,-9,3,1,0.33,Improved
+SYN000037,donald.hernandez53@hotmail.com,Donald,Hernandez,70,Male,2024-09-07,CBT,True,14,14,18,19,5,11,7,0.64,Not Improved
+SYN000038,linda.hernandez49@gmail.com,Linda,Hernandez,62,Non-binary,2024-09-09,CBT,True,17,13,16,18,1,7,7,1.0,Not Improved
+SYN000039,ryan.jackson55@icloud.com,Ryan,Jackson,44,Male,2024-09-05,CBT,False,16,15,17,17,1,3,1,0.33,Not Improved
+SYN000040,sandra.brown75@icloud.com,Sandra,Brown,33,Male,2024-09-24,CBT,False,14,13,10,7,-7,7,6,0.86,Improved
+SYN000041,michael.nguyen62@icloud.com,Michael,Nguyen,60,Non-binary,2024-09-02,CBT,True,13,12,10,8,-5,3,2,0.67,Improved
+SYN000042,david.lopez9@icloud.com,David,Lopez,60,Non-binary,2024-09-22,DBT,True,13,11,10,4,-9,7,7,1.0,Improved
+SYN000043,rebecca.davis73@yahoo.com,Rebecca,Davis,29,Female,2024-09-20,CBT,False,11,10,8,4,-7,3,2,0.67,Improved
+SYN000044,joshua.taylor27@outlook.com,Joshua,Taylor,39,Male,2024-09-09,Supportive,False,12,9,6,2,-10,9,6,0.67,Improved
+SYN000045,kenneth.robinson41@gmail.com,Kenneth,Robinson,39,Male,2024-09-15,CBT,True,20,15,14,13,-7,10,7,0.7,Improved
+SYN000046,richard.jones69@yahoo.com,Richard,Jones,34,Non-binary,2024-09-05,Mindfulness-Based,True,13,11,10,11,-2,10,6,0.6,Not Improved
+SYN000047,william.thomas48@outlook.com,William,Thomas,39,Female,2024-09-15,Supportive,True,13,7,3,0,-13,5,4,0.8,Improved
+SYN000048,kenneth.flores84@icloud.com,Kenneth,Flores,36,Non-binary,2024-09-22,Mindfulness-Based,True,14,13,11,5,-9,3,2,0.67,Improved
+SYN000049,kenneth.nelson14@yahoo.com,Kenneth,Nelson,54,Non-binary,2024-09-04,CBT,True,17,15,20,17,0,4,2,0.5,Not Improved
+SYN000050,lisa.moore37@icloud.com,Lisa,Moore,42,Non-binary,2024-09-23,Supportive,False,20,18,15,13,-7,7,4,0.57,Improved
+SYN000051,kimberly.allen63@outlook.com,Kimberly,Allen,61,Female,2024-09-03,CBT,True,18,17,16,12,-6,5,3,0.6,Improved
+SYN000052,emily.williams1@outlook.com,Emily,Williams,38,Male,2024-09-21,CBT,True,15,12,9,8,-7,6,4,0.67,Improved
+SYN000053,christopher.mitchell57@icloud.com,Christopher,Mitchell,62,Non-binary,2024-09-18,DBT,False,16,19,20,20,4,10,8,0.8,Not Improved
+SYN000054,barbara.hall20@icloud.com,Barbara,Hall,49,Female,2024-09-27,CBT,False,18,17,15,14,-4,6,4,0.67,Improved
+SYN000055,charles.ramirez17@gmail.com,Charles,Ramirez,49,Non-binary,2024-09-12,Supportive,True,20,23,25,26,6,9,7,0.78,Not Improved
+SYN000056,jennifer.thompson27@yahoo.com,Jennifer,Thompson,60,Non-binary,2024-09-12,Supportive,True,15,9,6,5,-10,7,6,0.86,Improved
+SYN000057,edward.flores96@yahoo.com,Edward,Flores,59,Female,2024-09-28,DBT,False,10,6,5,4,-6,7,4,0.57,Improved
+SYN000058,daniel.clark4@yahoo.com,Daniel,Clark,33,Non-binary,2024-09-26,CBT,True,14,11,13,12,-2,7,3,0.43,Not Improved
+SYN000059,dorothy.moore21@gmail.com,Dorothy,Moore,51,Non-binary,2024-09-28,Supportive,False,17,22,20,23,6,3,1,0.33,Not Improved
+SYN000060,jacob.anderson26@hotmail.com,Jacob,Anderson,35,Non-binary,2024-09-10,CBT,True,14,15,13,13,-1,7,5,0.71,Not Improved
+SYN000061,ashley.anderson4@yahoo.com,Ashley,Anderson,50,Female,2024-09-11,DBT,False,12,12,12,14,2,4,2,0.5,Not Improved
+SYN000062,william.moore45@icloud.com,William,Moore,58,Female,2024-09-22,DBT,True,15,13,12,13,-2,12,5,0.42,Not Improved
+SYN000063,kevin.johnson15@outlook.com,Kevin,Johnson,75,Male,2024-09-19,CBT,True,10,9,8,5,-5,7,3,0.43,Improved
+SYN000064,kimberly.williams14@icloud.com,Kimberly,Williams,72,Non-binary,2024-09-12,CBT,True,17,14,15,15,-2,9,6,0.67,Not Improved
+SYN000065,joshua.ramirez78@icloud.com,Joshua,Ramirez,21,Female,2024-09-13,DBT,True,20,18,15,12,-8,3,2,0.67,Improved
+SYN000066,matthew.taylor6@hotmail.com,Matthew,Taylor,56,Male,2024-09-17,DBT,True,12,9,8,3,-9,7,5,0.71,Improved
+SYN000067,margaret.white56@gmail.com,Margaret,White,21,Non-binary,2024-09-20,Mindfulness-Based,False,10,6,8,8,-2,8,5,0.62,Not Improved
+SYN000068,sarah.campbell39@icloud.com,Sarah,Campbell,59,Non-binary,2024-09-22,DBT,False,13,10,12,11,-2,11,3,0.27,Not Improved
+SYN000069,rebecca.hall38@icloud.com,Rebecca,Hall,53,Non-binary,2024-09-07,Mindfulness-Based,False,17,15,12,11,-6,7,5,0.71,Improved
+SYN000070,timothy.baker96@yahoo.com,Timothy,Baker,29,Non-binary,2024-09-13,CBT,True,14,16,16,16,2,10,2,0.2,Not Improved
+SYN000071,james.martin37@yahoo.com,James,Martin,58,Non-binary,2024-09-26,Mindfulness-Based,True,19,19,16,17,-2,11,7,0.64,Not Improved
+SYN000072,carol.robinson57@hotmail.com,Carol,Robinson,19,Non-binary,2024-09-17,CBT,False,15,11,10,9,-6,3,2,0.67,Improved
+SYN000073,nancy.nelson11@outlook.com,Nancy,Nelson,43,Non-binary,2024-09-03,Mindfulness-Based,True,10,9,8,8,-2,4,1,0.25,Not Improved
+SYN000074,donald.baker40@yahoo.com,Donald,Baker,55,Female,2024-09-05,CBT,False,12,6,5,1,-11,12,6,0.5,Improved
+SYN000075,dorothy.walker79@gmail.com,Dorothy,Walker,75,Female,2024-09-14,CBT,True,13,12,10,12,-1,11,7,0.64,Not Improved
+SYN000076,matthew.rivera90@hotmail.com,Matthew,Rivera,60,Female,2024-09-13,CBT,False,18,17,19,21,3,11,3,0.27,Not Improved
+SYN000077,james.miller55@yahoo.com,James,Miller,19,Non-binary,2024-09-26,Mindfulness-Based,True,11,7,6,5,-6,5,4,0.8,Improved
+SYN000078,kathleen.brown72@yahoo.com,Kathleen,Brown,35,Non-binary,2024-09-15,Mindfulness-Based,False,16,12,9,6,-10,10,7,0.7,Improved
+SYN000079,kathleen.nelson68@icloud.com,Kathleen,Nelson,59,Non-binary,2024-10-01,DBT,True,16,15,14,13,-3,9,5,0.56,Not Improved
+SYN000080,jeffrey.flores93@icloud.com,Jeffrey,Flores,66,Non-binary,2024-09-27,CBT,True,10,11,9,12,2,8,5,0.62,Not Improved
+SYN000081,cynthia.hernandez96@hotmail.com,Cynthia,Hernandez,38,Non-binary,2024-09-09,Mindfulness-Based,True,10,10,11,11,1,6,2,0.33,Not Improved
+SYN000082,emily.king63@yahoo.com,Emily,King,26,Non-binary,2024-09-15,DBT,False,15,15,14,14,-1,3,1,0.33,Not Improved
+SYN000083,andrew.thomas35@outlook.com,Andrew,Thomas,61,Male,2024-09-29,CBT,True,14,16,19,19,5,4,1,0.25,Not Improved
+SYN000084,karen.martinez30@hotmail.com,Karen,Martinez,58,Non-binary,2024-09-23,Mindfulness-Based,False,14,11,9,6,-8,6,5,0.83,Improved
+SYN000085,sharon.clark43@icloud.com,Sharon,Clark,24,Female,2024-09-14,CBT,False,17,15,16,19,2,9,3,0.33,Not Improved
+SYN000086,sharon.harris99@icloud.com,Sharon,Harris,75,Male,2024-09-28,DBT,True,14,13,10,9,-5,10,7,0.7,Improved
+SYN000087,timothy.walker1@outlook.com,Timothy,Walker,75,Non-binary,2024-09-25,DBT,False,13,13,14,14,1,6,3,0.5,Not Improved
+SYN000088,sharon.wright96@icloud.com,Sharon,Wright,62,Male,2024-09-16,CBT,False,15,14,12,10,-5,7,6,0.86,Improved
+SYN000089,laura.young4@hotmail.com,Laura,Young,48,Non-binary,2024-09-22,Supportive,True,17,17,16,20,3,9,4,0.44,Not Improved
+SYN000090,rebecca.campbell22@hotmail.com,Rebecca,Campbell,75,Non-binary,2024-09-20,CBT,True,18,15,10,9,-9,8,6,0.75,Improved
+SYN000091,ronald.nguyen73@gmail.com,Ronald,Nguyen,18,Female,2024-09-21,Mindfulness-Based,False,14,13,10,9,-5,8,7,0.88,Improved
+SYN000092,kathleen.lopez7@outlook.com,Kathleen,Lopez,55,Non-binary,2024-09-11,DBT,False,12,8,13,13,1,12,3,0.25,Not Improved
+SYN000093,carol.perez98@hotmail.com,Carol,Perez,18,Female,2024-09-25,CBT,True,10,10,9,10,0,7,1,0.14,Not Improved
+SYN000094,sharon.taylor11@hotmail.com,Sharon,Taylor,21,Male,2024-09-24,CBT,True,15,12,10,7,-8,4,4,1.0,Improved
+SYN000095,brian.anderson84@gmail.com,Brian,Anderson,60,Female,2024-09-25,Mindfulness-Based,False,14,13,11,9,-5,11,10,0.91,Improved
+SYN000096,dorothy.gonzalez3@icloud.com,Dorothy,Gonzalez,44,Non-binary,2024-09-08,Supportive,False,19,16,12,10,-9,9,7,0.78,Improved
+SYN000097,joseph.torres28@hotmail.com,Joseph,Torres,32,Male,2024-09-25,Supportive,False,11,9,10,11,0,9,3,0.33,Not Improved
+SYN000098,joseph.hernandez40@gmail.com,Joseph,Hernandez,45,Female,2024-09-30,Mindfulness-Based,False,16,15,12,10,-6,6,5,0.83,Improved
+SYN000099,timothy.sanchez92@yahoo.com,Timothy,Sanchez,33,Non-binary,2024-09-19,Mindfulness-Based,True,20,18,16,14,-6,9,5,0.56,Improved
+SYN000100,dorothy.miller90@outlook.com,Dorothy,Miller,63,Non-binary,2024-09-26,Mindfulness-Based,True,16,12,10,7,-9,12,9,0.75,Improved
+SYN000101,jennifer.thompson69@hotmail.com,Jennifer,Thompson,21,Female,2024-09-03,CBT,False,16,18,18,19,3,4,2,0.5,Not Improved
+SYN000102,amanda.smith54@hotmail.com,Amanda,Smith,39,Female,2024-09-14,Supportive,True,14,11,10,6,-8,12,7,0.58,Improved
+SYN000103,ryan.rivera20@hotmail.com,Ryan,Rivera,42,Non-binary,2024-09-24,CBT,True,15,10,9,4,-11,10,7,0.7,Improved
+SYN000104,paul.flores69@hotmail.com,Paul,Flores,18,Female,2024-09-14,DBT,True,16,15,17,17,1,5,3,0.6,Not Improved
+SYN000105,paul.lee32@gmail.com,Paul,Lee,49,Male,2024-09-29,Mindfulness-Based,False,16,14,11,14,-2,7,2,0.29,Not Improved
+SYN000106,kathleen.torres79@hotmail.com,Kathleen,Torres,41,Male,2024-09-01,DBT,False,12,14,14,13,1,8,4,0.5,Not Improved
+SYN000107,carol.lopez63@yahoo.com,Carol,Lopez,75,Male,2024-09-26,DBT,False,16,18,18,18,2,10,8,0.8,Not Improved
+SYN000108,emily.hill90@outlook.com,Emily,Hill,66,Female,2024-09-17,CBT,True,12,6,5,2,-10,5,3,0.6,Improved
+SYN000109,david.thomas93@hotmail.com,David,Thomas,62,Non-binary,2024-09-18,CBT,True,20,22,19,20,0,7,5,0.71,Not Improved
+SYN000110,jacob.adams92@hotmail.com,Jacob,Adams,34,Non-binary,2024-09-26,CBT,False,18,18,17,16,-2,9,4,0.44,Not Improved
+SYN000111,donna.anderson52@yahoo.com,Donna,Anderson,75,Female,2024-09-22,CBT,True,15,17,18,19,4,12,2,0.17,Not Improved
+SYN000112,jacob.scott68@outlook.com,Jacob,Scott,41,Non-binary,2024-09-24,Mindfulness-Based,True,16,16,18,17,1,8,1,0.12,Not Improved
+SYN000113,melissa.hall59@outlook.com,Melissa,Hall,52,Non-binary,2024-09-09,DBT,False,11,10,13,14,3,12,8,0.67,Not Improved
+SYN000114,matthew.lee16@icloud.com,Matthew,Lee,47,Non-binary,2024-09-07,Mindfulness-Based,False,12,11,10,7,-5,4,1,0.25,Improved
+SYN000115,amy.moore93@icloud.com,Amy,Moore,42,Male,2024-09-04,DBT,True,15,14,16,16,1,8,5,0.62,Not Improved
+SYN000116,donna.anderson47@yahoo.com,Donna,Anderson,55,Female,2024-09-01,CBT,True,15,14,17,18,3,7,5,0.71,Not Improved
+SYN000117,thomas.moore6@gmail.com,Thomas,Moore,51,Non-binary,2024-09-23,CBT,True,13,12,13,15,2,7,7,1.0,Not Improved
+SYN000118,gary.miller2@icloud.com,Gary,Miller,39,Male,2024-09-16,CBT,False,20,22,22,25,5,8,4,0.5,Not Improved
+SYN000119,amanda.lopez7@outlook.com,Amanda,Lopez,75,Male,2024-09-04,Mindfulness-Based,True,13,13,14,15,2,9,5,0.56,Not Improved
+SYN000120,rebecca.young10@icloud.com,Rebecca,Young,43,Male,2024-09-05,CBT,False,10,8,7,6,-4,9,7,0.78,Improved
+SYN000121,kenneth.garcia32@gmail.com,Kenneth,Garcia,75,Male,2024-09-20,DBT,True,13,13,11,12,-1,7,6,0.86,Not Improved
+SYN000122,mark.king49@hotmail.com,Mark,King,49,Non-binary,2024-09-10,Supportive,True,13,11,11,15,2,3,1,0.33,Not Improved
+SYN000123,jason.martin73@icloud.com,Jason,Martin,59,Male,2024-09-20,DBT,True,13,8,5,4,-9,12,8,0.67,Improved
+SYN000124,richard.wilson81@yahoo.com,Richard,Wilson,67,Female,2024-09-22,Mindfulness-Based,False,16,14,19,20,4,6,4,0.67,Not Improved
+SYN000125,donald.lopez71@gmail.com,Donald,Lopez,38,Female,2024-09-01,Mindfulness-Based,False,11,8,4,1,-10,10,9,0.9,Improved
+SYN000126,jacob.jackson5@yahoo.com,Jacob,Jackson,56,Male,2024-09-23,Supportive,False,16,20,19,21,5,8,3,0.38,Not Improved
+SYN000127,ryan.jones88@yahoo.com,Ryan,Jones,61,Non-binary,2024-09-26,Mindfulness-Based,True,11,7,12,10,-1,7,5,0.71,Not Improved
+SYN000128,margaret.ramirez15@icloud.com,Margaret,Ramirez,54,Non-binary,2024-09-21,Mindfulness-Based,False,14,11,9,5,-9,9,8,0.89,Improved
+SYN000129,paul.martinez10@gmail.com,Paul,Martinez,64,Male,2024-09-26,DBT,False,16,14,13,10,-6,11,5,0.45,Improved
+SYN000130,andrew.lewis16@hotmail.com,Andrew,Lewis,31,Male,2024-09-23,Supportive,False,17,17,20,22,5,7,1,0.14,Not Improved
+SYN000131,paul.allen70@hotmail.com,Paul,Allen,70,Non-binary,2024-09-03,CBT,True,13,14,18,19,6,4,2,0.5,Not Improved
+SYN000132,laura.mitchell42@icloud.com,Laura,Mitchell,18,Non-binary,2024-09-01,DBT,False,12,13,13,14,2,5,3,0.6,Not Improved
+SYN000133,john.baker35@icloud.com,John,Baker,35,Female,2024-09-25,DBT,True,10,9,8,4,-6,6,5,0.83,Improved
+SYN000134,jacob.king84@hotmail.com,Jacob,King,35,Non-binary,2024-09-06,DBT,True,18,19,21,20,2,5,2,0.4,Not Improved
+SYN000135,laura.green63@gmail.com,Laura,Green,55,Non-binary,2024-09-12,Mindfulness-Based,False,11,10,9,9,-2,7,3,0.43,Not Improved
+SYN000136,carol.nelson14@yahoo.com,Carol,Nelson,27,Male,2024-09-14,Mindfulness-Based,True,14,12,12,15,1,12,11,0.92,Not Improved
+SYN000137,andrew.nelson52@icloud.com,Andrew,Nelson,53,Female,2024-09-15,Supportive,False,15,14,12,10,-5,6,4,0.67,Improved
+SYN000138,steven.lee15@hotmail.com,Steven,Lee,37,Non-binary,2024-09-22,CBT,True,15,10,6,5,-10,6,4,0.67,Improved
+SYN000139,kathleen.clark7@yahoo.com,Kathleen,Clark,72,Male,2024-09-20,DBT,True,14,13,12,11,-3,7,4,0.57,Not Improved
+SYN000140,jeffrey.brown27@outlook.com,Jeffrey,Brown,36,Non-binary,2024-09-30,Mindfulness-Based,False,10,6,3,1,-9,8,6,0.75,Improved
+SYN000141,gary.davis4@icloud.com,Gary,Davis,41,Male,2024-09-23,CBT,False,17,16,14,13,-4,9,8,0.89,Improved
+SYN000142,mary.scott53@gmail.com,Mary,Scott,75,Female,2024-09-27,DBT,True,15,11,10,8,-7,9,7,0.78,Improved
+SYN000143,kathleen.davis83@yahoo.com,Kathleen,Davis,47,Male,2024-09-30,Mindfulness-Based,True,16,17,13,14,-2,9,5,0.56,Not Improved
+SYN000144,paul.clark62@hotmail.com,Paul,Clark,54,Non-binary,2024-09-15,Mindfulness-Based,True,12,11,10,8,-4,8,7,0.88,Improved
+SYN000145,stephanie.gonzalez77@icloud.com,Stephanie,Gonzalez,37,Male,2024-09-28,DBT,False,18,16,14,8,-10,8,4,0.5,Improved
+SYN000146,sharon.perez65@outlook.com,Sharon,Perez,48,Non-binary,2024-09-10,Supportive,True,18,17,12,8,-10,6,6,1.0,Improved
+SYN000147,gary.martinez58@icloud.com,Gary,Martinez,50,Non-binary,2024-09-12,Supportive,False,13,12,11,12,-1,12,3,0.25,Not Improved
+SYN000148,timothy.robinson42@yahoo.com,Timothy,Robinson,56,Non-binary,2024-09-19,DBT,False,11,8,6,3,-8,11,10,0.91,Improved
+SYN000149,edward.williams41@hotmail.com,Edward,Williams,62,Non-binary,2024-09-13,Mindfulness-Based,True,11,13,16,16,5,3,1,0.33,Not Improved
+SYN000150,lisa.young5@yahoo.com,Lisa,Young,66,Female,2024-09-28,Mindfulness-Based,False,14,13,13,12,-2,12,9,0.75,Not Improved
+SYN000151,jeffrey.miller68@hotmail.com,Jeffrey,Miller,55,Male,2024-09-24,DBT,False,12,9,8,4,-8,6,5,0.83,Improved
+SYN000152,lisa.jones61@outlook.com,Lisa,Jones,57,Male,2024-09-20,Mindfulness-Based,True,15,18,16,15,0,9,4,0.44,Not Improved
+SYN000153,david.perez87@icloud.com,David,Perez,45,Female,2024-10-01,CBT,False,17,20,20,19,2,11,5,0.45,Not Improved
+SYN000154,gary.wright5@icloud.com,Gary,Wright,37,Non-binary,2024-09-08,CBT,True,16,13,10,9,-7,9,5,0.56,Improved
+SYN000155,andrew.anderson96@gmail.com,Andrew,Anderson,59,Non-binary,2024-09-04,CBT,True,16,19,19,19,3,7,6,0.86,Not Improved
+SYN000156,richard.lewis22@outlook.com,Richard,Lewis,65,Male,2024-09-02,Mindfulness-Based,False,18,13,11,9,-9,8,6,0.75,Improved
+SYN000157,linda.jackson46@outlook.com,Linda,Jackson,40,Non-binary,2024-09-05,Supportive,False,18,19,20,23,5,3,1,0.33,Not Improved
+SYN000158,edward.torres88@yahoo.com,Edward,Torres,18,Non-binary,2024-09-06,DBT,False,20,16,12,9,-11,8,5,0.62,Improved
+SYN000159,timothy.flores88@yahoo.com,Timothy,Flores,18,Female,2024-09-30,Supportive,True,15,18,17,18,3,5,1,0.2,Not Improved
+SYN000160,ashley.robinson82@outlook.com,Ashley,Robinson,43,Male,2024-09-09,DBT,True,15,12,12,13,-2,8,5,0.62,Not Improved
+SYN000161,kathleen.jackson87@icloud.com,Kathleen,Jackson,35,Female,2024-09-03,Supportive,False,14,13,9,7,-7,12,9,0.75,Improved
+SYN000162,brian.nguyen39@hotmail.com,Brian,Nguyen,36,Male,2024-09-15,Supportive,True,15,16,13,15,0,6,3,0.5,Not Improved
+SYN000163,margaret.harris62@gmail.com,Margaret,Harris,43,Non-binary,2024-09-13,Supportive,True,10,9,7,6,-4,7,5,0.71,Improved
+SYN000164,donna.hall38@gmail.com,Donna,Hall,34,Male,2024-09-09,Supportive,False,14,14,16,17,3,10,5,0.5,Not Improved
+SYN000165,michael.hill96@hotmail.com,Michael,Hill,67,Non-binary,2024-09-25,Supportive,True,14,10,9,12,-2,8,1,0.12,Not Improved
+SYN000166,melissa.anderson82@yahoo.com,Melissa,Anderson,35,Female,2024-09-22,DBT,True,11,12,15,14,3,12,10,0.83,Not Improved
+SYN000167,karen.green13@gmail.com,Karen,Green,39,Non-binary,2024-09-26,DBT,False,18,20,18,18,0,4,3,0.75,Not Improved
+SYN000168,george.campbell17@gmail.com,George,Campbell,38,Female,2024-09-11,CBT,True,13,12,9,11,-2,10,5,0.5,Not Improved
+SYN000169,daniel.gonzalez17@icloud.com,Daniel,Gonzalez,40,Male,2024-09-17,Mindfulness-Based,False,16,16,16,16,0,7,6,0.86,Not Improved
+SYN000170,paul.hernandez33@hotmail.com,Paul,Hernandez,18,Female,2024-09-24,DBT,True,17,16,19,20,3,7,3,0.43,Not Improved
+SYN000171,joseph.robinson10@yahoo.com,Joseph,Robinson,32,Female,2024-09-28,Supportive,True,17,14,13,12,-5,5,4,0.8,Improved
+SYN000172,ronald.scott47@gmail.com,Ronald,Scott,61,Female,2024-09-01,CBT,False,11,11,16,15,4,3,1,0.33,Not Improved
+SYN000173,sarah.robinson48@outlook.com,Sarah,Robinson,51,Male,2024-09-27,Mindfulness-Based,True,13,12,18,15,2,8,5,0.62,Not Improved
+SYN000174,deborah.miller87@yahoo.com,Deborah,Miller,34,Female,2024-09-01,DBT,True,16,15,18,18,2,3,2,0.67,Not Improved
+SYN000175,carol.flores29@gmail.com,Carol,Flores,43,Male,2024-09-30,Mindfulness-Based,True,18,18,18,19,1,9,4,0.44,Not Improved
+SYN000176,edward.davis18@gmail.com,Edward,Davis,64,Male,2024-09-10,Supportive,True,17,16,13,11,-6,7,4,0.57,Improved
+SYN000177,joseph.miller31@icloud.com,Joseph,Miller,36,Non-binary,2024-09-13,Mindfulness-Based,False,13,9,6,3,-10,10,7,0.7,Improved
+SYN000178,sharon.nguyen96@yahoo.com,Sharon,Nguyen,37,Non-binary,2024-09-21,Mindfulness-Based,False,16,18,18,17,1,7,3,0.43,Not Improved
+SYN000179,gary.flores53@outlook.com,Gary,Flores,34,Male,2024-09-23,Supportive,False,10,7,5,4,-6,9,7,0.78,Improved
+SYN000180,jeffrey.lewis31@outlook.com,Jeffrey,Lewis,66,Male,2024-09-22,Mindfulness-Based,False,17,15,13,12,-5,9,8,0.89,Improved
+SYN000181,melissa.brown51@outlook.com,Melissa,Brown,55,Female,2024-10-01,DBT,False,10,7,2,0,-10,8,4,0.5,Improved
+SYN000182,ryan.garcia85@yahoo.com,Ryan,Garcia,46,Non-binary,2024-09-02,CBT,True,16,14,12,11,-5,5,4,0.8,Improved
+SYN000183,dorothy.rodriguez73@yahoo.com,Dorothy,Rodriguez,35,Female,2024-09-27,Mindfulness-Based,True,17,16,15,13,-4,3,1,0.33,Improved
+SYN000184,anthony.nguyen28@yahoo.com,Anthony,Nguyen,33,Non-binary,2024-09-25,Mindfulness-Based,False,16,15,16,15,-1,3,1,0.33,Not Improved
+SYN000185,james.moore19@yahoo.com,James,Moore,44,Female,2024-09-26,Supportive,False,15,15,14,14,-1,9,6,0.67,Not Improved
+SYN000186,patricia.rodriguez2@outlook.com,Patricia,Rodriguez,54,Female,2024-09-19,Mindfulness-Based,False,13,12,11,9,-4,6,5,0.83,Improved
+SYN000187,daniel.taylor7@yahoo.com,Daniel,Taylor,24,Non-binary,2024-09-17,CBT,False,17,14,11,15,-2,9,2,0.22,Not Improved
+SYN000188,william.walker58@outlook.com,William,Walker,28,Male,2024-09-15,Supportive,False,14,11,10,8,-6,8,7,0.88,Improved
+SYN000189,jennifer.campbell85@icloud.com,Jennifer,Campbell,50,Non-binary,2024-09-15,Mindfulness-Based,True,10,9,14,16,6,7,1,0.14,Not Improved
+SYN000190,patricia.brown62@hotmail.com,Patricia,Brown,34,Female,2024-09-22,Supportive,False,16,16,18,20,4,6,1,0.17,Not Improved
+SYN000191,jeffrey.jones11@outlook.com,Jeffrey,Jones,43,Male,2024-09-03,DBT,False,15,12,10,8,-7,7,6,0.86,Improved
+SYN000192,carol.harris77@icloud.com,Carol,Harris,30,Female,2024-09-15,CBT,False,14,17,18,19,5,4,1,0.25,Not Improved
+SYN000193,laura.miller90@gmail.com,Laura,Miller,18,Non-binary,2024-09-14,CBT,False,16,12,8,7,-9,5,3,0.6,Improved
+SYN000194,ashley.clark44@hotmail.com,Ashley,Clark,36,Female,2024-09-14,Supportive,True,12,16,13,14,2,12,4,0.33,Not Improved
+SYN000195,joshua.ramirez41@outlook.com,Joshua,Ramirez,49,Non-binary,2024-10-01,CBT,False,10,9,9,11,1,3,2,0.67,Not Improved
+SYN000196,jacob.jones12@gmail.com,Jacob,Jones,65,Female,2024-09-14,Mindfulness-Based,False,16,13,12,9,-7,12,6,0.5,Improved
+SYN000197,deborah.rodriguez72@gmail.com,Deborah,Rodriguez,32,Female,2024-09-22,DBT,False,14,13,11,13,-1,10,4,0.4,Not Improved
+SYN000198,melissa.nelson97@hotmail.com,Melissa,Nelson,48,Female,2024-10-01,Supportive,False,13,11,8,6,-7,6,5,0.83,Improved
+SYN000199,michelle.thompson14@icloud.com,Michelle,Thompson,47,Male,2024-09-05,CBT,True,12,8,7,4,-8,4,4,1.0,Improved
+SYN000200,mark.miller45@icloud.com,Mark,Miller,62,Non-binary,2024-09-04,Mindfulness-Based,True,13,14,15,17,4,12,4,0.33,Not Improved
+SYN000201,mark.ramirez72@icloud.com,Mark,Ramirez,29,Male,2024-09-20,CBT,True,14,10,8,4,-10,3,2,0.67,Improved
+SYN000202,paul.johnson24@outlook.com,Paul,Johnson,53,Female,2024-09-30,Supportive,False,10,10,11,12,2,11,5,0.45,Not Improved
+SYN000203,james.lopez19@icloud.com,James,Lopez,29,Male,2024-09-03,CBT,False,13,12,13,13,0,5,3,0.6,Not Improved
+SYN000204,patricia.garcia96@icloud.com,Patricia,Garcia,55,Female,2024-09-13,Mindfulness-Based,False,17,16,13,10,-7,3,2,0.67,Improved
+SYN000205,amanda.hernandez48@outlook.com,Amanda,Hernandez,37,Non-binary,2024-09-25,CBT,True,13,15,19,21,8,8,2,0.25,Not Improved
+SYN000206,david.brown20@yahoo.com,David,Brown,64,Female,2024-09-22,Mindfulness-Based,False,17,16,12,11,-6,6,4,0.67,Improved
+SYN000207,jeffrey.nelson55@hotmail.com,Jeffrey,Nelson,63,Female,2024-09-14,Mindfulness-Based,False,18,20,22,22,4,10,3,0.3,Not Improved
+SYN000208,joseph.thompson56@gmail.com,Joseph,Thompson,45,Male,2024-09-22,DBT,True,18,13,13,16,-2,6,1,0.17,Not Improved
+SYN000209,gary.king86@outlook.com,Gary,King,30,Non-binary,2024-09-08,CBT,False,16,13,9,4,-12,8,5,0.62,Improved
+SYN000210,linda.smith27@outlook.com,Linda,Smith,47,Male,2024-09-25,Supportive,False,14,13,12,9,-5,10,5,0.5,Improved
+SYN000211,steven.jackson42@gmail.com,Steven,Jackson,75,Female,2024-09-16,CBT,True,12,8,7,3,-9,5,3,0.6,Improved
+SYN000212,daniel.rodriguez49@icloud.com,Daniel,Rodriguez,41,Male,2024-09-17,Supportive,True,12,9,7,3,-9,11,6,0.55,Improved
+SYN000213,melissa.jones51@gmail.com,Melissa,Jones,32,Female,2024-09-01,Supportive,False,13,10,11,15,2,6,1,0.17,Not Improved
+SYN000214,barbara.lee74@hotmail.com,Barbara,Lee,70,Male,2024-09-23,CBT,True,12,13,11,12,0,9,4,0.44,Not Improved
+SYN000215,donna.davis52@gmail.com,Donna,Davis,42,Female,2024-09-06,DBT,True,19,21,24,21,2,10,9,0.9,Not Improved
+SYN000216,ryan.hall47@gmail.com,Ryan,Hall,40,Non-binary,2024-09-28,Mindfulness-Based,False,16,14,18,19,3,7,6,0.86,Not Improved
+SYN000217,laura.nguyen52@icloud.com,Laura,Nguyen,46,Female,2024-09-13,DBT,True,16,15,13,11,-5,8,5,0.62,Improved
+SYN000218,amanda.anderson43@yahoo.com,Amanda,Anderson,74,Female,2024-09-17,DBT,True,14,10,9,6,-8,9,7,0.78,Improved
+SYN000219,matthew.thompson45@yahoo.com,Matthew,Thompson,43,Non-binary,2024-09-04,DBT,False,14,11,8,7,-7,8,6,0.75,Improved
+SYN000220,margaret.lopez78@yahoo.com,Margaret,Lopez,60,Female,2024-09-06,Supportive,True,13,12,10,7,-6,7,5,0.71,Improved
+SYN000221,angela.robinson97@icloud.com,Angela,Robinson,50,Female,2024-09-22,DBT,True,11,12,13,13,2,3,1,0.33,Not Improved
+SYN000222,carol.green41@yahoo.com,Carol,Green,30,Male,2024-09-03,DBT,False,13,11,11,13,0,4,2,0.5,Not Improved
+SYN000223,kenneth.moore76@gmail.com,Kenneth,Moore,27,Female,2024-09-17,Mindfulness-Based,False,11,6,8,11,0,6,1,0.17,Not Improved
+SYN000224,kathleen.lewis5@gmail.com,Kathleen,Lewis,40,Female,2024-09-27,CBT,False,10,12,8,8,-2,8,3,0.38,Not Improved
+SYN000225,susan.flores77@icloud.com,Susan,Flores,41,Female,2024-09-15,CBT,True,20,18,20,18,-2,10,3,0.3,Not Improved
+SYN000226,jennifer.lewis74@yahoo.com,Jennifer,Lewis,48,Female,2024-09-20,Supportive,False,16,16,13,14,-2,9,5,0.56,Not Improved
+SYN000227,lisa.brown58@gmail.com,Lisa,Brown,55,Male,2024-09-23,DBT,False,16,18,14,17,1,11,9,0.82,Not Improved
+SYN000228,daniel.williams32@hotmail.com,Daniel,Williams,18,Male,2024-09-17,Mindfulness-Based,True,20,19,18,19,-1,5,3,0.6,Not Improved
+SYN000229,christopher.white48@outlook.com,Christopher,White,66,Non-binary,2024-09-14,Mindfulness-Based,True,15,14,13,18,3,10,2,0.2,Not Improved
+SYN000230,michael.green83@outlook.com,Michael,Green,43,Non-binary,2024-09-11,Mindfulness-Based,False,15,14,12,10,-5,12,10,0.83,Improved
+SYN000231,stephanie.jackson33@icloud.com,Stephanie,Jackson,41,Non-binary,2024-09-11,DBT,False,12,10,7,4,-8,8,7,0.88,Improved
+SYN000232,charles.thompson40@hotmail.com,Charles,Thompson,67,Male,2024-09-20,CBT,True,19,18,17,15,-4,3,2,0.67,Improved
+SYN000233,david.martin72@hotmail.com,David,Martin,27,Non-binary,2024-09-27,DBT,False,18,17,22,23,5,12,8,0.67,Not Improved
+SYN000234,susan.adams86@hotmail.com,Susan,Adams,59,Female,2024-09-01,DBT,False,15,13,15,16,1,7,4,0.57,Not Improved
+SYN000235,betty.wilson44@hotmail.com,Betty,Wilson,60,Female,2024-09-08,CBT,True,16,14,13,12,-4,10,8,0.8,Improved
+SYN000236,lisa.jones38@gmail.com,Lisa,Jones,48,Non-binary,2024-09-22,Supportive,False,14,11,10,6,-8,6,4,0.67,Improved
+SYN000237,thomas.hill49@yahoo.com,Thomas,Hill,58,Male,2024-09-06,CBT,True,14,13,12,10,-4,10,4,0.4,Improved
+SYN000238,nancy.campbell57@gmail.com,Nancy,Campbell,26,Non-binary,2024-09-12,Mindfulness-Based,True,17,15,18,18,1,7,2,0.29,Not Improved
+SYN000239,donald.lewis79@outlook.com,Donald,Lewis,65,Non-binary,2024-09-08,Mindfulness-Based,True,18,19,19,19,1,9,3,0.33,Not Improved
+SYN000240,michelle.walker25@outlook.com,Michelle,Walker,68,Male,2024-09-15,Mindfulness-Based,True,12,11,10,13,1,6,1,0.17,Not Improved
+SYN000241,timothy.allen68@hotmail.com,Timothy,Allen,38,Male,2024-09-27,DBT,False,17,13,8,5,-12,8,5,0.62,Improved
+SYN000242,karen.taylor7@hotmail.com,Karen,Taylor,65,Non-binary,2024-09-18,CBT,True,16,11,13,15,-1,6,2,0.33,Not Improved
+SYN000243,sarah.jackson11@yahoo.com,Sarah,Jackson,52,Female,2024-09-15,DBT,True,20,20,23,26,6,5,3,0.6,Not Improved
+SYN000244,charles.ramirez12@yahoo.com,Charles,Ramirez,75,Male,2024-09-29,DBT,False,13,13,17,19,6,9,7,0.78,Not Improved
+SYN000245,patricia.clark7@hotmail.com,Patricia,Clark,44,Non-binary,2024-09-08,Mindfulness-Based,False,16,15,19,23,7,6,4,0.67,Not Improved
+SYN000246,david.white29@gmail.com,David,White,47,Non-binary,2024-09-30,CBT,False,11,12,14,13,2,10,3,0.3,Not Improved
+SYN000247,kevin.martinez18@gmail.com,Kevin,Martinez,38,Female,2024-09-30,Supportive,True,13,12,12,11,-2,7,4,0.57,Not Improved
+SYN000248,karen.rivera61@hotmail.com,Karen,Rivera,51,Non-binary,2024-09-29,CBT,False,13,11,10,9,-4,6,5,0.83,Improved
+SYN000249,steven.wilson20@icloud.com,Steven,Wilson,46,Male,2024-09-04,DBT,True,14,12,14,11,-3,6,5,0.83,Not Improved
+SYN000250,donald.martin16@gmail.com,Donald,Martin,73,Non-binary,2024-09-14,Mindfulness-Based,True,14,13,10,9,-5,7,4,0.57,Improved
+SYN000251,ryan.jones15@hotmail.com,Ryan,Jones,42,Female,2024-09-21,Supportive,True,16,15,13,10,-6,7,6,0.86,Improved
+SYN000252,donald.rivera19@outlook.com,Donald,Rivera,18,Non-binary,2024-09-01,CBT,True,18,17,18,19,1,4,1,0.25,Not Improved
+SYN000253,donald.torres54@yahoo.com,Donald,Torres,47,Male,2024-09-17,Supportive,True,17,16,14,13,-4,5,4,0.8,Improved
+SYN000254,william.king70@icloud.com,William,King,35,Non-binary,2024-09-13,CBT,True,16,14,10,8,-8,5,4,0.8,Improved
+SYN000255,jennifer.green50@outlook.com,Jennifer,Green,60,Male,2024-09-24,Supportive,False,12,12,13,16,4,10,7,0.7,Not Improved
+SYN000256,william.thompson31@gmail.com,William,Thompson,75,Non-binary,2024-09-05,Mindfulness-Based,False,15,13,12,12,-3,10,8,0.8,Not Improved
+SYN000257,amanda.adams23@hotmail.com,Amanda,Adams,46,Female,2024-09-21,Supportive,False,10,12,12,11,1,4,3,0.75,Not Improved
+SYN000258,karen.jones92@hotmail.com,Karen,Jones,37,Non-binary,2024-09-10,Supportive,False,14,11,9,8,-6,6,5,0.83,Improved
+SYN000259,margaret.williams41@outlook.com,Margaret,Williams,43,Non-binary,2024-09-27,DBT,True,13,13,12,14,1,10,8,0.8,Not Improved
+SYN000260,steven.williams97@yahoo.com,Steven,Williams,22,Female,2024-09-12,Mindfulness-Based,True,12,13,13,13,1,8,3,0.38,Not Improved
+SYN000261,michael.adams43@outlook.com,Michael,Adams,26,Non-binary,2024-09-26,CBT,False,12,8,5,1,-11,6,5,0.83,Improved
+SYN000262,rebecca.mitchell57@hotmail.com,Rebecca,Mitchell,40,Non-binary,2024-09-06,DBT,False,17,16,17,15,-2,8,1,0.12,Not Improved
+SYN000263,angela.white67@outlook.com,Angela,White,38,Female,2024-09-24,Mindfulness-Based,False,11,6,3,1,-10,11,8,0.73,Improved
+SYN000264,laura.hill24@icloud.com,Laura,Hill,42,Female,2024-09-11,Mindfulness-Based,False,16,14,11,14,-2,3,2,0.67,Not Improved
+SYN000265,carol.nelson38@outlook.com,Carol,Nelson,60,Male,2024-09-20,Mindfulness-Based,True,19,17,19,20,1,8,6,0.75,Not Improved
+SYN000266,nancy.hall57@outlook.com,Nancy,Hall,75,Male,2024-09-02,DBT,True,14,14,12,17,3,12,6,0.5,Not Improved
+SYN000267,melissa.flores56@outlook.com,Melissa,Flores,57,Female,2024-09-03,Mindfulness-Based,True,16,14,13,12,-4,6,6,1.0,Improved
+SYN000268,rebecca.white66@yahoo.com,Rebecca,White,32,Non-binary,2024-09-05,CBT,True,14,10,9,8,-6,6,5,0.83,Improved
+SYN000269,jeffrey.williams17@gmail.com,Jeffrey,Williams,75,Female,2024-09-25,Supportive,True,19,17,16,12,-7,3,2,0.67,Improved
+SYN000270,george.harris73@gmail.com,George,Harris,31,Non-binary,2024-09-22,CBT,False,16,15,13,10,-6,6,4,0.67,Improved
+SYN000271,deborah.white57@gmail.com,Deborah,White,41,Female,2024-09-17,DBT,False,17,16,12,11,-6,9,8,0.89,Improved
+SYN000272,joshua.adams36@yahoo.com,Joshua,Adams,41,Female,2024-09-01,CBT,True,13,10,9,8,-5,8,7,0.88,Improved
+SYN000273,angela.king50@icloud.com,Angela,King,52,Non-binary,2024-09-09,Mindfulness-Based,True,20,17,15,12,-8,4,2,0.5,Improved
+SYN000274,cynthia.wilson79@outlook.com,Cynthia,Wilson,38,Female,2024-09-07,Supportive,False,15,14,17,18,3,3,1,0.33,Not Improved
+SYN000275,barbara.lewis23@hotmail.com,Barbara,Lewis,38,Non-binary,2024-09-26,CBT,True,10,6,4,1,-9,5,3,0.6,Improved
+SYN000276,joshua.nelson45@gmail.com,Joshua,Nelson,67,Male,2024-09-29,Supportive,False,20,22,21,22,2,4,4,1.0,Not Improved
+SYN000277,christopher.rivera91@yahoo.com,Christopher,Rivera,38,Non-binary,2024-09-17,Supportive,False,16,16,16,15,-1,11,9,0.82,Not Improved
+SYN000278,margaret.rodriguez31@hotmail.com,Margaret,Rodriguez,45,Male,2024-09-12,DBT,True,10,6,4,3,-7,7,5,0.71,Improved
+SYN000279,deborah.robinson71@yahoo.com,Deborah,Robinson,57,Non-binary,2024-09-03,Mindfulness-Based,False,16,14,11,10,-6,7,5,0.71,Improved
+SYN000280,amy.king53@hotmail.com,Amy,King,18,Female,2024-09-05,Mindfulness-Based,True,14,13,10,9,-5,3,2,0.67,Improved
+SYN000281,barbara.lewis60@icloud.com,Barbara,Lewis,32,Non-binary,2024-09-05,CBT,True,13,13,13,12,-1,4,1,0.25,Not Improved
+SYN000282,betty.rodriguez56@icloud.com,Betty,Rodriguez,65,Non-binary,2024-09-27,Supportive,False,11,10,9,7,-4,10,8,0.8,Improved
+SYN000283,lisa.martin22@yahoo.com,Lisa,Martin,75,Female,2024-09-30,DBT,True,11,12,14,18,7,6,5,0.83,Not Improved
+SYN000284,brian.king37@gmail.com,Brian,King,34,Non-binary,2024-09-07,CBT,True,13,13,14,15,2,8,5,0.62,Not Improved
+SYN000285,emily.rodriguez81@outlook.com,Emily,Rodriguez,75,Non-binary,2024-09-17,CBT,True,18,15,11,10,-8,12,12,1.0,Improved
+SYN000286,lisa.hernandez85@icloud.com,Lisa,Hernandez,18,Female,2024-09-27,Supportive,True,11,12,15,17,6,8,3,0.38,Not Improved
+SYN000287,jennifer.johnson11@gmail.com,Jennifer,Johnson,75,Male,2024-09-21,CBT,False,11,14,12,13,2,11,1,0.09,Not Improved
+SYN000288,sharon.flores82@gmail.com,Sharon,Flores,50,Non-binary,2024-09-29,DBT,True,10,12,12,14,4,9,1,0.11,Not Improved
+SYN000289,donna.adams39@hotmail.com,Donna,Adams,26,Female,2024-09-26,CBT,True,16,13,12,11,-5,11,8,0.73,Improved
+SYN000290,rebecca.martin59@gmail.com,Rebecca,Martin,34,Female,2024-09-06,Mindfulness-Based,False,15,12,10,9,-6,10,9,0.9,Improved
+SYN000291,amy.robinson27@outlook.com,Amy,Robinson,36,Female,2024-09-11,CBT,True,15,12,11,9,-6,3,3,1.0,Improved
+SYN000292,joshua.campbell45@hotmail.com,Joshua,Campbell,65,Male,2024-09-25,DBT,False,19,18,14,11,-8,4,2,0.5,Improved
+SYN000293,jessica.lee31@hotmail.com,Jessica,Lee,69,Male,2024-09-09,Supportive,False,15,14,10,6,-9,9,6,0.67,Improved
+SYN000294,charles.miller7@outlook.com,Charles,Miller,47,Male,2024-09-28,DBT,True,20,17,17,18,-2,7,3,0.43,Not Improved
+SYN000295,dorothy.hernandez42@icloud.com,Dorothy,Hernandez,28,Non-binary,2024-09-07,Mindfulness-Based,True,10,10,13,14,4,7,4,0.57,Not Improved
+SYN000296,angela.allen60@hotmail.com,Angela,Allen,40,Non-binary,2024-09-16,DBT,False,20,21,24,22,2,3,1,0.33,Not Improved
+SYN000297,ronald.allen59@yahoo.com,Ronald,Allen,30,Female,2024-09-19,CBT,False,14,10,9,5,-9,6,3,0.5,Improved
+SYN000298,michael.jackson64@icloud.com,Michael,Jackson,62,Non-binary,2024-09-10,Supportive,True,15,10,11,13,-2,4,1,0.25,Not Improved
+SYN000299,jessica.ramirez18@outlook.com,Jessica,Ramirez,70,Male,2024-09-25,Supportive,False,13,13,14,15,2,7,5,0.71,Not Improved
+SYN000300,jennifer.sanchez7@icloud.com,Jennifer,Sanchez,69,Female,2024-09-12,Mindfulness-Based,True,16,15,10,6,-10,8,6,0.75,Improved
+SYN000301,barbara.harris65@hotmail.com,Barbara,Harris,51,Female,2024-09-27,DBT,True,10,8,8,8,-2,12,1,0.08,Not Improved
+SYN000302,sarah.rodriguez13@hotmail.com,Sarah,Rodriguez,54,Non-binary,2024-09-26,Mindfulness-Based,True,16,17,18,18,2,9,1,0.11,Not Improved
+SYN000303,george.martinez26@icloud.com,George,Martinez,59,Female,2024-09-17,CBT,False,12,11,15,14,2,6,3,0.5,Not Improved
+SYN000304,robert.rodriguez92@outlook.com,Robert,Rodriguez,55,Female,2024-09-17,Mindfulness-Based,False,16,16,13,16,0,8,4,0.5,Not Improved
+SYN000305,karen.lee79@outlook.com,Karen,Lee,55,Male,2024-09-13,DBT,True,20,16,13,12,-8,4,2,0.5,Improved
+SYN000306,kenneth.nguyen44@icloud.com,Kenneth,Nguyen,18,Female,2024-09-23,Mindfulness-Based,True,14,12,12,12,-2,6,1,0.17,Not Improved
+SYN000307,jacob.johnson48@outlook.com,Jacob,Johnson,56,Non-binary,2024-09-14,Mindfulness-Based,True,15,14,9,4,-11,8,4,0.5,Improved
+SYN000308,patricia.hill61@outlook.com,Patricia,Hill,48,Female,2024-09-24,DBT,False,13,11,9,7,-6,8,5,0.62,Improved
+SYN000309,amy.hernandez68@icloud.com,Amy,Hernandez,54,Female,2024-09-05,Supportive,True,18,20,20,15,-3,6,3,0.5,Not Improved
+SYN000310,dorothy.williams74@gmail.com,Dorothy,Williams,25,Non-binary,2024-09-01,CBT,False,14,12,9,8,-6,9,8,0.89,Improved
+SYN000311,sharon.martinez53@yahoo.com,Sharon,Martinez,64,Female,2024-09-17,DBT,True,15,15,14,12,-3,8,5,0.62,Not Improved
+SYN000312,jacob.mitchell94@gmail.com,Jacob,Mitchell,46,Non-binary,2024-09-17,Supportive,False,16,13,12,9,-7,11,5,0.45,Improved
+SYN000313,carol.nelson62@icloud.com,Carol,Nelson,50,Female,2024-09-11,DBT,True,13,10,10,15,2,3,2,0.67,Not Improved
+SYN000314,ryan.wright44@icloud.com,Ryan,Wright,75,Non-binary,2024-09-22,DBT,True,17,15,15,15,-2,8,5,0.62,Not Improved
+SYN000315,kimberly.flores62@yahoo.com,Kimberly,Flores,42,Non-binary,2024-09-09,CBT,True,11,9,8,7,-4,9,8,0.89,Improved
+SYN000316,mark.martin99@outlook.com,Mark,Martin,18,Male,2024-09-23,CBT,True,17,14,12,11,-6,8,4,0.5,Improved
+SYN000317,joshua.walker45@icloud.com,Joshua,Walker,59,Male,2024-09-10,CBT,False,15,17,18,20,5,7,5,0.71,Not Improved
+SYN000318,timothy.sanchez45@yahoo.com,Timothy,Sanchez,48,Female,2024-09-02,Mindfulness-Based,False,12,9,14,17,5,12,7,0.58,Not Improved
+SYN000319,david.thompson57@outlook.com,David,Thompson,40,Male,2024-09-07,Mindfulness-Based,False,18,19,24,22,4,11,6,0.55,Not Improved
+SYN000320,paul.scott90@outlook.com,Paul,Scott,18,Non-binary,2024-09-04,DBT,True,12,11,6,4,-8,10,8,0.8,Improved
+SYN000321,donald.thomas7@icloud.com,Donald,Thomas,72,Female,2024-09-21,Supportive,False,14,11,8,5,-9,5,3,0.6,Improved
+SYN000322,richard.clark43@hotmail.com,Richard,Clark,47,Non-binary,2024-09-22,Mindfulness-Based,True,20,19,18,15,-5,3,2,0.67,Improved
+SYN000323,james.scott21@hotmail.com,James,Scott,39,Non-binary,2024-09-16,Mindfulness-Based,True,13,13,13,14,1,6,3,0.5,Not Improved
+SYN000324,andrew.lee37@gmail.com,Andrew,Lee,66,Non-binary,2024-09-21,DBT,True,17,15,12,9,-8,9,8,0.89,Improved
+SYN000325,robert.lopez54@yahoo.com,Robert,Lopez,39,Non-binary,2024-09-27,Mindfulness-Based,False,13,12,9,7,-6,11,5,0.45,Improved
+SYN000326,angela.lopez96@outlook.com,Angela,Lopez,63,Non-binary,2024-09-01,DBT,False,11,7,5,3,-8,8,6,0.75,Improved
+SYN000327,jessica.perez37@hotmail.com,Jessica,Perez,51,Non-binary,2024-09-29,DBT,True,17,15,20,21,4,11,7,0.64,Not Improved
+SYN000328,kathleen.moore25@gmail.com,Kathleen,Moore,49,Male,2024-09-06,CBT,True,17,16,15,16,-1,10,4,0.4,Not Improved
+SYN000329,steven.rivera24@gmail.com,Steven,Rivera,26,Female,2024-09-26,Mindfulness-Based,False,14,14,13,16,2,9,7,0.78,Not Improved
+SYN000330,matthew.lopez79@hotmail.com,Matthew,Lopez,40,Non-binary,2024-09-17,DBT,False,20,24,24,24,4,10,5,0.5,Not Improved
+SYN000331,rebecca.nelson13@yahoo.com,Rebecca,Nelson,46,Female,2024-09-16,CBT,False,11,10,7,6,-5,3,2,0.67,Improved
+SYN000332,dorothy.smith34@hotmail.com,Dorothy,Smith,29,Female,2024-09-15,DBT,True,13,12,11,8,-5,8,6,0.75,Improved
+SYN000333,kevin.martin75@icloud.com,Kevin,Martin,46,Male,2024-09-09,Mindfulness-Based,True,13,10,6,5,-8,5,2,0.4,Improved
+SYN000334,donald.brown86@gmail.com,Donald,Brown,37,Male,2024-09-10,Supportive,False,16,15,16,16,0,5,3,0.6,Not Improved
+SYN000335,michelle.hall16@outlook.com,Michelle,Hall,24,Female,2024-09-20,Supportive,False,17,15,18,18,1,5,2,0.4,Not Improved
+SYN000336,karen.walker20@hotmail.com,Karen,Walker,51,Male,2024-09-14,CBT,True,10,9,9,9,-1,4,1,0.25,Not Improved
+SYN000337,jacob.wright86@yahoo.com,Jacob,Wright,47,Non-binary,2024-09-22,Mindfulness-Based,True,15,11,8,7,-8,8,4,0.5,Improved
+SYN000338,david.king58@icloud.com,David,King,32,Male,2024-09-03,DBT,True,14,14,13,11,-3,3,1,0.33,Not Improved
+SYN000339,joseph.brown71@icloud.com,Joseph,Brown,44,Non-binary,2024-09-19,Mindfulness-Based,True,17,13,12,9,-8,5,4,0.8,Improved
+SYN000340,nancy.lee67@hotmail.com,Nancy,Lee,37,Female,2024-09-22,CBT,False,13,11,10,9,-4,6,3,0.5,Improved
+SYN000341,gary.garcia66@hotmail.com,Gary,Garcia,28,Female,2024-09-15,CBT,False,19,16,14,13,-6,11,6,0.55,Improved
+SYN000342,sharon.robinson73@gmail.com,Sharon,Robinson,55,Non-binary,2024-09-22,CBT,True,13,11,13,11,-2,12,9,0.75,Not Improved
+SYN000343,john.sanchez33@gmail.com,John,Sanchez,42,Male,2024-09-19,Supportive,False,19,18,17,15,-4,3,3,1.0,Improved
+SYN000344,jason.thompson90@gmail.com,Jason,Thompson,39,Female,2024-09-30,Supportive,True,13,12,10,6,-7,8,7,0.88,Improved
+SYN000345,jacob.williams37@hotmail.com,Jacob,Williams,59,Non-binary,2024-09-25,Supportive,False,12,8,5,3,-9,3,2,0.67,Improved
+SYN000346,sharon.white49@hotmail.com,Sharon,White,42,Non-binary,2024-09-13,Mindfulness-Based,False,10,9,10,12,2,10,4,0.4,Not Improved
+SYN000347,karen.adams45@gmail.com,Karen,Adams,75,Female,2024-09-18,DBT,False,19,15,12,9,-10,6,5,0.83,Improved
+SYN000348,thomas.campbell29@gmail.com,Thomas,Campbell,18,Female,2024-09-10,DBT,False,17,16,15,13,-4,11,9,0.82,Improved
+SYN000349,jason.wright49@yahoo.com,Jason,Wright,34,Non-binary,2024-09-15,Mindfulness-Based,False,13,12,10,9,-4,10,7,0.7,Improved
+SYN000350,emily.gonzalez93@gmail.com,Emily,Gonzalez,71,Non-binary,2024-09-26,Supportive,True,15,12,8,7,-8,6,5,0.83,Improved
+SYN000351,john.thomas27@gmail.com,John,Thomas,54,Male,2024-09-20,Supportive,False,16,13,11,10,-6,9,8,0.89,Improved
+SYN000352,michael.thomas95@gmail.com,Michael,Thomas,35,Female,2024-09-15,DBT,False,18,18,17,21,3,8,6,0.75,Not Improved
+SYN000353,sandra.brown18@icloud.com,Sandra,Brown,52,Female,2024-09-08,DBT,True,13,10,11,12,-1,9,7,0.78,Not Improved
+SYN000354,joshua.torres77@outlook.com,Joshua,Torres,33,Female,2024-09-10,Supportive,True,20,19,17,16,-4,9,6,0.67,Improved
+SYN000355,mark.clark39@outlook.com,Mark,Clark,42,Female,2024-09-18,CBT,True,10,6,5,3,-7,3,2,0.67,Improved
+SYN000356,daniel.green87@hotmail.com,Daniel,Green,36,Non-binary,2024-09-02,CBT,True,15,15,13,15,0,3,2,0.67,Not Improved
+SYN000357,timothy.king41@hotmail.com,Timothy,King,37,Female,2024-09-05,Supportive,False,11,11,11,10,-1,6,4,0.67,Not Improved
+SYN000358,betty.wright61@yahoo.com,Betty,Wright,75,Non-binary,2024-09-10,Supportive,True,12,10,9,7,-5,12,11,0.92,Improved
+SYN000359,charles.robinson8@icloud.com,Charles,Robinson,26,Female,2024-10-01,DBT,False,16,15,15,14,-2,8,6,0.75,Not Improved
+SYN000360,karen.harris32@outlook.com,Karen,Harris,30,Female,2024-09-11,Mindfulness-Based,True,14,11,10,8,-6,9,6,0.67,Improved
+SYN000361,cynthia.white12@icloud.com,Cynthia,White,64,Male,2024-09-02,Mindfulness-Based,False,17,14,13,11,-6,5,3,0.6,Improved
+SYN000362,jennifer.jones25@icloud.com,Jennifer,Jones,40,Female,2024-09-16,DBT,False,10,8,7,5,-5,6,3,0.5,Improved
+SYN000363,kevin.martin2@yahoo.com,Kevin,Martin,53,Non-binary,2024-10-01,Supportive,True,19,17,14,12,-7,11,7,0.64,Improved
+SYN000364,amy.thomas90@icloud.com,Amy,Thomas,28,Non-binary,2024-09-13,DBT,True,19,18,15,14,-5,7,6,0.86,Improved
+SYN000365,carol.jackson49@hotmail.com,Carol,Jackson,28,Female,2024-09-10,DBT,False,14,14,14,17,3,7,5,0.71,Not Improved
+SYN000366,angela.robinson13@hotmail.com,Angela,Robinson,36,Male,2024-09-30,DBT,False,20,19,19,18,-2,6,2,0.33,Not Improved
+SYN000367,joshua.clark6@icloud.com,Joshua,Clark,48,Non-binary,2024-09-24,Supportive,False,12,7,6,2,-10,7,5,0.71,Improved
+SYN000368,kimberly.scott75@icloud.com,Kimberly,Scott,34,Female,2024-09-10,Supportive,False,18,18,20,24,6,9,6,0.67,Not Improved
+SYN000369,kevin.anderson49@icloud.com,Kevin,Anderson,30,Male,2024-09-16,Supportive,True,14,12,10,8,-6,11,5,0.45,Improved
+SYN000370,amanda.taylor98@hotmail.com,Amanda,Taylor,24,Non-binary,2024-09-15,Supportive,False,13,12,16,15,2,6,4,0.67,Not Improved
+SYN000371,melissa.hernandez18@icloud.com,Melissa,Hernandez,43,Female,2024-09-06,Supportive,True,14,12,14,14,0,4,1,0.25,Not Improved
+SYN000372,linda.king5@gmail.com,Linda,King,18,Non-binary,2024-09-25,CBT,False,18,14,12,10,-8,10,8,0.8,Improved
+SYN000373,karen.green30@gmail.com,Karen,Green,18,Female,2024-09-01,CBT,False,13,12,9,8,-5,3,2,0.67,Improved
+SYN000374,ryan.white8@icloud.com,Ryan,White,64,Non-binary,2024-09-22,Supportive,False,15,14,15,17,2,8,3,0.38,Not Improved
+SYN000375,james.wright71@hotmail.com,James,Wright,48,Non-binary,2024-09-01,DBT,True,18,13,8,7,-11,6,5,0.83,Improved
+SYN000376,emily.wright37@gmail.com,Emily,Wright,52,Female,2024-09-26,Mindfulness-Based,True,20,22,21,21,1,4,3,0.75,Not Improved
+SYN000377,daniel.miller13@icloud.com,Daniel,Miller,49,Non-binary,2024-09-08,Supportive,False,19,18,17,15,-4,8,5,0.62,Improved
+SYN000378,steven.thompson35@hotmail.com,Steven,Thompson,36,Non-binary,2024-09-12,Supportive,True,14,13,10,8,-6,10,9,0.9,Improved
+SYN000379,ryan.torres32@yahoo.com,Ryan,Torres,18,Non-binary,2024-09-22,CBT,True,14,12,10,12,-2,3,2,0.67,Not Improved
+SYN000380,david.adams84@gmail.com,David,Adams,57,Male,2024-09-13,Mindfulness-Based,False,18,14,13,11,-7,6,5,0.83,Improved
+SYN000381,jacob.brown82@gmail.com,Jacob,Brown,35,Non-binary,2024-09-03,CBT,False,10,8,4,3,-7,4,3,0.75,Improved
+SYN000382,laura.adams43@icloud.com,Laura,Adams,47,Non-binary,2024-09-29,Supportive,True,10,9,8,5,-5,7,3,0.43,Improved
+SYN000383,jennifer.anderson28@icloud.com,Jennifer,Anderson,58,Non-binary,2024-09-09,Supportive,False,11,13,14,14,3,7,2,0.29,Not Improved
+SYN000384,barbara.baker36@icloud.com,Barbara,Baker,71,Female,2024-09-06,Supportive,True,20,18,15,14,-6,10,7,0.7,Improved
+SYN000385,joshua.johnson27@icloud.com,Joshua,Johnson,45,Female,2024-09-25,Supportive,True,18,15,10,6,-12,6,6,1.0,Improved
+SYN000386,ronald.jones39@yahoo.com,Ronald,Jones,51,Non-binary,2024-09-19,DBT,True,14,13,10,7,-7,8,6,0.75,Improved
+SYN000387,stephanie.baker70@outlook.com,Stephanie,Baker,18,Non-binary,2024-09-25,Mindfulness-Based,True,13,17,16,17,4,5,2,0.4,Not Improved
+SYN000388,david.allen96@outlook.com,David,Allen,36,Non-binary,2024-09-04,DBT,False,10,4,2,1,-9,8,6,0.75,Improved
+SYN000389,barbara.perez78@icloud.com,Barbara,Perez,43,Non-binary,2024-09-25,DBT,False,16,17,18,17,1,10,2,0.2,Not Improved
+SYN000390,paul.lewis63@yahoo.com,Paul,Lewis,39,Female,2024-09-18,CBT,True,16,18,17,18,2,7,3,0.43,Not Improved
+SYN000391,laura.lopez88@icloud.com,Laura,Lopez,50,Female,2024-09-03,DBT,True,11,6,7,9,-2,8,1,0.12,Not Improved
+SYN000392,donna.thomas92@gmail.com,Donna,Thomas,50,Female,2024-09-09,Supportive,False,19,15,14,13,-6,9,4,0.44,Improved
+SYN000393,lisa.mitchell50@outlook.com,Lisa,Mitchell,20,Male,2024-09-04,Mindfulness-Based,False,15,13,12,14,-1,11,4,0.36,Not Improved
+SYN000394,michelle.lewis47@outlook.com,Michelle,Lewis,51,Male,2024-09-05,CBT,False,16,12,11,10,-6,5,5,1.0,Improved
+SYN000395,laura.lewis72@icloud.com,Laura,Lewis,69,Non-binary,2024-09-04,DBT,False,18,18,21,22,4,4,1,0.25,Not Improved
+SYN000396,melissa.scott12@icloud.com,Melissa,Scott,66,Non-binary,2024-09-28,Mindfulness-Based,False,13,10,12,13,0,8,2,0.25,Not Improved
+SYN000397,donna.clark50@gmail.com,Donna,Clark,35,Non-binary,2024-09-19,CBT,True,13,9,8,4,-9,4,3,0.75,Improved
+SYN000398,timothy.hernandez18@outlook.com,Timothy,Hernandez,32,Non-binary,2024-09-09,Supportive,False,16,14,16,17,1,9,2,0.22,Not Improved
+SYN000399,william.hernandez56@outlook.com,William,Hernandez,41,Non-binary,2024-09-10,Mindfulness-Based,False,10,7,6,8,-2,3,1,0.33,Not Improved
+SYN000400,barbara.white33@yahoo.com,Barbara,White,40,Male,2024-09-20,DBT,True,17,16,14,17,0,6,1,0.17,Not Improved
+SYN000401,ryan.miller18@outlook.com,Ryan,Miller,44,Non-binary,2024-10-01,Mindfulness-Based,False,13,9,6,1,-12,11,8,0.73,Improved
+SYN000402,timothy.perez57@outlook.com,Timothy,Perez,24,Female,2024-09-27,Supportive,True,16,14,16,15,-1,8,2,0.25,Not Improved
+SYN000403,karen.martin42@icloud.com,Karen,Martin,60,Male,2024-09-16,Supportive,False,16,13,11,9,-7,9,8,0.89,Improved
+SYN000404,ronald.lee38@hotmail.com,Ronald,Lee,53,Non-binary,2024-09-11,CBT,False,11,8,7,4,-7,4,3,0.75,Improved
+SYN000405,ronald.white15@icloud.com,Ronald,White,65,Female,2024-09-19,Mindfulness-Based,True,17,16,12,10,-7,6,5,0.83,Improved
+SYN000406,betty.baker99@icloud.com,Betty,Baker,46,Non-binary,2024-10-01,DBT,True,11,6,5,2,-9,8,3,0.38,Improved
+SYN000407,anthony.lewis38@gmail.com,Anthony,Lewis,61,Female,2024-09-22,DBT,False,13,10,9,10,-3,9,7,0.78,Not Improved
+SYN000408,kenneth.thomas33@yahoo.com,Kenneth,Thomas,42,Non-binary,2024-09-26,CBT,False,15,12,16,15,0,5,1,0.2,Not Improved
+SYN000409,cynthia.hill62@icloud.com,Cynthia,Hill,57,Female,2024-09-18,CBT,False,18,15,20,20,2,8,7,0.88,Not Improved
+SYN000410,sharon.wright5@outlook.com,Sharon,Wright,22,Female,2024-09-04,Supportive,True,13,10,9,7,-6,11,9,0.82,Improved
+SYN000411,melissa.hernandez83@icloud.com,Melissa,Hernandez,43,Male,2024-09-19,Mindfulness-Based,True,14,12,10,4,-10,6,5,0.83,Improved
+SYN000412,rebecca.perez56@gmail.com,Rebecca,Perez,31,Non-binary,2024-09-04,CBT,False,10,7,5,0,-10,9,5,0.56,Improved
+SYN000413,mark.lewis48@hotmail.com,Mark,Lewis,62,Male,2024-09-25,Mindfulness-Based,True,20,19,17,18,-2,9,7,0.78,Not Improved
+SYN000414,lisa.thompson4@hotmail.com,Lisa,Thompson,61,Male,2024-09-10,CBT,False,16,15,12,11,-5,10,9,0.9,Improved
+SYN000415,david.davis94@yahoo.com,David,Davis,38,Female,2024-09-10,Supportive,False,18,16,13,16,-2,4,2,0.5,Not Improved
+SYN000416,anthony.king62@outlook.com,Anthony,King,54,Male,2024-09-04,Mindfulness-Based,False,15,17,16,16,1,11,4,0.36,Not Improved
+SYN000417,cynthia.lee9@outlook.com,Cynthia,Lee,47,Non-binary,2024-09-26,DBT,True,16,14,11,9,-7,4,3,0.75,Improved
+SYN000418,john.perez83@gmail.com,John,Perez,53,Male,2024-09-30,Mindfulness-Based,True,14,13,8,7,-7,7,3,0.43,Improved
+SYN000419,dorothy.king23@icloud.com,Dorothy,King,18,Non-binary,2024-09-11,CBT,True,11,10,7,5,-6,9,8,0.89,Improved
+SYN000420,kathleen.anderson52@yahoo.com,Kathleen,Anderson,50,Female,2024-09-21,Mindfulness-Based,True,15,10,5,3,-12,5,4,0.8,Improved
+SYN000421,ronald.johnson95@icloud.com,Ronald,Johnson,54,Non-binary,2024-09-15,CBT,True,12,9,8,5,-7,5,3,0.6,Improved
+SYN000422,stephanie.smith91@yahoo.com,Stephanie,Smith,18,Female,2024-09-09,Mindfulness-Based,True,12,7,5,3,-9,10,6,0.6,Improved
+SYN000423,william.torres14@icloud.com,William,Torres,34,Male,2024-09-12,Mindfulness-Based,False,12,10,6,4,-8,3,1,0.33,Improved
+SYN000424,ryan.davis34@hotmail.com,Ryan,Davis,34,Non-binary,2024-09-20,Supportive,False,14,12,11,12,-2,6,3,0.5,Not Improved
+SYN000425,ronald.nguyen15@outlook.com,Ronald,Nguyen,35,Female,2024-09-28,CBT,False,10,8,7,11,1,7,5,0.71,Not Improved
+SYN000426,daniel.baker91@outlook.com,Daniel,Baker,46,Male,2024-09-22,CBT,False,18,16,13,12,-6,10,4,0.4,Improved
+SYN000427,sarah.thomas40@gmail.com,Sarah,Thomas,40,Male,2024-09-12,CBT,True,10,6,4,3,-7,8,5,0.62,Improved
+SYN000428,stephanie.clark77@yahoo.com,Stephanie,Clark,43,Non-binary,2024-09-14,DBT,False,15,15,18,17,2,6,4,0.67,Not Improved
+SYN000429,daniel.scott22@hotmail.com,Daniel,Scott,75,Non-binary,2024-09-05,DBT,False,12,11,14,13,1,7,3,0.43,Not Improved
+SYN000430,cynthia.flores7@outlook.com,Cynthia,Flores,24,Female,2024-09-16,Supportive,False,14,12,10,9,-5,9,6,0.67,Improved
+SYN000431,stephanie.scott65@hotmail.com,Stephanie,Scott,60,Male,2024-09-22,CBT,False,12,10,11,12,0,11,8,0.73,Not Improved
+SYN000432,jeffrey.young22@gmail.com,Jeffrey,Young,49,Male,2024-09-26,CBT,True,10,7,4,3,-7,6,5,0.83,Improved
+SYN000433,donna.williams36@yahoo.com,Donna,Williams,29,Male,2024-09-06,DBT,True,16,15,16,17,1,6,4,0.67,Not Improved
+SYN000434,angela.scott66@gmail.com,Angela,Scott,52,Non-binary,2024-09-09,CBT,True,10,8,7,3,-7,6,4,0.67,Improved
+SYN000435,george.wright97@gmail.com,George,Wright,39,Non-binary,2024-09-18,DBT,False,13,11,11,10,-3,8,8,1.0,Not Improved
+SYN000436,jason.miller95@yahoo.com,Jason,Miller,57,Male,2024-09-28,Supportive,True,11,12,13,14,3,5,3,0.6,Not Improved
+SYN000437,cynthia.taylor45@gmail.com,Cynthia,Taylor,40,Non-binary,2024-09-28,CBT,True,18,16,14,16,-2,7,5,0.71,Not Improved
+SYN000438,donald.wilson95@icloud.com,Donald,Wilson,75,Non-binary,2024-09-28,CBT,True,14,14,15,15,1,6,1,0.17,Not Improved
+SYN000439,jason.hernandez79@yahoo.com,Jason,Hernandez,63,Female,2024-09-27,Mindfulness-Based,False,19,15,14,11,-8,6,5,0.83,Improved
+SYN000440,linda.torres45@icloud.com,Linda,Torres,50,Male,2024-09-20,Mindfulness-Based,True,15,12,12,14,-1,7,5,0.71,Not Improved
+SYN000441,carol.rivera38@outlook.com,Carol,Rivera,38,Female,2024-10-01,DBT,True,13,11,6,11,-2,11,2,0.18,Not Improved
+SYN000442,richard.rodriguez97@hotmail.com,Richard,Rodriguez,75,Female,2024-09-09,CBT,True,18,17,16,14,-4,8,6,0.75,Improved
+SYN000443,thomas.hall17@yahoo.com,Thomas,Hall,43,Male,2024-09-23,CBT,False,17,16,15,13,-4,12,6,0.5,Improved
+SYN000444,dorothy.baker51@hotmail.com,Dorothy,Baker,37,Female,2024-09-19,Mindfulness-Based,True,10,5,1,0,-10,11,8,0.73,Improved
+SYN000445,sharon.harris58@gmail.com,Sharon,Harris,18,Female,2024-09-13,Supportive,True,15,12,9,6,-9,7,5,0.71,Improved
+SYN000446,emily.hall48@hotmail.com,Emily,Hall,50,Female,2024-09-11,CBT,True,10,10,8,9,-1,10,6,0.6,Not Improved
+SYN000447,susan.campbell59@outlook.com,Susan,Campbell,71,Non-binary,2024-09-26,Mindfulness-Based,True,18,16,15,12,-6,12,6,0.5,Improved
+SYN000448,sandra.ramirez28@hotmail.com,Sandra,Ramirez,41,Female,2024-09-11,DBT,True,13,12,9,11,-2,3,1,0.33,Not Improved
+SYN000449,amanda.scott74@yahoo.com,Amanda,Scott,46,Male,2024-09-26,CBT,False,17,18,18,16,-1,6,1,0.17,Not Improved
+SYN000450,michael.williams13@hotmail.com,Michael,Williams,47,Female,2024-09-04,CBT,True,11,9,6,5,-6,8,4,0.5,Improved
+SYN000451,christopher.lewis59@gmail.com,Christopher,Lewis,56,Male,2024-09-07,DBT,True,15,12,14,19,4,7,4,0.57,Not Improved
+SYN000452,thomas.adams39@yahoo.com,Thomas,Adams,47,Male,2024-09-03,Mindfulness-Based,True,14,13,13,11,-3,5,3,0.6,Not Improved
+SYN000453,steven.garcia48@yahoo.com,Steven,Garcia,50,Female,2024-09-13,DBT,True,12,8,4,1,-11,11,7,0.64,Improved
+SYN000454,ashley.ramirez84@gmail.com,Ashley,Ramirez,41,Male,2024-09-01,CBT,False,11,8,6,5,-6,3,2,0.67,Improved
+SYN000455,barbara.rodriguez76@yahoo.com,Barbara,Rodriguez,41,Non-binary,2024-09-01,Mindfulness-Based,False,12,10,12,12,0,5,2,0.4,Not Improved
+SYN000456,amanda.davis55@yahoo.com,Amanda,Davis,39,Non-binary,2024-09-03,DBT,False,15,15,18,20,5,6,3,0.5,Not Improved
+SYN000457,susan.campbell14@gmail.com,Susan,Campbell,45,Male,2024-09-12,DBT,True,18,19,17,17,-1,10,2,0.2,Not Improved
+SYN000458,karen.harris97@yahoo.com,Karen,Harris,32,Male,2024-09-03,Mindfulness-Based,True,10,9,7,6,-4,5,4,0.8,Improved
+SYN000459,mary.flores84@yahoo.com,Mary,Flores,71,Male,2024-09-12,CBT,True,19,17,16,17,-2,8,7,0.88,Not Improved
+SYN000460,lisa.clark79@hotmail.com,Lisa,Clark,50,Female,2024-09-03,Supportive,True,10,7,5,4,-6,3,2,0.67,Improved
+SYN000461,karen.davis76@hotmail.com,Karen,Davis,50,Female,2024-10-01,DBT,False,13,12,15,14,1,3,1,0.33,Not Improved
+SYN000462,karen.thomas36@gmail.com,Karen,Thomas,33,Male,2024-09-18,CBT,True,14,13,9,7,-7,12,9,0.75,Improved
+SYN000463,andrew.hall4@outlook.com,Andrew,Hall,68,Male,2024-09-17,Mindfulness-Based,True,17,16,13,11,-6,3,2,0.67,Improved
+SYN000464,matthew.mitchell51@outlook.com,Matthew,Mitchell,57,Female,2024-09-26,CBT,True,15,12,7,6,-9,12,11,0.92,Improved
+SYN000465,donald.young50@gmail.com,Donald,Young,51,Non-binary,2024-09-16,CBT,True,14,9,7,5,-9,12,8,0.67,Improved
+SYN000466,barbara.king2@outlook.com,Barbara,King,56,Female,2024-09-05,Supportive,False,17,16,18,17,0,5,1,0.2,Not Improved
+SYN000467,sharon.white70@yahoo.com,Sharon,White,36,Male,2024-10-01,CBT,True,10,10,11,10,0,11,3,0.27,Not Improved
+SYN000468,barbara.johnson76@gmail.com,Barbara,Johnson,64,Male,2024-09-09,Supportive,False,17,14,11,8,-9,3,2,0.67,Improved
+SYN000469,linda.sanchez65@outlook.com,Linda,Sanchez,64,Male,2024-09-14,DBT,True,11,12,8,10,-1,4,1,0.25,Not Improved
+SYN000470,david.green69@icloud.com,David,Green,58,Non-binary,2024-09-09,Mindfulness-Based,False,13,12,8,7,-6,3,2,0.67,Improved
+SYN000471,david.allen27@yahoo.com,David,Allen,75,Male,2024-09-13,Supportive,True,11,9,9,9,-2,6,5,0.83,Not Improved
+SYN000472,william.martin90@hotmail.com,William,Martin,49,Non-binary,2024-09-02,Supportive,False,10,8,4,3,-7,6,5,0.83,Improved
+SYN000473,laura.davis59@icloud.com,Laura,Davis,30,Male,2024-09-10,CBT,True,11,10,9,7,-4,9,8,0.89,Improved
+SYN000474,daniel.davis2@yahoo.com,Daniel,Davis,42,Male,2024-09-06,Mindfulness-Based,False,11,7,6,3,-8,7,5,0.71,Improved
+SYN000475,brian.king67@outlook.com,Brian,King,52,Non-binary,2024-09-12,Supportive,False,11,8,6,4,-7,6,4,0.67,Improved
+SYN000476,paul.campbell16@gmail.com,Paul,Campbell,47,Male,2024-09-26,Supportive,False,10,8,5,8,-2,7,5,0.71,Not Improved
+SYN000477,william.taylor92@icloud.com,William,Taylor,70,Male,2024-09-16,Mindfulness-Based,False,19,17,16,12,-7,4,3,0.75,Improved
+SYN000478,george.brown64@icloud.com,George,Brown,29,Non-binary,2024-09-12,CBT,False,16,12,6,5,-11,9,5,0.56,Improved
+SYN000479,jessica.torres87@gmail.com,Jessica,Torres,22,Non-binary,2024-09-24,DBT,True,17,14,10,9,-8,4,1,0.25,Improved
+SYN000480,jennifer.smith32@gmail.com,Jennifer,Smith,34,Non-binary,2024-09-12,Supportive,False,10,10,8,8,-2,9,4,0.44,Not Improved
+SYN000481,lisa.lopez5@icloud.com,Lisa,Lopez,45,Male,2024-09-08,Supportive,False,13,11,10,12,-1,5,2,0.4,Not Improved
+SYN000482,sharon.campbell41@outlook.com,Sharon,Campbell,39,Male,2024-09-19,DBT,False,15,14,11,9,-6,7,7,1.0,Improved
+SYN000483,michael.lopez29@icloud.com,Michael,Lopez,30,Female,2024-10-01,Mindfulness-Based,False,17,15,13,9,-8,9,7,0.78,Improved
+SYN000484,kathleen.jackson40@outlook.com,Kathleen,Jackson,62,Female,2024-09-18,CBT,False,10,5,3,2,-8,6,3,0.5,Improved
+SYN000485,deborah.gonzalez38@icloud.com,Deborah,Gonzalez,36,Non-binary,2024-09-24,CBT,True,11,10,10,12,1,11,2,0.18,Not Improved
+SYN000486,kathleen.white76@hotmail.com,Kathleen,White,18,Non-binary,2024-09-24,Mindfulness-Based,True,20,17,16,15,-5,7,5,0.71,Improved
+SYN000487,dorothy.martinez1@hotmail.com,Dorothy,Martinez,26,Male,2024-09-08,DBT,True,10,6,4,1,-9,5,2,0.4,Improved
+SYN000488,mary.perez1@hotmail.com,Mary,Perez,47,Non-binary,2024-09-04,Supportive,False,14,12,8,12,-2,10,5,0.5,Not Improved
+SYN000489,donald.clark63@gmail.com,Donald,Clark,57,Male,2024-09-23,CBT,False,11,10,8,6,-5,8,7,0.88,Improved
+SYN000490,jennifer.anderson67@hotmail.com,Jennifer,Anderson,60,Female,2024-09-15,Mindfulness-Based,True,16,17,15,14,-2,5,2,0.4,Not Improved
+SYN000491,david.nguyen13@icloud.com,David,Nguyen,67,Male,2024-09-21,Mindfulness-Based,True,14,12,8,7,-7,11,8,0.73,Improved
+SYN000492,barbara.nguyen73@gmail.com,Barbara,Nguyen,58,Female,2024-09-22,DBT,True,11,10,8,10,-1,12,10,0.83,Not Improved
+SYN000493,donald.jackson34@outlook.com,Donald,Jackson,45,Non-binary,2024-09-23,Supportive,True,13,15,14,15,2,7,3,0.43,Not Improved
+SYN000494,carol.lee58@outlook.com,Carol,Lee,51,Male,2024-09-03,DBT,True,11,9,8,5,-6,8,7,0.88,Improved
+SYN000495,karen.nguyen14@yahoo.com,Karen,Nguyen,25,Female,2024-09-06,Mindfulness-Based,False,13,11,10,9,-4,5,4,0.8,Improved
+SYN000496,joshua.clark16@icloud.com,Joshua,Clark,54,Female,2024-10-01,DBT,True,18,16,15,16,-2,11,8,0.73,Not Improved
+SYN000497,cynthia.martin60@outlook.com,Cynthia,Martin,41,Non-binary,2024-09-03,Mindfulness-Based,False,16,14,12,9,-7,7,5,0.71,Improved
+SYN000498,kenneth.rivera90@icloud.com,Kenneth,Rivera,29,Female,2024-09-07,Supportive,True,10,8,5,3,-7,9,8,0.89,Improved
+SYN000499,carol.martinez12@yahoo.com,Carol,Martinez,26,Non-binary,2024-09-13,DBT,True,14,13,14,14,0,7,1,0.14,Not Improved
+SYN000500,kenneth.taylor23@gmail.com,Kenneth,Taylor,22,Non-binary,2024-09-28,CBT,False,12,12,11,13,1,8,5,0.62,Not Improved
+SYN000501,dorothy.miller60@gmail.com,Dorothy,Miller,26,Non-binary,2024-09-04,CBT,False,17,15,14,10,-7,10,3,0.3,Improved
+SYN000502,mark.rodriguez26@hotmail.com,Mark,Rodriguez,50,Non-binary,2024-09-22,Mindfulness-Based,True,14,16,15,14,0,11,6,0.55,Not Improved
+SYN000503,david.nguyen76@outlook.com,David,Nguyen,58,Female,2024-09-01,DBT,True,15,14,13,11,-4,10,8,0.8,Improved
+SYN000504,margaret.adams57@yahoo.com,Margaret,Adams,54,Female,2024-09-29,CBT,True,12,5,4,2,-10,8,7,0.88,Improved
+SYN000505,kevin.davis6@hotmail.com,Kevin,Davis,46,Female,2024-09-06,DBT,True,13,12,8,7,-6,4,4,1.0,Improved
+SYN000506,laura.campbell51@hotmail.com,Laura,Campbell,55,Female,2024-09-13,Mindfulness-Based,True,13,12,10,7,-6,7,7,1.0,Improved
+SYN000507,daniel.thompson28@yahoo.com,Daniel,Thompson,51,Male,2024-09-09,Mindfulness-Based,False,12,15,16,14,2,10,5,0.5,Not Improved
+SYN000508,lisa.williams79@icloud.com,Lisa,Williams,18,Female,2024-09-21,Mindfulness-Based,False,16,15,14,9,-7,5,4,0.8,Improved
+SYN000509,edward.scott62@gmail.com,Edward,Scott,75,Male,2024-09-09,DBT,False,14,11,7,5,-9,6,3,0.5,Improved
+SYN000510,sharon.gonzalez83@icloud.com,Sharon,Gonzalez,46,Male,2024-09-21,DBT,True,15,14,13,10,-5,6,5,0.83,Improved
+SYN000511,john.harris92@outlook.com,John,Harris,35,Non-binary,2024-09-18,DBT,True,19,16,16,17,-2,9,3,0.33,Not Improved
+SYN000512,brian.torres65@outlook.com,Brian,Torres,75,Male,2024-09-09,CBT,False,11,8,9,9,-2,9,7,0.78,Not Improved
+SYN000513,joshua.hill29@gmail.com,Joshua,Hill,50,Male,2024-09-02,Supportive,True,17,15,16,14,-3,9,8,0.89,Not Improved
+SYN000514,jacob.king46@icloud.com,Jacob,King,18,Non-binary,2024-09-06,Mindfulness-Based,False,16,10,8,5,-11,7,6,0.86,Improved
+SYN000515,donald.moore69@gmail.com,Donald,Moore,57,Female,2024-09-19,Mindfulness-Based,True,14,12,6,4,-10,9,5,0.56,Improved
+SYN000516,stephanie.thompson23@yahoo.com,Stephanie,Thompson,50,Female,2024-09-19,Supportive,False,10,8,2,0,-10,11,10,0.91,Improved
+SYN000517,melissa.nguyen4@outlook.com,Melissa,Nguyen,41,Male,2024-09-19,Supportive,True,12,9,8,6,-6,8,7,0.88,Improved
+SYN000518,angela.wright40@yahoo.com,Angela,Wright,57,Male,2024-09-02,DBT,False,14,14,15,18,4,7,3,0.43,Not Improved
+SYN000519,ashley.hill29@gmail.com,Ashley,Hill,40,Female,2024-09-01,DBT,False,10,12,10,9,-1,9,6,0.67,Not Improved
+SYN000520,margaret.rodriguez44@yahoo.com,Margaret,Rodriguez,18,Male,2024-09-02,Supportive,False,12,10,11,11,-1,9,4,0.44,Not Improved
+SYN000521,charles.davis68@outlook.com,Charles,Davis,50,Male,2024-09-12,CBT,True,19,15,14,13,-6,6,4,0.67,Improved
+SYN000522,ronald.nguyen13@outlook.com,Ronald,Nguyen,25,Female,2024-09-11,Supportive,False,13,13,14,13,0,11,2,0.18,Not Improved
+SYN000523,christopher.campbell56@hotmail.com,Christopher,Campbell,42,Female,2024-09-06,Supportive,True,17,13,11,15,-2,5,1,0.2,Not Improved
+SYN000524,melissa.anderson86@icloud.com,Melissa,Anderson,45,Non-binary,2024-09-13,Supportive,False,16,12,11,7,-9,8,4,0.5,Improved
+SYN000525,donna.rodriguez23@gmail.com,Donna,Rodriguez,54,Male,2024-09-28,Supportive,True,12,11,11,10,-2,12,4,0.33,Not Improved
+SYN000526,robert.lopez78@outlook.com,Robert,Lopez,29,Female,2024-09-21,Supportive,True,17,16,13,12,-5,11,8,0.73,Improved
+SYN000527,angela.martinez43@gmail.com,Angela,Martinez,37,Female,2024-09-12,DBT,True,17,14,10,7,-10,5,3,0.6,Improved
+SYN000528,nancy.green12@outlook.com,Nancy,Green,39,Non-binary,2024-09-01,DBT,False,19,15,18,23,4,4,3,0.75,Not Improved
+SYN000529,dorothy.hall9@outlook.com,Dorothy,Hall,37,Non-binary,2024-09-26,Supportive,False,13,15,12,10,-3,8,3,0.38,Not Improved
+SYN000530,james.brown50@hotmail.com,James,Brown,59,Male,2024-09-06,DBT,True,13,17,16,21,8,8,1,0.12,Not Improved
+SYN000531,angela.harris45@icloud.com,Angela,Harris,26,Non-binary,2024-09-04,DBT,True,18,18,20,16,-2,9,3,0.33,Not Improved
+SYN000532,mark.hernandez58@gmail.com,Mark,Hernandez,58,Male,2024-09-10,Mindfulness-Based,False,11,6,1,0,-11,12,7,0.58,Improved
+SYN000533,kimberly.miller10@outlook.com,Kimberly,Miller,65,Female,2024-09-29,CBT,False,11,8,5,3,-8,11,10,0.91,Improved
+SYN000534,barbara.scott12@outlook.com,Barbara,Scott,43,Male,2024-09-23,DBT,False,14,15,15,12,-2,11,2,0.18,Not Improved
+SYN000535,nancy.hill56@yahoo.com,Nancy,Hill,44,Female,2024-09-04,CBT,False,20,17,15,12,-8,8,5,0.62,Improved
+SYN000536,matthew.clark90@icloud.com,Matthew,Clark,36,Female,2024-09-22,CBT,False,14,13,13,12,-2,3,1,0.33,Not Improved
+SYN000537,donald.miller7@hotmail.com,Donald,Miller,67,Female,2024-09-05,Supportive,False,11,12,14,16,5,10,2,0.2,Not Improved
+SYN000538,james.ramirez12@outlook.com,James,Ramirez,75,Female,2024-09-07,Mindfulness-Based,False,16,17,15,17,1,9,7,0.78,Not Improved
+SYN000539,anthony.hernandez82@outlook.com,Anthony,Hernandez,40,Female,2024-09-16,Mindfulness-Based,True,20,14,11,10,-10,7,5,0.71,Improved
+SYN000540,michelle.sanchez61@hotmail.com,Michelle,Sanchez,47,Non-binary,2024-09-03,DBT,True,16,14,18,16,0,11,5,0.45,Not Improved
+SYN000541,stephanie.lopez48@hotmail.com,Stephanie,Lopez,52,Male,2024-09-06,CBT,False,13,10,9,11,-2,7,2,0.29,Not Improved
+SYN000542,kimberly.lewis60@outlook.com,Kimberly,Lewis,49,Male,2024-09-27,Mindfulness-Based,False,15,11,9,5,-10,12,9,0.75,Improved
+SYN000543,linda.martinez97@gmail.com,Linda,Martinez,34,Female,2024-09-22,CBT,False,12,10,9,8,-4,9,4,0.44,Improved
+SYN000544,edward.nguyen30@icloud.com,Edward,Nguyen,23,Female,2024-09-27,CBT,False,16,15,12,9,-7,4,3,0.75,Improved
+SYN000545,sharon.wright88@hotmail.com,Sharon,Wright,46,Female,2024-09-16,Supportive,False,17,14,9,8,-9,10,8,0.8,Improved
+SYN000546,ronald.rivera5@icloud.com,Ronald,Rivera,38,Male,2024-09-04,CBT,True,15,14,12,8,-7,12,11,0.92,Improved
+SYN000547,cynthia.lopez22@yahoo.com,Cynthia,Lopez,22,Female,2024-09-05,CBT,False,13,12,11,9,-4,6,4,0.67,Improved
+SYN000548,david.baker56@yahoo.com,David,Baker,58,Male,2024-09-27,CBT,True,13,12,9,8,-5,3,1,0.33,Improved
+SYN000549,joshua.campbell9@gmail.com,Joshua,Campbell,34,Female,2024-09-18,Mindfulness-Based,False,10,7,7,12,2,5,1,0.2,Not Improved
+SYN000550,carol.moore67@hotmail.com,Carol,Moore,18,Male,2024-09-26,CBT,True,14,10,7,6,-8,7,5,0.71,Improved
+SYN000551,sharon.davis54@yahoo.com,Sharon,Davis,72,Male,2024-09-19,CBT,True,10,9,5,4,-6,3,2,0.67,Improved
+SYN000552,richard.miller73@gmail.com,Richard,Miller,69,Female,2024-09-28,DBT,True,11,15,12,11,0,9,3,0.33,Not Improved
+SYN000553,brian.clark34@hotmail.com,Brian,Clark,39,Female,2024-09-19,Mindfulness-Based,True,15,15,17,14,-1,7,3,0.43,Not Improved
+SYN000554,robert.lopez36@hotmail.com,Robert,Lopez,57,Non-binary,2024-09-20,Mindfulness-Based,True,19,15,14,11,-8,4,4,1.0,Improved
+SYN000555,rebecca.williams51@outlook.com,Rebecca,Williams,18,Female,2024-09-02,Supportive,True,13,10,9,6,-7,12,9,0.75,Improved
+SYN000556,paul.white3@outlook.com,Paul,White,48,Male,2024-09-10,Mindfulness-Based,False,18,19,20,20,2,4,3,0.75,Not Improved
+SYN000557,gary.hall88@gmail.com,Gary,Hall,45,Non-binary,2024-09-05,Mindfulness-Based,False,12,6,3,1,-11,8,6,0.75,Improved
+SYN000558,jeffrey.lee35@hotmail.com,Jeffrey,Lee,57,Male,2024-09-07,Supportive,False,13,12,9,7,-6,10,7,0.7,Improved
+SYN000559,edward.mitchell63@icloud.com,Edward,Mitchell,34,Male,2024-09-27,CBT,False,11,12,14,17,6,7,3,0.43,Not Improved
+SYN000560,christopher.jones40@icloud.com,Christopher,Jones,67,Male,2024-09-05,DBT,True,13,14,14,15,2,6,2,0.33,Not Improved
+SYN000561,patricia.lopez25@yahoo.com,Patricia,Lopez,46,Non-binary,2024-09-08,Mindfulness-Based,False,12,6,5,2,-10,4,2,0.5,Improved
+SYN000562,michael.white91@yahoo.com,Michael,White,25,Male,2024-09-12,Mindfulness-Based,True,18,15,15,18,0,6,5,0.83,Not Improved
+SYN000563,ronald.green16@gmail.com,Ronald,Green,62,Female,2024-09-12,Supportive,False,17,15,14,13,-4,10,4,0.4,Improved
+SYN000564,cynthia.lopez61@icloud.com,Cynthia,Lopez,18,Female,2024-09-12,DBT,False,17,16,13,18,1,10,6,0.6,Not Improved
+SYN000565,kimberly.mitchell89@gmail.com,Kimberly,Mitchell,40,Male,2024-09-01,DBT,False,20,21,23,25,5,3,1,0.33,Not Improved
+SYN000566,christopher.torres28@yahoo.com,Christopher,Torres,42,Female,2024-09-22,Mindfulness-Based,False,13,10,8,3,-10,3,2,0.67,Improved
+SYN000567,edward.allen3@gmail.com,Edward,Allen,30,Male,2024-09-30,DBT,False,10,7,8,12,2,7,2,0.29,Not Improved
+SYN000568,daniel.hill2@yahoo.com,Daniel,Hill,58,Female,2024-09-20,Mindfulness-Based,True,20,18,17,18,-2,8,2,0.25,Not Improved
+SYN000569,michelle.rivera91@outlook.com,Michelle,Rivera,62,Female,2024-09-29,Mindfulness-Based,False,12,14,12,12,0,6,2,0.33,Not Improved
+SYN000570,brian.robinson33@yahoo.com,Brian,Robinson,42,Female,2024-09-10,Supportive,True,19,18,20,21,2,3,2,0.67,Not Improved
+SYN000571,ronald.nguyen14@gmail.com,Ronald,Nguyen,62,Male,2024-09-18,CBT,True,11,10,10,9,-2,12,8,0.67,Not Improved
+SYN000572,andrew.martin88@gmail.com,Andrew,Martin,38,Female,2024-09-03,DBT,False,10,9,8,9,-1,10,7,0.7,Not Improved
+SYN000573,emily.green42@outlook.com,Emily,Green,44,Male,2024-09-21,CBT,True,10,11,8,10,0,7,6,0.86,Not Improved
+SYN000574,kenneth.gonzalez20@icloud.com,Kenneth,Gonzalez,41,Female,2024-09-29,Supportive,False,13,12,9,3,-10,8,6,0.75,Improved
+SYN000575,rebecca.nelson41@yahoo.com,Rebecca,Nelson,75,Non-binary,2024-09-21,DBT,False,17,14,13,12,-5,8,7,0.88,Improved
+SYN000576,donna.taylor54@hotmail.com,Donna,Taylor,25,Non-binary,2024-09-24,CBT,False,16,16,15,14,-2,5,1,0.2,Not Improved
+SYN000577,matthew.perez93@yahoo.com,Matthew,Perez,56,Non-binary,2024-09-30,DBT,True,20,20,21,23,3,5,5,1.0,Not Improved
+SYN000578,melissa.allen39@yahoo.com,Melissa,Allen,54,Non-binary,2024-09-10,CBT,False,20,19,18,15,-5,3,2,0.67,Improved
+SYN000579,thomas.mitchell34@icloud.com,Thomas,Mitchell,60,Male,2024-10-01,CBT,True,15,12,11,8,-7,11,8,0.73,Improved
+SYN000580,kevin.adams12@yahoo.com,Kevin,Adams,72,Non-binary,2024-09-08,Mindfulness-Based,True,11,9,9,8,-3,3,3,1.0,Not Improved
+SYN000581,michelle.clark43@outlook.com,Michelle,Clark,48,Non-binary,2024-09-19,Supportive,False,15,17,18,17,2,7,2,0.29,Not Improved
+SYN000582,sarah.walker7@icloud.com,Sarah,Walker,25,Female,2024-09-16,Mindfulness-Based,True,17,12,10,6,-11,7,7,1.0,Improved
+SYN000583,sarah.baker49@icloud.com,Sarah,Baker,23,Female,2024-09-14,Supportive,False,15,16,18,18,3,6,4,0.67,Not Improved
+SYN000584,lisa.rodriguez26@outlook.com,Lisa,Rodriguez,41,Non-binary,2024-09-19,DBT,True,15,13,14,15,0,6,3,0.5,Not Improved
+SYN000585,ryan.martinez41@yahoo.com,Ryan,Martinez,55,Male,2024-09-16,DBT,False,20,19,18,15,-5,12,8,0.67,Improved
+SYN000586,daniel.lee82@gmail.com,Daniel,Lee,61,Non-binary,2024-09-15,DBT,False,10,8,5,2,-8,7,7,1.0,Improved
+SYN000587,nancy.torres98@yahoo.com,Nancy,Torres,47,Female,2024-09-26,Supportive,True,17,19,19,19,2,9,4,0.44,Not Improved
+SYN000588,susan.rodriguez79@hotmail.com,Susan,Rodriguez,34,Non-binary,2024-09-13,Supportive,False,10,7,7,11,1,9,7,0.78,Not Improved
+SYN000589,amy.harris1@gmail.com,Amy,Harris,20,Male,2024-09-24,DBT,False,13,11,10,9,-4,8,7,0.88,Improved
+SYN000590,mary.lee97@icloud.com,Mary,Lee,57,Male,2024-09-01,DBT,True,13,12,10,7,-6,12,8,0.67,Improved
+SYN000591,dorothy.anderson89@outlook.com,Dorothy,Anderson,39,Female,2024-09-05,Supportive,False,14,14,14,15,1,7,3,0.43,Not Improved
+SYN000592,michelle.hernandez9@gmail.com,Michelle,Hernandez,48,Non-binary,2024-10-01,DBT,False,10,9,6,7,-3,7,2,0.29,Not Improved
+SYN000593,amanda.ramirez88@yahoo.com,Amanda,Ramirez,26,Female,2024-09-29,Supportive,False,14,13,14,11,-3,8,5,0.62,Not Improved
+SYN000594,matthew.hernandez52@gmail.com,Matthew,Hernandez,28,Male,2024-09-08,Mindfulness-Based,True,15,14,13,10,-5,8,6,0.75,Improved
+SYN000595,thomas.wilson94@gmail.com,Thomas,Wilson,45,Non-binary,2024-09-04,DBT,False,18,16,13,11,-7,11,7,0.64,Improved
+SYN000596,robert.harris82@outlook.com,Robert,Harris,45,Non-binary,2024-09-20,DBT,True,13,9,7,5,-8,6,3,0.5,Improved
+SYN000597,jessica.adams3@gmail.com,Jessica,Adams,50,Female,2024-09-14,Supportive,False,18,14,11,10,-8,12,10,0.83,Improved
+SYN000598,sarah.scott33@hotmail.com,Sarah,Scott,45,Female,2024-09-07,Mindfulness-Based,True,12,10,8,4,-8,9,6,0.67,Improved
+SYN000599,mary.martin54@gmail.com,Mary,Martin,49,Male,2024-09-20,Supportive,True,18,17,19,18,0,3,1,0.33,Not Improved
+SYN000600,karen.clark14@icloud.com,Karen,Clark,47,Non-binary,2024-09-10,Mindfulness-Based,False,13,11,9,6,-7,8,7,0.88,Improved
+SYN000601,jessica.young26@icloud.com,Jessica,Young,30,Non-binary,2024-09-25,Mindfulness-Based,False,20,18,16,14,-6,9,5,0.56,Improved
+SYN000602,margaret.thompson91@hotmail.com,Margaret,Thompson,42,Non-binary,2024-09-06,Mindfulness-Based,False,20,19,17,21,1,5,4,0.8,Not Improved
+SYN000603,angela.wilson89@hotmail.com,Angela,Wilson,20,Non-binary,2024-09-08,Mindfulness-Based,False,13,13,11,11,-2,10,3,0.3,Not Improved
+SYN000604,susan.davis74@hotmail.com,Susan,Davis,18,Male,2024-10-01,DBT,False,12,6,5,1,-11,9,6,0.67,Improved
+SYN000605,barbara.campbell93@gmail.com,Barbara,Campbell,38,Non-binary,2024-09-21,Supportive,False,10,8,7,8,-2,6,1,0.17,Not Improved
+SYN000606,donna.taylor60@gmail.com,Donna,Taylor,46,Male,2024-09-27,CBT,False,13,11,9,3,-10,7,6,0.86,Improved
+SYN000607,jennifer.jackson47@outlook.com,Jennifer,Jackson,18,Male,2024-09-24,CBT,False,11,9,9,10,-1,12,4,0.33,Not Improved
+SYN000608,jennifer.smith18@yahoo.com,Jennifer,Smith,33,Female,2024-09-12,Mindfulness-Based,True,17,16,14,15,-2,10,6,0.6,Not Improved
+SYN000609,paul.campbell12@outlook.com,Paul,Campbell,60,Male,2024-09-06,DBT,False,20,18,20,19,-1,5,4,0.8,Not Improved
+SYN000610,rebecca.robinson35@hotmail.com,Rebecca,Robinson,33,Female,2024-09-26,Mindfulness-Based,False,17,18,18,19,2,11,6,0.55,Not Improved
+SYN000611,nancy.davis17@gmail.com,Nancy,Davis,18,Non-binary,2024-09-04,Supportive,False,17,16,12,11,-6,4,3,0.75,Improved
+SYN000612,amy.torres87@hotmail.com,Amy,Torres,50,Male,2024-09-20,CBT,False,12,7,3,2,-10,3,3,1.0,Improved
+SYN000613,melissa.flores4@yahoo.com,Melissa,Flores,55,Male,2024-09-30,Supportive,False,12,11,13,11,-1,6,3,0.5,Not Improved
+SYN000614,edward.lewis6@gmail.com,Edward,Lewis,58,Female,2024-09-21,CBT,False,17,15,14,15,-2,3,2,0.67,Not Improved
+SYN000615,mark.nelson44@icloud.com,Mark,Nelson,51,Male,2024-09-14,DBT,True,12,10,7,4,-8,12,7,0.58,Improved
+SYN000616,dorothy.walker45@hotmail.com,Dorothy,Walker,18,Non-binary,2024-09-27,Mindfulness-Based,True,10,9,7,6,-4,7,5,0.71,Improved
+SYN000617,michael.smith83@yahoo.com,Michael,Smith,73,Female,2024-09-28,Supportive,False,19,18,18,16,-3,6,3,0.5,Not Improved
+SYN000618,nancy.jones97@hotmail.com,Nancy,Jones,35,Non-binary,2024-09-08,CBT,False,13,14,12,15,2,3,1,0.33,Not Improved
+SYN000619,emily.brown65@yahoo.com,Emily,Brown,48,Female,2024-09-13,CBT,True,20,20,23,24,4,9,4,0.44,Not Improved
+SYN000620,david.robinson57@icloud.com,David,Robinson,50,Male,2024-09-03,DBT,True,14,15,13,13,-1,12,8,0.67,Not Improved
+SYN000621,cynthia.lee16@hotmail.com,Cynthia,Lee,24,Male,2024-09-04,Supportive,False,20,19,18,14,-6,7,4,0.57,Improved
+SYN000622,robert.scott71@gmail.com,Robert,Scott,46,Female,2024-09-26,DBT,True,17,13,10,6,-11,6,5,0.83,Improved
+SYN000623,kenneth.allen72@yahoo.com,Kenneth,Allen,75,Non-binary,2024-10-01,Mindfulness-Based,False,17,16,18,20,3,12,7,0.58,Not Improved
+SYN000624,michael.anderson59@outlook.com,Michael,Anderson,75,Female,2024-09-23,Mindfulness-Based,True,14,14,14,13,-1,11,4,0.36,Not Improved
+SYN000625,cynthia.davis13@yahoo.com,Cynthia,Davis,72,Male,2024-09-11,Mindfulness-Based,False,16,15,14,12,-4,3,2,0.67,Improved
+SYN000626,donna.scott67@outlook.com,Donna,Scott,55,Male,2024-09-02,DBT,True,10,9,8,6,-4,10,9,0.9,Improved
+SYN000627,angela.rodriguez92@hotmail.com,Angela,Rodriguez,64,Female,2024-09-09,DBT,True,10,9,6,3,-7,11,11,1.0,Improved
+SYN000628,matthew.davis51@yahoo.com,Matthew,Davis,33,Female,2024-09-27,DBT,True,20,21,20,21,1,8,3,0.38,Not Improved
+SYN000629,amanda.miller97@hotmail.com,Amanda,Miller,70,Non-binary,2024-09-30,DBT,True,10,6,3,0,-10,10,9,0.9,Improved
+SYN000630,sarah.lewis59@icloud.com,Sarah,Lewis,49,Non-binary,2024-10-01,Supportive,False,12,10,8,7,-5,8,2,0.25,Improved
+SYN000631,michael.scott56@icloud.com,Michael,Scott,60,Female,2024-09-30,Supportive,True,17,13,19,19,2,5,2,0.4,Not Improved
+SYN000632,daniel.hall75@yahoo.com,Daniel,Hall,66,Male,2024-09-04,Mindfulness-Based,False,10,7,6,4,-6,11,7,0.64,Improved
+SYN000633,carol.allen50@hotmail.com,Carol,Allen,47,Non-binary,2024-09-09,DBT,False,12,8,7,6,-6,6,4,0.67,Improved
+SYN000634,amanda.jackson58@yahoo.com,Amanda,Jackson,55,Female,2024-09-14,Supportive,True,14,12,9,7,-7,6,4,0.67,Improved
+SYN000635,kenneth.hall71@outlook.com,Kenneth,Hall,57,Non-binary,2024-09-07,CBT,False,15,14,12,9,-6,9,2,0.22,Improved
+SYN000636,donna.baker45@yahoo.com,Donna,Baker,75,Female,2024-09-17,DBT,True,13,12,8,7,-6,5,4,0.8,Improved
+SYN000637,carol.rivera15@outlook.com,Carol,Rivera,63,Male,2024-09-19,Supportive,True,18,18,18,18,0,7,5,0.71,Not Improved
+SYN000638,sharon.baker96@icloud.com,Sharon,Baker,39,Female,2024-09-29,Mindfulness-Based,True,16,15,17,16,0,8,7,0.88,Not Improved
+SYN000639,mary.king14@gmail.com,Mary,King,58,Male,2024-09-05,Mindfulness-Based,False,14,15,17,18,4,9,2,0.22,Not Improved
+SYN000640,linda.gonzalez35@yahoo.com,Linda,Gonzalez,74,Non-binary,2024-09-22,DBT,False,10,10,11,14,4,4,4,1.0,Not Improved
+SYN000641,linda.hall38@yahoo.com,Linda,Hall,46,Male,2024-09-12,CBT,True,13,8,7,6,-7,11,7,0.64,Improved
+SYN000642,jessica.flores87@icloud.com,Jessica,Flores,44,Non-binary,2024-09-24,CBT,True,15,12,11,6,-9,8,6,0.75,Improved
+SYN000643,stephanie.thomas66@outlook.com,Stephanie,Thomas,68,Female,2024-09-30,Supportive,False,12,11,8,7,-5,5,3,0.6,Improved
+SYN000644,sharon.baker41@icloud.com,Sharon,Baker,26,Non-binary,2024-09-01,CBT,True,16,15,11,8,-8,10,6,0.6,Improved
+SYN000645,margaret.flores57@yahoo.com,Margaret,Flores,18,Non-binary,2024-09-25,CBT,True,20,20,21,24,4,7,2,0.29,Not Improved
+SYN000646,margaret.campbell25@outlook.com,Margaret,Campbell,74,Non-binary,2024-09-06,Supportive,True,15,13,10,13,-2,10,5,0.5,Not Improved
+SYN000647,barbara.lopez23@icloud.com,Barbara,Lopez,75,Female,2024-09-13,Supportive,False,12,7,2,0,-12,11,7,0.64,Improved
+SYN000648,emily.scott34@yahoo.com,Emily,Scott,33,Non-binary,2024-09-19,CBT,True,13,12,10,9,-4,5,4,0.8,Improved
+SYN000649,james.perez60@yahoo.com,James,Perez,28,Non-binary,2024-09-05,Supportive,True,16,15,11,7,-9,4,3,0.75,Improved
+SYN000650,michael.green79@outlook.com,Michael,Green,70,Female,2024-09-26,CBT,True,12,14,15,12,0,9,3,0.33,Not Improved
+SYN000651,melissa.jones91@outlook.com,Melissa,Jones,38,Non-binary,2024-10-01,DBT,False,20,16,10,6,-14,8,6,0.75,Improved
+SYN000652,william.allen21@hotmail.com,William,Allen,30,Female,2024-09-03,CBT,False,13,13,15,14,1,6,1,0.17,Not Improved
+SYN000653,sandra.nelson43@outlook.com,Sandra,Nelson,41,Non-binary,2024-09-10,CBT,False,13,15,18,20,7,8,6,0.75,Not Improved
+SYN000654,jacob.scott97@gmail.com,Jacob,Scott,26,Male,2024-09-22,Supportive,False,18,16,12,9,-9,12,7,0.58,Improved
+SYN000655,donald.adams79@icloud.com,Donald,Adams,40,Male,2024-10-01,Mindfulness-Based,False,16,11,8,5,-11,9,6,0.67,Improved
+SYN000656,carol.harris15@hotmail.com,Carol,Harris,32,Female,2024-09-18,Mindfulness-Based,True,14,14,15,17,3,11,7,0.64,Not Improved
+SYN000657,patricia.king99@outlook.com,Patricia,King,42,Male,2024-09-16,Supportive,False,16,18,17,19,3,7,2,0.29,Not Improved
+SYN000658,matthew.lee66@gmail.com,Matthew,Lee,47,Male,2024-09-06,DBT,True,10,6,2,0,-10,7,5,0.71,Improved
+SYN000659,james.green9@yahoo.com,James,Green,38,Male,2024-09-28,DBT,True,15,13,12,10,-5,4,4,1.0,Improved
+SYN000660,jessica.wilson69@hotmail.com,Jessica,Wilson,35,Female,2024-09-24,DBT,True,15,14,11,10,-5,6,4,0.67,Improved
+SYN000661,patricia.robinson92@outlook.com,Patricia,Robinson,53,Non-binary,2024-09-03,Supportive,False,15,11,10,6,-9,10,6,0.6,Improved
+SYN000662,daniel.taylor72@gmail.com,Daniel,Taylor,65,Female,2024-09-30,DBT,False,11,10,9,6,-5,6,5,0.83,Improved
+SYN000663,stephanie.lewis81@hotmail.com,Stephanie,Lewis,28,Non-binary,2024-09-11,DBT,False,14,13,13,15,1,10,2,0.2,Not Improved
+SYN000664,sarah.wright1@icloud.com,Sarah,Wright,56,Male,2024-09-25,Supportive,True,10,7,2,1,-9,7,6,0.86,Improved
+SYN000665,jennifer.hall10@outlook.com,Jennifer,Hall,40,Non-binary,2024-09-10,Supportive,True,19,16,14,11,-8,7,5,0.71,Improved
+SYN000666,kenneth.hill12@outlook.com,Kenneth,Hill,45,Male,2024-09-13,CBT,False,10,9,13,14,4,10,7,0.7,Not Improved
+SYN000667,patricia.walker21@icloud.com,Patricia,Walker,75,Female,2024-09-05,DBT,True,20,14,12,11,-9,4,3,0.75,Improved
+SYN000668,donna.green19@outlook.com,Donna,Green,31,Male,2024-10-01,DBT,True,15,15,15,14,-1,11,2,0.18,Not Improved
+SYN000669,charles.davis6@gmail.com,Charles,Davis,38,Male,2024-09-18,Mindfulness-Based,True,13,10,10,11,-2,5,2,0.4,Not Improved
+SYN000670,david.martin27@outlook.com,David,Martin,51,Non-binary,2024-09-14,DBT,True,17,12,8,5,-12,8,3,0.38,Improved
+SYN000671,charles.hernandez24@yahoo.com,Charles,Hernandez,37,Non-binary,2024-09-07,Mindfulness-Based,False,10,7,9,10,0,11,6,0.55,Not Improved
+SYN000672,michael.scott60@icloud.com,Michael,Scott,36,Male,2024-09-10,Supportive,True,16,15,14,12,-4,11,7,0.64,Improved
+SYN000673,steven.miller26@icloud.com,Steven,Miller,45,Non-binary,2024-10-01,CBT,False,10,9,8,8,-2,11,10,0.91,Not Improved
+SYN000674,thomas.nelson84@yahoo.com,Thomas,Nelson,69,Female,2024-09-10,Mindfulness-Based,True,16,13,12,9,-7,5,4,0.8,Improved
+SYN000675,matthew.lee63@hotmail.com,Matthew,Lee,40,Female,2024-09-20,DBT,True,14,12,13,12,-2,8,3,0.38,Not Improved
+SYN000676,lisa.torres73@outlook.com,Lisa,Torres,31,Male,2024-10-01,CBT,False,12,11,15,13,1,8,7,0.88,Not Improved
+SYN000677,james.lee32@yahoo.com,James,Lee,30,Female,2024-09-09,DBT,True,20,21,24,25,5,3,1,0.33,Not Improved
+SYN000678,karen.baker94@outlook.com,Karen,Baker,67,Male,2024-09-15,Supportive,False,11,10,13,10,-1,3,1,0.33,Not Improved
+SYN000679,michelle.young71@gmail.com,Michelle,Young,51,Female,2024-09-21,Mindfulness-Based,True,18,16,14,11,-7,11,10,0.91,Improved
+SYN000680,emily.rodriguez69@yahoo.com,Emily,Rodriguez,35,Male,2024-09-24,Mindfulness-Based,True,12,13,15,17,5,4,3,0.75,Not Improved
+SYN000681,barbara.campbell10@gmail.com,Barbara,Campbell,58,Non-binary,2024-09-27,Mindfulness-Based,True,12,11,9,8,-4,5,2,0.4,Improved
+SYN000682,rebecca.nguyen28@gmail.com,Rebecca,Nguyen,59,Non-binary,2024-09-18,CBT,True,13,14,14,14,1,9,2,0.22,Not Improved
+SYN000683,jacob.adams20@outlook.com,Jacob,Adams,55,Female,2024-09-08,Mindfulness-Based,True,18,15,16,18,0,10,3,0.3,Not Improved
+SYN000684,donna.rodriguez60@icloud.com,Donna,Rodriguez,35,Male,2024-09-13,Supportive,False,12,11,9,8,-4,7,5,0.71,Improved
+SYN000685,mary.nelson31@icloud.com,Mary,Nelson,32,Female,2024-09-25,Mindfulness-Based,True,14,9,7,5,-9,12,4,0.33,Improved
+SYN000686,cynthia.hernandez23@icloud.com,Cynthia,Hernandez,75,Non-binary,2024-09-24,CBT,True,13,10,8,7,-6,12,11,0.92,Improved
+SYN000687,melissa.williams29@hotmail.com,Melissa,Williams,47,Male,2024-09-03,Mindfulness-Based,False,16,15,11,9,-7,10,9,0.9,Improved
+SYN000688,ashley.williams86@yahoo.com,Ashley,Williams,64,Female,2024-09-13,Mindfulness-Based,False,15,15,14,19,4,3,1,0.33,Not Improved
+SYN000689,ryan.williams6@outlook.com,Ryan,Williams,31,Non-binary,2024-09-23,Mindfulness-Based,True,20,19,16,12,-8,10,6,0.6,Improved
+SYN000690,emily.mitchell34@icloud.com,Emily,Mitchell,63,Female,2024-09-13,CBT,True,18,17,15,14,-4,6,5,0.83,Improved
+SYN000691,george.nguyen84@gmail.com,George,Nguyen,37,Female,2024-09-13,CBT,True,15,11,13,14,-1,7,4,0.57,Not Improved
+SYN000692,mark.king52@outlook.com,Mark,King,58,Non-binary,2024-09-16,CBT,True,12,12,10,13,1,5,1,0.2,Not Improved
+SYN000693,james.allen18@hotmail.com,James,Allen,29,Female,2024-09-08,Mindfulness-Based,False,16,12,11,8,-8,10,8,0.8,Improved
+SYN000694,emily.wilson20@yahoo.com,Emily,Wilson,57,Male,2024-09-12,Supportive,True,13,9,8,7,-6,12,8,0.67,Improved
+SYN000695,sarah.nelson30@hotmail.com,Sarah,Nelson,25,Male,2024-09-24,Supportive,False,20,19,19,19,-1,5,3,0.6,Not Improved
+SYN000696,amy.walker27@icloud.com,Amy,Walker,67,Non-binary,2024-09-21,DBT,True,18,15,14,11,-7,3,1,0.33,Improved
+SYN000697,john.thomas6@yahoo.com,John,Thomas,51,Male,2024-09-05,CBT,True,12,9,8,7,-5,12,3,0.25,Improved
+SYN000698,jennifer.torres19@gmail.com,Jennifer,Torres,18,Male,2024-09-09,CBT,True,13,11,10,8,-5,3,1,0.33,Improved
+SYN000699,rebecca.hill73@gmail.com,Rebecca,Hill,44,Male,2024-10-01,Supportive,False,17,16,19,19,2,3,1,0.33,Not Improved
+SYN000700,cynthia.hill61@hotmail.com,Cynthia,Hill,51,Female,2024-09-08,DBT,True,16,15,14,12,-4,12,9,0.75,Improved
+SYN000701,charles.nguyen99@yahoo.com,Charles,Nguyen,51,Female,2024-09-06,Mindfulness-Based,True,15,14,14,13,-2,6,3,0.5,Not Improved
+SYN000702,amanda.robinson77@icloud.com,Amanda,Robinson,61,Female,2024-09-08,DBT,False,17,14,13,12,-5,6,5,0.83,Improved
+SYN000703,thomas.miller3@yahoo.com,Thomas,Miller,37,Non-binary,2024-09-27,DBT,False,14,8,6,12,-2,12,5,0.42,Not Improved
+SYN000704,richard.lopez61@icloud.com,Richard,Lopez,47,Female,2024-09-29,DBT,True,13,10,6,3,-10,11,8,0.73,Improved
+SYN000705,sarah.garcia62@yahoo.com,Sarah,Garcia,39,Non-binary,2024-09-29,Mindfulness-Based,True,16,14,12,8,-8,10,9,0.9,Improved
+SYN000706,laura.king54@outlook.com,Laura,King,34,Female,2024-09-23,Supportive,True,11,6,5,4,-7,10,7,0.7,Improved
+SYN000707,ashley.walker99@hotmail.com,Ashley,Walker,53,Non-binary,2024-09-19,CBT,True,12,10,9,10,-2,7,2,0.29,Not Improved
+SYN000708,richard.ramirez18@outlook.com,Richard,Ramirez,60,Female,2024-09-25,CBT,False,14,13,16,17,3,11,9,0.82,Not Improved
+SYN000709,david.jackson77@icloud.com,David,Jackson,61,Male,2024-09-09,Supportive,False,20,21,21,25,5,3,2,0.67,Not Improved
+SYN000710,james.torres67@gmail.com,James,Torres,58,Male,2024-09-13,Supportive,True,14,13,12,10,-4,7,4,0.57,Improved
+SYN000711,joshua.clark47@gmail.com,Joshua,Clark,75,Non-binary,2024-09-14,DBT,True,14,12,11,7,-7,3,3,1.0,Improved
+SYN000712,steven.taylor69@hotmail.com,Steven,Taylor,52,Male,2024-09-20,CBT,False,11,6,5,8,-3,4,3,0.75,Not Improved
+SYN000713,ronald.wilson53@icloud.com,Ronald,Wilson,37,Female,2024-09-06,CBT,False,11,10,11,12,1,9,2,0.22,Not Improved
+SYN000714,amy.taylor40@icloud.com,Amy,Taylor,55,Female,2024-09-25,DBT,True,12,13,12,13,1,8,3,0.38,Not Improved
+SYN000715,karen.nelson16@yahoo.com,Karen,Nelson,60,Female,2024-09-26,Mindfulness-Based,True,19,19,18,22,3,9,3,0.33,Not Improved
+SYN000716,christopher.miller28@icloud.com,Christopher,Miller,27,Non-binary,2024-09-26,CBT,False,13,15,16,18,5,6,5,0.83,Not Improved
+SYN000717,michael.hernandez50@gmail.com,Michael,Hernandez,65,Non-binary,2024-09-27,Mindfulness-Based,False,12,9,7,5,-7,7,6,0.86,Improved
+SYN000718,laura.garcia9@outlook.com,Laura,Garcia,75,Non-binary,2024-09-12,Supportive,False,19,17,16,15,-4,5,3,0.6,Improved
+SYN000719,robert.campbell50@hotmail.com,Robert,Campbell,47,Male,2024-09-23,Supportive,True,13,9,7,11,-2,7,5,0.71,Not Improved
+SYN000720,linda.lopez82@hotmail.com,Linda,Lopez,54,Male,2024-09-01,Mindfulness-Based,False,11,10,15,15,4,7,3,0.43,Not Improved
+SYN000721,andrew.gonzalez5@icloud.com,Andrew,Gonzalez,38,Male,2024-09-20,DBT,False,15,12,10,9,-6,12,11,0.92,Improved
+SYN000722,robert.white31@gmail.com,Robert,White,18,Non-binary,2024-09-03,CBT,True,10,7,4,3,-7,8,4,0.5,Improved
+SYN000723,rebecca.thompson86@hotmail.com,Rebecca,Thompson,39,Male,2024-09-19,Mindfulness-Based,False,11,8,9,11,0,8,1,0.12,Not Improved
+SYN000724,mary.mitchell91@gmail.com,Mary,Mitchell,39,Female,2024-09-18,DBT,False,12,10,9,5,-7,8,4,0.5,Improved
+SYN000725,brian.thompson36@yahoo.com,Brian,Thompson,47,Non-binary,2024-09-15,DBT,True,17,15,14,12,-5,7,4,0.57,Improved
+SYN000726,james.taylor23@hotmail.com,James,Taylor,47,Female,2024-09-18,DBT,False,17,15,13,11,-6,8,7,0.88,Improved
+SYN000727,donna.perez15@icloud.com,Donna,Perez,34,Female,2024-09-29,CBT,True,10,12,11,10,0,6,3,0.5,Not Improved
+SYN000728,steven.hall57@hotmail.com,Steven,Hall,50,Female,2024-09-25,Supportive,False,17,18,17,16,-1,6,5,0.83,Not Improved
+SYN000729,amanda.robinson88@hotmail.com,Amanda,Robinson,31,Female,2024-09-16,Supportive,False,16,13,10,9,-7,6,6,1.0,Improved
+SYN000730,william.harris82@yahoo.com,William,Harris,42,Male,2024-09-26,DBT,False,18,14,11,10,-8,12,11,0.92,Improved
+SYN000731,melissa.king69@gmail.com,Melissa,King,53,Female,2024-09-08,Supportive,False,20,21,21,19,-1,3,1,0.33,Not Improved
+SYN000732,rebecca.baker96@outlook.com,Rebecca,Baker,49,Female,2024-09-18,CBT,True,12,10,9,8,-4,5,4,0.8,Improved
+SYN000733,jacob.lee46@yahoo.com,Jacob,Lee,63,Female,2024-09-06,Supportive,True,17,17,15,16,-1,4,1,0.25,Not Improved
+SYN000734,matthew.young95@yahoo.com,Matthew,Young,75,Female,2024-09-24,Mindfulness-Based,False,13,8,6,5,-8,6,2,0.33,Improved
+SYN000735,kimberly.wilson30@yahoo.com,Kimberly,Wilson,48,Female,2024-09-27,Supportive,True,14,11,6,3,-11,9,7,0.78,Improved
+SYN000736,lisa.miller16@gmail.com,Lisa,Miller,55,Non-binary,2024-09-20,Supportive,False,13,13,12,11,-2,7,4,0.57,Not Improved
+SYN000737,jennifer.walker48@icloud.com,Jennifer,Walker,39,Non-binary,2024-09-16,CBT,True,14,13,11,14,0,3,2,0.67,Not Improved
+SYN000738,emily.young24@icloud.com,Emily,Young,58,Non-binary,2024-09-13,Mindfulness-Based,False,17,18,19,21,4,7,4,0.57,Not Improved
+SYN000739,thomas.brown68@hotmail.com,Thomas,Brown,47,Male,2024-10-01,Mindfulness-Based,True,14,13,16,16,2,8,3,0.38,Not Improved
+SYN000740,brian.sanchez88@yahoo.com,Brian,Sanchez,23,Male,2024-09-04,DBT,True,15,12,16,18,3,6,2,0.33,Not Improved
+SYN000741,ryan.lee89@gmail.com,Ryan,Lee,36,Female,2024-09-22,Supportive,False,14,12,9,6,-8,4,3,0.75,Improved
+SYN000742,richard.lee47@icloud.com,Richard,Lee,53,Male,2024-09-06,DBT,True,16,17,18,18,2,4,2,0.5,Not Improved
+SYN000743,donald.moore61@icloud.com,Donald,Moore,59,Female,2024-09-12,Mindfulness-Based,False,20,20,19,17,-3,9,3,0.33,Not Improved
+SYN000744,jason.wilson54@outlook.com,Jason,Wilson,73,Female,2024-09-28,CBT,False,17,16,17,20,3,9,8,0.89,Not Improved
+SYN000745,cynthia.lopez74@yahoo.com,Cynthia,Lopez,36,Male,2024-09-27,Mindfulness-Based,False,14,10,9,7,-7,6,5,0.83,Improved
+SYN000746,paul.thomas72@hotmail.com,Paul,Thomas,73,Female,2024-09-07,CBT,False,16,17,16,15,-1,9,5,0.56,Not Improved
+SYN000747,lisa.walker2@yahoo.com,Lisa,Walker,43,Male,2024-09-16,Supportive,False,12,13,13,14,2,8,2,0.25,Not Improved
+SYN000748,joshua.young39@outlook.com,Joshua,Young,44,Non-binary,2024-09-13,CBT,False,15,14,11,6,-9,5,4,0.8,Improved
+SYN000749,christopher.brown28@outlook.com,Christopher,Brown,24,Male,2024-09-27,DBT,True,12,10,8,10,-2,11,9,0.82,Not Improved
+SYN000750,cynthia.mitchell43@outlook.com,Cynthia,Mitchell,45,Male,2024-09-12,Mindfulness-Based,True,18,17,19,22,4,4,3,0.75,Not Improved
+SYN000751,steven.thompson3@hotmail.com,Steven,Thompson,75,Male,2024-09-12,DBT,True,15,14,9,8,-7,7,4,0.57,Improved
+SYN000752,margaret.torres74@icloud.com,Margaret,Torres,36,Female,2024-09-25,Supportive,False,16,15,11,10,-6,7,4,0.57,Improved
+SYN000753,carol.baker66@hotmail.com,Carol,Baker,57,Non-binary,2024-09-29,DBT,False,20,19,23,23,3,3,1,0.33,Not Improved
+SYN000754,andrew.robinson81@yahoo.com,Andrew,Robinson,38,Male,2024-09-21,Supportive,True,15,12,11,9,-6,5,4,0.8,Improved
+SYN000755,amanda.clark81@icloud.com,Amanda,Clark,38,Non-binary,2024-09-28,DBT,True,10,7,7,8,-2,11,5,0.45,Not Improved
+SYN000756,david.hernandez44@yahoo.com,David,Hernandez,18,Non-binary,2024-09-11,CBT,True,19,20,22,26,7,8,5,0.62,Not Improved
+SYN000757,paul.hill83@hotmail.com,Paul,Hill,18,Female,2024-09-29,Mindfulness-Based,False,15,18,19,22,7,6,3,0.5,Not Improved
+SYN000758,george.mitchell76@icloud.com,George,Mitchell,64,Non-binary,2024-09-14,CBT,False,13,17,17,20,7,6,3,0.5,Not Improved
+SYN000759,john.rodriguez94@yahoo.com,John,Rodriguez,41,Non-binary,2024-10-01,Supportive,True,10,10,13,15,5,9,1,0.11,Not Improved
+SYN000760,david.wilson22@hotmail.com,David,Wilson,42,Female,2024-09-04,DBT,False,15,14,13,10,-5,8,5,0.62,Improved
+SYN000761,jacob.scott7@gmail.com,Jacob,Scott,37,Non-binary,2024-09-17,CBT,True,12,11,14,11,-1,12,5,0.42,Not Improved
+SYN000762,david.miller34@icloud.com,David,Miller,53,Female,2024-09-03,Supportive,True,13,9,8,5,-8,6,3,0.5,Improved
+SYN000763,stephanie.martin30@yahoo.com,Stephanie,Martin,44,Non-binary,2024-09-15,DBT,True,10,8,8,10,0,8,1,0.12,Not Improved
+SYN000764,thomas.king22@gmail.com,Thomas,King,37,Female,2024-09-22,CBT,False,12,8,6,2,-10,11,10,0.91,Improved
+SYN000765,carol.walker60@icloud.com,Carol,Walker,58,Non-binary,2024-09-18,Mindfulness-Based,False,20,22,20,18,-2,11,4,0.36,Not Improved
+SYN000766,daniel.nguyen77@hotmail.com,Daniel,Nguyen,41,Male,2024-09-17,DBT,True,20,18,21,22,2,8,1,0.12,Not Improved
+SYN000767,michelle.thompson62@icloud.com,Michelle,Thompson,45,Female,2024-09-26,DBT,False,11,8,5,3,-8,10,5,0.5,Improved
+SYN000768,michelle.white53@outlook.com,Michelle,White,67,Non-binary,2024-09-10,Supportive,False,17,12,10,7,-10,5,2,0.4,Improved
+SYN000769,karen.thompson37@hotmail.com,Karen,Thompson,29,Male,2024-09-23,Mindfulness-Based,True,13,9,7,4,-9,9,4,0.44,Improved
+SYN000770,amy.martin2@hotmail.com,Amy,Martin,40,Non-binary,2024-09-20,Mindfulness-Based,False,17,17,15,18,1,12,5,0.42,Not Improved
+SYN000771,james.scott48@yahoo.com,James,Scott,44,Male,2024-09-29,CBT,True,16,15,15,17,1,12,1,0.08,Not Improved
+SYN000772,ronald.thomas21@hotmail.com,Ronald,Thomas,69,Male,2024-09-08,Supportive,False,20,18,16,18,-2,12,9,0.75,Not Improved
+SYN000773,jason.green31@icloud.com,Jason,Green,59,Non-binary,2024-09-10,Mindfulness-Based,True,11,10,13,15,4,9,3,0.33,Not Improved
+SYN000774,paul.clark25@gmail.com,Paul,Clark,43,Female,2024-09-05,Supportive,False,14,12,6,3,-11,9,7,0.78,Improved
+SYN000775,ryan.flores58@outlook.com,Ryan,Flores,75,Non-binary,2024-09-07,Mindfulness-Based,False,15,14,17,15,0,5,5,1.0,Not Improved
+SYN000776,lisa.brown69@gmail.com,Lisa,Brown,54,Non-binary,2024-09-04,CBT,False,14,12,11,9,-5,10,7,0.7,Improved
+SYN000777,thomas.rivera57@gmail.com,Thomas,Rivera,18,Non-binary,2024-09-03,DBT,False,15,10,7,6,-9,4,2,0.5,Improved
+SYN000778,angela.wilson44@hotmail.com,Angela,Wilson,54,Female,2024-09-26,Mindfulness-Based,True,13,16,15,17,4,12,2,0.17,Not Improved
+SYN000779,deborah.robinson90@gmail.com,Deborah,Robinson,56,Non-binary,2024-09-03,Mindfulness-Based,True,12,13,16,14,2,4,2,0.5,Not Improved
+SYN000780,charles.brown35@hotmail.com,Charles,Brown,41,Non-binary,2024-09-18,CBT,False,17,16,15,13,-4,8,4,0.5,Improved
+SYN000781,matthew.taylor49@gmail.com,Matthew,Taylor,47,Female,2024-09-25,CBT,True,19,15,14,13,-6,9,8,0.89,Improved
+SYN000782,stephanie.lewis32@gmail.com,Stephanie,Lewis,48,Non-binary,2024-09-15,Mindfulness-Based,True,16,12,10,8,-8,8,6,0.75,Improved
+SYN000783,richard.king86@yahoo.com,Richard,King,38,Male,2024-09-13,Supportive,True,16,18,19,18,2,10,3,0.3,Not Improved
+SYN000784,michelle.lee21@gmail.com,Michelle,Lee,50,Non-binary,2024-09-09,CBT,False,13,9,6,4,-9,6,3,0.5,Improved
+SYN000785,kenneth.gonzalez47@gmail.com,Kenneth,Gonzalez,21,Female,2024-09-04,Supportive,False,14,12,9,8,-6,6,5,0.83,Improved
+SYN000786,laura.lee2@yahoo.com,Laura,Lee,41,Male,2024-09-19,DBT,False,14,12,13,14,0,3,1,0.33,Not Improved
+SYN000787,dorothy.smith6@icloud.com,Dorothy,Smith,47,Male,2024-09-23,Mindfulness-Based,True,15,12,15,16,1,3,1,0.33,Not Improved
+SYN000788,deborah.garcia32@yahoo.com,Deborah,Garcia,57,Male,2024-09-03,Supportive,True,10,9,11,11,1,12,8,0.67,Not Improved
+SYN000789,amanda.green8@gmail.com,Amanda,Green,57,Non-binary,2024-09-21,Supportive,False,14,15,14,12,-2,4,3,0.75,Not Improved
+SYN000790,jessica.rodriguez63@yahoo.com,Jessica,Rodriguez,60,Non-binary,2024-09-18,CBT,True,11,11,11,10,-1,10,3,0.3,Not Improved
+SYN000791,brian.lewis94@yahoo.com,Brian,Lewis,18,Male,2024-09-23,CBT,False,14,11,9,6,-8,12,7,0.58,Improved
+SYN000792,karen.taylor6@hotmail.com,Karen,Taylor,34,Male,2024-09-18,DBT,False,11,10,8,10,-1,3,1,0.33,Not Improved
+SYN000793,gary.gonzalez73@yahoo.com,Gary,Gonzalez,53,Non-binary,2024-09-11,Supportive,True,17,16,15,20,3,9,7,0.78,Not Improved
+SYN000794,emily.hill71@yahoo.com,Emily,Hill,56,Non-binary,2024-09-17,Supportive,False,11,9,7,5,-6,8,8,1.0,Improved
+SYN000795,donna.taylor70@outlook.com,Donna,Taylor,41,Female,2024-09-01,CBT,True,11,10,12,12,1,9,5,0.56,Not Improved
+SYN000796,timothy.campbell24@gmail.com,Timothy,Campbell,39,Male,2024-09-25,DBT,True,17,13,13,14,-3,9,4,0.44,Not Improved
+SYN000797,carol.campbell9@icloud.com,Carol,Campbell,41,Male,2024-09-07,CBT,True,16,15,17,17,1,7,3,0.43,Not Improved
+SYN000798,angela.scott20@icloud.com,Angela,Scott,46,Non-binary,2024-09-11,DBT,False,20,19,23,25,5,7,1,0.14,Not Improved
+SYN000799,carol.davis13@icloud.com,Carol,Davis,44,Non-binary,2024-09-02,DBT,True,12,8,5,1,-11,9,3,0.33,Improved
+SYN000800,thomas.lopez5@yahoo.com,Thomas,Lopez,32,Non-binary,2024-09-16,Supportive,False,16,15,14,12,-4,7,5,0.71,Improved
+SYN000801,robert.torres83@hotmail.com,Robert,Torres,42,Male,2024-09-17,Supportive,True,15,18,16,18,3,8,6,0.75,Not Improved
+SYN000802,steven.brown47@yahoo.com,Steven,Brown,62,Male,2024-09-01,Supportive,True,16,15,13,10,-6,8,7,0.88,Improved
+SYN000803,anthony.adams63@gmail.com,Anthony,Adams,45,Female,2024-09-26,Supportive,True,19,18,18,20,1,9,2,0.22,Not Improved
+SYN000804,george.scott96@hotmail.com,George,Scott,57,Male,2024-09-26,CBT,True,14,13,11,14,0,7,5,0.71,Not Improved
+SYN000805,paul.king6@gmail.com,Paul,King,18,Male,2024-09-03,Supportive,True,12,13,16,18,6,10,2,0.2,Not Improved
+SYN000806,richard.miller93@yahoo.com,Richard,Miller,70,Male,2024-09-07,Supportive,False,11,7,7,11,0,7,4,0.57,Not Improved
+SYN000807,dorothy.torres81@yahoo.com,Dorothy,Torres,30,Male,2024-09-24,DBT,False,17,16,14,17,0,11,7,0.64,Not Improved
+SYN000808,melissa.baker59@hotmail.com,Melissa,Baker,60,Male,2024-09-06,CBT,True,13,9,6,2,-11,5,3,0.6,Improved
+SYN000809,rebecca.allen44@yahoo.com,Rebecca,Allen,49,Non-binary,2024-09-30,CBT,False,20,20,24,26,6,11,2,0.18,Not Improved
+SYN000810,joshua.scott42@outlook.com,Joshua,Scott,56,Female,2024-09-25,DBT,True,14,16,12,12,-2,10,4,0.4,Not Improved
+SYN000811,carol.hill31@icloud.com,Carol,Hill,46,Male,2024-09-13,Supportive,True,15,12,11,10,-5,7,6,0.86,Improved
+SYN000812,steven.white58@hotmail.com,Steven,White,47,Non-binary,2024-09-01,DBT,True,14,13,12,13,-1,9,5,0.56,Not Improved
+SYN000813,andrew.hill3@icloud.com,Andrew,Hill,58,Non-binary,2024-09-29,Mindfulness-Based,False,19,15,14,12,-7,10,8,0.8,Improved
+SYN000814,kenneth.anderson28@outlook.com,Kenneth,Anderson,66,Female,2024-09-25,CBT,True,11,8,5,4,-7,11,9,0.82,Improved
+SYN000815,emily.scott66@icloud.com,Emily,Scott,28,Male,2024-09-04,CBT,False,14,12,10,7,-7,7,5,0.71,Improved
+SYN000816,melissa.martinez18@outlook.com,Melissa,Martinez,21,Female,2024-09-29,Supportive,True,14,17,16,13,-1,9,3,0.33,Not Improved
+SYN000817,ashley.taylor39@gmail.com,Ashley,Taylor,64,Male,2024-09-19,CBT,True,20,19,19,19,-1,4,1,0.25,Not Improved
+SYN000818,barbara.campbell42@hotmail.com,Barbara,Campbell,18,Non-binary,2024-09-16,CBT,True,15,11,10,9,-6,11,7,0.64,Improved
+SYN000819,richard.hill83@outlook.com,Richard,Hill,38,Female,2024-09-24,Supportive,True,12,10,8,6,-6,10,7,0.7,Improved
+SYN000820,timothy.garcia8@outlook.com,Timothy,Garcia,52,Male,2024-09-29,Supportive,True,14,15,16,16,2,11,1,0.09,Not Improved
+SYN000821,sharon.davis99@yahoo.com,Sharon,Davis,48,Female,2024-09-21,DBT,True,17,15,13,12,-5,7,4,0.57,Improved
+SYN000822,timothy.brown40@icloud.com,Timothy,Brown,40,Female,2024-09-11,DBT,True,12,7,6,5,-7,8,6,0.75,Improved
+SYN000823,lisa.lee65@yahoo.com,Lisa,Lee,68,Male,2024-09-02,Supportive,True,10,5,2,1,-9,5,5,1.0,Improved
+SYN000824,ronald.lewis97@icloud.com,Ronald,Lewis,69,Non-binary,2024-09-08,Mindfulness-Based,False,18,17,16,14,-4,4,3,0.75,Improved
+SYN000825,ronald.martinez17@outlook.com,Ronald,Martinez,41,Male,2024-09-16,Mindfulness-Based,True,15,10,8,6,-9,5,5,1.0,Improved
+SYN000826,michael.scott52@outlook.com,Michael,Scott,61,Non-binary,2024-09-13,Mindfulness-Based,False,13,12,11,7,-6,8,3,0.38,Improved
+SYN000827,thomas.rodriguez62@icloud.com,Thomas,Rodriguez,28,Female,2024-09-16,CBT,False,19,18,13,9,-10,9,8,0.89,Improved
+SYN000828,margaret.scott79@icloud.com,Margaret,Scott,58,Male,2024-09-08,Mindfulness-Based,False,14,13,12,9,-5,6,5,0.83,Improved
+SYN000829,laura.lee88@icloud.com,Laura,Lee,45,Non-binary,2024-09-04,Mindfulness-Based,True,12,11,6,3,-9,9,8,0.89,Improved
+SYN000830,jason.white45@yahoo.com,Jason,White,61,Non-binary,2024-09-12,Mindfulness-Based,True,13,13,15,16,3,5,2,0.4,Not Improved
+SYN000831,patricia.martin22@outlook.com,Patricia,Martin,51,Male,2024-09-20,Mindfulness-Based,False,15,13,15,16,1,12,9,0.75,Not Improved
+SYN000832,jennifer.anderson26@outlook.com,Jennifer,Anderson,75,Non-binary,2024-09-25,DBT,True,15,12,10,9,-6,4,3,0.75,Improved
+SYN000833,david.davis95@gmail.com,David,Davis,18,Male,2024-10-01,CBT,True,11,9,8,6,-5,6,6,1.0,Improved
+SYN000834,charles.jackson2@outlook.com,Charles,Jackson,25,Non-binary,2024-09-10,Mindfulness-Based,False,15,12,9,4,-11,5,4,0.8,Improved
+SYN000835,john.perez27@icloud.com,John,Perez,33,Male,2024-09-07,Supportive,True,16,13,10,8,-8,7,6,0.86,Improved
+SYN000836,kimberly.scott62@icloud.com,Kimberly,Scott,38,Male,2024-09-23,DBT,True,15,12,11,10,-5,7,5,0.71,Improved
+SYN000837,john.harris75@icloud.com,John,Harris,38,Male,2024-09-09,DBT,False,18,14,11,8,-10,10,6,0.6,Improved
+SYN000838,andrew.gonzalez90@icloud.com,Andrew,Gonzalez,29,Non-binary,2024-09-02,Supportive,False,17,19,19,19,2,6,2,0.33,Not Improved
+SYN000839,mary.jones50@outlook.com,Mary,Jones,20,Male,2024-09-28,Mindfulness-Based,False,16,15,17,16,0,6,3,0.5,Not Improved
+SYN000840,donna.adams50@yahoo.com,Donna,Adams,44,Non-binary,2024-09-17,Supportive,True,17,17,17,20,3,4,2,0.5,Not Improved
+SYN000841,richard.lee63@icloud.com,Richard,Lee,43,Female,2024-09-06,Mindfulness-Based,False,17,13,11,10,-7,9,6,0.67,Improved
+SYN000842,ryan.scott92@gmail.com,Ryan,Scott,63,Female,2024-09-08,CBT,True,12,10,7,6,-6,12,12,1.0,Improved
+SYN000843,michelle.perez63@hotmail.com,Michelle,Perez,43,Non-binary,2024-09-01,Mindfulness-Based,False,15,12,8,5,-10,4,3,0.75,Improved
+SYN000844,melissa.thompson81@outlook.com,Melissa,Thompson,29,Female,2024-09-17,Mindfulness-Based,False,12,10,9,5,-7,4,3,0.75,Improved
+SYN000845,linda.green33@hotmail.com,Linda,Green,18,Male,2024-10-01,Mindfulness-Based,True,14,11,7,4,-10,8,6,0.75,Improved
+SYN000846,emily.anderson20@outlook.com,Emily,Anderson,23,Female,2024-09-22,DBT,False,18,17,18,16,-2,12,7,0.58,Not Improved
+SYN000847,timothy.king87@icloud.com,Timothy,King,74,Non-binary,2024-09-14,Mindfulness-Based,False,12,11,10,7,-5,8,7,0.88,Improved
+SYN000848,lisa.ramirez40@icloud.com,Lisa,Ramirez,61,Non-binary,2024-09-15,CBT,True,17,16,15,18,1,4,3,0.75,Not Improved
+SYN000849,anthony.adams18@icloud.com,Anthony,Adams,51,Non-binary,2024-09-28,Supportive,False,19,17,14,11,-8,6,3,0.5,Improved
+SYN000850,karen.ramirez99@yahoo.com,Karen,Ramirez,50,Female,2024-09-11,Mindfulness-Based,False,10,6,5,4,-6,7,6,0.86,Improved
+SYN000851,sarah.lopez41@yahoo.com,Sarah,Lopez,45,Female,2024-09-25,Supportive,False,11,8,3,2,-9,6,5,0.83,Improved
+SYN000852,edward.clark39@hotmail.com,Edward,Clark,51,Female,2024-09-05,Supportive,True,11,10,13,11,0,3,1,0.33,Not Improved
+SYN000853,jessica.rodriguez24@gmail.com,Jessica,Rodriguez,37,Female,2024-09-20,Supportive,True,17,16,19,22,5,8,4,0.5,Not Improved
+SYN000854,ashley.hill30@yahoo.com,Ashley,Hill,59,Non-binary,2024-09-12,CBT,False,15,13,10,6,-9,3,3,1.0,Improved
+SYN000855,amy.rodriguez65@icloud.com,Amy,Rodriguez,62,Female,2024-09-23,DBT,True,18,15,18,17,-1,9,7,0.78,Not Improved
+SYN000856,betty.harris63@hotmail.com,Betty,Harris,45,Female,2024-09-06,CBT,False,12,6,1,0,-12,7,3,0.43,Improved
+SYN000857,robert.clark98@gmail.com,Robert,Clark,58,Male,2024-10-01,CBT,False,10,10,11,12,2,7,4,0.57,Not Improved
+SYN000858,margaret.wilson9@yahoo.com,Margaret,Wilson,75,Non-binary,2024-09-28,Supportive,True,18,19,20,24,6,9,4,0.44,Not Improved
+SYN000859,carol.robinson32@hotmail.com,Carol,Robinson,66,Non-binary,2024-09-25,DBT,False,13,13,12,15,2,7,4,0.57,Not Improved
+SYN000860,timothy.campbell41@hotmail.com,Timothy,Campbell,58,Male,2024-09-17,CBT,False,11,6,4,2,-9,6,3,0.5,Improved
+SYN000861,ryan.williams32@icloud.com,Ryan,Williams,49,Non-binary,2024-09-24,DBT,False,10,6,6,7,-3,9,6,0.67,Not Improved
+SYN000862,stephanie.king98@gmail.com,Stephanie,King,70,Female,2024-09-10,Supportive,False,19,18,16,13,-6,9,6,0.67,Improved
+SYN000863,kenneth.jackson60@yahoo.com,Kenneth,Jackson,52,Non-binary,2024-09-10,CBT,True,11,12,10,10,-1,9,7,0.78,Not Improved
+SYN000864,michael.hall67@yahoo.com,Michael,Hall,31,Female,2024-09-27,DBT,True,15,15,14,14,-1,8,1,0.12,Not Improved
+SYN000865,susan.campbell65@gmail.com,Susan,Campbell,18,Non-binary,2024-09-25,Mindfulness-Based,True,19,17,14,13,-6,10,7,0.7,Improved
+SYN000866,karen.sanchez53@outlook.com,Karen,Sanchez,41,Male,2024-09-01,Mindfulness-Based,False,14,11,10,13,-1,6,3,0.5,Not Improved
+SYN000867,margaret.robinson12@outlook.com,Margaret,Robinson,75,Female,2024-09-23,DBT,True,14,12,10,12,-2,8,4,0.5,Not Improved
+SYN000868,christopher.rivera94@gmail.com,Christopher,Rivera,28,Non-binary,2024-09-04,Mindfulness-Based,True,10,7,6,4,-6,7,5,0.71,Improved
+SYN000869,george.garcia68@hotmail.com,George,Garcia,59,Non-binary,2024-09-13,CBT,True,13,9,8,6,-7,3,3,1.0,Improved
+SYN000870,jennifer.hernandez43@icloud.com,Jennifer,Hernandez,42,Non-binary,2024-09-06,Mindfulness-Based,True,17,14,12,11,-6,6,6,1.0,Improved
+SYN000871,daniel.rivera7@hotmail.com,Daniel,Rivera,56,Male,2024-09-10,CBT,True,20,17,19,17,-3,8,5,0.62,Not Improved
+SYN000872,cynthia.jackson81@yahoo.com,Cynthia,Jackson,40,Male,2024-09-29,Mindfulness-Based,False,16,12,10,8,-8,8,5,0.62,Improved
+SYN000873,margaret.smith80@outlook.com,Margaret,Smith,62,Male,2024-09-15,CBT,False,12,10,8,7,-5,3,2,0.67,Improved
+SYN000874,angela.wright1@icloud.com,Angela,Wright,36,Male,2024-09-08,CBT,False,20,22,25,27,7,5,2,0.4,Not Improved
+SYN000875,jacob.robinson53@hotmail.com,Jacob,Robinson,55,Female,2024-09-20,CBT,True,15,12,11,8,-7,6,4,0.67,Improved
+SYN000876,dorothy.scott36@icloud.com,Dorothy,Scott,59,Male,2024-09-02,DBT,False,16,10,7,4,-12,9,6,0.67,Improved
+SYN000877,linda.adams45@gmail.com,Linda,Adams,62,Male,2024-09-28,DBT,False,14,9,7,5,-9,12,6,0.5,Improved
+SYN000878,kenneth.perez12@gmail.com,Kenneth,Perez,61,Male,2024-09-14,CBT,True,11,8,5,4,-7,7,3,0.43,Improved
+SYN000879,christopher.baker37@icloud.com,Christopher,Baker,65,Male,2024-10-01,DBT,False,14,13,12,10,-4,12,10,0.83,Improved
+SYN000880,george.williams12@outlook.com,George,Williams,27,Female,2024-09-12,Mindfulness-Based,True,17,21,24,27,10,8,4,0.5,Not Improved
+SYN000881,william.ramirez71@gmail.com,William,Ramirez,60,Non-binary,2024-09-16,Mindfulness-Based,False,14,14,12,13,-1,3,3,1.0,Not Improved
+SYN000882,emily.perez68@hotmail.com,Emily,Perez,52,Female,2024-09-23,Supportive,False,17,14,13,12,-5,9,5,0.56,Improved
+SYN000883,linda.miller74@icloud.com,Linda,Miller,39,Female,2024-09-16,Mindfulness-Based,True,13,8,3,0,-13,7,2,0.29,Improved
+SYN000884,andrew.ramirez78@outlook.com,Andrew,Ramirez,30,Female,2024-09-17,Mindfulness-Based,True,12,10,11,13,1,9,4,0.44,Not Improved
+SYN000885,melissa.rodriguez79@icloud.com,Melissa,Rodriguez,31,Female,2024-09-17,Mindfulness-Based,True,20,21,21,21,1,8,2,0.25,Not Improved
+SYN000886,angela.young24@icloud.com,Angela,Young,58,Male,2024-09-23,Supportive,False,20,19,18,16,-4,6,4,0.67,Improved
+SYN000887,matthew.smith16@gmail.com,Matthew,Smith,75,Non-binary,2024-09-21,Mindfulness-Based,True,11,9,12,13,2,9,3,0.33,Not Improved
+SYN000888,anthony.flores54@hotmail.com,Anthony,Flores,60,Non-binary,2024-09-11,Mindfulness-Based,False,12,10,9,7,-5,11,6,0.55,Improved
+SYN000889,sandra.smith82@yahoo.com,Sandra,Smith,22,Female,2024-09-09,Mindfulness-Based,True,10,9,11,12,2,4,1,0.25,Not Improved
+SYN000890,michelle.martin65@icloud.com,Michelle,Martin,53,Male,2024-09-25,Mindfulness-Based,False,17,19,20,20,3,3,2,0.67,Not Improved
+SYN000891,kevin.perez51@icloud.com,Kevin,Perez,62,Female,2024-09-27,CBT,False,10,8,6,4,-6,9,7,0.78,Improved
+SYN000892,kevin.perez87@hotmail.com,Kevin,Perez,22,Male,2024-09-26,Supportive,False,16,16,17,18,2,3,1,0.33,Not Improved
+SYN000893,karen.walker20@hotmail.com,Karen,Walker,43,Male,2024-09-15,Supportive,True,16,13,14,15,-1,10,8,0.8,Not Improved
+SYN000894,edward.mitchell8@icloud.com,Edward,Mitchell,75,Non-binary,2024-09-19,DBT,True,18,18,20,20,2,6,3,0.5,Not Improved
+SYN000895,joshua.scott69@gmail.com,Joshua,Scott,18,Male,2024-09-19,Mindfulness-Based,True,17,14,13,12,-5,10,9,0.9,Improved
+SYN000896,melissa.jones20@outlook.com,Melissa,Jones,51,Male,2024-09-11,CBT,True,14,9,6,4,-10,6,4,0.67,Improved
+SYN000897,nancy.torres78@hotmail.com,Nancy,Torres,41,Non-binary,2024-09-20,Mindfulness-Based,False,16,14,12,8,-8,5,4,0.8,Improved
+SYN000898,michelle.rivera41@gmail.com,Michelle,Rivera,43,Female,2024-09-14,DBT,False,12,9,15,15,3,10,2,0.2,Not Improved
+SYN000899,donald.white58@outlook.com,Donald,White,28,Male,2024-09-17,DBT,False,15,14,12,11,-4,5,4,0.8,Improved
+SYN000900,joseph.white5@yahoo.com,Joseph,White,27,Non-binary,2024-09-15,Mindfulness-Based,False,14,10,9,8,-6,8,7,0.88,Improved
+SYN000901,amy.allen20@yahoo.com,Amy,Allen,36,Female,2024-09-30,CBT,False,15,13,13,13,-2,8,5,0.62,Not Improved
+SYN000902,michelle.lee19@gmail.com,Michelle,Lee,26,Non-binary,2024-09-07,Mindfulness-Based,True,16,14,13,10,-6,12,8,0.67,Improved
+SYN000903,ryan.harris92@icloud.com,Ryan,Harris,34,Female,2024-09-01,DBT,False,12,10,8,5,-7,12,9,0.75,Improved
+SYN000904,jennifer.baker77@gmail.com,Jennifer,Baker,75,Non-binary,2024-09-15,Mindfulness-Based,True,10,7,8,13,3,5,1,0.2,Not Improved
+SYN000905,jessica.king99@outlook.com,Jessica,King,46,Female,2024-09-19,Mindfulness-Based,True,16,13,11,7,-9,12,5,0.42,Improved
+SYN000906,anthony.lee26@yahoo.com,Anthony,Lee,68,Non-binary,2024-09-09,DBT,True,10,8,10,8,-2,11,6,0.55,Not Improved
+SYN000907,jeffrey.nelson16@outlook.com,Jeffrey,Nelson,61,Female,2024-09-06,CBT,False,12,9,8,7,-5,10,8,0.8,Improved
+SYN000908,mary.flores72@icloud.com,Mary,Flores,58,Male,2024-09-07,CBT,True,18,16,15,12,-6,12,9,0.75,Improved
+SYN000909,joshua.moore19@outlook.com,Joshua,Moore,48,Male,2024-09-06,DBT,False,13,10,6,5,-8,4,3,0.75,Improved
+SYN000910,amanda.wright57@gmail.com,Amanda,Wright,47,Female,2024-09-01,Mindfulness-Based,False,15,14,11,9,-6,6,5,0.83,Improved
+SYN000911,michael.miller50@gmail.com,Michael,Miller,25,Non-binary,2024-09-14,CBT,False,17,14,13,11,-6,7,5,0.71,Improved
+SYN000912,cynthia.flores46@outlook.com,Cynthia,Flores,75,Male,2024-09-27,CBT,False,15,15,16,19,4,9,4,0.44,Not Improved
+SYN000913,david.robinson73@yahoo.com,David,Robinson,75,Non-binary,2024-09-27,Mindfulness-Based,True,13,12,11,9,-4,5,3,0.6,Improved
+SYN000914,kathleen.miller59@outlook.com,Kathleen,Miller,37,Female,2024-09-16,Supportive,False,20,18,22,21,1,8,5,0.62,Not Improved
+SYN000915,mark.martinez79@outlook.com,Mark,Martinez,60,Non-binary,2024-09-13,Supportive,False,15,16,15,14,-1,6,3,0.5,Not Improved
+SYN000916,kevin.lee59@hotmail.com,Kevin,Lee,45,Male,2024-09-03,Supportive,False,15,13,11,8,-7,8,6,0.75,Improved
+SYN000917,brian.walker60@yahoo.com,Brian,Walker,43,Female,2024-09-25,CBT,False,15,12,14,12,-3,6,2,0.33,Not Improved
+SYN000918,thomas.allen14@hotmail.com,Thomas,Allen,38,Female,2024-09-11,CBT,True,13,12,11,8,-5,10,3,0.3,Improved
+SYN000919,barbara.martin69@hotmail.com,Barbara,Martin,31,Male,2024-09-19,CBT,False,13,16,13,11,-2,8,5,0.62,Not Improved
+SYN000920,dorothy.scott21@hotmail.com,Dorothy,Scott,33,Male,2024-09-03,CBT,False,15,18,20,22,7,4,3,0.75,Not Improved
+SYN000921,laura.ramirez73@outlook.com,Laura,Ramirez,26,Male,2024-09-06,CBT,True,10,7,5,1,-9,10,5,0.5,Improved
+SYN000922,barbara.mitchell92@icloud.com,Barbara,Mitchell,50,Non-binary,2024-09-04,DBT,True,12,12,10,13,1,12,7,0.58,Not Improved
+SYN000923,kathleen.lee72@gmail.com,Kathleen,Lee,31,Male,2024-09-06,CBT,False,10,5,3,8,-2,9,5,0.56,Not Improved
+SYN000924,rebecca.jones77@gmail.com,Rebecca,Jones,18,Male,2024-09-11,CBT,False,14,14,12,12,-2,9,4,0.44,Not Improved
+SYN000925,linda.garcia28@yahoo.com,Linda,Garcia,53,Male,2024-09-25,CBT,False,15,8,5,3,-12,11,7,0.64,Improved
+SYN000926,lisa.lewis69@outlook.com,Lisa,Lewis,44,Male,2024-09-20,Supportive,True,17,13,13,15,-2,9,7,0.78,Not Improved
+SYN000927,margaret.wilson88@outlook.com,Margaret,Wilson,51,Female,2024-09-19,DBT,True,18,16,17,20,2,7,4,0.57,Not Improved
+SYN000928,kenneth.ramirez92@outlook.com,Kenneth,Ramirez,56,Female,2024-09-19,DBT,False,11,10,9,7,-4,5,4,0.8,Improved
+SYN000929,rebecca.rodriguez38@gmail.com,Rebecca,Rodriguez,53,Non-binary,2024-09-29,Supportive,True,12,13,17,17,5,8,3,0.38,Not Improved
+SYN000930,michael.smith91@icloud.com,Michael,Smith,20,Male,2024-09-04,DBT,True,10,10,12,13,3,6,5,0.83,Not Improved
+SYN000931,patricia.thomas56@icloud.com,Patricia,Thomas,52,Non-binary,2024-09-21,DBT,False,12,12,11,10,-2,11,8,0.73,Not Improved
+SYN000932,timothy.sanchez49@hotmail.com,Timothy,Sanchez,62,Female,2024-09-22,DBT,False,18,17,15,14,-4,7,3,0.43,Improved
+SYN000933,karen.gonzalez72@hotmail.com,Karen,Gonzalez,48,Non-binary,2024-09-27,Supportive,False,14,15,12,16,2,6,4,0.67,Not Improved
+SYN000934,andrew.nelson17@yahoo.com,Andrew,Nelson,57,Female,2024-09-03,DBT,True,10,7,4,3,-7,3,3,1.0,Improved
+SYN000935,charles.campbell63@hotmail.com,Charles,Campbell,29,Female,2024-09-03,Supportive,False,20,18,17,14,-6,8,7,0.88,Improved
+SYN000936,sharon.robinson90@icloud.com,Sharon,Robinson,33,Female,2024-09-20,Mindfulness-Based,False,12,9,7,10,-2,9,4,0.44,Not Improved
+SYN000937,jason.scott58@hotmail.com,Jason,Scott,60,Male,2024-09-08,DBT,False,20,20,21,21,1,8,6,0.75,Not Improved
+SYN000938,james.torres64@yahoo.com,James,Torres,26,Female,2024-09-14,Supportive,True,10,7,6,7,-3,4,2,0.5,Not Improved
+SYN000939,george.williams5@icloud.com,George,Williams,55,Non-binary,2024-09-23,Mindfulness-Based,False,19,21,19,19,0,8,3,0.38,Not Improved
+SYN000940,amy.hall11@yahoo.com,Amy,Hall,18,Non-binary,2024-09-15,Supportive,True,13,11,14,13,0,10,4,0.4,Not Improved
+SYN000941,susan.thomas61@gmail.com,Susan,Thomas,42,Female,2024-09-20,Mindfulness-Based,False,16,17,18,14,-2,4,2,0.5,Not Improved
+SYN000942,amanda.wright2@hotmail.com,Amanda,Wright,38,Non-binary,2024-09-17,DBT,True,18,19,18,20,2,8,6,0.75,Not Improved
+SYN000943,kevin.clark46@outlook.com,Kevin,Clark,40,Male,2024-09-06,CBT,False,11,12,17,17,6,9,3,0.33,Not Improved
+SYN000944,kenneth.campbell73@outlook.com,Kenneth,Campbell,28,Female,2024-09-21,Mindfulness-Based,False,10,9,4,1,-9,10,8,0.8,Improved
+SYN000945,nancy.torres7@outlook.com,Nancy,Torres,30,Non-binary,2024-09-10,CBT,False,17,15,14,9,-8,6,5,0.83,Improved
+SYN000946,thomas.allen10@outlook.com,Thomas,Allen,20,Non-binary,2024-09-05,CBT,True,17,17,19,18,1,11,2,0.18,Not Improved
+SYN000947,emily.taylor2@gmail.com,Emily,Taylor,52,Male,2024-09-30,Mindfulness-Based,True,20,18,17,16,-4,6,4,0.67,Improved
+SYN000948,lisa.nelson58@outlook.com,Lisa,Nelson,41,Non-binary,2024-09-09,CBT,True,10,9,8,6,-4,3,3,1.0,Improved
+SYN000949,donald.young24@icloud.com,Donald,Young,68,Male,2024-09-11,Mindfulness-Based,True,10,8,6,3,-7,12,10,0.83,Improved
+SYN000950,charles.hill20@hotmail.com,Charles,Hill,18,Female,2024-09-25,CBT,False,15,12,12,12,-3,8,3,0.38,Not Improved
+SYN000951,jeffrey.campbell82@yahoo.com,Jeffrey,Campbell,54,Non-binary,2024-09-19,CBT,True,19,16,14,12,-7,8,6,0.75,Improved
+SYN000952,brian.brown83@outlook.com,Brian,Brown,44,Female,2024-09-02,DBT,False,15,13,12,11,-4,10,8,0.8,Improved
+SYN000953,rebecca.walker39@hotmail.com,Rebecca,Walker,71,Non-binary,2024-09-13,Supportive,True,18,16,15,14,-4,7,6,0.86,Improved
+SYN000954,stephanie.walker34@yahoo.com,Stephanie,Walker,59,Female,2024-09-01,Supportive,False,10,9,7,7,-3,8,4,0.5,Not Improved
+SYN000955,cynthia.harris87@outlook.com,Cynthia,Harris,48,Female,2024-09-04,DBT,True,13,11,10,6,-7,11,8,0.73,Improved
+SYN000956,melissa.ramirez79@outlook.com,Melissa,Ramirez,75,Non-binary,2024-09-09,Supportive,False,20,24,26,27,7,10,2,0.2,Not Improved
+SYN000957,richard.taylor84@icloud.com,Richard,Taylor,55,Non-binary,2024-09-15,CBT,True,19,16,16,18,-1,3,1,0.33,Not Improved
+SYN000958,donald.campbell87@icloud.com,Donald,Campbell,70,Male,2024-09-17,DBT,False,14,13,10,8,-6,10,8,0.8,Improved
+SYN000959,betty.lee71@gmail.com,Betty,Lee,62,Female,2024-09-27,Supportive,False,15,13,9,6,-9,4,3,0.75,Improved
+SYN000960,edward.miller68@gmail.com,Edward,Miller,51,Non-binary,2024-09-12,Supportive,False,17,17,16,16,-1,11,7,0.64,Not Improved
+SYN000961,andrew.taylor25@gmail.com,Andrew,Taylor,50,Non-binary,2024-09-20,DBT,False,10,8,7,6,-4,10,6,0.6,Improved
+SYN000962,sandra.hill82@gmail.com,Sandra,Hill,65,Male,2024-09-03,CBT,True,14,12,9,8,-6,9,8,0.89,Improved
+SYN000963,thomas.harris85@icloud.com,Thomas,Harris,41,Female,2024-09-29,CBT,False,18,17,16,14,-4,6,2,0.33,Improved
+SYN000964,betty.taylor38@hotmail.com,Betty,Taylor,50,Non-binary,2024-09-21,Supportive,False,15,14,12,8,-7,9,8,0.89,Improved
+SYN000965,emily.ramirez89@outlook.com,Emily,Ramirez,29,Male,2024-09-06,DBT,True,15,17,18,17,2,5,4,0.8,Not Improved
+SYN000966,emily.brown49@hotmail.com,Emily,Brown,31,Male,2024-09-02,Mindfulness-Based,False,17,17,18,20,3,8,6,0.75,Not Improved
+SYN000967,kimberly.lopez57@gmail.com,Kimberly,Lopez,71,Male,2024-09-30,DBT,False,11,11,9,8,-3,5,4,0.8,Not Improved
+SYN000968,ronald.lopez83@hotmail.com,Ronald,Lopez,36,Female,2024-09-05,Supportive,True,10,9,8,5,-5,5,4,0.8,Improved
+SYN000969,laura.wilson79@gmail.com,Laura,Wilson,50,Male,2024-09-23,Supportive,False,16,15,13,14,-2,5,5,1.0,Not Improved
+SYN000970,robert.jones10@icloud.com,Robert,Jones,63,Male,2024-09-25,DBT,False,15,15,18,15,0,5,3,0.6,Not Improved
+SYN000971,angela.martinez84@gmail.com,Angela,Martinez,67,Non-binary,2024-09-22,DBT,False,17,12,10,6,-11,3,2,0.67,Improved
+SYN000972,lisa.hall43@hotmail.com,Lisa,Hall,64,Non-binary,2024-09-17,Supportive,True,11,5,4,2,-9,6,4,0.67,Improved
+SYN000973,gary.walker56@hotmail.com,Gary,Walker,47,Female,2024-09-18,Mindfulness-Based,False,17,14,11,8,-9,12,9,0.75,Improved
+SYN000974,stephanie.hall62@gmail.com,Stephanie,Hall,51,Female,2024-09-11,CBT,True,19,20,20,21,2,4,1,0.25,Not Improved
+SYN000975,rebecca.brown81@gmail.com,Rebecca,Brown,39,Non-binary,2024-09-18,CBT,True,15,15,13,13,-2,11,5,0.45,Not Improved
+SYN000976,amanda.garcia59@outlook.com,Amanda,Garcia,50,Non-binary,2024-09-06,Supportive,True,20,18,16,15,-5,5,4,0.8,Improved
+SYN000977,stephanie.nelson25@outlook.com,Stephanie,Nelson,50,Non-binary,2024-09-29,CBT,False,16,12,14,16,0,8,4,0.5,Not Improved
+SYN000978,melissa.young11@hotmail.com,Melissa,Young,40,Male,2024-09-05,DBT,False,10,6,5,4,-6,7,6,0.86,Improved
+SYN000979,patricia.campbell76@yahoo.com,Patricia,Campbell,48,Non-binary,2024-09-13,DBT,False,13,10,10,13,0,7,5,0.71,Not Improved
+SYN000980,michelle.young69@hotmail.com,Michelle,Young,40,Female,2024-09-02,CBT,False,19,18,15,13,-6,10,6,0.6,Improved
+SYN000981,amanda.campbell6@hotmail.com,Amanda,Campbell,62,Female,2024-09-07,CBT,True,10,6,2,0,-10,7,6,0.86,Improved
+SYN000982,ryan.baker69@yahoo.com,Ryan,Baker,53,Female,2024-09-30,Mindfulness-Based,False,12,9,8,7,-5,4,4,1.0,Improved
+SYN000983,charles.young84@gmail.com,Charles,Young,36,Female,2024-09-30,CBT,True,15,14,9,13,-2,9,3,0.33,Not Improved
+SYN000984,jennifer.thomas90@yahoo.com,Jennifer,Thomas,50,Non-binary,2024-09-06,CBT,True,16,14,11,10,-6,5,5,1.0,Improved
+SYN000985,michelle.miller59@icloud.com,Michelle,Miller,18,Non-binary,2024-09-27,DBT,True,14,13,12,9,-5,8,7,0.88,Improved
+SYN000986,jessica.davis64@icloud.com,Jessica,Davis,35,Female,2024-09-03,CBT,True,16,13,10,8,-8,11,7,0.64,Improved
+SYN000987,jason.perez95@hotmail.com,Jason,Perez,43,Non-binary,2024-09-04,Supportive,True,16,18,19,17,1,5,1,0.2,Not Improved
+SYN000988,karen.lee28@gmail.com,Karen,Lee,18,Non-binary,2024-09-11,Supportive,False,19,15,14,11,-8,4,4,1.0,Improved
+SYN000989,emily.martinez97@hotmail.com,Emily,Martinez,18,Non-binary,2024-09-23,Supportive,False,13,11,8,3,-10,11,5,0.45,Improved
+SYN000990,nancy.lewis32@icloud.com,Nancy,Lewis,51,Male,2024-09-05,CBT,False,14,12,9,6,-8,4,2,0.5,Improved
+SYN000991,timothy.hernandez3@hotmail.com,Timothy,Hernandez,35,Non-binary,2024-09-01,Mindfulness-Based,False,13,10,9,8,-5,10,5,0.5,Improved
+SYN000992,susan.rivera84@icloud.com,Susan,Rivera,18,Female,2024-09-14,Mindfulness-Based,True,17,13,13,15,-2,7,2,0.29,Not Improved
+SYN000993,jacob.hall17@yahoo.com,Jacob,Hall,61,Female,2024-09-21,Mindfulness-Based,False,18,17,16,14,-4,12,7,0.58,Improved
+SYN000994,cynthia.clark31@yahoo.com,Cynthia,Clark,62,Male,2024-09-20,CBT,False,17,14,11,7,-10,11,8,0.73,Improved
+SYN000995,angela.flores12@outlook.com,Angela,Flores,57,Non-binary,2024-09-14,Mindfulness-Based,False,14,10,12,12,-2,12,10,0.83,Not Improved
+SYN000996,donald.gonzalez16@icloud.com,Donald,Gonzalez,40,Male,2024-09-20,Mindfulness-Based,False,14,11,10,8,-6,8,4,0.5,Improved
+SYN000997,mark.robinson99@yahoo.com,Mark,Robinson,59,Non-binary,2024-09-02,CBT,False,19,18,19,19,0,11,4,0.36,Not Improved
+SYN000998,lisa.baker61@hotmail.com,Lisa,Baker,37,Non-binary,2024-09-06,DBT,True,14,11,10,8,-6,6,4,0.67,Improved
+SYN000999,jennifer.brown83@outlook.com,Jennifer,Brown,54,Non-binary,2024-09-07,CBT,False,16,17,20,23,7,12,4,0.33,Not Improved
