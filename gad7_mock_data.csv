@@ -1,0 +1,1001 @@
+member_id,email,therapy_type,on_medication,gad7_day0,gad7_day30,gad7_day60,gad7_day90,score_change_90d,outcome_label
+SYN00001,syn00001@synthetic.invalid,ACT,False,13,11,10,7,-6,Improved
+SYN00002,syn00002@synthetic.invalid,DBT,True,14,14,12,11,-3,Improved
+SYN00003,syn00003@synthetic.invalid,DBT,True,16,15,13,9,-7,Improved
+SYN00004,syn00004@synthetic.invalid,ACT,False,10,9,8,4,-6,Improved
+SYN00005,syn00005@synthetic.invalid,DBT,True,9,8,7,5,-4,Improved
+SYN00006,syn00006@synthetic.invalid,CBT,False,12,11,11,9,-3,Improved
+SYN00007,syn00007@synthetic.invalid,CBT,False,8,5,4,2,-6,Improved
+SYN00008,syn00008@synthetic.invalid,DBT,True,11,9,9,8,-3,Improved
+SYN00009,syn00009@synthetic.invalid,Mindfulness-Based,True,13,12,11,7,-6,Improved
+SYN00010,syn00010@synthetic.invalid,ACT,False,13,11,10,9,-4,Improved
+SYN00011,syn00011@synthetic.invalid,CBT,True,12,12,11,8,-4,Improved
+SYN00012,syn00012@synthetic.invalid,ACT,False,15,14,13,10,-5,Improved
+SYN00013,syn00013@synthetic.invalid,DBT,True,13,13,13,10,-3,Improved
+SYN00014,syn00014@synthetic.invalid,DBT,True,11,10,8,5,-6,Improved
+SYN00015,syn00015@synthetic.invalid,CBT,True,15,14,14,10,-5,Improved
+SYN00016,syn00016@synthetic.invalid,Mindfulness-Based,True,10,8,7,4,-6,Improved
+SYN00017,syn00017@synthetic.invalid,CBT,True,18,15,13,11,-7,Improved
+SYN00018,syn00018@synthetic.invalid,ACT,True,14,13,12,8,-6,Improved
+SYN00019,syn00019@synthetic.invalid,CBT,False,12,9,7,5,-7,Improved
+SYN00020,syn00020@synthetic.invalid,CBT,True,12,10,8,6,-6,Improved
+SYN00021,syn00021@synthetic.invalid,ACT,False,14,11,9,6,-8,Improved
+SYN00022,syn00022@synthetic.invalid,CBT,False,15,14,13,11,-4,Improved
+SYN00023,syn00023@synthetic.invalid,CBT,False,10,9,7,5,-5,Improved
+SYN00024,syn00024@synthetic.invalid,DBT,True,11,9,8,4,-7,Improved
+SYN00025,syn00025@synthetic.invalid,Mindfulness-Based,False,16,15,12,10,-6,Improved
+SYN00026,syn00026@synthetic.invalid,DBT,False,12,10,10,9,-3,Improved
+SYN00027,syn00027@synthetic.invalid,CBT,True,12,11,11,8,-4,Improved
+SYN00028,syn00028@synthetic.invalid,CBT,False,11,9,8,4,-7,Improved
+SYN00029,syn00029@synthetic.invalid,CBT,False,10,9,9,7,-3,Improved
+SYN00030,syn00030@synthetic.invalid,Mindfulness-Based,True,14,11,10,7,-7,Improved
+SYN00031,syn00031@synthetic.invalid,ACT,False,10,8,6,3,-7,Improved
+SYN00032,syn00032@synthetic.invalid,CBT,False,10,10,8,7,-3,Improved
+SYN00033,syn00033@synthetic.invalid,CBT,True,16,16,14,14,-2,Improved
+SYN00034,syn00034@synthetic.invalid,ACT,True,13,10,8,4,-9,Improved
+SYN00035,syn00035@synthetic.invalid,CBT,False,17,16,16,14,-3,Improved
+SYN00036,syn00036@synthetic.invalid,ACT,False,9,7,7,5,-4,Improved
+SYN00037,syn00037@synthetic.invalid,CBT,True,10,9,8,5,-5,Improved
+SYN00038,syn00038@synthetic.invalid,Mindfulness-Based,True,16,14,12,9,-7,Improved
+SYN00039,syn00039@synthetic.invalid,CBT,True,17,14,13,10,-7,Improved
+SYN00040,syn00040@synthetic.invalid,DBT,True,12,10,8,4,-8,Improved
+SYN00041,syn00041@synthetic.invalid,Mindfulness-Based,True,13,9,6,4,-9,Improved
+SYN00042,syn00042@synthetic.invalid,Mindfulness-Based,False,11,9,5,3,-8,Improved
+SYN00043,syn00043@synthetic.invalid,CBT,True,14,11,9,6,-8,Improved
+SYN00044,syn00044@synthetic.invalid,DBT,False,12,11,11,8,-4,Improved
+SYN00045,syn00045@synthetic.invalid,DBT,True,11,9,7,6,-5,Improved
+SYN00046,syn00046@synthetic.invalid,DBT,True,11,9,7,6,-5,Improved
+SYN00047,syn00047@synthetic.invalid,DBT,True,14,12,12,9,-5,Improved
+SYN00048,syn00048@synthetic.invalid,CBT,True,12,12,11,8,-4,Improved
+SYN00049,syn00049@synthetic.invalid,Mindfulness-Based,False,12,12,10,7,-5,Improved
+SYN00050,syn00050@synthetic.invalid,Mindfulness-Based,False,9,9,8,6,-3,Improved
+SYN00051,syn00051@synthetic.invalid,CBT,False,12,10,8,7,-5,Improved
+SYN00052,syn00052@synthetic.invalid,Mindfulness-Based,False,13,11,8,6,-7,Improved
+SYN00053,syn00053@synthetic.invalid,ACT,False,16,15,15,12,-4,Improved
+SYN00054,syn00054@synthetic.invalid,Mindfulness-Based,True,10,8,7,4,-6,Improved
+SYN00055,syn00055@synthetic.invalid,CBT,False,14,12,11,10,-4,Improved
+SYN00056,syn00056@synthetic.invalid,CBT,True,13,12,11,8,-5,Improved
+SYN00057,syn00057@synthetic.invalid,CBT,True,8,7,5,2,-6,Improved
+SYN00058,syn00058@synthetic.invalid,CBT,True,9,7,6,1,-8,Improved
+SYN00059,syn00059@synthetic.invalid,CBT,True,14,12,10,9,-5,Improved
+SYN00060,syn00060@synthetic.invalid,CBT,False,13,11,11,9,-4,Improved
+SYN00061,syn00061@synthetic.invalid,DBT,True,11,10,9,7,-4,Improved
+SYN00062,syn00062@synthetic.invalid,Mindfulness-Based,False,9,6,5,3,-6,Improved
+SYN00063,syn00063@synthetic.invalid,Mindfulness-Based,False,12,11,11,9,-3,Improved
+SYN00064,syn00064@synthetic.invalid,Mindfulness-Based,True,8,7,6,3,-5,Improved
+SYN00065,syn00065@synthetic.invalid,Mindfulness-Based,False,13,10,9,7,-6,Improved
+SYN00066,syn00066@synthetic.invalid,ACT,True,17,13,11,9,-8,Improved
+SYN00067,syn00067@synthetic.invalid,ACT,False,11,10,9,7,-4,Improved
+SYN00068,syn00068@synthetic.invalid,DBT,False,11,10,9,6,-5,Improved
+SYN00069,syn00069@synthetic.invalid,ACT,False,11,11,9,7,-4,Improved
+SYN00070,syn00070@synthetic.invalid,Mindfulness-Based,False,13,13,13,12,-1,Improved
+SYN00071,syn00071@synthetic.invalid,ACT,False,14,13,12,9,-5,Improved
+SYN00072,syn00072@synthetic.invalid,ACT,True,10,9,7,3,-7,Improved
+SYN00073,syn00073@synthetic.invalid,ACT,True,11,9,5,4,-7,Improved
+SYN00074,syn00074@synthetic.invalid,DBT,True,13,10,9,7,-6,Improved
+SYN00075,syn00075@synthetic.invalid,ACT,True,11,9,6,3,-8,Improved
+SYN00076,syn00076@synthetic.invalid,DBT,True,17,15,13,9,-8,Improved
+SYN00077,syn00077@synthetic.invalid,CBT,True,8,8,7,6,-2,Improved
+SYN00078,syn00078@synthetic.invalid,DBT,False,17,15,12,9,-8,Improved
+SYN00079,syn00079@synthetic.invalid,DBT,False,13,13,13,11,-2,Improved
+SYN00080,syn00080@synthetic.invalid,CBT,False,8,4,3,2,-6,Improved
+SYN00081,syn00081@synthetic.invalid,CBT,False,14,12,11,9,-5,Improved
+SYN00082,syn00082@synthetic.invalid,CBT,False,15,13,11,8,-7,Improved
+SYN00083,syn00083@synthetic.invalid,Mindfulness-Based,True,13,13,11,9,-4,Improved
+SYN00084,syn00084@synthetic.invalid,CBT,False,13,12,10,9,-4,Improved
+SYN00085,syn00085@synthetic.invalid,DBT,False,15,13,13,10,-5,Improved
+SYN00086,syn00086@synthetic.invalid,Mindfulness-Based,True,12,11,11,9,-3,Improved
+SYN00087,syn00087@synthetic.invalid,Mindfulness-Based,True,10,9,7,4,-6,Improved
+SYN00088,syn00088@synthetic.invalid,CBT,True,12,12,11,9,-3,Improved
+SYN00089,syn00089@synthetic.invalid,Mindfulness-Based,True,8,4,2,0,-8,Improved
+SYN00090,syn00090@synthetic.invalid,CBT,False,17,17,15,11,-6,Improved
+SYN00091,syn00091@synthetic.invalid,ACT,True,17,16,14,13,-4,Improved
+SYN00092,syn00092@synthetic.invalid,CBT,True,11,10,8,5,-6,Improved
+SYN00093,syn00093@synthetic.invalid,CBT,False,15,12,10,6,-9,Improved
+SYN00094,syn00094@synthetic.invalid,CBT,True,11,10,10,8,-3,Improved
+SYN00095,syn00095@synthetic.invalid,Mindfulness-Based,True,16,15,13,10,-6,Improved
+SYN00096,syn00096@synthetic.invalid,ACT,False,11,10,9,6,-5,Improved
+SYN00097,syn00097@synthetic.invalid,Mindfulness-Based,True,14,11,10,8,-6,Improved
+SYN00098,syn00098@synthetic.invalid,DBT,False,10,8,5,3,-7,Improved
+SYN00099,syn00099@synthetic.invalid,Mindfulness-Based,False,15,13,11,8,-7,Improved
+SYN00100,syn00100@synthetic.invalid,DBT,False,10,9,6,4,-6,Improved
+SYN00101,syn00101@synthetic.invalid,CBT,True,9,8,5,3,-6,Improved
+SYN00102,syn00102@synthetic.invalid,ACT,False,12,11,9,7,-5,Improved
+SYN00103,syn00103@synthetic.invalid,ACT,False,10,8,6,4,-6,Improved
+SYN00104,syn00104@synthetic.invalid,DBT,False,11,11,10,9,-2,Improved
+SYN00105,syn00105@synthetic.invalid,DBT,False,12,10,7,4,-8,Improved
+SYN00106,syn00106@synthetic.invalid,ACT,True,12,11,9,7,-5,Improved
+SYN00107,syn00107@synthetic.invalid,DBT,False,16,13,11,9,-7,Improved
+SYN00108,syn00108@synthetic.invalid,DBT,False,18,16,16,15,-3,Improved
+SYN00109,syn00109@synthetic.invalid,Mindfulness-Based,False,17,14,14,12,-5,Improved
+SYN00110,syn00110@synthetic.invalid,ACT,False,11,9,8,6,-5,Improved
+SYN00111,syn00111@synthetic.invalid,DBT,True,18,15,15,12,-6,Improved
+SYN00112,syn00112@synthetic.invalid,Mindfulness-Based,True,13,11,9,6,-7,Improved
+SYN00113,syn00113@synthetic.invalid,ACT,False,14,14,14,14,0,Improved
+SYN00114,syn00114@synthetic.invalid,DBT,True,8,8,7,4,-4,Improved
+SYN00115,syn00115@synthetic.invalid,ACT,False,11,10,9,6,-5,Improved
+SYN00116,syn00116@synthetic.invalid,Mindfulness-Based,False,18,15,12,11,-7,Improved
+SYN00117,syn00117@synthetic.invalid,Mindfulness-Based,True,12,11,9,5,-7,Improved
+SYN00118,syn00118@synthetic.invalid,Mindfulness-Based,False,10,9,9,7,-3,Improved
+SYN00119,syn00119@synthetic.invalid,Mindfulness-Based,False,14,13,11,9,-5,Improved
+SYN00120,syn00120@synthetic.invalid,Mindfulness-Based,True,14,13,11,7,-7,Improved
+SYN00121,syn00121@synthetic.invalid,Mindfulness-Based,False,13,12,11,7,-6,Improved
+SYN00122,syn00122@synthetic.invalid,Mindfulness-Based,False,13,11,9,7,-6,Improved
+SYN00123,syn00123@synthetic.invalid,CBT,False,14,11,11,8,-6,Improved
+SYN00124,syn00124@synthetic.invalid,ACT,False,12,11,10,6,-6,Improved
+SYN00125,syn00125@synthetic.invalid,Mindfulness-Based,True,14,11,9,6,-8,Improved
+SYN00126,syn00126@synthetic.invalid,CBT,False,16,15,13,10,-6,Improved
+SYN00127,syn00127@synthetic.invalid,ACT,False,8,6,6,4,-4,Improved
+SYN00128,syn00128@synthetic.invalid,ACT,True,9,7,3,2,-7,Improved
+SYN00129,syn00129@synthetic.invalid,ACT,False,16,16,15,13,-3,Improved
+SYN00130,syn00130@synthetic.invalid,DBT,True,11,10,9,6,-5,Improved
+SYN00131,syn00131@synthetic.invalid,Mindfulness-Based,True,15,14,13,11,-4,Improved
+SYN00132,syn00132@synthetic.invalid,DBT,True,13,11,11,10,-3,Improved
+SYN00133,syn00133@synthetic.invalid,Mindfulness-Based,False,15,13,12,8,-7,Improved
+SYN00134,syn00134@synthetic.invalid,ACT,False,14,13,11,9,-5,Improved
+SYN00135,syn00135@synthetic.invalid,CBT,False,11,9,7,5,-6,Improved
+SYN00136,syn00136@synthetic.invalid,DBT,True,12,11,8,5,-7,Improved
+SYN00137,syn00137@synthetic.invalid,ACT,False,9,7,5,2,-7,Improved
+SYN00138,syn00138@synthetic.invalid,CBT,False,10,8,7,6,-4,Improved
+SYN00139,syn00139@synthetic.invalid,CBT,False,11,10,10,7,-4,Improved
+SYN00140,syn00140@synthetic.invalid,DBT,True,11,8,7,5,-6,Improved
+SYN00141,syn00141@synthetic.invalid,CBT,False,11,8,8,5,-6,Improved
+SYN00142,syn00142@synthetic.invalid,CBT,False,11,10,9,7,-4,Improved
+SYN00143,syn00143@synthetic.invalid,CBT,True,18,16,14,12,-6,Improved
+SYN00144,syn00144@synthetic.invalid,CBT,True,8,5,2,1,-7,Improved
+SYN00145,syn00145@synthetic.invalid,ACT,False,18,18,17,15,-3,Improved
+SYN00146,syn00146@synthetic.invalid,Mindfulness-Based,False,11,10,7,6,-5,Improved
+SYN00147,syn00147@synthetic.invalid,Mindfulness-Based,True,16,15,13,12,-4,Improved
+SYN00148,syn00148@synthetic.invalid,DBT,False,14,13,10,5,-9,Improved
+SYN00149,syn00149@synthetic.invalid,DBT,True,10,8,6,2,-8,Improved
+SYN00150,syn00150@synthetic.invalid,DBT,True,11,8,6,4,-7,Improved
+SYN00151,syn00151@synthetic.invalid,DBT,False,13,12,9,8,-5,Improved
+SYN00152,syn00152@synthetic.invalid,ACT,False,15,13,13,9,-6,Improved
+SYN00153,syn00153@synthetic.invalid,CBT,True,16,16,13,11,-5,Improved
+SYN00154,syn00154@synthetic.invalid,DBT,False,11,10,10,8,-3,Improved
+SYN00155,syn00155@synthetic.invalid,Mindfulness-Based,False,12,11,9,7,-5,Improved
+SYN00156,syn00156@synthetic.invalid,DBT,True,11,9,7,3,-8,Improved
+SYN00157,syn00157@synthetic.invalid,Mindfulness-Based,False,13,12,11,7,-6,Improved
+SYN00158,syn00158@synthetic.invalid,Mindfulness-Based,False,18,16,15,13,-5,Improved
+SYN00159,syn00159@synthetic.invalid,Mindfulness-Based,True,14,12,11,10,-4,Improved
+SYN00160,syn00160@synthetic.invalid,ACT,True,15,13,11,10,-5,Improved
+SYN00161,syn00161@synthetic.invalid,CBT,False,16,16,14,11,-5,Improved
+SYN00162,syn00162@synthetic.invalid,DBT,False,12,11,10,7,-5,Improved
+SYN00163,syn00163@synthetic.invalid,ACT,False,9,5,3,0,-9,Improved
+SYN00164,syn00164@synthetic.invalid,ACT,False,12,10,9,8,-4,Improved
+SYN00165,syn00165@synthetic.invalid,ACT,False,10,8,8,5,-5,Improved
+SYN00166,syn00166@synthetic.invalid,DBT,True,12,11,11,7,-5,Improved
+SYN00167,syn00167@synthetic.invalid,CBT,True,13,12,11,8,-5,Improved
+SYN00168,syn00168@synthetic.invalid,DBT,True,13,12,11,8,-5,Improved
+SYN00169,syn00169@synthetic.invalid,Mindfulness-Based,True,11,9,6,4,-7,Improved
+SYN00170,syn00170@synthetic.invalid,DBT,False,17,15,15,13,-4,Improved
+SYN00171,syn00171@synthetic.invalid,DBT,False,8,7,6,4,-4,Improved
+SYN00172,syn00172@synthetic.invalid,DBT,False,14,12,9,6,-8,Improved
+SYN00173,syn00173@synthetic.invalid,ACT,True,18,15,15,13,-5,Improved
+SYN00174,syn00174@synthetic.invalid,CBT,False,16,14,12,9,-7,Improved
+SYN00175,syn00175@synthetic.invalid,Mindfulness-Based,False,14,12,11,9,-5,Improved
+SYN00176,syn00176@synthetic.invalid,DBT,False,13,13,13,11,-2,Improved
+SYN00177,syn00177@synthetic.invalid,Mindfulness-Based,False,9,8,7,5,-4,Improved
+SYN00178,syn00178@synthetic.invalid,DBT,True,12,10,9,5,-7,Improved
+SYN00179,syn00179@synthetic.invalid,CBT,True,14,12,10,9,-5,Improved
+SYN00180,syn00180@synthetic.invalid,CBT,True,11,10,8,5,-6,Improved
+SYN00181,syn00181@synthetic.invalid,CBT,False,15,14,12,11,-4,Improved
+SYN00182,syn00182@synthetic.invalid,Mindfulness-Based,False,16,15,15,10,-6,Improved
+SYN00183,syn00183@synthetic.invalid,Mindfulness-Based,True,14,13,11,8,-6,Improved
+SYN00184,syn00184@synthetic.invalid,ACT,False,12,12,11,8,-4,Improved
+SYN00185,syn00185@synthetic.invalid,CBT,False,10,8,6,3,-7,Improved
+SYN00186,syn00186@synthetic.invalid,CBT,True,12,10,9,7,-5,Improved
+SYN00187,syn00187@synthetic.invalid,ACT,False,15,12,10,9,-6,Improved
+SYN00188,syn00188@synthetic.invalid,DBT,True,12,10,8,6,-6,Improved
+SYN00189,syn00189@synthetic.invalid,DBT,False,8,6,6,4,-4,Improved
+SYN00190,syn00190@synthetic.invalid,ACT,True,13,11,11,9,-4,Improved
+SYN00191,syn00191@synthetic.invalid,ACT,False,14,12,11,8,-6,Improved
+SYN00192,syn00192@synthetic.invalid,CBT,True,9,7,4,1,-8,Improved
+SYN00193,syn00193@synthetic.invalid,ACT,False,13,10,6,3,-10,Improved
+SYN00194,syn00194@synthetic.invalid,Mindfulness-Based,True,14,12,10,6,-8,Improved
+SYN00195,syn00195@synthetic.invalid,Mindfulness-Based,False,16,14,12,8,-8,Improved
+SYN00196,syn00196@synthetic.invalid,ACT,True,12,10,9,7,-5,Improved
+SYN00197,syn00197@synthetic.invalid,CBT,False,15,13,12,10,-5,Improved
+SYN00198,syn00198@synthetic.invalid,DBT,True,9,7,5,4,-5,Improved
+SYN00199,syn00199@synthetic.invalid,CBT,False,14,12,10,8,-6,Improved
+SYN00200,syn00200@synthetic.invalid,Mindfulness-Based,True,13,10,8,5,-8,Improved
+SYN00201,syn00201@synthetic.invalid,Mindfulness-Based,True,15,15,13,9,-6,Improved
+SYN00202,syn00202@synthetic.invalid,CBT,False,11,9,9,7,-4,Improved
+SYN00203,syn00203@synthetic.invalid,CBT,False,10,7,4,2,-8,Improved
+SYN00204,syn00204@synthetic.invalid,ACT,True,14,13,10,7,-7,Improved
+SYN00205,syn00205@synthetic.invalid,Mindfulness-Based,True,13,12,10,8,-5,Improved
+SYN00206,syn00206@synthetic.invalid,ACT,False,16,16,14,11,-5,Improved
+SYN00207,syn00207@synthetic.invalid,CBT,True,12,10,9,7,-5,Improved
+SYN00208,syn00208@synthetic.invalid,CBT,True,9,7,6,3,-6,Improved
+SYN00209,syn00209@synthetic.invalid,CBT,True,11,9,8,7,-4,Improved
+SYN00210,syn00210@synthetic.invalid,ACT,False,12,11,10,7,-5,Improved
+SYN00211,syn00211@synthetic.invalid,CBT,False,14,11,10,9,-5,Improved
+SYN00212,syn00212@synthetic.invalid,ACT,True,11,8,7,5,-6,Improved
+SYN00213,syn00213@synthetic.invalid,DBT,True,12,11,9,6,-6,Improved
+SYN00214,syn00214@synthetic.invalid,Mindfulness-Based,True,10,8,7,6,-4,Improved
+SYN00215,syn00215@synthetic.invalid,ACT,True,14,14,13,10,-4,Improved
+SYN00216,syn00216@synthetic.invalid,Mindfulness-Based,False,10,8,8,7,-3,Improved
+SYN00217,syn00217@synthetic.invalid,Mindfulness-Based,False,14,13,10,8,-6,Improved
+SYN00218,syn00218@synthetic.invalid,CBT,True,11,11,10,9,-2,Improved
+SYN00219,syn00219@synthetic.invalid,DBT,True,17,15,13,11,-6,Improved
+SYN00220,syn00220@synthetic.invalid,DBT,False,12,11,9,9,-3,Improved
+SYN00221,syn00221@synthetic.invalid,Mindfulness-Based,True,13,12,10,8,-5,Improved
+SYN00222,syn00222@synthetic.invalid,CBT,True,14,13,11,9,-5,Improved
+SYN00223,syn00223@synthetic.invalid,ACT,True,11,10,10,10,-1,Improved
+SYN00224,syn00224@synthetic.invalid,DBT,False,14,12,10,8,-6,Improved
+SYN00225,syn00225@synthetic.invalid,Mindfulness-Based,True,11,8,8,5,-6,Improved
+SYN00226,syn00226@synthetic.invalid,CBT,True,12,8,7,3,-9,Improved
+SYN00227,syn00227@synthetic.invalid,CBT,True,13,11,9,7,-6,Improved
+SYN00228,syn00228@synthetic.invalid,Mindfulness-Based,False,13,12,10,7,-6,Improved
+SYN00229,syn00229@synthetic.invalid,Mindfulness-Based,False,11,9,7,5,-6,Improved
+SYN00230,syn00230@synthetic.invalid,DBT,True,11,10,8,4,-7,Improved
+SYN00231,syn00231@synthetic.invalid,Mindfulness-Based,True,13,11,9,5,-8,Improved
+SYN00232,syn00232@synthetic.invalid,Mindfulness-Based,False,11,9,7,5,-6,Improved
+SYN00233,syn00233@synthetic.invalid,Mindfulness-Based,False,10,8,7,5,-5,Improved
+SYN00234,syn00234@synthetic.invalid,ACT,False,15,13,9,7,-8,Improved
+SYN00235,syn00235@synthetic.invalid,CBT,True,12,9,7,5,-7,Improved
+SYN00236,syn00236@synthetic.invalid,DBT,False,13,13,11,11,-2,Improved
+SYN00237,syn00237@synthetic.invalid,CBT,True,12,8,8,6,-6,Improved
+SYN00238,syn00238@synthetic.invalid,ACT,False,13,12,9,4,-9,Improved
+SYN00239,syn00239@synthetic.invalid,CBT,False,13,12,11,10,-3,Improved
+SYN00240,syn00240@synthetic.invalid,Mindfulness-Based,True,14,13,11,9,-5,Improved
+SYN00241,syn00241@synthetic.invalid,Mindfulness-Based,False,13,10,9,6,-7,Improved
+SYN00242,syn00242@synthetic.invalid,CBT,True,11,9,8,5,-6,Improved
+SYN00243,syn00243@synthetic.invalid,ACT,False,13,11,10,7,-6,Improved
+SYN00244,syn00244@synthetic.invalid,ACT,False,8,7,6,2,-6,Improved
+SYN00245,syn00245@synthetic.invalid,ACT,True,8,6,3,0,-8,Improved
+SYN00246,syn00246@synthetic.invalid,ACT,False,12,11,9,7,-5,Improved
+SYN00247,syn00247@synthetic.invalid,ACT,True,8,6,5,2,-6,Improved
+SYN00248,syn00248@synthetic.invalid,DBT,True,11,9,7,4,-7,Improved
+SYN00249,syn00249@synthetic.invalid,Mindfulness-Based,False,11,10,9,7,-4,Improved
+SYN00250,syn00250@synthetic.invalid,CBT,False,13,12,9,6,-7,Improved
+SYN00251,syn00251@synthetic.invalid,Mindfulness-Based,True,11,8,7,5,-6,Improved
+SYN00252,syn00252@synthetic.invalid,Mindfulness-Based,False,9,8,7,5,-4,Improved
+SYN00253,syn00253@synthetic.invalid,DBT,True,12,10,7,6,-6,Improved
+SYN00254,syn00254@synthetic.invalid,DBT,True,10,10,9,5,-5,Improved
+SYN00255,syn00255@synthetic.invalid,Mindfulness-Based,False,12,10,8,5,-7,Improved
+SYN00256,syn00256@synthetic.invalid,CBT,False,17,16,16,12,-5,Improved
+SYN00257,syn00257@synthetic.invalid,Mindfulness-Based,False,13,10,8,5,-8,Improved
+SYN00258,syn00258@synthetic.invalid,ACT,True,14,13,13,9,-5,Improved
+SYN00259,syn00259@synthetic.invalid,CBT,True,9,7,5,2,-7,Improved
+SYN00260,syn00260@synthetic.invalid,DBT,False,12,11,9,9,-3,Improved
+SYN00261,syn00261@synthetic.invalid,ACT,True,9,8,6,3,-6,Improved
+SYN00262,syn00262@synthetic.invalid,DBT,False,9,9,5,1,-8,Improved
+SYN00263,syn00263@synthetic.invalid,ACT,False,13,11,11,8,-5,Improved
+SYN00264,syn00264@synthetic.invalid,ACT,False,13,13,11,9,-4,Improved
+SYN00265,syn00265@synthetic.invalid,CBT,False,13,10,9,6,-7,Improved
+SYN00266,syn00266@synthetic.invalid,Mindfulness-Based,False,13,12,12,10,-3,Improved
+SYN00267,syn00267@synthetic.invalid,DBT,True,12,11,9,7,-5,Improved
+SYN00268,syn00268@synthetic.invalid,CBT,True,18,16,14,11,-7,Improved
+SYN00269,syn00269@synthetic.invalid,CBT,False,13,9,9,7,-6,Improved
+SYN00270,syn00270@synthetic.invalid,ACT,True,15,13,12,9,-6,Improved
+SYN00271,syn00271@synthetic.invalid,ACT,False,13,10,9,6,-7,Improved
+SYN00272,syn00272@synthetic.invalid,ACT,True,11,9,7,3,-8,Improved
+SYN00273,syn00273@synthetic.invalid,Mindfulness-Based,True,14,14,13,9,-5,Improved
+SYN00274,syn00274@synthetic.invalid,ACT,True,11,9,8,5,-6,Improved
+SYN00275,syn00275@synthetic.invalid,ACT,False,14,12,10,8,-6,Improved
+SYN00276,syn00276@synthetic.invalid,CBT,True,11,9,7,3,-8,Improved
+SYN00277,syn00277@synthetic.invalid,Mindfulness-Based,True,14,12,11,7,-7,Improved
+SYN00278,syn00278@synthetic.invalid,Mindfulness-Based,False,15,13,13,10,-5,Improved
+SYN00279,syn00279@synthetic.invalid,Mindfulness-Based,True,14,11,9,7,-7,Improved
+SYN00280,syn00280@synthetic.invalid,CBT,True,8,6,4,1,-7,Improved
+SYN00281,syn00281@synthetic.invalid,Mindfulness-Based,True,13,10,8,6,-7,Improved
+SYN00282,syn00282@synthetic.invalid,DBT,True,13,11,9,7,-6,Improved
+SYN00283,syn00283@synthetic.invalid,DBT,False,11,9,6,3,-8,Improved
+SYN00284,syn00284@synthetic.invalid,CBT,True,12,10,9,7,-5,Improved
+SYN00285,syn00285@synthetic.invalid,CBT,False,14,12,10,9,-5,Improved
+SYN00286,syn00286@synthetic.invalid,DBT,True,11,8,8,7,-4,Improved
+SYN00287,syn00287@synthetic.invalid,Mindfulness-Based,True,11,10,8,5,-6,Improved
+SYN00288,syn00288@synthetic.invalid,CBT,False,11,10,8,5,-6,Improved
+SYN00289,syn00289@synthetic.invalid,Mindfulness-Based,False,12,9,5,1,-11,Improved
+SYN00290,syn00290@synthetic.invalid,Mindfulness-Based,True,15,14,13,11,-4,Improved
+SYN00291,syn00291@synthetic.invalid,CBT,False,13,10,8,6,-7,Improved
+SYN00292,syn00292@synthetic.invalid,DBT,False,14,12,10,8,-6,Improved
+SYN00293,syn00293@synthetic.invalid,ACT,True,15,12,10,8,-7,Improved
+SYN00294,syn00294@synthetic.invalid,CBT,True,12,11,10,10,-2,Improved
+SYN00295,syn00295@synthetic.invalid,DBT,False,12,10,8,6,-6,Improved
+SYN00296,syn00296@synthetic.invalid,CBT,False,10,7,6,3,-7,Improved
+SYN00297,syn00297@synthetic.invalid,ACT,True,8,5,4,2,-6,Improved
+SYN00298,syn00298@synthetic.invalid,Mindfulness-Based,True,8,7,4,2,-6,Improved
+SYN00299,syn00299@synthetic.invalid,DBT,True,11,8,7,4,-7,Improved
+SYN00300,syn00300@synthetic.invalid,CBT,True,13,11,8,4,-9,Improved
+SYN00301,syn00301@synthetic.invalid,Mindfulness-Based,False,8,8,8,5,-3,Improved
+SYN00302,syn00302@synthetic.invalid,CBT,False,13,13,13,11,-2,Improved
+SYN00303,syn00303@synthetic.invalid,ACT,False,16,13,10,9,-7,Improved
+SYN00304,syn00304@synthetic.invalid,Mindfulness-Based,False,16,16,12,10,-6,Improved
+SYN00305,syn00305@synthetic.invalid,ACT,True,12,10,10,7,-5,Improved
+SYN00306,syn00306@synthetic.invalid,Mindfulness-Based,False,11,10,8,6,-5,Improved
+SYN00307,syn00307@synthetic.invalid,CBT,True,15,12,10,8,-7,Improved
+SYN00308,syn00308@synthetic.invalid,CBT,False,12,10,9,6,-6,Improved
+SYN00309,syn00309@synthetic.invalid,CBT,True,8,6,4,2,-6,Improved
+SYN00310,syn00310@synthetic.invalid,CBT,False,11,9,9,6,-5,Improved
+SYN00311,syn00311@synthetic.invalid,Mindfulness-Based,False,14,12,9,7,-7,Improved
+SYN00312,syn00312@synthetic.invalid,CBT,False,13,11,9,7,-6,Improved
+SYN00313,syn00313@synthetic.invalid,DBT,True,18,17,16,15,-3,Improved
+SYN00314,syn00314@synthetic.invalid,ACT,False,13,13,11,9,-4,Improved
+SYN00315,syn00315@synthetic.invalid,Mindfulness-Based,False,16,15,14,12,-4,Improved
+SYN00316,syn00316@synthetic.invalid,CBT,True,12,12,10,8,-4,Improved
+SYN00317,syn00317@synthetic.invalid,DBT,True,12,11,10,7,-5,Improved
+SYN00318,syn00318@synthetic.invalid,DBT,True,11,9,8,6,-5,Improved
+SYN00319,syn00319@synthetic.invalid,Mindfulness-Based,True,8,7,7,5,-3,Improved
+SYN00320,syn00320@synthetic.invalid,CBT,True,14,11,11,7,-7,Improved
+SYN00321,syn00321@synthetic.invalid,ACT,True,8,5,5,2,-6,Improved
+SYN00322,syn00322@synthetic.invalid,DBT,False,14,13,11,8,-6,Improved
+SYN00323,syn00323@synthetic.invalid,ACT,True,18,16,14,11,-7,Improved
+SYN00324,syn00324@synthetic.invalid,Mindfulness-Based,True,13,12,11,9,-4,Improved
+SYN00325,syn00325@synthetic.invalid,Mindfulness-Based,False,14,15,12,10,-4,Improved
+SYN00326,syn00326@synthetic.invalid,ACT,True,14,13,13,12,-2,Improved
+SYN00327,syn00327@synthetic.invalid,CBT,True,11,8,7,4,-7,Improved
+SYN00328,syn00328@synthetic.invalid,CBT,False,17,14,13,10,-7,Improved
+SYN00329,syn00329@synthetic.invalid,Mindfulness-Based,True,9,7,7,5,-4,Improved
+SYN00330,syn00330@synthetic.invalid,ACT,True,15,15,13,11,-4,Improved
+SYN00331,syn00331@synthetic.invalid,ACT,False,13,11,10,7,-6,Improved
+SYN00332,syn00332@synthetic.invalid,CBT,True,12,9,8,6,-6,Improved
+SYN00333,syn00333@synthetic.invalid,CBT,True,14,12,10,9,-5,Improved
+SYN00334,syn00334@synthetic.invalid,DBT,False,12,9,6,4,-8,Improved
+SYN00335,syn00335@synthetic.invalid,CBT,True,14,11,9,6,-8,Improved
+SYN00336,syn00336@synthetic.invalid,Mindfulness-Based,True,18,16,14,12,-6,Improved
+SYN00337,syn00337@synthetic.invalid,Mindfulness-Based,False,8,5,2,0,-8,Improved
+SYN00338,syn00338@synthetic.invalid,DBT,True,11,9,6,3,-8,Improved
+SYN00339,syn00339@synthetic.invalid,ACT,False,17,15,13,11,-6,Improved
+SYN00340,syn00340@synthetic.invalid,CBT,False,15,15,13,11,-4,Improved
+SYN00341,syn00341@synthetic.invalid,Mindfulness-Based,True,13,9,8,4,-9,Improved
+SYN00342,syn00342@synthetic.invalid,CBT,False,14,12,12,8,-6,Improved
+SYN00343,syn00343@synthetic.invalid,Mindfulness-Based,True,10,10,8,6,-4,Improved
+SYN00344,syn00344@synthetic.invalid,DBT,False,16,14,12,8,-8,Improved
+SYN00345,syn00345@synthetic.invalid,CBT,False,14,11,10,7,-7,Improved
+SYN00346,syn00346@synthetic.invalid,DBT,False,8,5,4,0,-8,Improved
+SYN00347,syn00347@synthetic.invalid,ACT,False,12,11,9,7,-5,Improved
+SYN00348,syn00348@synthetic.invalid,ACT,True,15,12,12,11,-4,Improved
+SYN00349,syn00349@synthetic.invalid,Mindfulness-Based,False,15,14,13,11,-4,Improved
+SYN00350,syn00350@synthetic.invalid,Mindfulness-Based,False,14,13,9,8,-6,Improved
+SYN00351,syn00351@synthetic.invalid,DBT,False,10,9,7,4,-6,Improved
+SYN00352,syn00352@synthetic.invalid,Mindfulness-Based,False,13,11,8,3,-10,Improved
+SYN00353,syn00353@synthetic.invalid,DBT,False,14,13,13,10,-4,Improved
+SYN00354,syn00354@synthetic.invalid,ACT,True,17,15,13,11,-6,Improved
+SYN00355,syn00355@synthetic.invalid,ACT,False,10,8,7,3,-7,Improved
+SYN00356,syn00356@synthetic.invalid,DBT,False,11,10,8,5,-6,Improved
+SYN00357,syn00357@synthetic.invalid,ACT,True,10,9,7,4,-6,Improved
+SYN00358,syn00358@synthetic.invalid,CBT,False,14,14,10,8,-6,Improved
+SYN00359,syn00359@synthetic.invalid,Mindfulness-Based,True,13,12,11,9,-4,Improved
+SYN00360,syn00360@synthetic.invalid,DBT,False,9,8,7,6,-3,Improved
+SYN00361,syn00361@synthetic.invalid,CBT,False,14,11,10,7,-7,Improved
+SYN00362,syn00362@synthetic.invalid,DBT,True,13,13,13,11,-2,Improved
+SYN00363,syn00363@synthetic.invalid,DBT,True,10,9,9,7,-3,Improved
+SYN00364,syn00364@synthetic.invalid,CBT,False,12,12,12,11,-1,Improved
+SYN00365,syn00365@synthetic.invalid,DBT,False,14,12,12,9,-5,Improved
+SYN00366,syn00366@synthetic.invalid,Mindfulness-Based,False,14,13,13,11,-3,Improved
+SYN00367,syn00367@synthetic.invalid,ACT,True,15,13,12,8,-7,Improved
+SYN00368,syn00368@synthetic.invalid,ACT,True,12,10,8,4,-8,Improved
+SYN00369,syn00369@synthetic.invalid,Mindfulness-Based,False,14,13,12,8,-6,Improved
+SYN00370,syn00370@synthetic.invalid,Mindfulness-Based,True,11,10,9,5,-6,Improved
+SYN00371,syn00371@synthetic.invalid,ACT,True,9,9,7,4,-5,Improved
+SYN00372,syn00372@synthetic.invalid,Mindfulness-Based,False,11,10,9,9,-2,Improved
+SYN00373,syn00373@synthetic.invalid,ACT,False,13,11,11,9,-4,Improved
+SYN00374,syn00374@synthetic.invalid,DBT,False,12,10,8,4,-8,Improved
+SYN00375,syn00375@synthetic.invalid,Mindfulness-Based,True,18,16,16,15,-3,Improved
+SYN00376,syn00376@synthetic.invalid,CBT,True,13,11,9,6,-7,Improved
+SYN00377,syn00377@synthetic.invalid,Mindfulness-Based,True,16,16,13,11,-5,Improved
+SYN00378,syn00378@synthetic.invalid,CBT,False,12,10,9,9,-3,Improved
+SYN00379,syn00379@synthetic.invalid,CBT,True,10,10,10,7,-3,Improved
+SYN00380,syn00380@synthetic.invalid,DBT,True,11,9,7,5,-6,Improved
+SYN00381,syn00381@synthetic.invalid,ACT,False,12,11,10,9,-3,Improved
+SYN00382,syn00382@synthetic.invalid,DBT,True,13,11,9,5,-8,Improved
+SYN00383,syn00383@synthetic.invalid,Mindfulness-Based,True,15,14,11,10,-5,Improved
+SYN00384,syn00384@synthetic.invalid,Mindfulness-Based,True,18,18,17,14,-4,Improved
+SYN00385,syn00385@synthetic.invalid,DBT,False,11,10,8,6,-5,Improved
+SYN00386,syn00386@synthetic.invalid,ACT,True,14,12,10,7,-7,Improved
+SYN00387,syn00387@synthetic.invalid,ACT,False,11,11,11,8,-3,Improved
+SYN00388,syn00388@synthetic.invalid,Mindfulness-Based,True,12,11,11,10,-2,Improved
+SYN00389,syn00389@synthetic.invalid,ACT,False,14,13,12,10,-4,Improved
+SYN00390,syn00390@synthetic.invalid,CBT,False,13,11,11,9,-4,Improved
+SYN00391,syn00391@synthetic.invalid,Mindfulness-Based,True,12,10,10,10,-2,Improved
+SYN00392,syn00392@synthetic.invalid,ACT,False,12,10,9,5,-7,Improved
+SYN00393,syn00393@synthetic.invalid,CBT,False,13,11,9,6,-7,Improved
+SYN00394,syn00394@synthetic.invalid,ACT,True,13,11,11,9,-4,Improved
+SYN00395,syn00395@synthetic.invalid,ACT,True,13,12,12,12,-1,Improved
+SYN00396,syn00396@synthetic.invalid,DBT,True,15,14,14,12,-3,Improved
+SYN00397,syn00397@synthetic.invalid,CBT,True,12,11,10,7,-5,Improved
+SYN00398,syn00398@synthetic.invalid,CBT,False,15,14,12,10,-5,Improved
+SYN00399,syn00399@synthetic.invalid,Mindfulness-Based,False,8,8,6,2,-6,Improved
+SYN00400,syn00400@synthetic.invalid,Mindfulness-Based,False,11,9,8,6,-5,Improved
+SYN00401,syn00401@synthetic.invalid,Mindfulness-Based,True,15,15,12,11,-4,Improved
+SYN00402,syn00402@synthetic.invalid,ACT,False,12,12,11,7,-5,Improved
+SYN00403,syn00403@synthetic.invalid,ACT,True,12,11,8,6,-6,Improved
+SYN00404,syn00404@synthetic.invalid,ACT,True,16,15,13,10,-6,Improved
+SYN00405,syn00405@synthetic.invalid,ACT,True,12,12,11,9,-3,Improved
+SYN00406,syn00406@synthetic.invalid,CBT,True,9,8,5,2,-7,Improved
+SYN00407,syn00407@synthetic.invalid,DBT,False,12,9,9,6,-6,Improved
+SYN00408,syn00408@synthetic.invalid,CBT,False,12,11,9,8,-4,Improved
+SYN00409,syn00409@synthetic.invalid,Mindfulness-Based,False,12,10,7,3,-9,Improved
+SYN00410,syn00410@synthetic.invalid,DBT,False,8,7,5,3,-5,Improved
+SYN00411,syn00411@synthetic.invalid,DBT,False,15,13,11,8,-7,Improved
+SYN00412,syn00412@synthetic.invalid,ACT,True,9,9,8,4,-5,Improved
+SYN00413,syn00413@synthetic.invalid,ACT,True,13,12,11,8,-5,Improved
+SYN00414,syn00414@synthetic.invalid,ACT,True,13,10,7,5,-8,Improved
+SYN00415,syn00415@synthetic.invalid,CBT,True,11,11,10,8,-3,Improved
+SYN00416,syn00416@synthetic.invalid,Mindfulness-Based,True,12,10,9,8,-4,Improved
+SYN00417,syn00417@synthetic.invalid,DBT,True,12,11,11,6,-6,Improved
+SYN00418,syn00418@synthetic.invalid,CBT,True,14,12,11,9,-5,Improved
+SYN00419,syn00419@synthetic.invalid,CBT,True,12,10,9,6,-6,Improved
+SYN00420,syn00420@synthetic.invalid,ACT,False,15,13,11,8,-7,Improved
+SYN00421,syn00421@synthetic.invalid,Mindfulness-Based,False,14,13,10,7,-7,Improved
+SYN00422,syn00422@synthetic.invalid,ACT,True,9,7,7,6,-3,Improved
+SYN00423,syn00423@synthetic.invalid,CBT,True,12,9,8,6,-6,Improved
+SYN00424,syn00424@synthetic.invalid,DBT,True,10,8,8,6,-4,Improved
+SYN00425,syn00425@synthetic.invalid,Mindfulness-Based,False,10,7,4,1,-9,Improved
+SYN00426,syn00426@synthetic.invalid,DBT,True,14,13,13,12,-2,Improved
+SYN00427,syn00427@synthetic.invalid,DBT,True,16,15,13,11,-5,Improved
+SYN00428,syn00428@synthetic.invalid,DBT,True,11,7,5,3,-8,Improved
+SYN00429,syn00429@synthetic.invalid,DBT,True,13,11,7,5,-8,Improved
+SYN00430,syn00430@synthetic.invalid,ACT,True,12,12,10,6,-6,Improved
+SYN00431,syn00431@synthetic.invalid,Mindfulness-Based,True,10,10,9,7,-3,Improved
+SYN00432,syn00432@synthetic.invalid,ACT,False,13,12,9,6,-7,Improved
+SYN00433,syn00433@synthetic.invalid,CBT,False,13,12,11,9,-4,Improved
+SYN00434,syn00434@synthetic.invalid,ACT,True,11,8,5,2,-9,Improved
+SYN00435,syn00435@synthetic.invalid,CBT,False,15,13,13,9,-6,Improved
+SYN00436,syn00436@synthetic.invalid,Mindfulness-Based,True,8,4,1,0,-8,Improved
+SYN00437,syn00437@synthetic.invalid,ACT,True,14,13,12,10,-4,Improved
+SYN00438,syn00438@synthetic.invalid,ACT,False,12,11,11,10,-2,Improved
+SYN00439,syn00439@synthetic.invalid,ACT,False,17,16,14,11,-6,Improved
+SYN00440,syn00440@synthetic.invalid,Mindfulness-Based,True,13,11,9,6,-7,Improved
+SYN00441,syn00441@synthetic.invalid,CBT,True,15,14,12,7,-8,Improved
+SYN00442,syn00442@synthetic.invalid,Mindfulness-Based,True,12,10,8,4,-8,Improved
+SYN00443,syn00443@synthetic.invalid,Mindfulness-Based,True,8,6,4,1,-7,Improved
+SYN00444,syn00444@synthetic.invalid,CBT,True,13,12,10,6,-7,Improved
+SYN00445,syn00445@synthetic.invalid,DBT,False,13,11,10,7,-6,Improved
+SYN00446,syn00446@synthetic.invalid,CBT,True,11,10,8,6,-5,Improved
+SYN00447,syn00447@synthetic.invalid,DBT,False,13,12,11,8,-5,Improved
+SYN00448,syn00448@synthetic.invalid,CBT,True,15,15,12,9,-6,Improved
+SYN00449,syn00449@synthetic.invalid,CBT,False,13,11,10,7,-6,Improved
+SYN00450,syn00450@synthetic.invalid,DBT,False,14,13,10,6,-8,Improved
+SYN00451,syn00451@synthetic.invalid,Mindfulness-Based,False,13,12,11,8,-5,Improved
+SYN00452,syn00452@synthetic.invalid,Mindfulness-Based,True,12,9,7,4,-8,Improved
+SYN00453,syn00453@synthetic.invalid,CBT,True,8,7,6,4,-4,Improved
+SYN00454,syn00454@synthetic.invalid,DBT,True,15,13,13,10,-5,Improved
+SYN00455,syn00455@synthetic.invalid,ACT,False,9,7,5,1,-8,Improved
+SYN00456,syn00456@synthetic.invalid,CBT,True,13,11,9,6,-7,Improved
+SYN00457,syn00457@synthetic.invalid,CBT,True,12,11,10,8,-4,Improved
+SYN00458,syn00458@synthetic.invalid,DBT,True,12,11,10,7,-5,Improved
+SYN00459,syn00459@synthetic.invalid,DBT,False,14,11,10,10,-4,Improved
+SYN00460,syn00460@synthetic.invalid,ACT,False,12,10,10,7,-5,Improved
+SYN00461,syn00461@synthetic.invalid,Mindfulness-Based,False,8,4,2,0,-8,Improved
+SYN00462,syn00462@synthetic.invalid,CBT,True,10,8,8,5,-5,Improved
+SYN00463,syn00463@synthetic.invalid,CBT,True,15,13,10,8,-7,Improved
+SYN00464,syn00464@synthetic.invalid,DBT,True,10,9,8,5,-5,Improved
+SYN00465,syn00465@synthetic.invalid,DBT,False,8,7,4,0,-8,Improved
+SYN00466,syn00466@synthetic.invalid,ACT,False,12,9,7,4,-8,Improved
+SYN00467,syn00467@synthetic.invalid,ACT,False,17,16,14,11,-6,Improved
+SYN00468,syn00468@synthetic.invalid,Mindfulness-Based,False,16,14,11,7,-9,Improved
+SYN00469,syn00469@synthetic.invalid,ACT,False,14,12,10,8,-6,Improved
+SYN00470,syn00470@synthetic.invalid,CBT,False,10,9,8,5,-5,Improved
+SYN00471,syn00471@synthetic.invalid,Mindfulness-Based,True,12,10,10,8,-4,Improved
+SYN00472,syn00472@synthetic.invalid,CBT,True,14,12,11,9,-5,Improved
+SYN00473,syn00473@synthetic.invalid,Mindfulness-Based,False,12,10,9,7,-5,Improved
+SYN00474,syn00474@synthetic.invalid,ACT,True,14,12,12,8,-6,Improved
+SYN00475,syn00475@synthetic.invalid,ACT,False,15,13,12,10,-5,Improved
+SYN00476,syn00476@synthetic.invalid,ACT,False,10,8,8,6,-4,Improved
+SYN00477,syn00477@synthetic.invalid,Mindfulness-Based,True,10,9,7,7,-3,Improved
+SYN00478,syn00478@synthetic.invalid,Mindfulness-Based,True,18,17,15,14,-4,Improved
+SYN00479,syn00479@synthetic.invalid,ACT,True,9,7,7,6,-3,Improved
+SYN00480,syn00480@synthetic.invalid,Mindfulness-Based,False,15,12,10,7,-8,Improved
+SYN00481,syn00481@synthetic.invalid,ACT,True,14,14,12,10,-4,Improved
+SYN00482,syn00482@synthetic.invalid,Mindfulness-Based,False,8,4,3,0,-8,Improved
+SYN00483,syn00483@synthetic.invalid,CBT,True,8,5,3,2,-6,Improved
+SYN00484,syn00484@synthetic.invalid,Mindfulness-Based,False,12,12,11,9,-3,Improved
+SYN00485,syn00485@synthetic.invalid,CBT,True,9,6,4,2,-7,Improved
+SYN00486,syn00486@synthetic.invalid,ACT,True,9,6,4,1,-8,Improved
+SYN00487,syn00487@synthetic.invalid,ACT,False,14,14,12,10,-4,Improved
+SYN00488,syn00488@synthetic.invalid,ACT,False,13,13,11,9,-4,Improved
+SYN00489,syn00489@synthetic.invalid,ACT,False,14,12,12,10,-4,Improved
+SYN00490,syn00490@synthetic.invalid,DBT,True,13,12,10,7,-6,Improved
+SYN00491,syn00491@synthetic.invalid,CBT,True,13,11,10,5,-8,Improved
+SYN00492,syn00492@synthetic.invalid,CBT,False,13,11,8,5,-8,Improved
+SYN00493,syn00493@synthetic.invalid,DBT,True,12,12,9,8,-4,Improved
+SYN00494,syn00494@synthetic.invalid,ACT,False,9,7,5,3,-6,Improved
+SYN00495,syn00495@synthetic.invalid,ACT,True,18,17,15,14,-4,Improved
+SYN00496,syn00496@synthetic.invalid,Mindfulness-Based,True,18,16,14,10,-8,Improved
+SYN00497,syn00497@synthetic.invalid,DBT,False,10,9,8,6,-4,Improved
+SYN00498,syn00498@synthetic.invalid,ACT,False,10,9,7,6,-4,Improved
+SYN00499,syn00499@synthetic.invalid,ACT,False,11,8,6,2,-9,Improved
+SYN00500,syn00500@synthetic.invalid,CBT,True,9,8,6,3,-6,Improved
+SYN00501,syn00501@synthetic.invalid,DBT,True,13,13,13,14,1,Not Improved
+SYN00502,syn00502@synthetic.invalid,ACT,False,13,13,13,14,1,Not Improved
+SYN00503,syn00503@synthetic.invalid,ACT,False,15,17,17,17,2,Not Improved
+SYN00504,syn00504@synthetic.invalid,CBT,False,14,15,15,17,3,Not Improved
+SYN00505,syn00505@synthetic.invalid,DBT,True,12,12,12,13,1,Not Improved
+SYN00506,syn00506@synthetic.invalid,CBT,False,9,9,10,10,1,Not Improved
+SYN00507,syn00507@synthetic.invalid,DBT,False,8,8,9,10,2,Not Improved
+SYN00508,syn00508@synthetic.invalid,Mindfulness-Based,True,13,14,14,15,2,Not Improved
+SYN00509,syn00509@synthetic.invalid,ACT,True,16,17,19,20,4,Not Improved
+SYN00510,syn00510@synthetic.invalid,ACT,True,13,13,15,17,4,Not Improved
+SYN00511,syn00511@synthetic.invalid,Mindfulness-Based,True,17,18,19,19,2,Not Improved
+SYN00512,syn00512@synthetic.invalid,CBT,False,14,15,15,16,2,Not Improved
+SYN00513,syn00513@synthetic.invalid,ACT,False,10,12,12,13,3,Not Improved
+SYN00514,syn00514@synthetic.invalid,Mindfulness-Based,True,11,11,12,12,1,Not Improved
+SYN00515,syn00515@synthetic.invalid,DBT,False,14,14,14,17,3,Not Improved
+SYN00516,syn00516@synthetic.invalid,ACT,True,11,12,12,12,1,Not Improved
+SYN00517,syn00517@synthetic.invalid,DBT,False,11,13,14,14,3,Not Improved
+SYN00518,syn00518@synthetic.invalid,DBT,True,12,12,12,12,0,Not Improved
+SYN00519,syn00519@synthetic.invalid,DBT,True,10,10,11,12,2,Not Improved
+SYN00520,syn00520@synthetic.invalid,Mindfulness-Based,True,16,16,16,16,0,Not Improved
+SYN00521,syn00521@synthetic.invalid,DBT,True,12,14,14,14,2,Not Improved
+SYN00522,syn00522@synthetic.invalid,CBT,False,16,18,18,20,4,Not Improved
+SYN00523,syn00523@synthetic.invalid,Mindfulness-Based,False,13,14,14,14,1,Not Improved
+SYN00524,syn00524@synthetic.invalid,ACT,False,10,13,13,14,4,Not Improved
+SYN00525,syn00525@synthetic.invalid,ACT,False,11,11,13,12,1,Not Improved
+SYN00526,syn00526@synthetic.invalid,Mindfulness-Based,False,10,10,12,13,3,Not Improved
+SYN00527,syn00527@synthetic.invalid,ACT,False,14,14,14,14,0,Not Improved
+SYN00528,syn00528@synthetic.invalid,Mindfulness-Based,True,12,12,13,15,3,Not Improved
+SYN00529,syn00529@synthetic.invalid,DBT,True,10,11,12,12,2,Not Improved
+SYN00530,syn00530@synthetic.invalid,ACT,False,15,16,18,18,3,Not Improved
+SYN00531,syn00531@synthetic.invalid,ACT,False,17,18,20,20,3,Not Improved
+SYN00532,syn00532@synthetic.invalid,DBT,True,14,15,16,17,3,Not Improved
+SYN00533,syn00533@synthetic.invalid,CBT,True,10,10,12,13,3,Not Improved
+SYN00534,syn00534@synthetic.invalid,DBT,False,13,14,16,16,3,Not Improved
+SYN00535,syn00535@synthetic.invalid,Mindfulness-Based,False,8,9,12,12,4,Not Improved
+SYN00536,syn00536@synthetic.invalid,DBT,True,17,17,19,21,4,Not Improved
+SYN00537,syn00537@synthetic.invalid,CBT,False,14,14,14,14,0,Not Improved
+SYN00538,syn00538@synthetic.invalid,DBT,False,10,11,12,13,3,Not Improved
+SYN00539,syn00539@synthetic.invalid,CBT,False,9,9,9,9,0,Not Improved
+SYN00540,syn00540@synthetic.invalid,Mindfulness-Based,False,15,16,18,18,3,Not Improved
+SYN00541,syn00541@synthetic.invalid,DBT,True,13,14,16,18,5,Not Improved
+SYN00542,syn00542@synthetic.invalid,Mindfulness-Based,True,16,17,18,18,2,Not Improved
+SYN00543,syn00543@synthetic.invalid,DBT,True,12,14,16,16,4,Not Improved
+SYN00544,syn00544@synthetic.invalid,DBT,False,15,15,16,18,3,Not Improved
+SYN00545,syn00545@synthetic.invalid,ACT,True,15,16,18,18,3,Not Improved
+SYN00546,syn00546@synthetic.invalid,ACT,True,14,17,19,20,6,Not Improved
+SYN00547,syn00547@synthetic.invalid,ACT,False,12,12,13,13,1,Not Improved
+SYN00548,syn00548@synthetic.invalid,Mindfulness-Based,True,12,13,13,13,1,Not Improved
+SYN00549,syn00549@synthetic.invalid,DBT,True,11,11,11,11,0,Not Improved
+SYN00550,syn00550@synthetic.invalid,Mindfulness-Based,False,8,8,9,11,3,Not Improved
+SYN00551,syn00551@synthetic.invalid,ACT,True,11,11,11,12,1,Not Improved
+SYN00552,syn00552@synthetic.invalid,ACT,False,12,12,14,15,3,Not Improved
+SYN00553,syn00553@synthetic.invalid,CBT,True,9,12,13,15,6,Not Improved
+SYN00554,syn00554@synthetic.invalid,ACT,True,11,11,11,10,-1,Not Improved
+SYN00555,syn00555@synthetic.invalid,CBT,True,10,12,12,13,3,Not Improved
+SYN00556,syn00556@synthetic.invalid,DBT,True,15,17,17,17,2,Not Improved
+SYN00557,syn00557@synthetic.invalid,Mindfulness-Based,False,9,10,10,11,2,Not Improved
+SYN00558,syn00558@synthetic.invalid,ACT,True,11,12,14,14,3,Not Improved
+SYN00559,syn00559@synthetic.invalid,CBT,True,14,14,15,17,3,Not Improved
+SYN00560,syn00560@synthetic.invalid,CBT,True,9,9,10,11,2,Not Improved
+SYN00561,syn00561@synthetic.invalid,ACT,False,8,8,8,9,1,Not Improved
+SYN00562,syn00562@synthetic.invalid,Mindfulness-Based,False,10,11,13,13,3,Not Improved
+SYN00563,syn00563@synthetic.invalid,Mindfulness-Based,True,14,15,16,19,5,Not Improved
+SYN00564,syn00564@synthetic.invalid,DBT,False,16,17,17,18,2,Not Improved
+SYN00565,syn00565@synthetic.invalid,DBT,False,13,13,15,16,3,Not Improved
+SYN00566,syn00566@synthetic.invalid,DBT,False,11,13,13,15,4,Not Improved
+SYN00567,syn00567@synthetic.invalid,ACT,False,13,13,13,13,0,Not Improved
+SYN00568,syn00568@synthetic.invalid,DBT,True,15,15,15,16,1,Not Improved
+SYN00569,syn00569@synthetic.invalid,Mindfulness-Based,True,15,15,15,15,0,Not Improved
+SYN00570,syn00570@synthetic.invalid,ACT,True,13,13,14,14,1,Not Improved
+SYN00571,syn00571@synthetic.invalid,Mindfulness-Based,True,12,12,13,13,1,Not Improved
+SYN00572,syn00572@synthetic.invalid,CBT,True,8,8,9,10,2,Not Improved
+SYN00573,syn00573@synthetic.invalid,DBT,True,14,14,14,14,0,Not Improved
+SYN00574,syn00574@synthetic.invalid,CBT,True,10,12,12,12,2,Not Improved
+SYN00575,syn00575@synthetic.invalid,Mindfulness-Based,False,18,18,19,19,1,Not Improved
+SYN00576,syn00576@synthetic.invalid,ACT,True,12,13,14,16,4,Not Improved
+SYN00577,syn00577@synthetic.invalid,CBT,False,15,16,16,17,2,Not Improved
+SYN00578,syn00578@synthetic.invalid,ACT,True,11,12,12,11,0,Not Improved
+SYN00579,syn00579@synthetic.invalid,DBT,True,14,14,16,16,2,Not Improved
+SYN00580,syn00580@synthetic.invalid,Mindfulness-Based,True,16,17,18,19,3,Not Improved
+SYN00581,syn00581@synthetic.invalid,ACT,True,12,12,13,14,2,Not Improved
+SYN00582,syn00582@synthetic.invalid,DBT,True,10,11,13,15,5,Not Improved
+SYN00583,syn00583@synthetic.invalid,Mindfulness-Based,False,13,13,13,13,0,Not Improved
+SYN00584,syn00584@synthetic.invalid,Mindfulness-Based,False,10,10,10,10,0,Not Improved
+SYN00585,syn00585@synthetic.invalid,DBT,False,16,17,17,17,1,Not Improved
+SYN00586,syn00586@synthetic.invalid,DBT,False,15,14,15,17,2,Not Improved
+SYN00587,syn00587@synthetic.invalid,CBT,False,17,18,20,21,4,Not Improved
+SYN00588,syn00588@synthetic.invalid,DBT,False,13,14,17,17,4,Not Improved
+SYN00589,syn00589@synthetic.invalid,ACT,False,13,16,18,19,6,Not Improved
+SYN00590,syn00590@synthetic.invalid,ACT,False,10,11,12,13,3,Not Improved
+SYN00591,syn00591@synthetic.invalid,Mindfulness-Based,True,11,13,13,13,2,Not Improved
+SYN00592,syn00592@synthetic.invalid,ACT,False,13,15,15,16,3,Not Improved
+SYN00593,syn00593@synthetic.invalid,DBT,True,8,8,10,10,2,Not Improved
+SYN00594,syn00594@synthetic.invalid,ACT,False,12,13,13,13,1,Not Improved
+SYN00595,syn00595@synthetic.invalid,DBT,True,13,13,13,13,0,Not Improved
+SYN00596,syn00596@synthetic.invalid,ACT,True,15,15,16,17,2,Not Improved
+SYN00597,syn00597@synthetic.invalid,ACT,True,10,12,13,15,5,Not Improved
+SYN00598,syn00598@synthetic.invalid,CBT,False,11,11,11,11,0,Not Improved
+SYN00599,syn00599@synthetic.invalid,CBT,True,9,9,10,9,0,Not Improved
+SYN00600,syn00600@synthetic.invalid,Mindfulness-Based,False,12,13,14,15,3,Not Improved
+SYN00601,syn00601@synthetic.invalid,Mindfulness-Based,False,13,14,14,16,3,Not Improved
+SYN00602,syn00602@synthetic.invalid,CBT,False,8,8,8,8,0,Not Improved
+SYN00603,syn00603@synthetic.invalid,CBT,False,8,9,11,11,3,Not Improved
+SYN00604,syn00604@synthetic.invalid,CBT,False,8,9,11,11,3,Not Improved
+SYN00605,syn00605@synthetic.invalid,CBT,True,11,13,15,15,4,Not Improved
+SYN00606,syn00606@synthetic.invalid,Mindfulness-Based,False,16,17,17,18,2,Not Improved
+SYN00607,syn00607@synthetic.invalid,CBT,True,12,12,13,13,1,Not Improved
+SYN00608,syn00608@synthetic.invalid,CBT,True,11,11,11,11,0,Not Improved
+SYN00609,syn00609@synthetic.invalid,DBT,True,10,11,11,12,2,Not Improved
+SYN00610,syn00610@synthetic.invalid,DBT,False,13,14,14,14,1,Not Improved
+SYN00611,syn00611@synthetic.invalid,DBT,False,13,15,15,17,4,Not Improved
+SYN00612,syn00612@synthetic.invalid,CBT,True,13,14,15,16,3,Not Improved
+SYN00613,syn00613@synthetic.invalid,ACT,False,8,9,9,10,2,Not Improved
+SYN00614,syn00614@synthetic.invalid,DBT,True,9,10,11,11,2,Not Improved
+SYN00615,syn00615@synthetic.invalid,DBT,False,13,12,13,13,0,Not Improved
+SYN00616,syn00616@synthetic.invalid,CBT,True,11,11,11,12,1,Not Improved
+SYN00617,syn00617@synthetic.invalid,Mindfulness-Based,True,13,13,13,13,0,Not Improved
+SYN00618,syn00618@synthetic.invalid,ACT,False,15,15,15,16,1,Not Improved
+SYN00619,syn00619@synthetic.invalid,DBT,False,14,14,15,17,3,Not Improved
+SYN00620,syn00620@synthetic.invalid,ACT,False,10,13,13,13,3,Not Improved
+SYN00621,syn00621@synthetic.invalid,Mindfulness-Based,True,17,18,21,21,4,Not Improved
+SYN00622,syn00622@synthetic.invalid,DBT,True,12,12,13,14,2,Not Improved
+SYN00623,syn00623@synthetic.invalid,DBT,True,14,15,15,16,2,Not Improved
+SYN00624,syn00624@synthetic.invalid,CBT,False,14,14,14,15,1,Not Improved
+SYN00625,syn00625@synthetic.invalid,ACT,True,14,15,15,16,2,Not Improved
+SYN00626,syn00626@synthetic.invalid,CBT,False,11,11,14,15,4,Not Improved
+SYN00627,syn00627@synthetic.invalid,ACT,True,11,11,13,14,3,Not Improved
+SYN00628,syn00628@synthetic.invalid,CBT,False,12,13,14,14,2,Not Improved
+SYN00629,syn00629@synthetic.invalid,CBT,False,13,15,18,18,5,Not Improved
+SYN00630,syn00630@synthetic.invalid,Mindfulness-Based,False,15,15,15,15,0,Not Improved
+SYN00631,syn00631@synthetic.invalid,ACT,False,8,8,8,9,1,Not Improved
+SYN00632,syn00632@synthetic.invalid,Mindfulness-Based,True,9,9,10,11,2,Not Improved
+SYN00633,syn00633@synthetic.invalid,CBT,True,13,13,12,12,-1,Not Improved
+SYN00634,syn00634@synthetic.invalid,DBT,True,14,14,14,15,1,Not Improved
+SYN00635,syn00635@synthetic.invalid,CBT,False,10,10,11,12,2,Not Improved
+SYN00636,syn00636@synthetic.invalid,ACT,False,13,14,14,15,2,Not Improved
+SYN00637,syn00637@synthetic.invalid,Mindfulness-Based,True,14,15,15,16,2,Not Improved
+SYN00638,syn00638@synthetic.invalid,ACT,False,15,16,16,17,2,Not Improved
+SYN00639,syn00639@synthetic.invalid,DBT,True,13,14,15,16,3,Not Improved
+SYN00640,syn00640@synthetic.invalid,ACT,True,12,14,14,14,2,Not Improved
+SYN00641,syn00641@synthetic.invalid,Mindfulness-Based,True,13,16,16,16,3,Not Improved
+SYN00642,syn00642@synthetic.invalid,DBT,False,13,13,14,14,1,Not Improved
+SYN00643,syn00643@synthetic.invalid,Mindfulness-Based,False,15,15,15,15,0,Not Improved
+SYN00644,syn00644@synthetic.invalid,CBT,True,17,17,19,19,2,Not Improved
+SYN00645,syn00645@synthetic.invalid,CBT,False,14,14,15,18,4,Not Improved
+SYN00646,syn00646@synthetic.invalid,DBT,True,15,15,15,16,1,Not Improved
+SYN00647,syn00647@synthetic.invalid,Mindfulness-Based,False,12,13,13,13,1,Not Improved
+SYN00648,syn00648@synthetic.invalid,Mindfulness-Based,False,12,12,12,12,0,Not Improved
+SYN00649,syn00649@synthetic.invalid,DBT,True,13,13,13,13,0,Not Improved
+SYN00650,syn00650@synthetic.invalid,Mindfulness-Based,True,18,20,21,21,3,Not Improved
+SYN00651,syn00651@synthetic.invalid,CBT,True,13,14,14,16,3,Not Improved
+SYN00652,syn00652@synthetic.invalid,ACT,True,16,16,16,16,0,Not Improved
+SYN00653,syn00653@synthetic.invalid,DBT,False,14,15,15,15,1,Not Improved
+SYN00654,syn00654@synthetic.invalid,DBT,True,15,15,15,16,1,Not Improved
+SYN00655,syn00655@synthetic.invalid,ACT,True,17,19,19,19,2,Not Improved
+SYN00656,syn00656@synthetic.invalid,CBT,False,12,13,15,15,3,Not Improved
+SYN00657,syn00657@synthetic.invalid,Mindfulness-Based,True,14,14,15,16,2,Not Improved
+SYN00658,syn00658@synthetic.invalid,ACT,True,16,17,17,18,2,Not Improved
+SYN00659,syn00659@synthetic.invalid,ACT,True,11,11,12,12,1,Not Improved
+SYN00660,syn00660@synthetic.invalid,CBT,True,10,10,10,9,-1,Not Improved
+SYN00661,syn00661@synthetic.invalid,DBT,False,14,16,17,18,4,Not Improved
+SYN00662,syn00662@synthetic.invalid,DBT,True,12,13,14,15,3,Not Improved
+SYN00663,syn00663@synthetic.invalid,Mindfulness-Based,False,9,9,10,10,1,Not Improved
+SYN00664,syn00664@synthetic.invalid,DBT,False,9,10,10,10,1,Not Improved
+SYN00665,syn00665@synthetic.invalid,ACT,True,11,12,12,14,3,Not Improved
+SYN00666,syn00666@synthetic.invalid,ACT,True,9,9,10,10,1,Not Improved
+SYN00667,syn00667@synthetic.invalid,ACT,False,14,14,15,16,2,Not Improved
+SYN00668,syn00668@synthetic.invalid,ACT,False,13,13,13,14,1,Not Improved
+SYN00669,syn00669@synthetic.invalid,DBT,False,14,14,15,16,2,Not Improved
+SYN00670,syn00670@synthetic.invalid,DBT,True,11,11,12,12,1,Not Improved
+SYN00671,syn00671@synthetic.invalid,DBT,True,10,11,11,11,1,Not Improved
+SYN00672,syn00672@synthetic.invalid,CBT,False,15,15,15,16,1,Not Improved
+SYN00673,syn00673@synthetic.invalid,Mindfulness-Based,False,13,14,16,17,4,Not Improved
+SYN00674,syn00674@synthetic.invalid,DBT,False,11,13,15,16,5,Not Improved
+SYN00675,syn00675@synthetic.invalid,ACT,False,18,20,20,20,2,Not Improved
+SYN00676,syn00676@synthetic.invalid,CBT,True,11,11,12,14,3,Not Improved
+SYN00677,syn00677@synthetic.invalid,CBT,True,10,9,9,9,-1,Not Improved
+SYN00678,syn00678@synthetic.invalid,DBT,True,16,15,15,15,-1,Not Improved
+SYN00679,syn00679@synthetic.invalid,DBT,True,11,11,11,11,0,Not Improved
+SYN00680,syn00680@synthetic.invalid,ACT,False,12,12,12,15,3,Not Improved
+SYN00681,syn00681@synthetic.invalid,Mindfulness-Based,True,14,16,16,17,3,Not Improved
+SYN00682,syn00682@synthetic.invalid,ACT,False,14,14,14,14,0,Not Improved
+SYN00683,syn00683@synthetic.invalid,Mindfulness-Based,False,15,14,14,14,-1,Not Improved
+SYN00684,syn00684@synthetic.invalid,Mindfulness-Based,False,10,12,15,17,7,Not Improved
+SYN00685,syn00685@synthetic.invalid,ACT,True,14,14,15,15,1,Not Improved
+SYN00686,syn00686@synthetic.invalid,CBT,True,11,11,11,12,1,Not Improved
+SYN00687,syn00687@synthetic.invalid,CBT,False,9,11,11,11,2,Not Improved
+SYN00688,syn00688@synthetic.invalid,Mindfulness-Based,False,15,16,16,16,1,Not Improved
+SYN00689,syn00689@synthetic.invalid,ACT,False,18,18,20,20,2,Not Improved
+SYN00690,syn00690@synthetic.invalid,ACT,False,13,16,17,17,4,Not Improved
+SYN00691,syn00691@synthetic.invalid,DBT,False,14,15,16,15,1,Not Improved
+SYN00692,syn00692@synthetic.invalid,ACT,False,8,8,9,9,1,Not Improved
+SYN00693,syn00693@synthetic.invalid,Mindfulness-Based,False,12,12,12,14,2,Not Improved
+SYN00694,syn00694@synthetic.invalid,Mindfulness-Based,True,12,13,13,14,2,Not Improved
+SYN00695,syn00695@synthetic.invalid,Mindfulness-Based,False,13,13,15,15,2,Not Improved
+SYN00696,syn00696@synthetic.invalid,DBT,True,15,15,17,17,2,Not Improved
+SYN00697,syn00697@synthetic.invalid,ACT,False,12,12,13,15,3,Not Improved
+SYN00698,syn00698@synthetic.invalid,DBT,True,16,17,17,18,2,Not Improved
+SYN00699,syn00699@synthetic.invalid,CBT,False,15,15,17,20,5,Not Improved
+SYN00700,syn00700@synthetic.invalid,DBT,False,9,10,11,11,2,Not Improved
+SYN00701,syn00701@synthetic.invalid,ACT,True,11,11,13,14,3,Not Improved
+SYN00702,syn00702@synthetic.invalid,DBT,False,15,15,17,19,4,Not Improved
+SYN00703,syn00703@synthetic.invalid,ACT,False,9,10,10,11,2,Not Improved
+SYN00704,syn00704@synthetic.invalid,CBT,True,17,18,21,21,4,Not Improved
+SYN00705,syn00705@synthetic.invalid,CBT,True,11,10,10,11,0,Not Improved
+SYN00706,syn00706@synthetic.invalid,ACT,True,10,12,13,14,4,Not Improved
+SYN00707,syn00707@synthetic.invalid,Mindfulness-Based,False,12,12,13,14,2,Not Improved
+SYN00708,syn00708@synthetic.invalid,CBT,True,14,14,14,16,2,Not Improved
+SYN00709,syn00709@synthetic.invalid,Mindfulness-Based,False,13,13,14,16,3,Not Improved
+SYN00710,syn00710@synthetic.invalid,DBT,False,11,12,13,13,2,Not Improved
+SYN00711,syn00711@synthetic.invalid,CBT,True,9,10,9,10,1,Not Improved
+SYN00712,syn00712@synthetic.invalid,Mindfulness-Based,True,9,9,10,12,3,Not Improved
+SYN00713,syn00713@synthetic.invalid,ACT,True,8,8,10,10,2,Not Improved
+SYN00714,syn00714@synthetic.invalid,CBT,True,14,14,14,14,0,Not Improved
+SYN00715,syn00715@synthetic.invalid,CBT,False,12,12,12,12,0,Not Improved
+SYN00716,syn00716@synthetic.invalid,Mindfulness-Based,False,13,13,13,14,1,Not Improved
+SYN00717,syn00717@synthetic.invalid,Mindfulness-Based,True,11,11,11,12,1,Not Improved
+SYN00718,syn00718@synthetic.invalid,ACT,True,12,12,14,15,3,Not Improved
+SYN00719,syn00719@synthetic.invalid,ACT,False,18,18,18,19,1,Not Improved
+SYN00720,syn00720@synthetic.invalid,Mindfulness-Based,True,11,11,13,13,2,Not Improved
+SYN00721,syn00721@synthetic.invalid,Mindfulness-Based,True,13,16,16,16,3,Not Improved
+SYN00722,syn00722@synthetic.invalid,ACT,False,13,15,16,18,5,Not Improved
+SYN00723,syn00723@synthetic.invalid,Mindfulness-Based,False,13,12,10,13,0,Not Improved
+SYN00724,syn00724@synthetic.invalid,ACT,False,14,14,14,16,2,Not Improved
+SYN00725,syn00725@synthetic.invalid,ACT,True,12,12,13,13,1,Not Improved
+SYN00726,syn00726@synthetic.invalid,CBT,True,10,10,10,12,2,Not Improved
+SYN00727,syn00727@synthetic.invalid,ACT,False,11,11,13,13,2,Not Improved
+SYN00728,syn00728@synthetic.invalid,ACT,True,10,12,12,12,2,Not Improved
+SYN00729,syn00729@synthetic.invalid,Mindfulness-Based,True,15,15,15,16,1,Not Improved
+SYN00730,syn00730@synthetic.invalid,DBT,True,10,10,10,12,2,Not Improved
+SYN00731,syn00731@synthetic.invalid,Mindfulness-Based,True,8,8,10,12,4,Not Improved
+SYN00732,syn00732@synthetic.invalid,ACT,True,17,18,18,19,2,Not Improved
+SYN00733,syn00733@synthetic.invalid,CBT,True,10,10,10,10,0,Not Improved
+SYN00734,syn00734@synthetic.invalid,DBT,True,10,10,12,13,3,Not Improved
+SYN00735,syn00735@synthetic.invalid,Mindfulness-Based,False,12,13,13,13,1,Not Improved
+SYN00736,syn00736@synthetic.invalid,Mindfulness-Based,False,13,16,16,16,3,Not Improved
+SYN00737,syn00737@synthetic.invalid,DBT,True,11,12,13,13,2,Not Improved
+SYN00738,syn00738@synthetic.invalid,Mindfulness-Based,True,16,16,16,16,0,Not Improved
+SYN00739,syn00739@synthetic.invalid,Mindfulness-Based,True,16,18,18,20,4,Not Improved
+SYN00740,syn00740@synthetic.invalid,Mindfulness-Based,True,14,16,17,17,3,Not Improved
+SYN00741,syn00741@synthetic.invalid,ACT,False,15,16,18,18,3,Not Improved
+SYN00742,syn00742@synthetic.invalid,CBT,False,15,15,17,17,2,Not Improved
+SYN00743,syn00743@synthetic.invalid,CBT,True,13,13,14,15,2,Not Improved
+SYN00744,syn00744@synthetic.invalid,Mindfulness-Based,False,12,12,12,13,1,Not Improved
+SYN00745,syn00745@synthetic.invalid,ACT,False,14,14,16,16,2,Not Improved
+SYN00746,syn00746@synthetic.invalid,Mindfulness-Based,False,14,17,18,18,4,Not Improved
+SYN00747,syn00747@synthetic.invalid,DBT,False,16,16,18,17,1,Not Improved
+SYN00748,syn00748@synthetic.invalid,ACT,False,11,11,11,11,0,Not Improved
+SYN00749,syn00749@synthetic.invalid,ACT,False,9,9,9,9,0,Not Improved
+SYN00750,syn00750@synthetic.invalid,ACT,True,14,15,16,18,4,Not Improved
+SYN00751,syn00751@synthetic.invalid,CBT,False,15,15,16,16,1,Not Improved
+SYN00752,syn00752@synthetic.invalid,Mindfulness-Based,True,12,12,12,12,0,Not Improved
+SYN00753,syn00753@synthetic.invalid,Mindfulness-Based,False,11,13,13,13,2,Not Improved
+SYN00754,syn00754@synthetic.invalid,ACT,True,15,16,17,17,2,Not Improved
+SYN00755,syn00755@synthetic.invalid,DBT,True,10,10,11,13,3,Not Improved
+SYN00756,syn00756@synthetic.invalid,ACT,False,11,11,12,13,2,Not Improved
+SYN00757,syn00757@synthetic.invalid,CBT,False,14,16,16,17,3,Not Improved
+SYN00758,syn00758@synthetic.invalid,DBT,False,17,16,17,18,1,Not Improved
+SYN00759,syn00759@synthetic.invalid,Mindfulness-Based,True,12,11,9,9,-3,Not Improved
+SYN00760,syn00760@synthetic.invalid,ACT,False,12,13,14,14,2,Not Improved
+SYN00761,syn00761@synthetic.invalid,Mindfulness-Based,True,16,16,17,18,2,Not Improved
+SYN00762,syn00762@synthetic.invalid,ACT,True,11,13,14,14,3,Not Improved
+SYN00763,syn00763@synthetic.invalid,Mindfulness-Based,True,14,14,16,18,4,Not Improved
+SYN00764,syn00764@synthetic.invalid,Mindfulness-Based,True,14,16,16,17,3,Not Improved
+SYN00765,syn00765@synthetic.invalid,ACT,False,11,13,14,16,5,Not Improved
+SYN00766,syn00766@synthetic.invalid,Mindfulness-Based,False,13,13,15,15,2,Not Improved
+SYN00767,syn00767@synthetic.invalid,Mindfulness-Based,True,10,10,10,12,2,Not Improved
+SYN00768,syn00768@synthetic.invalid,Mindfulness-Based,False,17,17,18,21,4,Not Improved
+SYN00769,syn00769@synthetic.invalid,ACT,False,12,14,14,14,2,Not Improved
+SYN00770,syn00770@synthetic.invalid,DBT,False,12,12,12,12,0,Not Improved
+SYN00771,syn00771@synthetic.invalid,ACT,False,13,16,16,16,3,Not Improved
+SYN00772,syn00772@synthetic.invalid,Mindfulness-Based,False,14,16,17,17,3,Not Improved
+SYN00773,syn00773@synthetic.invalid,DBT,True,16,17,19,20,4,Not Improved
+SYN00774,syn00774@synthetic.invalid,Mindfulness-Based,False,13,14,14,14,1,Not Improved
+SYN00775,syn00775@synthetic.invalid,ACT,True,10,11,11,12,2,Not Improved
+SYN00776,syn00776@synthetic.invalid,Mindfulness-Based,True,9,9,9,9,0,Not Improved
+SYN00777,syn00777@synthetic.invalid,DBT,False,15,15,17,18,3,Not Improved
+SYN00778,syn00778@synthetic.invalid,ACT,True,12,13,14,15,3,Not Improved
+SYN00779,syn00779@synthetic.invalid,DBT,False,17,18,19,20,3,Not Improved
+SYN00780,syn00780@synthetic.invalid,DBT,False,13,14,14,14,1,Not Improved
+SYN00781,syn00781@synthetic.invalid,ACT,True,11,11,11,11,0,Not Improved
+SYN00782,syn00782@synthetic.invalid,DBT,True,11,13,13,12,1,Not Improved
+SYN00783,syn00783@synthetic.invalid,Mindfulness-Based,False,16,17,18,18,2,Not Improved
+SYN00784,syn00784@synthetic.invalid,DBT,True,15,16,18,18,3,Not Improved
+SYN00785,syn00785@synthetic.invalid,Mindfulness-Based,True,15,16,16,16,1,Not Improved
+SYN00786,syn00786@synthetic.invalid,CBT,False,10,10,11,11,1,Not Improved
+SYN00787,syn00787@synthetic.invalid,CBT,False,15,17,18,18,3,Not Improved
+SYN00788,syn00788@synthetic.invalid,ACT,True,8,9,9,8,0,Not Improved
+SYN00789,syn00789@synthetic.invalid,DBT,False,15,15,16,16,1,Not Improved
+SYN00790,syn00790@synthetic.invalid,CBT,True,11,13,12,12,1,Not Improved
+SYN00791,syn00791@synthetic.invalid,CBT,True,12,12,14,14,2,Not Improved
+SYN00792,syn00792@synthetic.invalid,CBT,True,13,13,13,14,1,Not Improved
+SYN00793,syn00793@synthetic.invalid,CBT,True,12,13,12,12,0,Not Improved
+SYN00794,syn00794@synthetic.invalid,Mindfulness-Based,True,16,17,17,16,0,Not Improved
+SYN00795,syn00795@synthetic.invalid,DBT,True,14,14,12,12,-2,Not Improved
+SYN00796,syn00796@synthetic.invalid,ACT,True,12,12,13,13,1,Not Improved
+SYN00797,syn00797@synthetic.invalid,Mindfulness-Based,True,16,17,17,19,3,Not Improved
+SYN00798,syn00798@synthetic.invalid,CBT,False,10,10,12,12,2,Not Improved
+SYN00799,syn00799@synthetic.invalid,ACT,False,12,14,13,13,1,Not Improved
+SYN00800,syn00800@synthetic.invalid,ACT,True,13,13,13,13,0,Not Improved
+SYN00801,syn00801@synthetic.invalid,Mindfulness-Based,True,10,10,10,10,0,Not Improved
+SYN00802,syn00802@synthetic.invalid,Mindfulness-Based,False,14,14,17,17,3,Not Improved
+SYN00803,syn00803@synthetic.invalid,ACT,False,11,11,13,13,2,Not Improved
+SYN00804,syn00804@synthetic.invalid,Mindfulness-Based,True,11,11,11,11,0,Not Improved
+SYN00805,syn00805@synthetic.invalid,CBT,False,11,12,12,13,2,Not Improved
+SYN00806,syn00806@synthetic.invalid,Mindfulness-Based,False,14,15,17,17,3,Not Improved
+SYN00807,syn00807@synthetic.invalid,Mindfulness-Based,False,14,15,16,17,3,Not Improved
+SYN00808,syn00808@synthetic.invalid,CBT,False,14,15,15,17,3,Not Improved
+SYN00809,syn00809@synthetic.invalid,ACT,False,15,16,16,18,3,Not Improved
+SYN00810,syn00810@synthetic.invalid,Mindfulness-Based,False,15,15,16,16,1,Not Improved
+SYN00811,syn00811@synthetic.invalid,DBT,True,15,15,17,17,2,Not Improved
+SYN00812,syn00812@synthetic.invalid,ACT,False,14,15,15,17,3,Not Improved
+SYN00813,syn00813@synthetic.invalid,CBT,True,14,14,16,16,2,Not Improved
+SYN00814,syn00814@synthetic.invalid,DBT,True,14,14,15,16,2,Not Improved
+SYN00815,syn00815@synthetic.invalid,Mindfulness-Based,False,15,15,16,18,3,Not Improved
+SYN00816,syn00816@synthetic.invalid,Mindfulness-Based,True,11,13,13,13,2,Not Improved
+SYN00817,syn00817@synthetic.invalid,DBT,True,10,10,10,11,1,Not Improved
+SYN00818,syn00818@synthetic.invalid,CBT,True,9,9,9,10,1,Not Improved
+SYN00819,syn00819@synthetic.invalid,Mindfulness-Based,False,8,8,9,9,1,Not Improved
+SYN00820,syn00820@synthetic.invalid,Mindfulness-Based,False,15,16,17,17,2,Not Improved
+SYN00821,syn00821@synthetic.invalid,CBT,True,11,11,12,14,3,Not Improved
+SYN00822,syn00822@synthetic.invalid,CBT,True,12,13,13,14,2,Not Improved
+SYN00823,syn00823@synthetic.invalid,CBT,True,12,13,16,17,5,Not Improved
+SYN00824,syn00824@synthetic.invalid,DBT,False,14,14,15,15,1,Not Improved
+SYN00825,syn00825@synthetic.invalid,Mindfulness-Based,True,14,17,17,18,4,Not Improved
+SYN00826,syn00826@synthetic.invalid,CBT,True,16,18,19,20,4,Not Improved
+SYN00827,syn00827@synthetic.invalid,ACT,False,13,15,15,16,3,Not Improved
+SYN00828,syn00828@synthetic.invalid,Mindfulness-Based,True,8,9,9,10,2,Not Improved
+SYN00829,syn00829@synthetic.invalid,DBT,True,12,12,13,13,1,Not Improved
+SYN00830,syn00830@synthetic.invalid,ACT,False,10,12,13,13,3,Not Improved
+SYN00831,syn00831@synthetic.invalid,DBT,True,12,13,14,15,3,Not Improved
+SYN00832,syn00832@synthetic.invalid,Mindfulness-Based,False,13,15,17,18,5,Not Improved
+SYN00833,syn00833@synthetic.invalid,CBT,False,13,13,13,14,1,Not Improved
+SYN00834,syn00834@synthetic.invalid,DBT,True,15,15,15,15,0,Not Improved
+SYN00835,syn00835@synthetic.invalid,ACT,False,8,8,10,10,2,Not Improved
+SYN00836,syn00836@synthetic.invalid,DBT,True,15,16,16,16,1,Not Improved
+SYN00837,syn00837@synthetic.invalid,Mindfulness-Based,False,10,11,11,14,4,Not Improved
+SYN00838,syn00838@synthetic.invalid,ACT,False,11,11,11,11,0,Not Improved
+SYN00839,syn00839@synthetic.invalid,DBT,False,11,12,12,13,2,Not Improved
+SYN00840,syn00840@synthetic.invalid,DBT,False,12,13,14,16,4,Not Improved
+SYN00841,syn00841@synthetic.invalid,DBT,True,13,15,15,17,4,Not Improved
+SYN00842,syn00842@synthetic.invalid,Mindfulness-Based,True,8,8,9,9,1,Not Improved
+SYN00843,syn00843@synthetic.invalid,CBT,True,12,13,14,14,2,Not Improved
+SYN00844,syn00844@synthetic.invalid,DBT,False,9,9,11,13,4,Not Improved
+SYN00845,syn00845@synthetic.invalid,CBT,True,9,10,10,10,1,Not Improved
+SYN00846,syn00846@synthetic.invalid,DBT,True,17,19,19,21,4,Not Improved
+SYN00847,syn00847@synthetic.invalid,CBT,True,11,11,13,15,4,Not Improved
+SYN00848,syn00848@synthetic.invalid,Mindfulness-Based,False,15,16,16,16,1,Not Improved
+SYN00849,syn00849@synthetic.invalid,CBT,True,14,14,14,14,0,Not Improved
+SYN00850,syn00850@synthetic.invalid,CBT,False,15,14,14,15,0,Not Improved
+SYN00851,syn00851@synthetic.invalid,ACT,True,13,13,14,14,1,Not Improved
+SYN00852,syn00852@synthetic.invalid,ACT,True,14,14,14,14,0,Not Improved
+SYN00853,syn00853@synthetic.invalid,DBT,True,12,13,13,15,3,Not Improved
+SYN00854,syn00854@synthetic.invalid,CBT,True,10,10,10,10,0,Not Improved
+SYN00855,syn00855@synthetic.invalid,Mindfulness-Based,False,11,11,12,14,3,Not Improved
+SYN00856,syn00856@synthetic.invalid,ACT,False,16,16,17,17,1,Not Improved
+SYN00857,syn00857@synthetic.invalid,Mindfulness-Based,False,13,13,13,13,0,Not Improved
+SYN00858,syn00858@synthetic.invalid,CBT,False,11,11,11,12,1,Not Improved
+SYN00859,syn00859@synthetic.invalid,Mindfulness-Based,True,14,14,14,14,0,Not Improved
+SYN00860,syn00860@synthetic.invalid,CBT,True,13,15,15,15,2,Not Improved
+SYN00861,syn00861@synthetic.invalid,DBT,True,12,13,13,13,1,Not Improved
+SYN00862,syn00862@synthetic.invalid,CBT,False,13,13,13,14,1,Not Improved
+SYN00863,syn00863@synthetic.invalid,DBT,False,14,14,14,14,0,Not Improved
+SYN00864,syn00864@synthetic.invalid,Mindfulness-Based,False,8,8,8,8,0,Not Improved
+SYN00865,syn00865@synthetic.invalid,CBT,False,13,13,13,13,0,Not Improved
+SYN00866,syn00866@synthetic.invalid,CBT,False,11,11,11,11,0,Not Improved
+SYN00867,syn00867@synthetic.invalid,DBT,True,11,11,12,12,1,Not Improved
+SYN00868,syn00868@synthetic.invalid,CBT,False,13,13,14,17,4,Not Improved
+SYN00869,syn00869@synthetic.invalid,ACT,False,12,12,12,13,1,Not Improved
+SYN00870,syn00870@synthetic.invalid,CBT,False,17,17,18,18,1,Not Improved
+SYN00871,syn00871@synthetic.invalid,Mindfulness-Based,False,11,13,13,15,4,Not Improved
+SYN00872,syn00872@synthetic.invalid,DBT,False,13,15,16,18,5,Not Improved
+SYN00873,syn00873@synthetic.invalid,CBT,False,14,14,15,16,2,Not Improved
+SYN00874,syn00874@synthetic.invalid,CBT,True,13,13,13,13,0,Not Improved
+SYN00875,syn00875@synthetic.invalid,CBT,True,10,11,12,12,2,Not Improved
+SYN00876,syn00876@synthetic.invalid,ACT,False,17,17,18,18,1,Not Improved
+SYN00877,syn00877@synthetic.invalid,CBT,True,12,12,12,12,0,Not Improved
+SYN00878,syn00878@synthetic.invalid,Mindfulness-Based,False,16,17,17,18,2,Not Improved
+SYN00879,syn00879@synthetic.invalid,CBT,False,11,11,12,14,3,Not Improved
+SYN00880,syn00880@synthetic.invalid,DBT,True,18,18,18,18,0,Not Improved
+SYN00881,syn00881@synthetic.invalid,Mindfulness-Based,False,9,9,10,11,2,Not Improved
+SYN00882,syn00882@synthetic.invalid,CBT,True,8,10,10,10,2,Not Improved
+SYN00883,syn00883@synthetic.invalid,Mindfulness-Based,True,16,17,17,18,2,Not Improved
+SYN00884,syn00884@synthetic.invalid,DBT,False,14,16,16,16,2,Not Improved
+SYN00885,syn00885@synthetic.invalid,DBT,True,13,14,14,15,2,Not Improved
+SYN00886,syn00886@synthetic.invalid,CBT,True,14,14,15,14,0,Not Improved
+SYN00887,syn00887@synthetic.invalid,ACT,True,8,10,10,10,2,Not Improved
+SYN00888,syn00888@synthetic.invalid,ACT,True,9,10,10,10,1,Not Improved
+SYN00889,syn00889@synthetic.invalid,Mindfulness-Based,True,15,16,17,17,2,Not Improved
+SYN00890,syn00890@synthetic.invalid,DBT,True,13,13,14,16,3,Not Improved
+SYN00891,syn00891@synthetic.invalid,CBT,False,9,10,10,12,3,Not Improved
+SYN00892,syn00892@synthetic.invalid,Mindfulness-Based,False,12,13,13,14,2,Not Improved
+SYN00893,syn00893@synthetic.invalid,DBT,False,11,11,13,13,2,Not Improved
+SYN00894,syn00894@synthetic.invalid,ACT,True,12,12,13,13,1,Not Improved
+SYN00895,syn00895@synthetic.invalid,ACT,False,14,14,14,14,0,Not Improved
+SYN00896,syn00896@synthetic.invalid,Mindfulness-Based,False,10,13,14,15,5,Not Improved
+SYN00897,syn00897@synthetic.invalid,Mindfulness-Based,True,11,11,10,10,-1,Not Improved
+SYN00898,syn00898@synthetic.invalid,ACT,True,9,9,9,9,0,Not Improved
+SYN00899,syn00899@synthetic.invalid,CBT,True,11,11,12,12,1,Not Improved
+SYN00900,syn00900@synthetic.invalid,DBT,True,12,13,14,15,3,Not Improved
+SYN00901,syn00901@synthetic.invalid,DBT,False,14,16,16,17,3,Not Improved
+SYN00902,syn00902@synthetic.invalid,DBT,False,10,10,10,11,1,Not Improved
+SYN00903,syn00903@synthetic.invalid,Mindfulness-Based,False,12,13,13,14,2,Not Improved
+SYN00904,syn00904@synthetic.invalid,Mindfulness-Based,False,14,15,16,17,3,Not Improved
+SYN00905,syn00905@synthetic.invalid,CBT,False,13,14,17,17,4,Not Improved
+SYN00906,syn00906@synthetic.invalid,DBT,False,17,18,19,20,3,Not Improved
+SYN00907,syn00907@synthetic.invalid,DBT,True,11,10,11,11,0,Not Improved
+SYN00908,syn00908@synthetic.invalid,DBT,True,17,20,21,21,4,Not Improved
+SYN00909,syn00909@synthetic.invalid,CBT,False,10,12,13,15,5,Not Improved
+SYN00910,syn00910@synthetic.invalid,ACT,False,11,12,13,15,4,Not Improved
+SYN00911,syn00911@synthetic.invalid,ACT,False,12,13,13,13,1,Not Improved
+SYN00912,syn00912@synthetic.invalid,CBT,False,17,18,19,19,2,Not Improved
+SYN00913,syn00913@synthetic.invalid,DBT,False,15,16,18,18,3,Not Improved
+SYN00914,syn00914@synthetic.invalid,DBT,False,9,9,9,11,2,Not Improved
+SYN00915,syn00915@synthetic.invalid,DBT,True,12,12,12,14,2,Not Improved
+SYN00916,syn00916@synthetic.invalid,ACT,True,15,16,16,16,1,Not Improved
+SYN00917,syn00917@synthetic.invalid,DBT,False,13,14,14,15,2,Not Improved
+SYN00918,syn00918@synthetic.invalid,CBT,True,12,13,14,17,5,Not Improved
+SYN00919,syn00919@synthetic.invalid,Mindfulness-Based,True,18,18,20,21,3,Not Improved
+SYN00920,syn00920@synthetic.invalid,DBT,True,14,14,15,17,3,Not Improved
+SYN00921,syn00921@synthetic.invalid,Mindfulness-Based,False,10,10,11,11,1,Not Improved
+SYN00922,syn00922@synthetic.invalid,CBT,True,10,11,12,13,3,Not Improved
+SYN00923,syn00923@synthetic.invalid,Mindfulness-Based,True,14,14,14,15,1,Not Improved
+SYN00924,syn00924@synthetic.invalid,Mindfulness-Based,True,16,18,18,19,3,Not Improved
+SYN00925,syn00925@synthetic.invalid,Mindfulness-Based,True,14,15,17,17,3,Not Improved
+SYN00926,syn00926@synthetic.invalid,Mindfulness-Based,True,11,11,11,11,0,Not Improved
+SYN00927,syn00927@synthetic.invalid,Mindfulness-Based,True,10,13,13,13,3,Not Improved
+SYN00928,syn00928@synthetic.invalid,DBT,False,13,13,13,13,0,Not Improved
+SYN00929,syn00929@synthetic.invalid,CBT,False,14,16,19,19,5,Not Improved
+SYN00930,syn00930@synthetic.invalid,CBT,True,13,14,15,15,2,Not Improved
+SYN00931,syn00931@synthetic.invalid,ACT,False,15,14,14,16,1,Not Improved
+SYN00932,syn00932@synthetic.invalid,ACT,False,10,10,10,10,0,Not Improved
+SYN00933,syn00933@synthetic.invalid,ACT,True,10,11,12,12,2,Not Improved
+SYN00934,syn00934@synthetic.invalid,Mindfulness-Based,False,11,12,15,17,6,Not Improved
+SYN00935,syn00935@synthetic.invalid,DBT,False,14,14,14,15,1,Not Improved
+SYN00936,syn00936@synthetic.invalid,DBT,True,12,11,11,14,2,Not Improved
+SYN00937,syn00937@synthetic.invalid,DBT,False,10,10,10,10,0,Not Improved
+SYN00938,syn00938@synthetic.invalid,ACT,True,13,14,16,17,4,Not Improved
+SYN00939,syn00939@synthetic.invalid,Mindfulness-Based,False,15,15,17,18,3,Not Improved
+SYN00940,syn00940@synthetic.invalid,CBT,True,15,15,16,15,0,Not Improved
+SYN00941,syn00941@synthetic.invalid,CBT,False,12,13,14,15,3,Not Improved
+SYN00942,syn00942@synthetic.invalid,ACT,True,10,10,10,11,1,Not Improved
+SYN00943,syn00943@synthetic.invalid,Mindfulness-Based,True,9,10,11,11,2,Not Improved
+SYN00944,syn00944@synthetic.invalid,CBT,False,15,16,16,16,1,Not Improved
+SYN00945,syn00945@synthetic.invalid,DBT,False,16,17,19,19,3,Not Improved
+SYN00946,syn00946@synthetic.invalid,ACT,False,11,11,11,12,1,Not Improved
+SYN00947,syn00947@synthetic.invalid,ACT,False,11,11,13,13,2,Not Improved
+SYN00948,syn00948@synthetic.invalid,ACT,True,14,15,15,16,2,Not Improved
+SYN00949,syn00949@synthetic.invalid,DBT,True,15,16,17,17,2,Not Improved
+SYN00950,syn00950@synthetic.invalid,DBT,False,17,17,17,17,0,Not Improved
+SYN00951,syn00951@synthetic.invalid,CBT,True,12,13,13,13,1,Not Improved
+SYN00952,syn00952@synthetic.invalid,DBT,False,11,12,12,10,-1,Not Improved
+SYN00953,syn00953@synthetic.invalid,DBT,True,15,16,18,20,5,Not Improved
+SYN00954,syn00954@synthetic.invalid,DBT,True,10,12,13,13,3,Not Improved
+SYN00955,syn00955@synthetic.invalid,DBT,True,12,14,14,14,2,Not Improved
+SYN00956,syn00956@synthetic.invalid,ACT,True,13,14,15,15,2,Not Improved
+SYN00957,syn00957@synthetic.invalid,DBT,True,16,18,18,18,2,Not Improved
+SYN00958,syn00958@synthetic.invalid,DBT,True,12,13,14,15,3,Not Improved
+SYN00959,syn00959@synthetic.invalid,DBT,True,12,11,11,12,0,Not Improved
+SYN00960,syn00960@synthetic.invalid,ACT,False,8,9,8,9,1,Not Improved
+SYN00961,syn00961@synthetic.invalid,Mindfulness-Based,False,10,10,10,11,1,Not Improved
+SYN00962,syn00962@synthetic.invalid,Mindfulness-Based,False,8,9,10,11,3,Not Improved
+SYN00963,syn00963@synthetic.invalid,Mindfulness-Based,True,11,11,12,12,1,Not Improved
+SYN00964,syn00964@synthetic.invalid,DBT,False,13,14,13,14,1,Not Improved
+SYN00965,syn00965@synthetic.invalid,Mindfulness-Based,True,10,9,10,10,0,Not Improved
+SYN00966,syn00966@synthetic.invalid,DBT,False,11,11,10,12,1,Not Improved
+SYN00967,syn00967@synthetic.invalid,ACT,True,15,15,15,17,2,Not Improved
+SYN00968,syn00968@synthetic.invalid,DBT,False,9,9,11,12,3,Not Improved
+SYN00969,syn00969@synthetic.invalid,CBT,False,13,13,14,15,2,Not Improved
+SYN00970,syn00970@synthetic.invalid,DBT,False,17,18,20,20,3,Not Improved
+SYN00971,syn00971@synthetic.invalid,ACT,True,16,18,18,19,3,Not Improved
+SYN00972,syn00972@synthetic.invalid,ACT,True,12,15,17,20,8,Not Improved
+SYN00973,syn00973@synthetic.invalid,DBT,True,13,13,15,17,4,Not Improved
+SYN00974,syn00974@synthetic.invalid,DBT,True,9,10,10,11,2,Not Improved
+SYN00975,syn00975@synthetic.invalid,CBT,False,11,12,13,14,3,Not Improved
+SYN00976,syn00976@synthetic.invalid,CBT,False,18,19,21,21,3,Not Improved
+SYN00977,syn00977@synthetic.invalid,DBT,False,12,13,14,15,3,Not Improved
+SYN00978,syn00978@synthetic.invalid,Mindfulness-Based,True,14,15,15,15,1,Not Improved
+SYN00979,syn00979@synthetic.invalid,CBT,True,9,9,11,11,2,Not Improved
+SYN00980,syn00980@synthetic.invalid,ACT,False,11,12,14,14,3,Not Improved
+SYN00981,syn00981@synthetic.invalid,ACT,True,15,15,16,16,1,Not Improved
+SYN00982,syn00982@synthetic.invalid,DBT,True,14,14,16,16,2,Not Improved
+SYN00983,syn00983@synthetic.invalid,CBT,False,14,14,17,17,3,Not Improved
+SYN00984,syn00984@synthetic.invalid,DBT,False,18,18,18,18,0,Not Improved
+SYN00985,syn00985@synthetic.invalid,Mindfulness-Based,False,9,10,11,11,2,Not Improved
+SYN00986,syn00986@synthetic.invalid,DBT,True,15,15,15,15,0,Not Improved
+SYN00987,syn00987@synthetic.invalid,Mindfulness-Based,False,14,14,15,16,2,Not Improved
+SYN00988,syn00988@synthetic.invalid,Mindfulness-Based,False,12,12,14,14,2,Not Improved
+SYN00989,syn00989@synthetic.invalid,DBT,True,11,11,11,12,1,Not Improved
+SYN00990,syn00990@synthetic.invalid,CBT,True,10,11,11,12,2,Not Improved
+SYN00991,syn00991@synthetic.invalid,CBT,True,12,15,16,17,5,Not Improved
+SYN00992,syn00992@synthetic.invalid,CBT,False,14,14,14,14,0,Not Improved
+SYN00993,syn00993@synthetic.invalid,ACT,False,17,17,18,19,2,Not Improved
+SYN00994,syn00994@synthetic.invalid,Mindfulness-Based,True,15,15,15,16,1,Not Improved
+SYN00995,syn00995@synthetic.invalid,DBT,False,15,16,18,18,3,Not Improved
+SYN00996,syn00996@synthetic.invalid,CBT,False,15,15,15,17,2,Not Improved
+SYN00997,syn00997@synthetic.invalid,DBT,False,10,12,12,13,3,Not Improved
+SYN00998,syn00998@synthetic.invalid,CBT,False,14,14,17,17,3,Not Improved
+SYN00999,syn00999@synthetic.invalid,ACT,True,11,11,11,12,1,Not Improved
+SYN01000,syn01000@synthetic.invalid,CBT,False,13,13,13,13,0,Not Improved

@@ -1,0 +1,1001 @@
+member_id,email,first_name,last_name,therapy_type,on_medication,gad7_day0,gad7_day30,gad7_day60,gad7_day90,score_change_90d,outcome_label
+MBR200000,margaret.gonzalez26@icloud.com,Margaret,Gonzalez,DBT,True,11,10,9,6,-5,Improved
+MBR200001,matthew.taylor88@icloud.com,Matthew,Taylor,CBT,False,11,9,6,2,-9,Improved
+MBR200002,jessica.lopez50@yahoo.com,Jessica,Lopez,DBT,False,18,17,14,11,-7,Improved
+MBR200003,jennifer.thompson68@gmail.com,Jennifer,Thompson,Mindfulness-Based,False,14,13,11,7,-7,Improved
+MBR200004,james.wilson27@outlook.com,James,Wilson,CBT,False,16,15,12,9,-7,Improved
+MBR200005,patricia.lopez17@yahoo.com,Patricia,Lopez,DBT,False,17,16,13,9,-8,Improved
+MBR200006,susan.johnson15@gmail.com,Susan,Johnson,DBT,False,18,16,15,12,-6,Improved
+MBR200007,jennifer.jones40@icloud.com,Jennifer,Jones,CBT,False,13,12,9,6,-7,Improved
+MBR200008,richard.johnson82@yahoo.com,Richard,Johnson,Mindfulness-Based,False,16,14,13,10,-6,Improved
+MBR200009,donald.johnson17@icloud.com,Donald,Johnson,DBT,False,9,8,7,5,-4,Improved
+MBR200010,charles.garcia23@hotmail.com,Charles,Garcia,DBT,True,16,14,12,10,-6,Improved
+MBR200011,thomas.brown47@yahoo.com,Thomas,Brown,CBT,False,8,5,4,1,-7,Improved
+MBR200012,jessica.gonzalez52@outlook.com,Jessica,Gonzalez,Mindfulness-Based,False,14,12,9,7,-7,Improved
+MBR200013,susan.johnson48@hotmail.com,Susan,Johnson,Mindfulness-Based,True,12,9,8,4,-8,Improved
+MBR200014,lisa.brown89@outlook.com,Lisa,Brown,DBT,True,14,12,10,8,-6,Improved
+MBR200015,mark.wilson33@gmail.com,Mark,Wilson,ACT,False,15,12,11,8,-7,Improved
+MBR200016,sandra.martinez53@icloud.com,Sandra,Martinez,DBT,False,14,11,8,4,-10,Improved
+MBR200017,mark.miller49@outlook.com,Mark,Miller,DBT,False,8,5,3,0,-8,Improved
+MBR200018,charles.miller86@yahoo.com,Charles,Miller,ACT,False,11,9,7,3,-8,Improved
+MBR200019,margaret.smith15@icloud.com,Margaret,Smith,DBT,True,16,14,11,7,-9,Improved
+MBR200020,david.taylor57@yahoo.com,David,Taylor,ACT,False,15,12,9,5,-10,Improved
+MBR200021,charles.miller95@gmail.com,Charles,Miller,CBT,False,9,6,5,3,-6,Improved
+MBR200022,anthony.martinez48@icloud.com,Anthony,Martinez,ACT,True,9,7,5,3,-6,Improved
+MBR200023,thomas.anderson43@yahoo.com,Thomas,Anderson,DBT,False,14,12,9,5,-9,Improved
+MBR200024,susan.lopez33@yahoo.com,Susan,Lopez,ACT,False,17,14,12,10,-7,Improved
+MBR200025,donald.jackson81@hotmail.com,Donald,Jackson,DBT,True,16,15,13,9,-7,Improved
+MBR200026,james.brown43@hotmail.com,James,Brown,CBT,False,18,15,14,10,-8,Improved
+MBR200027,karen.lee2@icloud.com,Karen,Lee,ACT,False,12,11,10,6,-6,Improved
+MBR200028,patricia.gonzalez5@gmail.com,Patricia,Gonzalez,ACT,True,16,14,13,10,-6,Improved
+MBR200029,patricia.thompson54@yahoo.com,Patricia,Thompson,DBT,True,15,14,12,9,-6,Improved
+MBR200030,betty.williams72@yahoo.com,Betty,Williams,DBT,False,18,15,14,10,-8,Improved
+MBR200031,linda.jones18@yahoo.com,Linda,Jones,CBT,True,16,13,11,9,-7,Improved
+MBR200032,daniel.thompson30@icloud.com,Daniel,Thompson,DBT,False,8,6,3,0,-8,Improved
+MBR200033,richard.martinez23@gmail.com,Richard,Martinez,DBT,False,18,15,12,10,-8,Improved
+MBR200034,joseph.gonzalez88@gmail.com,Joseph,Gonzalez,DBT,False,17,16,15,13,-4,Improved
+MBR200035,mark.lopez33@outlook.com,Mark,Lopez,CBT,False,8,6,5,3,-5,Improved
+MBR200036,james.martinez72@outlook.com,James,Martinez,ACT,True,15,13,12,10,-5,Improved
+MBR200037,daniel.garcia78@outlook.com,Daniel,Garcia,ACT,False,8,6,4,0,-8,Improved
+MBR200038,joseph.moore20@gmail.com,Joseph,Moore,ACT,False,14,11,8,6,-8,Improved
+MBR200039,susan.taylor53@gmail.com,Susan,Taylor,DBT,True,18,16,15,11,-7,Improved
+MBR200040,michael.wilson1@icloud.com,Michael,Wilson,CBT,True,10,9,6,3,-7,Improved
+MBR200041,patricia.rodriguez24@icloud.com,Patricia,Rodriguez,Mindfulness-Based,True,8,5,4,0,-8,Improved
+MBR200042,margaret.anderson10@yahoo.com,Margaret,Anderson,DBT,False,14,13,11,7,-7,Improved
+MBR200043,jennifer.lopez65@yahoo.com,Jennifer,Lopez,DBT,False,11,8,7,4,-7,Improved
+MBR200044,richard.garcia18@hotmail.com,Richard,Garcia,DBT,True,18,16,15,11,-7,Improved
+MBR200045,robert.davis31@icloud.com,Robert,Davis,DBT,False,14,11,8,6,-8,Improved
+MBR200046,sarah.rodriguez42@icloud.com,Sarah,Rodriguez,ACT,False,11,10,7,5,-6,Improved
+MBR200047,john.wilson8@outlook.com,John,Wilson,DBT,True,18,16,15,12,-6,Improved
+MBR200048,thomas.smith74@icloud.com,Thomas,Smith,ACT,True,13,12,11,8,-5,Improved
+MBR200049,matthew.jones90@outlook.com,Matthew,Jones,ACT,True,15,14,13,10,-5,Improved
+MBR200050,joseph.jones78@gmail.com,Joseph,Jones,Mindfulness-Based,True,13,11,9,7,-6,Improved
+MBR200051,barbara.williams3@gmail.com,Barbara,Williams,DBT,True,11,9,6,3,-8,Improved
+MBR200052,robert.lee1@hotmail.com,Robert,Lee,CBT,False,9,6,3,0,-9,Improved
+MBR200053,dorothy.wilson72@hotmail.com,Dorothy,Wilson,ACT,False,13,12,10,6,-7,Improved
+MBR200054,sarah.williams5@yahoo.com,Sarah,Williams,ACT,False,17,16,14,11,-6,Improved
+MBR200055,sarah.miller57@hotmail.com,Sarah,Miller,CBT,False,9,7,6,2,-7,Improved
+MBR200056,mary.martinez64@hotmail.com,Mary,Martinez,Mindfulness-Based,False,16,15,12,8,-8,Improved
+MBR200057,michael.martinez51@yahoo.com,Michael,Martinez,CBT,False,15,12,10,7,-8,Improved
+MBR200058,jennifer.thompson3@gmail.com,Jennifer,Thompson,CBT,True,14,13,11,7,-7,Improved
+MBR200059,mary.smith16@outlook.com,Mary,Smith,DBT,True,18,15,14,12,-6,Improved
+MBR200060,sandra.martinez24@yahoo.com,Sandra,Martinez,ACT,True,14,13,11,9,-5,Improved
+MBR200061,anthony.gonzalez81@gmail.com,Anthony,Gonzalez,CBT,False,16,14,12,8,-8,Improved
+MBR200062,david.rodriguez94@gmail.com,David,Rodriguez,CBT,True,12,10,8,6,-6,Improved
+MBR200063,charles.martin62@yahoo.com,Charles,Martin,ACT,False,12,9,7,3,-9,Improved
+MBR200064,susan.anderson37@yahoo.com,Susan,Anderson,DBT,False,16,15,12,10,-6,Improved
+MBR200065,daniel.martin67@gmail.com,Daniel,Martin,DBT,False,10,7,6,3,-7,Improved
+MBR200066,margaret.jackson11@gmail.com,Margaret,Jackson,Mindfulness-Based,True,14,12,11,9,-5,Improved
+MBR200067,james.miller12@yahoo.com,James,Miller,ACT,True,9,8,5,2,-7,Improved
+MBR200068,lisa.garcia72@yahoo.com,Lisa,Garcia,CBT,True,13,12,11,8,-5,Improved
+MBR200069,margaret.hernandez65@gmail.com,Margaret,Hernandez,Mindfulness-Based,False,15,12,9,6,-9,Improved
+MBR200070,jessica.lopez17@gmail.com,Jessica,Lopez,ACT,True,11,8,5,1,-10,Improved
+MBR200071,sandra.thompson61@yahoo.com,Sandra,Thompson,ACT,True,16,13,11,9,-7,Improved
+MBR200072,mary.martin76@outlook.com,Mary,Martin,DBT,True,14,13,12,8,-6,Improved
+MBR200073,christopher.perez72@outlook.com,Christopher,Perez,ACT,True,16,14,11,7,-9,Improved
+MBR200074,michael.moore38@gmail.com,Michael,Moore,ACT,False,11,8,7,5,-6,Improved
+MBR200075,susan.lee12@hotmail.com,Susan,Lee,Mindfulness-Based,False,16,13,11,8,-8,Improved
+MBR200076,matthew.rodriguez14@yahoo.com,Matthew,Rodriguez,ACT,True,9,7,4,2,-7,Improved
+MBR200077,james.lopez50@outlook.com,James,Lopez,DBT,True,17,14,12,9,-8,Improved
+MBR200078,anthony.jones18@yahoo.com,Anthony,Jones,ACT,True,16,13,10,7,-9,Improved
+MBR200079,barbara.davis53@icloud.com,Barbara,Davis,DBT,False,12,10,7,4,-8,Improved
+MBR200080,jennifer.lopez4@hotmail.com,Jennifer,Lopez,DBT,False,18,17,15,12,-6,Improved
+MBR200081,sarah.taylor5@yahoo.com,Sarah,Taylor,Mindfulness-Based,True,13,10,9,5,-8,Improved
+MBR200082,daniel.moore6@gmail.com,Daniel,Moore,CBT,True,8,6,5,1,-7,Improved
+MBR200083,ashley.thomas82@gmail.com,Ashley,Thomas,DBT,True,17,16,15,11,-6,Improved
+MBR200084,sandra.garcia17@icloud.com,Sandra,Garcia,Mindfulness-Based,False,17,16,13,11,-6,Improved
+MBR200085,lisa.johnson81@gmail.com,Lisa,Johnson,DBT,False,13,11,10,7,-6,Improved
+MBR200086,daniel.thompson20@gmail.com,Daniel,Thompson,ACT,False,16,15,12,9,-7,Improved
+MBR200087,thomas.garcia66@outlook.com,Thomas,Garcia,Mindfulness-Based,True,14,11,9,5,-9,Improved
+MBR200088,thomas.martin39@hotmail.com,Thomas,Martin,CBT,True,8,5,3,1,-7,Improved
+MBR200089,susan.perez92@gmail.com,Susan,Perez,DBT,True,12,10,8,5,-7,Improved
+MBR200090,daniel.gonzalez21@outlook.com,Daniel,Gonzalez,ACT,True,8,7,4,1,-7,Improved
+MBR200091,ashley.rodriguez95@hotmail.com,Ashley,Rodriguez,ACT,True,13,10,9,5,-8,Improved
+MBR200092,patricia.taylor52@icloud.com,Patricia,Taylor,DBT,False,11,8,7,3,-8,Improved
+MBR200093,margaret.hernandez99@hotmail.com,Margaret,Hernandez,ACT,False,11,8,7,5,-6,Improved
+MBR200094,joseph.lee98@yahoo.com,Joseph,Lee,Mindfulness-Based,True,11,8,6,4,-7,Improved
+MBR200095,nancy.williams24@gmail.com,Nancy,Williams,CBT,True,18,16,14,12,-6,Improved
+MBR200096,thomas.anderson44@icloud.com,Thomas,Anderson,CBT,True,18,15,12,9,-9,Improved
+MBR200097,sandra.hernandez36@yahoo.com,Sandra,Hernandez,DBT,False,17,15,12,10,-7,Improved
+MBR200098,donald.anderson60@yahoo.com,Donald,Anderson,Mindfulness-Based,False,17,14,12,8,-9,Improved
+MBR200099,mark.martin60@gmail.com,Mark,Martin,Mindfulness-Based,True,18,16,15,13,-5,Improved
+MBR200100,daniel.thomas2@hotmail.com,Daniel,Thomas,Mindfulness-Based,False,8,5,4,2,-6,Improved
+MBR200101,linda.moore55@icloud.com,Linda,Moore,CBT,True,10,7,4,2,-8,Improved
+MBR200102,william.davis99@outlook.com,William,Davis,CBT,False,8,7,6,4,-4,Improved
+MBR200103,richard.davis78@yahoo.com,Richard,Davis,DBT,True,10,8,6,3,-7,Improved
+MBR200104,daniel.lopez45@outlook.com,Daniel,Lopez,DBT,False,8,5,3,1,-7,Improved
+MBR200105,david.jackson6@yahoo.com,David,Jackson,Mindfulness-Based,False,13,11,10,6,-7,Improved
+MBR200106,donald.hernandez84@outlook.com,Donald,Hernandez,Mindfulness-Based,False,8,6,5,2,-6,Improved
+MBR200107,jennifer.hernandez14@gmail.com,Jennifer,Hernandez,Mindfulness-Based,False,8,7,5,2,-6,Improved
+MBR200108,betty.jackson44@outlook.com,Betty,Jackson,ACT,False,14,13,10,8,-6,Improved
+MBR200109,lisa.moore11@gmail.com,Lisa,Moore,Mindfulness-Based,True,9,6,5,3,-6,Improved
+MBR200110,daniel.gonzalez42@yahoo.com,Daniel,Gonzalez,DBT,True,10,7,5,1,-9,Improved
+MBR200111,margaret.garcia84@gmail.com,Margaret,Garcia,ACT,False,11,9,7,4,-7,Improved
+MBR200112,susan.garcia91@icloud.com,Susan,Garcia,CBT,True,10,9,7,4,-6,Improved
+MBR200113,donald.jones8@yahoo.com,Donald,Jones,ACT,False,17,15,14,11,-6,Improved
+MBR200114,sarah.johnson32@outlook.com,Sarah,Johnson,Mindfulness-Based,True,17,16,13,11,-6,Improved
+MBR200115,james.lee76@yahoo.com,James,Lee,ACT,False,14,12,11,7,-7,Improved
+MBR200116,joseph.miller55@icloud.com,Joseph,Miller,Mindfulness-Based,False,14,13,11,9,-5,Improved
+MBR200117,charles.taylor5@yahoo.com,Charles,Taylor,ACT,False,11,10,7,3,-8,Improved
+MBR200118,john.garcia5@yahoo.com,John,Garcia,ACT,False,8,7,6,4,-4,Improved
+MBR200119,mary.davis12@gmail.com,Mary,Davis,CBT,True,9,8,5,2,-7,Improved
+MBR200120,betty.lopez23@hotmail.com,Betty,Lopez,Mindfulness-Based,True,14,13,11,9,-5,Improved
+MBR200121,ashley.hernandez10@outlook.com,Ashley,Hernandez,DBT,False,18,16,13,11,-7,Improved
+MBR200122,jessica.perez26@gmail.com,Jessica,Perez,ACT,True,17,15,14,11,-6,Improved
+MBR200123,anthony.miller16@gmail.com,Anthony,Miller,DBT,False,9,8,7,5,-4,Improved
+MBR200124,david.lee55@gmail.com,David,Lee,ACT,True,11,10,7,3,-8,Improved
+MBR200125,mary.perez79@hotmail.com,Mary,Perez,Mindfulness-Based,False,17,15,12,9,-8,Improved
+MBR200126,william.moore99@hotmail.com,William,Moore,ACT,False,11,8,5,3,-8,Improved
+MBR200127,william.williams83@gmail.com,William,Williams,DBT,True,16,15,12,8,-8,Improved
+MBR200128,anthony.perez38@gmail.com,Anthony,Perez,ACT,False,10,7,5,1,-9,Improved
+MBR200129,patricia.williams77@yahoo.com,Patricia,Williams,ACT,False,10,9,6,3,-7,Improved
+MBR200130,daniel.jackson60@yahoo.com,Daniel,Jackson,ACT,False,18,17,16,12,-6,Improved
+MBR200131,karen.rodriguez29@icloud.com,Karen,Rodriguez,CBT,False,17,16,14,11,-6,Improved
+MBR200132,thomas.anderson23@yahoo.com,Thomas,Anderson,ACT,True,16,14,12,10,-6,Improved
+MBR200133,betty.smith99@hotmail.com,Betty,Smith,DBT,False,16,15,14,11,-5,Improved
+MBR200134,susan.moore48@yahoo.com,Susan,Moore,DBT,True,16,15,13,11,-5,Improved
+MBR200135,sandra.martinez86@icloud.com,Sandra,Martinez,Mindfulness-Based,False,8,5,4,1,-7,Improved
+MBR200136,betty.davis45@outlook.com,Betty,Davis,CBT,True,18,17,16,12,-6,Improved
+MBR200137,sarah.thompson37@icloud.com,Sarah,Thompson,DBT,True,17,15,14,11,-6,Improved
+MBR200138,jessica.gonzalez86@hotmail.com,Jessica,Gonzalez,ACT,True,10,9,6,4,-6,Improved
+MBR200139,jennifer.gonzalez24@icloud.com,Jennifer,Gonzalez,Mindfulness-Based,True,11,8,6,3,-8,Improved
+MBR200140,michael.williams9@outlook.com,Michael,Williams,Mindfulness-Based,True,11,8,7,5,-6,Improved
+MBR200141,margaret.davis66@outlook.com,Margaret,Davis,Mindfulness-Based,True,16,13,11,7,-9,Improved
+MBR200142,sandra.jackson78@outlook.com,Sandra,Jackson,DBT,False,10,7,6,4,-6,Improved
+MBR200143,anthony.anderson62@outlook.com,Anthony,Anderson,ACT,False,13,12,9,5,-8,Improved
+MBR200144,john.miller63@icloud.com,John,Miller,CBT,False,18,16,13,11,-7,Improved
+MBR200145,jessica.williams57@icloud.com,Jessica,Williams,Mindfulness-Based,False,8,7,6,4,-4,Improved
+MBR200146,sarah.moore83@hotmail.com,Sarah,Moore,DBT,True,18,17,15,12,-6,Improved
+MBR200147,daniel.thompson9@icloud.com,Daniel,Thompson,Mindfulness-Based,True,11,9,6,3,-8,Improved
+MBR200148,william.smith41@icloud.com,William,Smith,ACT,True,12,10,9,7,-5,Improved
+MBR200149,donald.martinez59@outlook.com,Donald,Martinez,Mindfulness-Based,True,8,7,4,0,-8,Improved
+MBR200150,john.taylor96@outlook.com,John,Taylor,ACT,False,8,5,4,1,-7,Improved
+MBR200151,susan.garcia37@hotmail.com,Susan,Garcia,ACT,True,11,8,6,2,-9,Improved
+MBR200152,donald.jackson75@icloud.com,Donald,Jackson,Mindfulness-Based,True,11,8,7,4,-7,Improved
+MBR200153,barbara.miller21@hotmail.com,Barbara,Miller,ACT,True,15,12,11,8,-7,Improved
+MBR200154,barbara.johnson97@icloud.com,Barbara,Johnson,DBT,False,11,10,8,4,-7,Improved
+MBR200155,william.lee19@gmail.com,William,Lee,ACT,False,13,11,10,7,-6,Improved
+MBR200156,mark.jackson40@gmail.com,Mark,Jackson,Mindfulness-Based,True,18,16,15,11,-7,Improved
+MBR200157,william.hernandez2@gmail.com,William,Hernandez,DBT,False,16,15,13,9,-7,Improved
+MBR200158,sandra.gonzalez93@outlook.com,Sandra,Gonzalez,DBT,True,13,10,7,5,-8,Improved
+MBR200159,barbara.brown5@icloud.com,Barbara,Brown,ACT,False,8,6,3,0,-8,Improved
+MBR200160,thomas.jones93@gmail.com,Thomas,Jones,DBT,True,12,11,8,6,-6,Improved
+MBR200161,sandra.taylor14@outlook.com,Sandra,Taylor,CBT,False,11,10,7,5,-6,Improved
+MBR200162,betty.perez14@outlook.com,Betty,Perez,ACT,False,9,8,5,2,-7,Improved
+MBR200163,susan.lopez83@icloud.com,Susan,Lopez,ACT,False,18,17,14,12,-6,Improved
+MBR200164,david.martin6@gmail.com,David,Martin,DBT,False,16,14,11,9,-7,Improved
+MBR200165,matthew.thompson58@yahoo.com,Matthew,Thompson,DBT,False,17,15,13,10,-7,Improved
+MBR200166,linda.smith76@gmail.com,Linda,Smith,ACT,False,12,11,9,6,-6,Improved
+MBR200167,jennifer.jones75@gmail.com,Jennifer,Jones,CBT,False,17,15,12,10,-7,Improved
+MBR200168,susan.davis92@hotmail.com,Susan,Davis,DBT,True,8,5,4,0,-8,Improved
+MBR200169,james.hernandez4@hotmail.com,James,Hernandez,Mindfulness-Based,False,13,12,9,7,-6,Improved
+MBR200170,anthony.davis95@icloud.com,Anthony,Davis,ACT,True,9,7,6,4,-5,Improved
+MBR200171,jennifer.williams78@icloud.com,Jennifer,Williams,CBT,False,10,9,6,2,-8,Improved
+MBR200172,jennifer.martin92@yahoo.com,Jennifer,Martin,ACT,False,17,15,14,11,-6,Improved
+MBR200173,margaret.miller58@outlook.com,Margaret,Miller,Mindfulness-Based,False,12,10,8,4,-8,Improved
+MBR200174,joseph.thomas90@icloud.com,Joseph,Thomas,DBT,False,11,8,5,1,-10,Improved
+MBR200175,anthony.perez34@hotmail.com,Anthony,Perez,ACT,False,12,10,9,6,-6,Improved
+MBR200176,susan.martinez13@outlook.com,Susan,Martinez,CBT,False,14,11,8,6,-8,Improved
+MBR200177,mark.brown52@yahoo.com,Mark,Brown,Mindfulness-Based,True,15,12,10,8,-7,Improved
+MBR200178,patricia.smith72@hotmail.com,Patricia,Smith,DBT,True,9,8,6,3,-6,Improved
+MBR200179,joseph.jackson40@yahoo.com,Joseph,Jackson,ACT,False,17,15,14,12,-5,Improved
+MBR200180,linda.anderson23@yahoo.com,Linda,Anderson,DBT,True,10,7,4,0,-10,Improved
+MBR200181,jessica.thompson45@yahoo.com,Jessica,Thompson,ACT,True,8,6,4,1,-7,Improved
+MBR200182,linda.williams25@icloud.com,Linda,Williams,ACT,False,14,11,10,7,-7,Improved
+MBR200183,charles.gonzalez35@icloud.com,Charles,Gonzalez,CBT,False,18,17,15,11,-7,Improved
+MBR200184,james.thomas72@gmail.com,James,Thomas,ACT,True,10,8,6,3,-7,Improved
+MBR200185,robert.gonzalez24@hotmail.com,Robert,Gonzalez,Mindfulness-Based,False,13,11,8,5,-8,Improved
+MBR200186,richard.jackson62@outlook.com,Richard,Jackson,CBT,True,17,14,13,10,-7,Improved
+MBR200187,charles.garcia57@icloud.com,Charles,Garcia,Mindfulness-Based,True,8,5,3,1,-7,Improved
+MBR200188,james.williams75@gmail.com,James,Williams,CBT,False,14,12,9,6,-8,Improved
+MBR200189,matthew.brown69@yahoo.com,Matthew,Brown,Mindfulness-Based,True,14,12,11,9,-5,Improved
+MBR200190,patricia.thomas1@outlook.com,Patricia,Thomas,CBT,True,8,6,5,3,-5,Improved
+MBR200191,margaret.jackson9@outlook.com,Margaret,Jackson,DBT,True,18,16,13,9,-9,Improved
+MBR200192,karen.jackson16@icloud.com,Karen,Jackson,ACT,True,8,6,3,1,-7,Improved
+MBR200193,daniel.lee78@gmail.com,Daniel,Lee,Mindfulness-Based,False,17,14,11,9,-8,Improved
+MBR200194,ashley.brown15@gmail.com,Ashley,Brown,Mindfulness-Based,False,10,7,6,3,-7,Improved
+MBR200195,margaret.miller96@outlook.com,Margaret,Miller,ACT,True,10,8,7,3,-7,Improved
+MBR200196,matthew.johnson8@icloud.com,Matthew,Johnson,CBT,False,18,15,12,10,-8,Improved
+MBR200197,john.jones48@outlook.com,John,Jones,ACT,True,13,12,11,9,-4,Improved
+MBR200198,matthew.thompson36@yahoo.com,Matthew,Thompson,DBT,False,15,12,9,5,-10,Improved
+MBR200199,james.jones72@yahoo.com,James,Jones,Mindfulness-Based,False,13,12,10,6,-7,Improved
+MBR200200,susan.moore49@hotmail.com,Susan,Moore,Mindfulness-Based,True,9,8,6,3,-6,Improved
+MBR200201,anthony.taylor74@gmail.com,Anthony,Taylor,DBT,False,14,13,12,9,-5,Improved
+MBR200202,joseph.perez31@icloud.com,Joseph,Perez,Mindfulness-Based,False,16,14,13,9,-7,Improved
+MBR200203,lisa.miller90@gmail.com,Lisa,Miller,CBT,True,8,5,3,1,-7,Improved
+MBR200204,christopher.miller33@hotmail.com,Christopher,Miller,DBT,False,11,10,7,3,-8,Improved
+MBR200205,susan.wilson13@yahoo.com,Susan,Wilson,Mindfulness-Based,False,11,8,6,3,-8,Improved
+MBR200206,anthony.davis89@yahoo.com,Anthony,Davis,DBT,True,12,10,7,3,-9,Improved
+MBR200207,thomas.brown75@yahoo.com,Thomas,Brown,ACT,True,16,13,12,9,-7,Improved
+MBR200208,sarah.williams59@yahoo.com,Sarah,Williams,Mindfulness-Based,True,9,8,5,1,-8,Improved
+MBR200209,mark.williams49@yahoo.com,Mark,Williams,ACT,False,15,14,13,11,-4,Improved
+MBR200210,nancy.hernandez3@hotmail.com,Nancy,Hernandez,Mindfulness-Based,False,11,8,5,2,-9,Improved
+MBR200211,sarah.anderson54@hotmail.com,Sarah,Anderson,CBT,False,16,15,14,12,-4,Improved
+MBR200212,robert.perez77@yahoo.com,Robert,Perez,ACT,False,17,14,12,10,-7,Improved
+MBR200213,nancy.williams20@icloud.com,Nancy,Williams,DBT,True,8,7,5,2,-6,Improved
+MBR200214,anthony.garcia55@hotmail.com,Anthony,Garcia,DBT,False,18,15,12,9,-9,Improved
+MBR200215,robert.johnson13@yahoo.com,Robert,Johnson,Mindfulness-Based,False,17,14,11,7,-10,Improved
+MBR200216,christopher.smith83@hotmail.com,Christopher,Smith,Mindfulness-Based,True,12,10,7,5,-7,Improved
+MBR200217,sandra.anderson27@outlook.com,Sandra,Anderson,Mindfulness-Based,False,8,7,5,2,-6,Improved
+MBR200218,margaret.gonzalez18@yahoo.com,Margaret,Gonzalez,Mindfulness-Based,False,9,7,5,1,-8,Improved
+MBR200219,mark.garcia69@outlook.com,Mark,Garcia,ACT,False,10,7,6,4,-6,Improved
+MBR200220,john.perez96@icloud.com,John,Perez,ACT,True,14,13,11,9,-5,Improved
+MBR200221,daniel.rodriguez9@gmail.com,Daniel,Rodriguez,ACT,True,12,9,7,4,-8,Improved
+MBR200222,linda.anderson75@icloud.com,Linda,Anderson,ACT,True,14,11,10,8,-6,Improved
+MBR200223,patricia.lopez63@yahoo.com,Patricia,Lopez,CBT,True,8,6,5,1,-7,Improved
+MBR200224,susan.jackson88@outlook.com,Susan,Jackson,CBT,True,9,7,5,1,-8,Improved
+MBR200225,david.thompson28@outlook.com,David,Thompson,DBT,True,12,10,7,3,-9,Improved
+MBR200226,mary.miller65@gmail.com,Mary,Miller,DBT,True,13,10,9,5,-8,Improved
+MBR200227,sarah.williams54@gmail.com,Sarah,Williams,CBT,False,14,13,11,9,-5,Improved
+MBR200228,lisa.brown7@hotmail.com,Lisa,Brown,CBT,False,11,8,7,4,-7,Improved
+MBR200229,richard.jones70@gmail.com,Richard,Jones,ACT,True,10,7,4,1,-9,Improved
+MBR200230,donald.taylor85@gmail.com,Donald,Taylor,CBT,False,16,15,14,11,-5,Improved
+MBR200231,anthony.wilson92@yahoo.com,Anthony,Wilson,CBT,True,16,14,13,10,-6,Improved
+MBR200232,susan.taylor48@icloud.com,Susan,Taylor,ACT,False,18,15,12,8,-10,Improved
+MBR200233,james.garcia29@gmail.com,James,Garcia,DBT,False,11,8,5,1,-10,Improved
+MBR200234,michael.lee25@hotmail.com,Michael,Lee,Mindfulness-Based,False,16,14,12,9,-7,Improved
+MBR200235,thomas.wilson57@icloud.com,Thomas,Wilson,ACT,False,17,16,15,12,-5,Improved
+MBR200236,sandra.johnson63@outlook.com,Sandra,Johnson,Mindfulness-Based,False,8,7,5,3,-5,Improved
+MBR200237,anthony.moore30@hotmail.com,Anthony,Moore,ACT,False,14,12,10,6,-8,Improved
+MBR200238,daniel.jones25@yahoo.com,Daniel,Jones,Mindfulness-Based,False,17,14,11,9,-8,Improved
+MBR200239,mark.brown23@icloud.com,Mark,Brown,Mindfulness-Based,False,9,6,5,2,-7,Improved
+MBR200240,margaret.lee96@icloud.com,Margaret,Lee,Mindfulness-Based,False,9,6,5,2,-7,Improved
+MBR200241,robert.jackson71@yahoo.com,Robert,Jackson,ACT,False,13,12,11,7,-6,Improved
+MBR200242,jessica.thompson19@hotmail.com,Jessica,Thompson,DBT,False,13,11,8,4,-9,Improved
+MBR200243,susan.martin16@gmail.com,Susan,Martin,Mindfulness-Based,False,13,11,10,8,-5,Improved
+MBR200244,sandra.hernandez29@gmail.com,Sandra,Hernandez,ACT,False,11,10,8,6,-5,Improved
+MBR200245,dorothy.jackson48@yahoo.com,Dorothy,Jackson,CBT,False,10,7,6,4,-6,Improved
+MBR200246,matthew.gonzalez12@yahoo.com,Matthew,Gonzalez,CBT,False,9,8,6,2,-7,Improved
+MBR200247,thomas.taylor37@icloud.com,Thomas,Taylor,Mindfulness-Based,False,13,11,10,8,-5,Improved
+MBR200248,barbara.anderson97@icloud.com,Barbara,Anderson,CBT,True,16,13,12,9,-7,Improved
+MBR200249,lisa.thomas84@yahoo.com,Lisa,Thomas,ACT,True,16,14,12,9,-7,Improved
+MBR200250,john.rodriguez32@gmail.com,John,Rodriguez,Mindfulness-Based,True,18,15,12,10,-8,Improved
+MBR200251,matthew.brown27@hotmail.com,Matthew,Brown,Mindfulness-Based,False,18,17,14,12,-6,Improved
+MBR200252,donald.williams19@yahoo.com,Donald,Williams,CBT,True,10,8,5,2,-8,Improved
+MBR200253,christopher.johnson62@icloud.com,Christopher,Johnson,ACT,False,15,14,11,8,-7,Improved
+MBR200254,barbara.jackson23@outlook.com,Barbara,Jackson,Mindfulness-Based,True,18,16,13,9,-9,Improved
+MBR200255,michael.perez20@yahoo.com,Michael,Perez,Mindfulness-Based,False,16,13,11,7,-9,Improved
+MBR200256,sarah.martin53@gmail.com,Sarah,Martin,Mindfulness-Based,True,8,5,4,2,-6,Improved
+MBR200257,james.smith14@hotmail.com,James,Smith,DBT,False,17,15,12,10,-7,Improved
+MBR200258,robert.williams14@gmail.com,Robert,Williams,Mindfulness-Based,False,12,10,8,5,-7,Improved
+MBR200259,matthew.moore33@icloud.com,Matthew,Moore,Mindfulness-Based,False,12,11,10,8,-4,Improved
+MBR200260,charles.perez53@icloud.com,Charles,Perez,CBT,False,18,15,12,8,-10,Improved
+MBR200261,william.miller92@gmail.com,William,Miller,CBT,True,14,11,10,6,-8,Improved
+MBR200262,nancy.lopez45@hotmail.com,Nancy,Lopez,CBT,True,8,7,6,3,-5,Improved
+MBR200263,robert.martin75@hotmail.com,Robert,Martin,ACT,False,13,10,7,3,-10,Improved
+MBR200264,richard.anderson86@gmail.com,Richard,Anderson,Mindfulness-Based,False,10,9,6,2,-8,Improved
+MBR200265,barbara.perez24@gmail.com,Barbara,Perez,Mindfulness-Based,True,18,15,14,11,-7,Improved
+MBR200266,margaret.thomas90@gmail.com,Margaret,Thomas,DBT,True,9,6,3,0,-9,Improved
+MBR200267,daniel.miller46@yahoo.com,Daniel,Miller,CBT,False,18,16,13,10,-8,Improved
+MBR200268,susan.wilson21@icloud.com,Susan,Wilson,DBT,False,16,13,12,8,-8,Improved
+MBR200269,jessica.wilson13@gmail.com,Jessica,Wilson,ACT,False,11,9,8,6,-5,Improved
+MBR200270,linda.lee59@outlook.com,Linda,Lee,CBT,False,10,9,8,6,-4,Improved
+MBR200271,mary.anderson1@gmail.com,Mary,Anderson,CBT,False,17,16,14,10,-7,Improved
+MBR200272,john.martin88@hotmail.com,John,Martin,DBT,False,11,10,9,7,-4,Improved
+MBR200273,betty.lee82@icloud.com,Betty,Lee,DBT,True,15,13,11,9,-6,Improved
+MBR200274,christopher.perez26@hotmail.com,Christopher,Perez,DBT,True,15,12,9,5,-10,Improved
+MBR200275,patricia.perez6@outlook.com,Patricia,Perez,DBT,False,17,16,15,12,-5,Improved
+MBR200276,margaret.martin23@outlook.com,Margaret,Martin,DBT,False,9,6,5,3,-6,Improved
+MBR200277,ashley.thompson72@hotmail.com,Ashley,Thompson,CBT,True,9,6,3,1,-8,Improved
+MBR200278,karen.perez58@icloud.com,Karen,Perez,CBT,False,17,15,14,12,-5,Improved
+MBR200279,susan.lee92@icloud.com,Susan,Lee,Mindfulness-Based,True,15,14,12,10,-5,Improved
+MBR200280,lisa.johnson75@outlook.com,Lisa,Johnson,DBT,True,12,9,6,2,-10,Improved
+MBR200281,anthony.taylor42@yahoo.com,Anthony,Taylor,Mindfulness-Based,True,15,14,12,8,-7,Improved
+MBR200282,richard.williams99@outlook.com,Richard,Williams,Mindfulness-Based,False,15,14,13,9,-6,Improved
+MBR200283,ashley.jones29@yahoo.com,Ashley,Jones,ACT,True,11,9,7,3,-8,Improved
+MBR200284,richard.smith8@icloud.com,Richard,Smith,DBT,False,16,15,12,10,-6,Improved
+MBR200285,david.lee49@icloud.com,David,Lee,Mindfulness-Based,True,16,15,12,8,-8,Improved
+MBR200286,nancy.brown68@gmail.com,Nancy,Brown,ACT,False,9,6,3,0,-9,Improved
+MBR200287,mary.lopez82@icloud.com,Mary,Lopez,Mindfulness-Based,False,12,10,9,6,-6,Improved
+MBR200288,mary.perez68@yahoo.com,Mary,Perez,DBT,False,9,8,7,3,-6,Improved
+MBR200289,matthew.smith8@icloud.com,Matthew,Smith,Mindfulness-Based,True,8,5,3,0,-8,Improved
+MBR200290,dorothy.wilson2@gmail.com,Dorothy,Wilson,Mindfulness-Based,False,11,10,9,6,-5,Improved
+MBR200291,christopher.jones16@gmail.com,Christopher,Jones,ACT,True,11,9,6,3,-8,Improved
+MBR200292,david.thomas67@yahoo.com,David,Thomas,DBT,False,17,14,12,9,-8,Improved
+MBR200293,nancy.taylor1@hotmail.com,Nancy,Taylor,DBT,False,14,13,12,8,-6,Improved
+MBR200294,patricia.johnson92@hotmail.com,Patricia,Johnson,DBT,False,12,11,8,4,-8,Improved
+MBR200295,linda.rodriguez30@yahoo.com,Linda,Rodriguez,DBT,False,11,9,7,4,-7,Improved
+MBR200296,charles.lee40@outlook.com,Charles,Lee,DBT,False,16,14,12,10,-6,Improved
+MBR200297,mark.thomas52@hotmail.com,Mark,Thomas,ACT,True,9,6,4,1,-8,Improved
+MBR200298,daniel.johnson96@hotmail.com,Daniel,Johnson,Mindfulness-Based,False,13,11,9,5,-8,Improved
+MBR200299,lisa.jackson58@outlook.com,Lisa,Jackson,DBT,False,9,8,7,5,-4,Improved
+MBR200300,joseph.johnson76@hotmail.com,Joseph,Johnson,Mindfulness-Based,False,14,12,10,7,-7,Improved
+MBR200301,betty.jones65@hotmail.com,Betty,Jones,Mindfulness-Based,True,10,7,6,2,-8,Improved
+MBR200302,anthony.jones23@icloud.com,Anthony,Jones,CBT,True,18,15,12,8,-10,Improved
+MBR200303,lisa.perez40@hotmail.com,Lisa,Perez,CBT,True,8,5,3,0,-8,Improved
+MBR200304,richard.thompson89@hotmail.com,Richard,Thompson,Mindfulness-Based,True,17,16,14,11,-6,Improved
+MBR200305,nancy.williams68@gmail.com,Nancy,Williams,CBT,False,10,7,5,1,-9,Improved
+MBR200306,karen.rodriguez14@gmail.com,Karen,Rodriguez,ACT,True,10,7,5,3,-7,Improved
+MBR200307,anthony.thompson96@hotmail.com,Anthony,Thompson,Mindfulness-Based,True,16,14,11,7,-9,Improved
+MBR200308,linda.miller67@icloud.com,Linda,Miller,Mindfulness-Based,True,12,9,6,4,-8,Improved
+MBR200309,ashley.anderson57@gmail.com,Ashley,Anderson,DBT,False,8,6,3,1,-7,Improved
+MBR200310,mark.jackson81@yahoo.com,Mark,Jackson,ACT,False,17,14,12,10,-7,Improved
+MBR200311,susan.brown21@gmail.com,Susan,Brown,CBT,True,8,6,3,0,-8,Improved
+MBR200312,barbara.hernandez94@gmail.com,Barbara,Hernandez,CBT,True,16,14,12,8,-8,Improved
+MBR200313,barbara.jones67@outlook.com,Barbara,Jones,ACT,False,9,7,4,1,-8,Improved
+MBR200314,james.taylor86@yahoo.com,James,Taylor,Mindfulness-Based,False,8,6,5,1,-7,Improved
+MBR200315,ashley.brown36@outlook.com,Ashley,Brown,DBT,False,13,12,9,7,-6,Improved
+MBR200316,matthew.garcia99@gmail.com,Matthew,Garcia,CBT,True,12,9,7,5,-7,Improved
+MBR200317,jennifer.martinez41@gmail.com,Jennifer,Martinez,ACT,True,9,6,3,0,-9,Improved
+MBR200318,nancy.garcia22@icloud.com,Nancy,Garcia,Mindfulness-Based,False,12,11,8,4,-8,Improved
+MBR200319,jessica.martin46@icloud.com,Jessica,Martin,DBT,False,14,11,9,5,-9,Improved
+MBR200320,nancy.gonzalez70@yahoo.com,Nancy,Gonzalez,CBT,False,13,10,9,7,-6,Improved
+MBR200321,patricia.wilson93@icloud.com,Patricia,Wilson,DBT,True,13,12,11,8,-5,Improved
+MBR200322,john.thompson95@hotmail.com,John,Thompson,Mindfulness-Based,True,13,10,8,5,-8,Improved
+MBR200323,mark.taylor48@outlook.com,Mark,Taylor,Mindfulness-Based,True,18,16,15,13,-5,Improved
+MBR200324,patricia.johnson57@hotmail.com,Patricia,Johnson,DBT,False,17,15,12,10,-7,Improved
+MBR200325,robert.davis91@yahoo.com,Robert,Davis,DBT,True,17,14,12,9,-8,Improved
+MBR200326,betty.anderson95@yahoo.com,Betty,Anderson,ACT,False,12,10,8,6,-6,Improved
+MBR200327,margaret.davis67@hotmail.com,Margaret,Davis,CBT,True,18,16,14,11,-7,Improved
+MBR200328,patricia.rodriguez27@outlook.com,Patricia,Rodriguez,Mindfulness-Based,True,16,14,11,9,-7,Improved
+MBR200329,jessica.wilson5@gmail.com,Jessica,Wilson,CBT,True,18,17,15,12,-6,Improved
+MBR200330,sandra.anderson44@outlook.com,Sandra,Anderson,Mindfulness-Based,True,14,13,11,7,-7,Improved
+MBR200331,dorothy.smith89@yahoo.com,Dorothy,Smith,ACT,True,13,10,9,7,-6,Improved
+MBR200332,jessica.gonzalez51@yahoo.com,Jessica,Gonzalez,DBT,False,10,9,7,3,-7,Improved
+MBR200333,sarah.brown15@yahoo.com,Sarah,Brown,Mindfulness-Based,False,12,9,6,4,-8,Improved
+MBR200334,karen.lee11@hotmail.com,Karen,Lee,CBT,True,9,8,7,3,-6,Improved
+MBR200335,lisa.gonzalez66@yahoo.com,Lisa,Gonzalez,DBT,True,12,11,9,5,-7,Improved
+MBR200336,ashley.lee94@gmail.com,Ashley,Lee,CBT,True,12,11,9,6,-6,Improved
+MBR200337,jennifer.taylor83@icloud.com,Jennifer,Taylor,CBT,False,13,11,10,7,-6,Improved
+MBR200338,john.thomas61@hotmail.com,John,Thomas,ACT,False,17,15,14,12,-5,Improved
+MBR200339,karen.moore52@outlook.com,Karen,Moore,ACT,False,9,8,6,2,-7,Improved
+MBR200340,susan.thompson21@hotmail.com,Susan,Thompson,DBT,False,16,15,14,10,-6,Improved
+MBR200341,sarah.perez14@outlook.com,Sarah,Perez,Mindfulness-Based,False,18,15,12,9,-9,Improved
+MBR200342,betty.martin8@icloud.com,Betty,Martin,Mindfulness-Based,True,14,13,11,7,-7,Improved
+MBR200343,richard.martin18@yahoo.com,Richard,Martin,Mindfulness-Based,True,17,14,12,10,-7,Improved
+MBR200344,dorothy.rodriguez86@icloud.com,Dorothy,Rodriguez,CBT,True,14,11,8,4,-10,Improved
+MBR200345,linda.jackson72@yahoo.com,Linda,Jackson,ACT,False,10,7,6,4,-6,Improved
+MBR200346,patricia.lopez18@outlook.com,Patricia,Lopez,ACT,False,10,7,5,1,-9,Improved
+MBR200347,karen.gonzalez43@icloud.com,Karen,Gonzalez,DBT,False,15,13,12,8,-7,Improved
+MBR200348,mary.miller12@hotmail.com,Mary,Miller,CBT,False,16,14,11,7,-9,Improved
+MBR200349,betty.martinez33@hotmail.com,Betty,Martinez,CBT,False,9,8,7,5,-4,Improved
+MBR200350,thomas.rodriguez80@icloud.com,Thomas,Rodriguez,ACT,False,11,9,7,3,-8,Improved
+MBR200351,christopher.lopez75@outlook.com,Christopher,Lopez,Mindfulness-Based,True,18,16,13,10,-8,Improved
+MBR200352,charles.lee38@outlook.com,Charles,Lee,CBT,False,15,14,12,10,-5,Improved
+MBR200353,donald.lopez73@hotmail.com,Donald,Lopez,DBT,False,12,10,9,6,-6,Improved
+MBR200354,john.jackson26@yahoo.com,John,Jackson,Mindfulness-Based,True,16,14,12,10,-6,Improved
+MBR200355,matthew.martin18@outlook.com,Matthew,Martin,CBT,False,14,13,12,8,-6,Improved
+MBR200356,donald.garcia94@gmail.com,Donald,Garcia,CBT,False,18,17,16,14,-4,Improved
+MBR200357,daniel.anderson67@icloud.com,Daniel,Anderson,Mindfulness-Based,False,12,10,7,5,-7,Improved
+MBR200358,mark.martin59@gmail.com,Mark,Martin,Mindfulness-Based,True,9,7,4,1,-8,Improved
+MBR200359,mark.martin52@yahoo.com,Mark,Martin,Mindfulness-Based,True,14,12,11,9,-5,Improved
+MBR200360,james.rodriguez47@yahoo.com,James,Rodriguez,DBT,False,11,8,5,1,-10,Improved
+MBR200361,james.thomas39@gmail.com,James,Thomas,DBT,True,16,13,10,7,-9,Improved
+MBR200362,thomas.garcia36@yahoo.com,Thomas,Garcia,ACT,True,18,15,14,12,-6,Improved
+MBR200363,nancy.wilson90@outlook.com,Nancy,Wilson,ACT,True,16,15,12,10,-6,Improved
+MBR200364,margaret.gonzalez68@gmail.com,Margaret,Gonzalez,CBT,True,18,15,12,10,-8,Improved
+MBR200365,barbara.davis62@outlook.com,Barbara,Davis,CBT,False,13,11,9,7,-6,Improved
+MBR200366,anthony.thompson49@yahoo.com,Anthony,Thompson,ACT,True,11,10,7,4,-7,Improved
+MBR200367,nancy.johnson65@outlook.com,Nancy,Johnson,DBT,False,15,13,11,8,-7,Improved
+MBR200368,joseph.martin48@gmail.com,Joseph,Martin,DBT,False,15,13,11,9,-6,Improved
+MBR200369,mark.perez97@icloud.com,Mark,Perez,DBT,False,14,13,12,8,-6,Improved
+MBR200370,mary.davis76@icloud.com,Mary,Davis,Mindfulness-Based,False,12,11,8,6,-6,Improved
+MBR200371,ashley.jackson62@icloud.com,Ashley,Jackson,Mindfulness-Based,True,13,12,11,7,-6,Improved
+MBR200372,margaret.thomas93@yahoo.com,Margaret,Thomas,DBT,True,13,11,9,5,-8,Improved
+MBR200373,joseph.smith79@yahoo.com,Joseph,Smith,Mindfulness-Based,False,16,14,11,8,-8,Improved
+MBR200374,william.moore90@hotmail.com,William,Moore,CBT,True,9,6,4,0,-9,Improved
+MBR200375,christopher.smith41@yahoo.com,Christopher,Smith,ACT,True,11,8,5,1,-10,Improved
+MBR200376,donald.garcia63@gmail.com,Donald,Garcia,ACT,False,12,10,8,5,-7,Improved
+MBR200377,jennifer.miller10@outlook.com,Jennifer,Miller,Mindfulness-Based,True,8,5,2,0,-8,Improved
+MBR200378,lisa.gonzalez8@yahoo.com,Lisa,Gonzalez,DBT,True,8,7,5,3,-5,Improved
+MBR200379,michael.williams8@icloud.com,Michael,Williams,CBT,True,14,11,9,5,-9,Improved
+MBR200380,daniel.williams47@yahoo.com,Daniel,Williams,ACT,False,16,13,12,9,-7,Improved
+MBR200381,margaret.thomas5@gmail.com,Margaret,Thomas,DBT,True,10,9,7,3,-7,Improved
+MBR200382,betty.taylor70@hotmail.com,Betty,Taylor,DBT,False,12,11,9,5,-7,Improved
+MBR200383,john.gonzalez87@outlook.com,John,Gonzalez,DBT,True,12,10,7,3,-9,Improved
+MBR200384,patricia.lee57@yahoo.com,Patricia,Lee,ACT,False,14,11,8,6,-8,Improved
+MBR200385,james.moore76@outlook.com,James,Moore,ACT,False,8,7,6,2,-6,Improved
+MBR200386,dorothy.perez60@outlook.com,Dorothy,Perez,Mindfulness-Based,True,14,11,10,8,-6,Improved
+MBR200387,mark.thompson17@icloud.com,Mark,Thompson,ACT,True,8,5,2,0,-8,Improved
+MBR200388,sarah.perez51@icloud.com,Sarah,Perez,Mindfulness-Based,True,9,8,6,3,-6,Improved
+MBR200389,mary.brown31@yahoo.com,Mary,Brown,ACT,False,13,11,8,5,-8,Improved
+MBR200390,ashley.garcia69@hotmail.com,Ashley,Garcia,CBT,False,12,11,10,6,-6,Improved
+MBR200391,mary.wilson42@gmail.com,Mary,Wilson,Mindfulness-Based,False,11,9,8,5,-6,Improved
+MBR200392,mark.jones24@gmail.com,Mark,Jones,CBT,True,10,8,5,1,-9,Improved
+MBR200393,joseph.gonzalez11@yahoo.com,Joseph,Gonzalez,DBT,True,10,9,6,3,-7,Improved
+MBR200394,barbara.miller65@hotmail.com,Barbara,Miller,DBT,False,16,13,12,8,-8,Improved
+MBR200395,mark.brown76@icloud.com,Mark,Brown,ACT,False,16,15,14,11,-5,Improved
+MBR200396,daniel.garcia86@gmail.com,Daniel,Garcia,DBT,False,12,9,7,4,-8,Improved
+MBR200397,dorothy.garcia51@outlook.com,Dorothy,Garcia,Mindfulness-Based,False,10,7,4,1,-9,Improved
+MBR200398,joseph.thompson5@hotmail.com,Joseph,Thompson,DBT,True,12,11,9,5,-7,Improved
+MBR200399,john.lee29@gmail.com,John,Lee,ACT,False,9,7,4,0,-9,Improved
+MBR200400,william.thomas84@hotmail.com,William,Thomas,Mindfulness-Based,True,9,6,5,2,-7,Improved
+MBR200401,susan.taylor56@yahoo.com,Susan,Taylor,Mindfulness-Based,False,16,13,11,7,-9,Improved
+MBR200402,betty.hernandez33@hotmail.com,Betty,Hernandez,DBT,False,16,14,11,9,-7,Improved
+MBR200403,lisa.lopez16@gmail.com,Lisa,Lopez,ACT,False,15,13,12,9,-6,Improved
+MBR200404,jessica.johnson24@yahoo.com,Jessica,Johnson,CBT,False,17,15,13,11,-6,Improved
+MBR200405,richard.davis8@outlook.com,Richard,Davis,CBT,True,15,13,10,8,-7,Improved
+MBR200406,daniel.johnson81@yahoo.com,Daniel,Johnson,ACT,False,13,11,9,5,-8,Improved
+MBR200407,lisa.williams55@gmail.com,Lisa,Williams,ACT,False,14,12,11,8,-6,Improved
+MBR200408,richard.johnson58@hotmail.com,Richard,Johnson,ACT,False,16,14,12,9,-7,Improved
+MBR200409,nancy.thomas47@outlook.com,Nancy,Thomas,DBT,True,14,13,12,9,-5,Improved
+MBR200410,matthew.martinez17@yahoo.com,Matthew,Martinez,ACT,False,12,11,10,8,-4,Improved
+MBR200411,betty.perez13@outlook.com,Betty,Perez,CBT,True,17,15,14,10,-7,Improved
+MBR200412,william.davis1@gmail.com,William,Davis,DBT,True,14,13,12,9,-5,Improved
+MBR200413,robert.lopez78@hotmail.com,Robert,Lopez,ACT,True,11,10,8,5,-6,Improved
+MBR200414,mary.garcia6@outlook.com,Mary,Garcia,DBT,False,15,13,11,7,-8,Improved
+MBR200415,robert.thomas96@hotmail.com,Robert,Thomas,DBT,False,18,15,12,8,-10,Improved
+MBR200416,mark.miller46@yahoo.com,Mark,Miller,ACT,False,12,10,9,5,-7,Improved
+MBR200417,matthew.gonzalez85@yahoo.com,Matthew,Gonzalez,CBT,False,17,16,14,11,-6,Improved
+MBR200418,joseph.lopez64@yahoo.com,Joseph,Lopez,DBT,True,13,12,9,5,-8,Improved
+MBR200419,robert.wilson46@icloud.com,Robert,Wilson,DBT,False,8,7,6,4,-4,Improved
+MBR200420,anthony.lee22@icloud.com,Anthony,Lee,ACT,True,10,8,7,4,-6,Improved
+MBR200421,sarah.lopez37@icloud.com,Sarah,Lopez,DBT,False,13,11,9,5,-8,Improved
+MBR200422,sandra.brown95@outlook.com,Sandra,Brown,CBT,False,14,13,10,6,-8,Improved
+MBR200423,christopher.lee91@yahoo.com,Christopher,Lee,CBT,False,17,14,11,9,-8,Improved
+MBR200424,nancy.davis12@outlook.com,Nancy,Davis,ACT,False,11,9,8,5,-6,Improved
+MBR200425,anthony.taylor73@yahoo.com,Anthony,Taylor,Mindfulness-Based,True,8,6,5,1,-7,Improved
+MBR200426,charles.jackson81@yahoo.com,Charles,Jackson,DBT,True,11,10,9,6,-5,Improved
+MBR200427,robert.lee72@icloud.com,Robert,Lee,Mindfulness-Based,False,14,13,11,8,-6,Improved
+MBR200428,matthew.smith89@outlook.com,Matthew,Smith,Mindfulness-Based,True,12,11,10,8,-4,Improved
+MBR200429,michael.hernandez74@hotmail.com,Michael,Hernandez,CBT,False,11,10,7,4,-7,Improved
+MBR200430,david.thompson19@yahoo.com,David,Thompson,CBT,True,9,7,5,3,-6,Improved
+MBR200431,nancy.hernandez30@gmail.com,Nancy,Hernandez,ACT,False,10,9,8,6,-4,Improved
+MBR200432,sandra.miller35@gmail.com,Sandra,Miller,ACT,False,13,12,10,7,-6,Improved
+MBR200433,betty.johnson25@yahoo.com,Betty,Johnson,Mindfulness-Based,False,8,7,6,4,-4,Improved
+MBR200434,william.rodriguez64@gmail.com,William,Rodriguez,DBT,True,16,14,13,9,-7,Improved
+MBR200435,nancy.miller67@outlook.com,Nancy,Miller,CBT,True,16,13,10,6,-10,Improved
+MBR200436,dorothy.martinez72@icloud.com,Dorothy,Martinez,DBT,False,10,8,6,2,-8,Improved
+MBR200437,lisa.thompson42@hotmail.com,Lisa,Thompson,CBT,False,16,14,12,9,-7,Improved
+MBR200438,patricia.thompson2@outlook.com,Patricia,Thompson,DBT,False,12,9,7,5,-7,Improved
+MBR200439,william.hernandez5@yahoo.com,William,Hernandez,ACT,False,15,12,11,7,-8,Improved
+MBR200440,nancy.thompson70@yahoo.com,Nancy,Thompson,DBT,True,12,9,6,4,-8,Improved
+MBR200441,susan.lee23@icloud.com,Susan,Lee,Mindfulness-Based,False,18,15,13,9,-9,Improved
+MBR200442,david.jackson76@yahoo.com,David,Jackson,DBT,False,12,9,8,6,-6,Improved
+MBR200443,jessica.rodriguez86@icloud.com,Jessica,Rodriguez,Mindfulness-Based,False,18,16,15,12,-6,Improved
+MBR200444,mark.johnson75@icloud.com,Mark,Johnson,ACT,True,8,6,4,0,-8,Improved
+MBR200445,jessica.miller54@icloud.com,Jessica,Miller,CBT,False,14,11,8,4,-10,Improved
+MBR200446,anthony.jones22@gmail.com,Anthony,Jones,DBT,False,12,11,9,5,-7,Improved
+MBR200447,anthony.thompson23@gmail.com,Anthony,Thompson,DBT,False,9,7,4,2,-7,Improved
+MBR200448,mary.brown96@hotmail.com,Mary,Brown,DBT,False,18,16,13,9,-9,Improved
+MBR200449,william.jones73@hotmail.com,William,Jones,ACT,False,12,9,6,3,-9,Improved
+MBR200450,thomas.williams98@outlook.com,Thomas,Williams,CBT,False,17,15,12,9,-8,Improved
+MBR200451,jessica.hernandez70@yahoo.com,Jessica,Hernandez,ACT,False,9,7,4,1,-8,Improved
+MBR200452,mary.hernandez48@icloud.com,Mary,Hernandez,Mindfulness-Based,True,16,13,12,10,-6,Improved
+MBR200453,christopher.jackson38@outlook.com,Christopher,Jackson,DBT,True,15,13,11,8,-7,Improved
+MBR200454,sandra.taylor52@outlook.com,Sandra,Taylor,CBT,False,8,5,3,1,-7,Improved
+MBR200455,margaret.martin33@yahoo.com,Margaret,Martin,DBT,True,12,10,8,6,-6,Improved
+MBR200456,sandra.brown57@outlook.com,Sandra,Brown,Mindfulness-Based,True,10,8,7,4,-6,Improved
+MBR200457,daniel.taylor71@hotmail.com,Daniel,Taylor,DBT,True,15,14,12,9,-6,Improved
+MBR200458,john.martin29@outlook.com,John,Martin,CBT,True,8,7,6,3,-5,Improved
+MBR200459,matthew.lopez44@yahoo.com,Matthew,Lopez,Mindfulness-Based,True,15,14,11,8,-7,Improved
+MBR200460,david.williams16@outlook.com,David,Williams,ACT,False,13,10,9,7,-6,Improved
+MBR200461,jennifer.garcia12@outlook.com,Jennifer,Garcia,DBT,False,15,13,11,9,-6,Improved
+MBR200462,barbara.anderson10@icloud.com,Barbara,Anderson,DBT,False,15,12,9,6,-9,Improved
+MBR200463,patricia.lee40@yahoo.com,Patricia,Lee,CBT,True,18,16,14,12,-6,Improved
+MBR200464,james.brown48@yahoo.com,James,Brown,DBT,False,11,9,6,2,-9,Improved
+MBR200465,susan.miller55@icloud.com,Susan,Miller,ACT,True,8,5,3,0,-8,Improved
+MBR200466,william.thompson37@yahoo.com,William,Thompson,DBT,True,9,8,6,3,-6,Improved
+MBR200467,thomas.brown12@hotmail.com,Thomas,Brown,Mindfulness-Based,False,8,7,5,3,-5,Improved
+MBR200468,john.hernandez42@yahoo.com,John,Hernandez,DBT,True,10,8,7,3,-7,Improved
+MBR200469,betty.moore13@icloud.com,Betty,Moore,CBT,True,13,12,10,8,-5,Improved
+MBR200470,nancy.brown7@yahoo.com,Nancy,Brown,Mindfulness-Based,True,15,12,9,5,-10,Improved
+MBR200471,linda.martin11@hotmail.com,Linda,Martin,DBT,False,14,13,11,8,-6,Improved
+MBR200472,jessica.gonzalez99@yahoo.com,Jessica,Gonzalez,DBT,True,8,7,4,2,-6,Improved
+MBR200473,thomas.moore13@icloud.com,Thomas,Moore,CBT,False,8,5,2,0,-8,Improved
+MBR200474,william.taylor67@gmail.com,William,Taylor,DBT,False,8,6,5,2,-6,Improved
+MBR200475,mary.taylor81@icloud.com,Mary,Taylor,ACT,False,12,9,7,4,-8,Improved
+MBR200476,william.gonzalez47@gmail.com,William,Gonzalez,Mindfulness-Based,False,13,12,9,5,-8,Improved
+MBR200477,jessica.lopez85@icloud.com,Jessica,Lopez,DBT,True,18,17,16,12,-6,Improved
+MBR200478,karen.lopez88@yahoo.com,Karen,Lopez,CBT,False,16,15,14,10,-6,Improved
+MBR200479,richard.moore60@outlook.com,Richard,Moore,DBT,True,17,14,12,9,-8,Improved
+MBR200480,anthony.jackson25@icloud.com,Anthony,Jackson,ACT,False,13,11,10,8,-5,Improved
+MBR200481,lisa.taylor23@yahoo.com,Lisa,Taylor,Mindfulness-Based,False,10,9,8,6,-4,Improved
+MBR200482,matthew.davis44@hotmail.com,Matthew,Davis,ACT,False,10,9,7,5,-5,Improved
+MBR200483,patricia.davis30@yahoo.com,Patricia,Davis,Mindfulness-Based,True,12,11,9,7,-5,Improved
+MBR200484,charles.davis51@yahoo.com,Charles,Davis,ACT,True,9,6,4,1,-8,Improved
+MBR200485,robert.moore85@icloud.com,Robert,Moore,CBT,False,9,6,4,0,-9,Improved
+MBR200486,sandra.garcia36@gmail.com,Sandra,Garcia,DBT,False,17,16,13,9,-8,Improved
+MBR200487,richard.jackson63@outlook.com,Richard,Jackson,Mindfulness-Based,False,15,13,12,8,-7,Improved
+MBR200488,margaret.smith28@hotmail.com,Margaret,Smith,CBT,False,13,12,10,8,-5,Improved
+MBR200489,donald.davis47@hotmail.com,Donald,Davis,CBT,False,16,14,11,7,-9,Improved
+MBR200490,richard.martinez4@hotmail.com,Richard,Martinez,DBT,False,13,11,9,7,-6,Improved
+MBR200491,christopher.anderson46@outlook.com,Christopher,Anderson,DBT,True,15,13,10,6,-9,Improved
+MBR200492,ashley.garcia47@gmail.com,Ashley,Garcia,CBT,True,18,16,13,10,-8,Improved
+MBR200493,jessica.martinez54@icloud.com,Jessica,Martinez,CBT,False,12,9,6,2,-10,Improved
+MBR200494,ashley.brown68@gmail.com,Ashley,Brown,ACT,False,14,11,10,7,-7,Improved
+MBR200495,daniel.brown48@outlook.com,Daniel,Brown,DBT,False,15,13,10,7,-8,Improved
+MBR200496,sarah.martin7@icloud.com,Sarah,Martin,CBT,True,12,10,9,7,-5,Improved
+MBR200497,donald.thomas20@yahoo.com,Donald,Thomas,DBT,False,12,11,8,5,-7,Improved
+MBR200498,patricia.jones43@outlook.com,Patricia,Jones,CBT,False,13,10,8,4,-9,Improved
+MBR200499,linda.martinez45@yahoo.com,Linda,Martinez,DBT,False,8,5,3,0,-8,Improved
+MBR200500,mary.williams37@gmail.com,Mary,Williams,ACT,True,16,17,19,21,5,Not Improved
+MBR200501,donald.hernandez44@outlook.com,Donald,Hernandez,DBT,False,12,15,18,20,8,Not Improved
+MBR200502,jennifer.gonzalez98@icloud.com,Jennifer,Gonzalez,ACT,False,8,7,6,9,1,Not Improved
+MBR200503,anthony.johnson21@outlook.com,Anthony,Johnson,ACT,True,11,10,10,12,1,Not Improved
+MBR200504,sandra.lopez45@outlook.com,Sandra,Lopez,Mindfulness-Based,False,18,19,21,21,3,Not Improved
+MBR200505,robert.perez58@outlook.com,Robert,Perez,DBT,False,16,19,18,18,2,Not Improved
+MBR200506,lisa.rodriguez88@outlook.com,Lisa,Rodriguez,CBT,True,12,11,10,10,-2,Not Improved
+MBR200507,christopher.thomas49@outlook.com,Christopher,Thomas,ACT,True,13,13,16,15,2,Not Improved
+MBR200508,matthew.lee61@yahoo.com,Matthew,Lee,Mindfulness-Based,False,14,14,14,14,0,Not Improved
+MBR200509,christopher.jones41@icloud.com,Christopher,Jones,CBT,False,11,12,12,15,4,Not Improved
+MBR200510,john.perez56@outlook.com,John,Perez,CBT,False,12,14,13,13,1,Not Improved
+MBR200511,dorothy.lopez82@icloud.com,Dorothy,Lopez,CBT,False,14,15,17,20,6,Not Improved
+MBR200512,james.lee83@yahoo.com,James,Lee,CBT,False,15,18,19,18,3,Not Improved
+MBR200513,mark.johnson81@outlook.com,Mark,Johnson,DBT,True,11,14,14,14,3,Not Improved
+MBR200514,william.wilson67@yahoo.com,William,Wilson,CBT,False,15,17,17,17,2,Not Improved
+MBR200515,anthony.lee50@yahoo.com,Anthony,Lee,DBT,False,17,17,17,18,1,Not Improved
+MBR200516,betty.thomas50@gmail.com,Betty,Thomas,CBT,True,11,14,14,15,4,Not Improved
+MBR200517,margaret.davis14@outlook.com,Margaret,Davis,DBT,False,11,10,12,14,3,Not Improved
+MBR200518,thomas.williams8@outlook.com,Thomas,Williams,CBT,True,11,14,13,15,4,Not Improved
+MBR200519,sarah.brown21@gmail.com,Sarah,Brown,DBT,False,16,18,19,21,5,Not Improved
+MBR200520,lisa.rodriguez69@hotmail.com,Lisa,Rodriguez,Mindfulness-Based,False,11,13,16,17,6,Not Improved
+MBR200521,charles.thompson31@outlook.com,Charles,Thompson,Mindfulness-Based,True,13,16,17,18,5,Not Improved
+MBR200522,lisa.lee32@outlook.com,Lisa,Lee,CBT,True,10,10,10,9,-1,Not Improved
+MBR200523,karen.taylor17@yahoo.com,Karen,Taylor,DBT,False,13,13,13,15,2,Not Improved
+MBR200524,mary.gonzalez35@gmail.com,Mary,Gonzalez,Mindfulness-Based,False,8,9,10,13,5,Not Improved
+MBR200525,jennifer.wilson4@icloud.com,Jennifer,Wilson,CBT,False,10,9,11,13,3,Not Improved
+MBR200526,sarah.martinez54@yahoo.com,Sarah,Martinez,Mindfulness-Based,True,15,15,18,21,6,Not Improved
+MBR200527,jennifer.brown2@gmail.com,Jennifer,Brown,CBT,False,16,19,20,19,3,Not Improved
+MBR200528,thomas.wilson80@outlook.com,Thomas,Wilson,Mindfulness-Based,False,11,11,10,9,-2,Not Improved
+MBR200529,nancy.williams83@hotmail.com,Nancy,Williams,ACT,True,15,15,18,17,2,Not Improved
+MBR200530,robert.lopez43@outlook.com,Robert,Lopez,Mindfulness-Based,True,10,12,12,13,3,Not Improved
+MBR200531,nancy.martin57@hotmail.com,Nancy,Martin,DBT,False,10,11,14,16,6,Not Improved
+MBR200532,linda.taylor65@icloud.com,Linda,Taylor,DBT,True,16,18,18,20,4,Not Improved
+MBR200533,william.taylor50@gmail.com,William,Taylor,ACT,False,11,10,11,13,2,Not Improved
+MBR200534,sarah.jackson75@outlook.com,Sarah,Jackson,DBT,False,10,10,12,15,5,Not Improved
+MBR200535,jessica.wilson40@yahoo.com,Jessica,Wilson,ACT,True,16,15,16,15,-1,Not Improved
+MBR200536,mary.anderson87@icloud.com,Mary,Anderson,ACT,True,15,15,14,15,0,Not Improved
+MBR200537,michael.rodriguez86@hotmail.com,Michael,Rodriguez,CBT,True,11,10,13,15,4,Not Improved
+MBR200538,sarah.gonzalez96@icloud.com,Sarah,Gonzalez,Mindfulness-Based,True,12,12,12,11,-1,Not Improved
+MBR200539,mary.hernandez41@icloud.com,Mary,Hernandez,DBT,False,8,10,11,14,6,Not Improved
+MBR200540,mary.brown99@icloud.com,Mary,Brown,CBT,False,13,16,19,21,8,Not Improved
+MBR200541,richard.thomas6@icloud.com,Richard,Thomas,CBT,True,9,9,10,13,4,Not Improved
+MBR200542,charles.martin86@icloud.com,Charles,Martin,ACT,True,13,13,12,11,-2,Not Improved
+MBR200543,dorothy.rodriguez31@outlook.com,Dorothy,Rodriguez,ACT,False,10,13,15,15,5,Not Improved
+MBR200544,william.lopez7@gmail.com,William,Lopez,Mindfulness-Based,True,10,10,12,13,3,Not Improved
+MBR200545,sandra.johnson4@icloud.com,Sandra,Johnson,Mindfulness-Based,True,10,10,9,11,1,Not Improved
+MBR200546,john.gonzalez36@icloud.com,John,Gonzalez,ACT,False,8,8,8,10,2,Not Improved
+MBR200547,jessica.hernandez31@gmail.com,Jessica,Hernandez,ACT,False,11,10,9,10,-1,Not Improved
+MBR200548,matthew.johnson98@outlook.com,Matthew,Johnson,ACT,False,11,11,13,12,1,Not Improved
+MBR200549,patricia.thomas90@hotmail.com,Patricia,Thomas,ACT,False,8,9,9,12,4,Not Improved
+MBR200550,lisa.miller18@yahoo.com,Lisa,Miller,CBT,False,14,16,15,15,1,Not Improved
+MBR200551,david.lopez76@icloud.com,David,Lopez,ACT,True,10,11,10,11,1,Not Improved
+MBR200552,dorothy.lopez87@yahoo.com,Dorothy,Lopez,Mindfulness-Based,True,10,11,12,15,5,Not Improved
+MBR200553,daniel.davis5@yahoo.com,Daniel,Davis,Mindfulness-Based,True,17,20,21,21,4,Not Improved
+MBR200554,dorothy.wilson45@outlook.com,Dorothy,Wilson,Mindfulness-Based,True,13,15,16,17,4,Not Improved
+MBR200555,nancy.thompson21@icloud.com,Nancy,Thompson,Mindfulness-Based,True,11,11,13,12,1,Not Improved
+MBR200556,mary.rodriguez51@icloud.com,Mary,Rodriguez,DBT,False,13,13,14,14,1,Not Improved
+MBR200557,james.wilson31@yahoo.com,James,Wilson,ACT,False,17,20,21,21,4,Not Improved
+MBR200558,david.wilson90@gmail.com,David,Wilson,ACT,True,14,16,18,17,3,Not Improved
+MBR200559,mary.johnson2@icloud.com,Mary,Johnson,Mindfulness-Based,True,18,20,20,20,2,Not Improved
+MBR200560,thomas.thomas62@outlook.com,Thomas,Thomas,CBT,True,8,9,8,7,-1,Not Improved
+MBR200561,ashley.hernandez56@hotmail.com,Ashley,Hernandez,DBT,False,13,16,19,18,5,Not Improved
+MBR200562,daniel.lee60@yahoo.com,Daniel,Lee,Mindfulness-Based,True,12,12,12,14,2,Not Improved
+MBR200563,james.thompson89@outlook.com,James,Thompson,Mindfulness-Based,False,9,8,11,10,1,Not Improved
+MBR200564,daniel.lee20@yahoo.com,Daniel,Lee,CBT,True,10,12,12,12,2,Not Improved
+MBR200565,sandra.gonzalez51@outlook.com,Sandra,Gonzalez,ACT,True,15,18,20,21,6,Not Improved
+MBR200566,ashley.taylor34@hotmail.com,Ashley,Taylor,DBT,True,14,17,16,17,3,Not Improved
+MBR200567,jessica.thompson87@hotmail.com,Jessica,Thompson,DBT,False,9,8,11,14,5,Not Improved
+MBR200568,michael.jones49@gmail.com,Michael,Jones,DBT,True,12,11,14,17,5,Not Improved
+MBR200569,karen.martin13@outlook.com,Karen,Martin,DBT,True,15,16,17,20,5,Not Improved
+MBR200570,matthew.thomas47@hotmail.com,Matthew,Thomas,CBT,False,9,12,14,17,8,Not Improved
+MBR200571,james.thomas35@gmail.com,James,Thomas,CBT,False,12,14,15,16,4,Not Improved
+MBR200572,dorothy.anderson73@hotmail.com,Dorothy,Anderson,Mindfulness-Based,True,17,16,18,19,2,Not Improved
+MBR200573,robert.smith35@icloud.com,Robert,Smith,DBT,True,18,17,17,18,0,Not Improved
+MBR200574,richard.wilson59@icloud.com,Richard,Wilson,Mindfulness-Based,False,17,19,19,21,4,Not Improved
+MBR200575,susan.thomas25@outlook.com,Susan,Thomas,ACT,False,8,11,14,15,7,Not Improved
+MBR200576,robert.gonzalez30@yahoo.com,Robert,Gonzalez,Mindfulness-Based,True,18,21,21,21,3,Not Improved
+MBR200577,joseph.moore56@icloud.com,Joseph,Moore,DBT,False,18,17,20,21,3,Not Improved
+MBR200578,karen.thompson12@outlook.com,Karen,Thompson,DBT,True,17,18,20,21,4,Not Improved
+MBR200579,daniel.rodriguez9@outlook.com,Daniel,Rodriguez,CBT,True,15,16,17,20,5,Not Improved
+MBR200580,dorothy.thompson66@outlook.com,Dorothy,Thompson,ACT,False,13,12,11,14,1,Not Improved
+MBR200581,mark.davis56@icloud.com,Mark,Davis,Mindfulness-Based,True,15,14,15,15,0,Not Improved
+MBR200582,mary.perez29@outlook.com,Mary,Perez,DBT,True,17,17,17,20,3,Not Improved
+MBR200583,joseph.davis61@icloud.com,Joseph,Davis,DBT,True,17,19,18,17,0,Not Improved
+MBR200584,mark.davis92@gmail.com,Mark,Davis,CBT,False,12,14,14,17,5,Not Improved
+MBR200585,mary.miller96@icloud.com,Mary,Miller,DBT,False,12,15,15,18,6,Not Improved
+MBR200586,mary.davis15@icloud.com,Mary,Davis,ACT,False,16,19,19,18,2,Not Improved
+MBR200587,ashley.jones65@outlook.com,Ashley,Jones,ACT,False,9,9,9,12,3,Not Improved
+MBR200588,michael.johnson81@outlook.com,Michael,Johnson,Mindfulness-Based,True,16,15,14,17,1,Not Improved
+MBR200589,daniel.hernandez63@icloud.com,Daniel,Hernandez,Mindfulness-Based,True,13,12,13,13,0,Not Improved
+MBR200590,john.williams85@hotmail.com,John,Williams,DBT,True,11,11,10,13,2,Not Improved
+MBR200591,barbara.hernandez40@hotmail.com,Barbara,Hernandez,ACT,True,12,13,16,19,7,Not Improved
+MBR200592,linda.miller8@icloud.com,Linda,Miller,CBT,True,18,20,20,21,3,Not Improved
+MBR200593,anthony.martin50@icloud.com,Anthony,Martin,Mindfulness-Based,False,15,17,19,21,6,Not Improved
+MBR200594,karen.martin52@icloud.com,Karen,Martin,DBT,False,13,14,17,20,7,Not Improved
+MBR200595,matthew.gonzalez27@outlook.com,Matthew,Gonzalez,DBT,True,8,11,13,15,7,Not Improved
+MBR200596,james.davis18@gmail.com,James,Davis,CBT,False,15,17,18,21,6,Not Improved
+MBR200597,christopher.martinez15@hotmail.com,Christopher,Martinez,ACT,True,9,12,12,11,2,Not Improved
+MBR200598,mark.hernandez26@icloud.com,Mark,Hernandez,ACT,False,11,13,12,12,1,Not Improved
+MBR200599,sandra.thomas49@hotmail.com,Sandra,Thomas,ACT,True,15,14,13,16,1,Not Improved
+MBR200600,jennifer.gonzalez68@outlook.com,Jennifer,Gonzalez,CBT,False,10,11,13,12,2,Not Improved
+MBR200601,matthew.smith13@yahoo.com,Matthew,Smith,ACT,True,17,16,17,19,2,Not Improved
+MBR200602,robert.perez73@icloud.com,Robert,Perez,ACT,False,14,17,20,21,7,Not Improved
+MBR200603,margaret.moore49@hotmail.com,Margaret,Moore,Mindfulness-Based,True,15,17,17,20,5,Not Improved
+MBR200604,michael.garcia21@icloud.com,Michael,Garcia,DBT,False,17,18,20,20,3,Not Improved
+MBR200605,sandra.smith38@hotmail.com,Sandra,Smith,CBT,False,9,11,13,14,5,Not Improved
+MBR200606,anthony.lopez28@yahoo.com,Anthony,Lopez,Mindfulness-Based,False,14,17,18,18,4,Not Improved
+MBR200607,christopher.jones43@outlook.com,Christopher,Jones,CBT,False,12,13,14,16,4,Not Improved
+MBR200608,nancy.perez32@yahoo.com,Nancy,Perez,Mindfulness-Based,True,18,20,21,21,3,Not Improved
+MBR200609,jennifer.lee87@outlook.com,Jennifer,Lee,CBT,True,10,12,12,14,4,Not Improved
+MBR200610,mary.lee91@gmail.com,Mary,Lee,Mindfulness-Based,False,13,15,18,19,6,Not Improved
+MBR200611,jennifer.anderson48@yahoo.com,Jennifer,Anderson,CBT,False,16,19,20,21,5,Not Improved
+MBR200612,sandra.garcia46@yahoo.com,Sandra,Garcia,DBT,True,14,14,17,17,3,Not Improved
+MBR200613,christopher.taylor93@icloud.com,Christopher,Taylor,CBT,True,14,14,17,19,5,Not Improved
+MBR200614,james.anderson72@yahoo.com,James,Anderson,ACT,False,16,16,18,19,3,Not Improved
+MBR200615,william.brown38@gmail.com,William,Brown,CBT,False,17,18,19,20,3,Not Improved
+MBR200616,karen.martinez67@yahoo.com,Karen,Martinez,ACT,True,11,10,11,11,0,Not Improved
+MBR200617,linda.jackson61@outlook.com,Linda,Jackson,CBT,False,13,15,17,18,5,Not Improved
+MBR200618,nancy.moore25@hotmail.com,Nancy,Moore,Mindfulness-Based,True,15,14,15,18,3,Not Improved
+MBR200619,karen.williams71@gmail.com,Karen,Williams,ACT,True,12,11,14,14,2,Not Improved
+MBR200620,margaret.thomas61@yahoo.com,Margaret,Thomas,ACT,False,8,8,9,12,4,Not Improved
+MBR200621,nancy.johnson40@icloud.com,Nancy,Johnson,CBT,True,15,17,17,18,3,Not Improved
+MBR200622,nancy.hernandez93@yahoo.com,Nancy,Hernandez,Mindfulness-Based,True,14,14,16,19,5,Not Improved
+MBR200623,karen.jackson71@icloud.com,Karen,Jackson,CBT,False,10,13,15,15,5,Not Improved
+MBR200624,david.williams8@icloud.com,David,Williams,CBT,True,9,12,11,11,2,Not Improved
+MBR200625,jennifer.martin48@yahoo.com,Jennifer,Martin,Mindfulness-Based,True,17,17,19,19,2,Not Improved
+MBR200626,karen.wilson18@hotmail.com,Karen,Wilson,ACT,True,11,12,14,17,6,Not Improved
+MBR200627,donald.wilson80@icloud.com,Donald,Wilson,CBT,False,9,8,10,13,4,Not Improved
+MBR200628,william.martinez37@hotmail.com,William,Martinez,ACT,False,16,16,15,18,2,Not Improved
+MBR200629,joseph.thompson93@gmail.com,Joseph,Thompson,Mindfulness-Based,False,17,18,20,21,4,Not Improved
+MBR200630,sarah.miller23@outlook.com,Sarah,Miller,ACT,True,14,14,15,17,3,Not Improved
+MBR200631,robert.wilson9@outlook.com,Robert,Wilson,Mindfulness-Based,True,11,10,12,11,0,Not Improved
+MBR200632,ashley.rodriguez9@hotmail.com,Ashley,Rodriguez,Mindfulness-Based,False,9,12,13,14,5,Not Improved
+MBR200633,james.johnson69@hotmail.com,James,Johnson,CBT,True,9,8,11,12,3,Not Improved
+MBR200634,jennifer.anderson74@icloud.com,Jennifer,Anderson,CBT,False,15,18,21,21,6,Not Improved
+MBR200635,betty.rodriguez87@gmail.com,Betty,Rodriguez,ACT,False,10,12,15,17,7,Not Improved
+MBR200636,william.moore12@hotmail.com,William,Moore,Mindfulness-Based,False,17,18,18,17,0,Not Improved
+MBR200637,charles.wilson47@yahoo.com,Charles,Wilson,CBT,False,14,14,17,20,6,Not Improved
+MBR200638,sarah.johnson29@outlook.com,Sarah,Johnson,DBT,False,8,9,9,11,3,Not Improved
+MBR200639,lisa.moore97@hotmail.com,Lisa,Moore,CBT,False,13,12,13,16,3,Not Improved
+MBR200640,michael.lopez62@hotmail.com,Michael,Lopez,DBT,True,8,7,6,6,-2,Not Improved
+MBR200641,david.davis41@gmail.com,David,Davis,DBT,True,12,14,17,17,5,Not Improved
+MBR200642,david.gonzalez95@hotmail.com,David,Gonzalez,Mindfulness-Based,True,13,14,16,18,5,Not Improved
+MBR200643,barbara.hernandez47@icloud.com,Barbara,Hernandez,Mindfulness-Based,False,17,16,18,20,3,Not Improved
+MBR200644,daniel.thomas76@hotmail.com,Daniel,Thomas,CBT,False,14,15,18,19,5,Not Improved
+MBR200645,jessica.jackson56@icloud.com,Jessica,Jackson,Mindfulness-Based,False,8,7,9,12,4,Not Improved
+MBR200646,karen.jones77@yahoo.com,Karen,Jones,Mindfulness-Based,False,10,9,10,12,2,Not Improved
+MBR200647,betty.rodriguez42@yahoo.com,Betty,Rodriguez,DBT,False,18,17,16,15,-3,Not Improved
+MBR200648,dorothy.jackson34@outlook.com,Dorothy,Jackson,CBT,True,8,8,7,10,2,Not Improved
+MBR200649,william.hernandez66@icloud.com,William,Hernandez,ACT,False,13,14,16,19,6,Not Improved
+MBR200650,mary.thomas15@hotmail.com,Mary,Thomas,DBT,True,14,13,15,16,2,Not Improved
+MBR200651,jessica.taylor32@gmail.com,Jessica,Taylor,Mindfulness-Based,False,14,16,19,21,7,Not Improved
+MBR200652,linda.miller17@icloud.com,Linda,Miller,CBT,True,10,9,8,9,-1,Not Improved
+MBR200653,linda.lee39@yahoo.com,Linda,Lee,Mindfulness-Based,False,13,13,15,15,2,Not Improved
+MBR200654,donald.thompson59@hotmail.com,Donald,Thompson,CBT,True,15,16,18,21,6,Not Improved
+MBR200655,karen.garcia12@outlook.com,Karen,Garcia,DBT,False,9,10,12,13,4,Not Improved
+MBR200656,richard.davis88@hotmail.com,Richard,Davis,CBT,False,18,19,21,20,2,Not Improved
+MBR200657,mary.taylor12@hotmail.com,Mary,Taylor,CBT,True,13,12,12,13,0,Not Improved
+MBR200658,david.taylor24@yahoo.com,David,Taylor,Mindfulness-Based,True,10,9,8,7,-3,Not Improved
+MBR200659,ashley.hernandez95@yahoo.com,Ashley,Hernandez,ACT,True,9,10,13,13,4,Not Improved
+MBR200660,robert.davis17@gmail.com,Robert,Davis,DBT,True,8,11,12,15,7,Not Improved
+MBR200661,sarah.taylor78@yahoo.com,Sarah,Taylor,DBT,False,11,14,14,17,6,Not Improved
+MBR200662,charles.williams76@yahoo.com,Charles,Williams,CBT,True,8,7,6,9,1,Not Improved
+MBR200663,sarah.hernandez53@gmail.com,Sarah,Hernandez,CBT,True,11,12,15,16,5,Not Improved
+MBR200664,matthew.jones20@yahoo.com,Matthew,Jones,DBT,False,14,13,16,16,2,Not Improved
+MBR200665,joseph.garcia1@icloud.com,Joseph,Garcia,DBT,False,9,12,14,14,5,Not Improved
+MBR200666,john.johnson28@outlook.com,John,Johnson,Mindfulness-Based,True,13,15,14,16,3,Not Improved
+MBR200667,dorothy.rodriguez94@hotmail.com,Dorothy,Rodriguez,DBT,False,16,17,19,18,2,Not Improved
+MBR200668,jennifer.jackson17@icloud.com,Jennifer,Jackson,CBT,True,9,11,14,13,4,Not Improved
+MBR200669,anthony.lee76@icloud.com,Anthony,Lee,Mindfulness-Based,True,8,9,9,9,1,Not Improved
+MBR200670,lisa.perez60@hotmail.com,Lisa,Perez,ACT,True,12,11,10,11,-1,Not Improved
+MBR200671,mary.smith15@icloud.com,Mary,Smith,ACT,True,18,21,21,21,3,Not Improved
+MBR200672,joseph.rodriguez47@outlook.com,Joseph,Rodriguez,CBT,False,9,12,14,13,4,Not Improved
+MBR200673,jennifer.gonzalez70@gmail.com,Jennifer,Gonzalez,DBT,False,12,15,16,18,6,Not Improved
+MBR200674,joseph.johnson86@gmail.com,Joseph,Johnson,CBT,True,12,12,12,15,3,Not Improved
+MBR200675,richard.wilson25@hotmail.com,Richard,Wilson,ACT,True,15,16,16,16,1,Not Improved
+MBR200676,anthony.anderson90@yahoo.com,Anthony,Anderson,ACT,False,18,19,21,20,2,Not Improved
+MBR200677,donald.jackson83@outlook.com,Donald,Jackson,Mindfulness-Based,True,15,18,21,21,6,Not Improved
+MBR200678,michael.smith68@icloud.com,Michael,Smith,CBT,False,16,19,18,18,2,Not Improved
+MBR200679,karen.lee44@yahoo.com,Karen,Lee,CBT,False,8,9,11,11,3,Not Improved
+MBR200680,christopher.davis39@gmail.com,Christopher,Davis,CBT,False,13,13,12,15,2,Not Improved
+MBR200681,robert.anderson8@yahoo.com,Robert,Anderson,ACT,True,14,15,14,14,0,Not Improved
+MBR200682,dorothy.thomas72@yahoo.com,Dorothy,Thomas,DBT,True,9,11,10,12,3,Not Improved
+MBR200683,jennifer.brown48@hotmail.com,Jennifer,Brown,CBT,True,10,12,13,15,5,Not Improved
+MBR200684,sarah.garcia99@outlook.com,Sarah,Garcia,ACT,False,9,8,7,10,1,Not Improved
+MBR200685,william.johnson71@gmail.com,William,Johnson,CBT,True,14,14,15,15,1,Not Improved
+MBR200686,margaret.brown28@outlook.com,Margaret,Brown,ACT,True,12,12,11,12,0,Not Improved
+MBR200687,betty.jones22@icloud.com,Betty,Jones,DBT,False,15,17,17,17,2,Not Improved
+MBR200688,patricia.davis10@icloud.com,Patricia,Davis,CBT,False,8,10,13,12,4,Not Improved
+MBR200689,matthew.williams13@icloud.com,Matthew,Williams,CBT,True,12,12,11,14,2,Not Improved
+MBR200690,betty.jackson52@yahoo.com,Betty,Jackson,DBT,True,9,10,9,12,3,Not Improved
+MBR200691,betty.jones72@yahoo.com,Betty,Jones,DBT,False,17,16,16,16,-1,Not Improved
+MBR200692,david.moore17@gmail.com,David,Moore,Mindfulness-Based,False,17,18,21,21,4,Not Improved
+MBR200693,robert.garcia13@yahoo.com,Robert,Garcia,CBT,False,17,16,19,19,2,Not Improved
+MBR200694,daniel.thompson6@gmail.com,Daniel,Thompson,CBT,True,17,19,18,17,0,Not Improved
+MBR200695,charles.thompson67@gmail.com,Charles,Thompson,DBT,False,11,13,12,11,0,Not Improved
+MBR200696,joseph.lee62@icloud.com,Joseph,Lee,Mindfulness-Based,False,15,15,16,18,3,Not Improved
+MBR200697,thomas.jones88@outlook.com,Thomas,Jones,Mindfulness-Based,True,16,17,18,19,3,Not Improved
+MBR200698,jennifer.jackson67@icloud.com,Jennifer,Jackson,Mindfulness-Based,False,13,14,15,15,2,Not Improved
+MBR200699,susan.perez70@yahoo.com,Susan,Perez,ACT,False,9,8,8,8,-1,Not Improved
+MBR200700,james.thomas71@gmail.com,James,Thomas,Mindfulness-Based,True,10,9,8,9,-1,Not Improved
+MBR200701,daniel.gonzalez57@icloud.com,Daniel,Gonzalez,DBT,False,13,13,12,15,2,Not Improved
+MBR200702,thomas.williams92@gmail.com,Thomas,Williams,DBT,True,11,10,10,11,0,Not Improved
+MBR200703,john.jackson96@outlook.com,John,Jackson,CBT,True,10,10,13,15,5,Not Improved
+MBR200704,sarah.martin17@gmail.com,Sarah,Martin,Mindfulness-Based,True,16,15,16,19,3,Not Improved
+MBR200705,sarah.perez87@outlook.com,Sarah,Perez,DBT,False,11,14,13,12,1,Not Improved
+MBR200706,linda.lopez46@icloud.com,Linda,Lopez,ACT,True,9,8,8,8,-1,Not Improved
+MBR200707,ashley.smith91@outlook.com,Ashley,Smith,CBT,True,18,17,17,19,1,Not Improved
+MBR200708,mark.garcia48@yahoo.com,Mark,Garcia,Mindfulness-Based,False,10,13,16,18,8,Not Improved
+MBR200709,barbara.gonzalez72@outlook.com,Barbara,Gonzalez,ACT,True,10,10,11,11,1,Not Improved
+MBR200710,lisa.anderson90@hotmail.com,Lisa,Anderson,CBT,False,9,9,10,9,0,Not Improved
+MBR200711,patricia.taylor36@hotmail.com,Patricia,Taylor,CBT,False,16,18,21,21,5,Not Improved
+MBR200712,william.jones20@icloud.com,William,Jones,ACT,False,13,13,13,13,0,Not Improved
+MBR200713,betty.taylor54@gmail.com,Betty,Taylor,CBT,False,10,10,12,14,4,Not Improved
+MBR200714,james.smith70@icloud.com,James,Smith,ACT,False,9,12,11,10,1,Not Improved
+MBR200715,daniel.martin44@icloud.com,Daniel,Martin,CBT,False,18,18,20,21,3,Not Improved
+MBR200716,sarah.rodriguez19@yahoo.com,Sarah,Rodriguez,DBT,False,8,8,10,13,5,Not Improved
+MBR200717,patricia.hernandez17@gmail.com,Patricia,Hernandez,Mindfulness-Based,False,13,15,14,14,1,Not Improved
+MBR200718,margaret.garcia12@outlook.com,Margaret,Garcia,Mindfulness-Based,False,16,16,15,17,1,Not Improved
+MBR200719,david.williams21@outlook.com,David,Williams,ACT,True,12,12,15,18,6,Not Improved
+MBR200720,sandra.miller94@yahoo.com,Sandra,Miller,ACT,False,14,17,17,19,5,Not Improved
+MBR200721,richard.martinez86@yahoo.com,Richard,Martinez,Mindfulness-Based,True,13,15,15,16,3,Not Improved
+MBR200722,dorothy.johnson58@hotmail.com,Dorothy,Johnson,Mindfulness-Based,False,16,16,17,17,1,Not Improved
+MBR200723,nancy.thompson21@yahoo.com,Nancy,Thompson,Mindfulness-Based,True,15,15,18,19,4,Not Improved
+MBR200724,thomas.gonzalez31@hotmail.com,Thomas,Gonzalez,CBT,True,16,19,18,19,3,Not Improved
+MBR200725,betty.rodriguez88@outlook.com,Betty,Rodriguez,DBT,False,9,8,8,10,1,Not Improved
+MBR200726,robert.martinez11@hotmail.com,Robert,Martinez,DBT,True,15,18,19,20,5,Not Improved
+MBR200727,mark.williams79@outlook.com,Mark,Williams,Mindfulness-Based,True,8,7,10,10,2,Not Improved
+MBR200728,matthew.martin79@gmail.com,Matthew,Martin,ACT,False,16,17,20,21,5,Not Improved
+MBR200729,patricia.miller84@gmail.com,Patricia,Miller,ACT,False,15,15,18,21,6,Not Improved
+MBR200730,karen.martinez10@gmail.com,Karen,Martinez,Mindfulness-Based,True,13,14,17,20,7,Not Improved
+MBR200731,john.hernandez34@icloud.com,John,Hernandez,Mindfulness-Based,False,18,20,21,21,3,Not Improved
+MBR200732,charles.taylor21@icloud.com,Charles,Taylor,DBT,True,8,10,11,12,4,Not Improved
+MBR200733,barbara.davis58@gmail.com,Barbara,Davis,DBT,True,16,17,20,21,5,Not Improved
+MBR200734,thomas.moore74@hotmail.com,Thomas,Moore,DBT,True,14,14,17,17,3,Not Improved
+MBR200735,william.williams28@yahoo.com,William,Williams,DBT,True,18,21,21,21,3,Not Improved
+MBR200736,ashley.davis61@yahoo.com,Ashley,Davis,Mindfulness-Based,False,12,14,15,18,6,Not Improved
+MBR200737,thomas.martin21@hotmail.com,Thomas,Martin,DBT,True,14,16,17,18,4,Not Improved
+MBR200738,mark.miller87@hotmail.com,Mark,Miller,Mindfulness-Based,False,8,9,9,12,4,Not Improved
+MBR200739,daniel.wilson51@outlook.com,Daniel,Wilson,CBT,True,17,16,18,19,2,Not Improved
+MBR200740,david.thompson75@outlook.com,David,Thompson,CBT,True,15,15,18,21,6,Not Improved
+MBR200741,lisa.lee25@hotmail.com,Lisa,Lee,ACT,True,17,17,20,21,4,Not Improved
+MBR200742,james.brown52@icloud.com,James,Brown,CBT,True,12,12,11,14,2,Not Improved
+MBR200743,nancy.jackson61@yahoo.com,Nancy,Jackson,DBT,True,17,20,21,21,4,Not Improved
+MBR200744,sarah.miller62@yahoo.com,Sarah,Miller,CBT,True,15,17,20,21,6,Not Improved
+MBR200745,jessica.gonzalez18@outlook.com,Jessica,Gonzalez,ACT,True,11,10,10,13,2,Not Improved
+MBR200746,anthony.williams23@yahoo.com,Anthony,Williams,CBT,True,15,17,20,21,6,Not Improved
+MBR200747,betty.smith59@icloud.com,Betty,Smith,DBT,True,12,14,15,16,4,Not Improved
+MBR200748,ashley.miller72@outlook.com,Ashley,Miller,ACT,True,9,12,12,15,6,Not Improved
+MBR200749,patricia.miller23@icloud.com,Patricia,Miller,ACT,False,16,19,19,18,2,Not Improved
+MBR200750,william.anderson62@yahoo.com,William,Anderson,Mindfulness-Based,False,16,15,18,18,2,Not Improved
+MBR200751,barbara.jackson64@hotmail.com,Barbara,Jackson,ACT,True,11,11,13,16,5,Not Improved
+MBR200752,betty.davis25@yahoo.com,Betty,Davis,CBT,False,12,12,11,14,2,Not Improved
+MBR200753,barbara.gonzalez33@outlook.com,Barbara,Gonzalez,CBT,False,16,19,20,21,5,Not Improved
+MBR200754,susan.taylor41@yahoo.com,Susan,Taylor,DBT,False,15,18,18,18,3,Not Improved
+MBR200755,jennifer.miller22@icloud.com,Jennifer,Miller,ACT,False,14,17,16,19,5,Not Improved
+MBR200756,patricia.martin71@gmail.com,Patricia,Martin,DBT,True,10,12,14,16,6,Not Improved
+MBR200757,jennifer.smith85@outlook.com,Jennifer,Smith,ACT,True,10,10,9,10,0,Not Improved
+MBR200758,mark.miller79@icloud.com,Mark,Miller,Mindfulness-Based,True,12,13,14,13,1,Not Improved
+MBR200759,joseph.rodriguez89@hotmail.com,Joseph,Rodriguez,CBT,False,9,10,10,10,1,Not Improved
+MBR200760,barbara.lee98@gmail.com,Barbara,Lee,DBT,True,12,12,11,14,2,Not Improved
+MBR200761,sarah.rodriguez99@hotmail.com,Sarah,Rodriguez,DBT,True,11,12,14,15,4,Not Improved
+MBR200762,christopher.hernandez78@hotmail.com,Christopher,Hernandez,ACT,False,16,18,17,19,3,Not Improved
+MBR200763,sandra.rodriguez65@outlook.com,Sandra,Rodriguez,ACT,False,11,14,14,14,3,Not Improved
+MBR200764,linda.davis24@icloud.com,Linda,Davis,CBT,True,16,15,16,15,-1,Not Improved
+MBR200765,karen.perez57@outlook.com,Karen,Perez,ACT,False,17,16,16,19,2,Not Improved
+MBR200766,sandra.lee96@yahoo.com,Sandra,Lee,Mindfulness-Based,True,10,11,14,14,4,Not Improved
+MBR200767,anthony.jones32@hotmail.com,Anthony,Jones,Mindfulness-Based,False,18,17,19,18,0,Not Improved
+MBR200768,william.martin86@hotmail.com,William,Martin,DBT,False,9,11,14,15,6,Not Improved
+MBR200769,lisa.garcia58@hotmail.com,Lisa,Garcia,ACT,False,14,17,16,15,1,Not Improved
+MBR200770,michael.garcia56@gmail.com,Michael,Garcia,CBT,False,18,18,17,20,2,Not Improved
+MBR200771,charles.rodriguez47@gmail.com,Charles,Rodriguez,Mindfulness-Based,True,13,13,16,15,2,Not Improved
+MBR200772,robert.jackson56@hotmail.com,Robert,Jackson,DBT,True,9,8,9,11,2,Not Improved
+MBR200773,jessica.brown4@hotmail.com,Jessica,Brown,CBT,True,15,18,20,21,6,Not Improved
+MBR200774,robert.brown25@hotmail.com,Robert,Brown,ACT,False,12,15,14,13,1,Not Improved
+MBR200775,karen.williams31@hotmail.com,Karen,Williams,ACT,False,17,20,21,21,4,Not Improved
+MBR200776,linda.wilson30@outlook.com,Linda,Wilson,DBT,False,9,9,10,10,1,Not Improved
+MBR200777,karen.williams26@icloud.com,Karen,Williams,ACT,False,12,15,15,15,3,Not Improved
+MBR200778,ashley.hernandez17@icloud.com,Ashley,Hernandez,Mindfulness-Based,False,8,7,6,7,-1,Not Improved
+MBR200779,jessica.smith17@gmail.com,Jessica,Smith,Mindfulness-Based,False,9,9,9,9,0,Not Improved
+MBR200780,christopher.smith10@outlook.com,Christopher,Smith,ACT,True,18,18,21,21,3,Not Improved
+MBR200781,thomas.smith21@gmail.com,Thomas,Smith,DBT,False,13,14,14,16,3,Not Improved
+MBR200782,mary.brown32@icloud.com,Mary,Brown,Mindfulness-Based,True,13,12,15,16,3,Not Improved
+MBR200783,linda.lopez95@outlook.com,Linda,Lopez,ACT,False,8,11,14,16,8,Not Improved
+MBR200784,matthew.miller14@yahoo.com,Matthew,Miller,CBT,True,16,16,16,17,1,Not Improved
+MBR200785,donald.johnson66@gmail.com,Donald,Johnson,Mindfulness-Based,True,16,15,14,14,-2,Not Improved
+MBR200786,john.moore41@icloud.com,John,Moore,Mindfulness-Based,False,8,11,10,9,1,Not Improved
+MBR200787,barbara.anderson30@icloud.com,Barbara,Anderson,ACT,False,10,9,9,10,0,Not Improved
+MBR200788,lisa.lopez26@icloud.com,Lisa,Lopez,CBT,False,18,17,20,21,3,Not Improved
+MBR200789,betty.martinez77@yahoo.com,Betty,Martinez,DBT,True,18,19,21,21,3,Not Improved
+MBR200790,sarah.moore58@outlook.com,Sarah,Moore,DBT,True,11,12,12,11,0,Not Improved
+MBR200791,sandra.brown56@gmail.com,Sandra,Brown,CBT,True,11,10,13,14,3,Not Improved
+MBR200792,lisa.jackson20@hotmail.com,Lisa,Jackson,ACT,True,18,17,20,21,3,Not Improved
+MBR200793,richard.williams55@outlook.com,Richard,Williams,ACT,False,13,14,14,14,1,Not Improved
+MBR200794,karen.lopez65@hotmail.com,Karen,Lopez,Mindfulness-Based,False,15,14,15,18,3,Not Improved
+MBR200795,mary.johnson65@outlook.com,Mary,Johnson,ACT,True,14,16,16,15,1,Not Improved
+MBR200796,mark.lopez60@icloud.com,Mark,Lopez,Mindfulness-Based,True,16,18,17,19,3,Not Improved
+MBR200797,susan.lee59@yahoo.com,Susan,Lee,CBT,True,11,13,13,13,2,Not Improved
+MBR200798,jessica.thomas96@hotmail.com,Jessica,Thomas,CBT,True,10,9,11,11,1,Not Improved
+MBR200799,william.perez39@outlook.com,William,Perez,Mindfulness-Based,True,9,8,7,6,-3,Not Improved
+MBR200800,christopher.rodriguez87@hotmail.com,Christopher,Rodriguez,ACT,True,17,20,19,18,1,Not Improved
+MBR200801,matthew.thompson88@yahoo.com,Matthew,Thompson,DBT,True,13,13,13,16,3,Not Improved
+MBR200802,sandra.jones90@gmail.com,Sandra,Jones,DBT,False,10,10,12,15,5,Not Improved
+MBR200803,jennifer.lee70@yahoo.com,Jennifer,Lee,Mindfulness-Based,True,15,16,19,18,3,Not Improved
+MBR200804,charles.martin80@yahoo.com,Charles,Martin,Mindfulness-Based,False,17,16,15,17,0,Not Improved
+MBR200805,susan.perez40@yahoo.com,Susan,Perez,ACT,True,18,19,19,20,2,Not Improved
+MBR200806,thomas.brown74@hotmail.com,Thomas,Brown,Mindfulness-Based,True,11,10,13,16,5,Not Improved
+MBR200807,christopher.lopez92@hotmail.com,Christopher,Lopez,DBT,True,13,12,12,11,-2,Not Improved
+MBR200808,margaret.gonzalez54@icloud.com,Margaret,Gonzalez,ACT,True,8,11,11,12,4,Not Improved
+MBR200809,dorothy.moore43@outlook.com,Dorothy,Moore,CBT,True,13,15,14,13,0,Not Improved
+MBR200810,donald.smith61@yahoo.com,Donald,Smith,DBT,False,11,13,16,17,6,Not Improved
+MBR200811,linda.martin17@outlook.com,Linda,Martin,ACT,True,11,10,13,15,4,Not Improved
+MBR200812,john.davis99@icloud.com,John,Davis,ACT,True,14,13,13,12,-2,Not Improved
+MBR200813,anthony.jackson51@icloud.com,Anthony,Jackson,ACT,True,18,17,19,21,3,Not Improved
+MBR200814,robert.thompson42@gmail.com,Robert,Thompson,DBT,False,18,20,19,18,0,Not Improved
+MBR200815,nancy.moore79@gmail.com,Nancy,Moore,Mindfulness-Based,False,15,17,20,21,6,Not Improved
+MBR200816,william.anderson59@yahoo.com,William,Anderson,Mindfulness-Based,False,18,17,18,17,-1,Not Improved
+MBR200817,james.moore91@yahoo.com,James,Moore,Mindfulness-Based,True,11,13,15,17,6,Not Improved
+MBR200818,karen.anderson84@icloud.com,Karen,Anderson,CBT,True,17,17,20,21,4,Not Improved
+MBR200819,linda.gonzalez42@gmail.com,Linda,Gonzalez,ACT,True,11,13,12,11,0,Not Improved
+MBR200820,dorothy.thomas65@hotmail.com,Dorothy,Thomas,CBT,True,16,19,21,21,5,Not Improved
+MBR200821,thomas.johnson22@gmail.com,Thomas,Johnson,DBT,False,17,16,19,19,2,Not Improved
+MBR200822,lisa.lopez60@icloud.com,Lisa,Lopez,ACT,False,8,11,11,14,6,Not Improved
+MBR200823,patricia.johnson28@gmail.com,Patricia,Johnson,DBT,False,14,17,17,20,6,Not Improved
+MBR200824,jennifer.martin95@icloud.com,Jennifer,Martin,DBT,True,12,12,14,16,4,Not Improved
+MBR200825,jessica.brown38@gmail.com,Jessica,Brown,DBT,True,16,17,16,18,2,Not Improved
+MBR200826,mary.johnson26@gmail.com,Mary,Johnson,CBT,True,10,12,14,17,7,Not Improved
+MBR200827,michael.hernandez92@outlook.com,Michael,Hernandez,ACT,True,8,9,8,8,0,Not Improved
+MBR200828,jessica.martinez10@yahoo.com,Jessica,Martinez,Mindfulness-Based,True,10,12,15,14,4,Not Improved
+MBR200829,karen.thompson35@icloud.com,Karen,Thompson,ACT,False,18,18,17,18,0,Not Improved
+MBR200830,ashley.hernandez39@gmail.com,Ashley,Hernandez,DBT,True,9,10,10,11,2,Not Improved
+MBR200831,anthony.jones70@hotmail.com,Anthony,Jones,Mindfulness-Based,True,17,17,18,20,3,Not Improved
+MBR200832,sarah.williams35@yahoo.com,Sarah,Williams,ACT,True,18,21,21,21,3,Not Improved
+MBR200833,charles.martin89@yahoo.com,Charles,Martin,ACT,True,12,12,14,13,1,Not Improved
+MBR200834,richard.hernandez90@yahoo.com,Richard,Hernandez,DBT,False,9,9,9,11,2,Not Improved
+MBR200835,susan.moore53@gmail.com,Susan,Moore,Mindfulness-Based,True,15,15,14,14,-1,Not Improved
+MBR200836,james.wilson2@hotmail.com,James,Wilson,Mindfulness-Based,False,17,18,17,16,-1,Not Improved
+MBR200837,robert.thompson17@yahoo.com,Robert,Thompson,Mindfulness-Based,False,11,14,16,16,5,Not Improved
+MBR200838,margaret.wilson26@icloud.com,Margaret,Wilson,ACT,True,13,14,17,17,4,Not Improved
+MBR200839,joseph.jones49@outlook.com,Joseph,Jones,DBT,True,11,14,13,14,3,Not Improved
+MBR200840,betty.lee88@yahoo.com,Betty,Lee,Mindfulness-Based,True,18,21,21,21,3,Not Improved
+MBR200841,jessica.hernandez80@icloud.com,Jessica,Hernandez,DBT,False,17,19,19,21,4,Not Improved
+MBR200842,anthony.miller1@icloud.com,Anthony,Miller,Mindfulness-Based,True,14,14,14,17,3,Not Improved
+MBR200843,sarah.johnson36@yahoo.com,Sarah,Johnson,Mindfulness-Based,True,10,11,13,12,2,Not Improved
+MBR200844,betty.moore22@outlook.com,Betty,Moore,Mindfulness-Based,False,18,17,16,19,1,Not Improved
+MBR200845,dorothy.lopez4@icloud.com,Dorothy,Lopez,DBT,True,14,15,18,20,6,Not Improved
+MBR200846,susan.jones13@outlook.com,Susan,Jones,CBT,False,17,18,18,17,0,Not Improved
+MBR200847,betty.williams65@gmail.com,Betty,Williams,DBT,False,8,8,11,10,2,Not Improved
+MBR200848,nancy.thompson44@gmail.com,Nancy,Thompson,CBT,False,8,10,13,12,4,Not Improved
+MBR200849,betty.anderson95@hotmail.com,Betty,Anderson,ACT,True,15,14,16,16,1,Not Improved
+MBR200850,lisa.hernandez59@gmail.com,Lisa,Hernandez,CBT,True,17,18,18,17,0,Not Improved
+MBR200851,susan.anderson81@hotmail.com,Susan,Anderson,ACT,True,18,20,19,21,3,Not Improved
+MBR200852,christopher.perez98@hotmail.com,Christopher,Perez,CBT,False,13,12,13,13,0,Not Improved
+MBR200853,nancy.lee29@yahoo.com,Nancy,Lee,ACT,False,16,16,16,19,3,Not Improved
+MBR200854,charles.perez97@hotmail.com,Charles,Perez,Mindfulness-Based,True,14,17,19,20,6,Not Improved
+MBR200855,nancy.anderson88@gmail.com,Nancy,Anderson,DBT,False,11,13,15,16,5,Not Improved
+MBR200856,mary.rodriguez73@yahoo.com,Mary,Rodriguez,DBT,True,18,20,20,20,2,Not Improved
+MBR200857,susan.rodriguez86@yahoo.com,Susan,Rodriguez,CBT,True,9,8,9,10,1,Not Improved
+MBR200858,christopher.miller65@yahoo.com,Christopher,Miller,Mindfulness-Based,False,10,9,9,12,2,Not Improved
+MBR200859,william.gonzalez87@gmail.com,William,Gonzalez,DBT,True,12,14,13,15,3,Not Improved
+MBR200860,nancy.perez78@yahoo.com,Nancy,Perez,DBT,False,9,8,8,9,0,Not Improved
+MBR200861,nancy.garcia54@hotmail.com,Nancy,Garcia,ACT,True,9,10,9,9,0,Not Improved
+MBR200862,joseph.martin74@yahoo.com,Joseph,Martin,DBT,False,16,15,15,17,1,Not Improved
+MBR200863,robert.davis65@icloud.com,Robert,Davis,CBT,True,15,16,19,21,6,Not Improved
+MBR200864,karen.williams10@outlook.com,Karen,Williams,DBT,False,12,13,13,12,0,Not Improved
+MBR200865,jessica.jackson24@icloud.com,Jessica,Jackson,DBT,False,10,11,12,14,4,Not Improved
+MBR200866,william.miller20@icloud.com,William,Miller,DBT,True,9,10,10,12,3,Not Improved
+MBR200867,thomas.taylor83@gmail.com,Thomas,Taylor,CBT,True,11,12,14,15,4,Not Improved
+MBR200868,christopher.rodriguez57@icloud.com,Christopher,Rodriguez,Mindfulness-Based,False,11,13,15,16,5,Not Improved
+MBR200869,margaret.smith33@hotmail.com,Margaret,Smith,CBT,True,13,13,15,18,5,Not Improved
+MBR200870,daniel.martin48@icloud.com,Daniel,Martin,ACT,True,15,16,17,19,4,Not Improved
+MBR200871,john.lee99@hotmail.com,John,Lee,DBT,False,14,14,17,16,2,Not Improved
+MBR200872,linda.thompson55@icloud.com,Linda,Thompson,Mindfulness-Based,True,18,18,21,21,3,Not Improved
+MBR200873,lisa.jones26@icloud.com,Lisa,Jones,Mindfulness-Based,True,13,12,14,15,2,Not Improved
+MBR200874,linda.perez98@gmail.com,Linda,Perez,DBT,True,17,20,21,21,4,Not Improved
+MBR200875,joseph.davis98@yahoo.com,Joseph,Davis,Mindfulness-Based,True,14,13,13,16,2,Not Improved
+MBR200876,ashley.martinez81@icloud.com,Ashley,Martinez,Mindfulness-Based,True,16,16,17,16,0,Not Improved
+MBR200877,ashley.gonzalez11@outlook.com,Ashley,Gonzalez,DBT,True,15,18,19,18,3,Not Improved
+MBR200878,thomas.lopez70@hotmail.com,Thomas,Lopez,ACT,False,13,13,15,18,5,Not Improved
+MBR200879,michael.taylor82@gmail.com,Michael,Taylor,CBT,True,9,10,11,13,4,Not Improved
+MBR200880,daniel.williams88@gmail.com,Daniel,Williams,Mindfulness-Based,True,9,12,14,15,6,Not Improved
+MBR200881,john.wilson38@yahoo.com,John,Wilson,DBT,False,18,18,18,21,3,Not Improved
+MBR200882,donald.taylor18@hotmail.com,Donald,Taylor,ACT,False,10,13,14,13,3,Not Improved
+MBR200883,richard.lee71@outlook.com,Richard,Lee,CBT,True,17,16,19,18,1,Not Improved
+MBR200884,betty.johnson67@yahoo.com,Betty,Johnson,Mindfulness-Based,False,10,13,12,13,3,Not Improved
+MBR200885,susan.jackson58@outlook.com,Susan,Jackson,Mindfulness-Based,False,11,10,11,10,-1,Not Improved
+MBR200886,jennifer.jackson24@hotmail.com,Jennifer,Jackson,DBT,False,12,12,12,11,-1,Not Improved
+MBR200887,dorothy.williams31@outlook.com,Dorothy,Williams,Mindfulness-Based,False,17,18,17,16,-1,Not Improved
+MBR200888,ashley.smith83@yahoo.com,Ashley,Smith,Mindfulness-Based,False,9,10,11,14,5,Not Improved
+MBR200889,sarah.lopez57@hotmail.com,Sarah,Lopez,DBT,False,15,17,16,17,2,Not Improved
+MBR200890,john.thompson23@icloud.com,John,Thompson,Mindfulness-Based,False,17,17,18,21,4,Not Improved
+MBR200891,william.rodriguez13@hotmail.com,William,Rodriguez,Mindfulness-Based,False,17,16,18,21,4,Not Improved
+MBR200892,richard.miller3@yahoo.com,Richard,Miller,DBT,True,17,17,18,19,2,Not Improved
+MBR200893,donald.thomas79@icloud.com,Donald,Thomas,CBT,True,11,13,15,14,3,Not Improved
+MBR200894,daniel.garcia2@hotmail.com,Daniel,Garcia,DBT,True,9,12,11,10,1,Not Improved
+MBR200895,john.brown21@gmail.com,John,Brown,CBT,False,8,9,11,14,6,Not Improved
+MBR200896,karen.thomas28@outlook.com,Karen,Thomas,DBT,False,10,10,11,11,1,Not Improved
+MBR200897,sandra.lee85@hotmail.com,Sandra,Lee,Mindfulness-Based,False,8,7,6,7,-1,Not Improved
+MBR200898,david.martin38@gmail.com,David,Martin,CBT,True,10,11,14,17,7,Not Improved
+MBR200899,sarah.thomas23@hotmail.com,Sarah,Thomas,CBT,False,17,17,19,20,3,Not Improved
+MBR200900,barbara.jones43@hotmail.com,Barbara,Jones,DBT,False,8,11,14,16,8,Not Improved
+MBR200901,charles.martinez63@outlook.com,Charles,Martinez,CBT,False,10,13,16,16,6,Not Improved
+MBR200902,daniel.anderson97@icloud.com,Daniel,Anderson,ACT,False,18,19,19,19,1,Not Improved
+MBR200903,jessica.moore74@hotmail.com,Jessica,Moore,DBT,False,8,7,8,11,3,Not Improved
+MBR200904,john.davis61@outlook.com,John,Davis,ACT,True,15,15,14,13,-2,Not Improved
+MBR200905,joseph.lopez53@yahoo.com,Joseph,Lopez,DBT,False,15,14,13,16,1,Not Improved
+MBR200906,betty.moore67@yahoo.com,Betty,Moore,ACT,False,12,14,14,14,2,Not Improved
+MBR200907,mark.anderson34@gmail.com,Mark,Anderson,ACT,False,17,19,21,21,4,Not Improved
+MBR200908,robert.jackson95@outlook.com,Robert,Jackson,ACT,False,12,12,11,12,0,Not Improved
+MBR200909,ashley.davis1@icloud.com,Ashley,Davis,DBT,True,17,17,16,15,-2,Not Improved
+MBR200910,jennifer.lopez43@gmail.com,Jennifer,Lopez,ACT,False,16,15,16,18,2,Not Improved
+MBR200911,ashley.thompson81@hotmail.com,Ashley,Thompson,DBT,True,16,18,17,19,3,Not Improved
+MBR200912,matthew.taylor35@yahoo.com,Matthew,Taylor,DBT,True,9,8,10,11,2,Not Improved
+MBR200913,christopher.thompson66@hotmail.com,Christopher,Thompson,Mindfulness-Based,False,18,18,17,17,-1,Not Improved
+MBR200914,karen.jones11@icloud.com,Karen,Jones,DBT,True,13,12,11,10,-3,Not Improved
+MBR200915,karen.lee60@icloud.com,Karen,Lee,ACT,True,10,13,13,15,5,Not Improved
+MBR200916,mark.lopez19@hotmail.com,Mark,Lopez,CBT,False,10,12,14,14,4,Not Improved
+MBR200917,jessica.wilson39@gmail.com,Jessica,Wilson,Mindfulness-Based,True,12,11,13,14,2,Not Improved
+MBR200918,nancy.johnson50@hotmail.com,Nancy,Johnson,CBT,True,12,12,15,16,4,Not Improved
+MBR200919,james.lopez93@gmail.com,James,Lopez,DBT,False,15,18,17,17,2,Not Improved
+MBR200920,christopher.anderson85@gmail.com,Christopher,Anderson,DBT,True,10,13,14,13,3,Not Improved
+MBR200921,david.smith84@hotmail.com,David,Smith,DBT,True,18,18,17,19,1,Not Improved
+MBR200922,susan.smith6@outlook.com,Susan,Smith,DBT,True,13,15,14,15,2,Not Improved
+MBR200923,sandra.hernandez82@hotmail.com,Sandra,Hernandez,ACT,True,16,17,16,17,1,Not Improved
+MBR200924,dorothy.hernandez80@yahoo.com,Dorothy,Hernandez,DBT,False,8,9,11,12,4,Not Improved
+MBR200925,linda.anderson18@yahoo.com,Linda,Anderson,Mindfulness-Based,False,9,12,14,14,5,Not Improved
+MBR200926,dorothy.wilson70@outlook.com,Dorothy,Wilson,Mindfulness-Based,False,11,12,12,14,3,Not Improved
+MBR200927,robert.hernandez23@yahoo.com,Robert,Hernandez,DBT,True,12,12,15,15,3,Not Improved
+MBR200928,lisa.thompson20@gmail.com,Lisa,Thompson,ACT,False,16,16,15,16,0,Not Improved
+MBR200929,anthony.martin17@hotmail.com,Anthony,Martin,Mindfulness-Based,True,11,10,10,12,1,Not Improved
+MBR200930,donald.martin77@icloud.com,Donald,Martin,ACT,True,8,7,7,8,0,Not Improved
+MBR200931,sandra.gonzalez27@hotmail.com,Sandra,Gonzalez,CBT,True,12,14,15,15,3,Not Improved
+MBR200932,michael.jones80@yahoo.com,Michael,Jones,DBT,False,16,18,17,18,2,Not Improved
+MBR200933,christopher.brown33@yahoo.com,Christopher,Brown,DBT,True,13,15,16,18,5,Not Improved
+MBR200934,susan.thompson31@hotmail.com,Susan,Thompson,DBT,True,15,15,18,17,2,Not Improved
+MBR200935,jessica.lopez36@gmail.com,Jessica,Lopez,Mindfulness-Based,False,13,16,16,19,6,Not Improved
+MBR200936,linda.smith96@icloud.com,Linda,Smith,ACT,True,13,14,15,16,3,Not Improved
+MBR200937,charles.lopez57@gmail.com,Charles,Lopez,DBT,True,8,9,12,14,6,Not Improved
+MBR200938,mark.martin37@yahoo.com,Mark,Martin,CBT,False,14,13,16,17,3,Not Improved
+MBR200939,betty.williams68@icloud.com,Betty,Williams,Mindfulness-Based,True,14,17,18,18,4,Not Improved
+MBR200940,sarah.taylor87@gmail.com,Sarah,Taylor,DBT,False,12,13,16,15,3,Not Improved
+MBR200941,donald.johnson86@hotmail.com,Donald,Johnson,Mindfulness-Based,False,12,13,12,13,1,Not Improved
+MBR200942,richard.thompson75@outlook.com,Richard,Thompson,CBT,False,10,10,11,12,2,Not Improved
+MBR200943,lisa.brown61@hotmail.com,Lisa,Brown,ACT,True,8,7,6,7,-1,Not Improved
+MBR200944,sarah.brown74@gmail.com,Sarah,Brown,DBT,False,17,19,19,20,3,Not Improved
+MBR200945,sandra.jackson49@gmail.com,Sandra,Jackson,ACT,True,17,18,19,21,4,Not Improved
+MBR200946,david.thompson33@hotmail.com,David,Thompson,CBT,True,18,18,21,21,3,Not Improved
+MBR200947,thomas.smith33@icloud.com,Thomas,Smith,Mindfulness-Based,False,10,13,12,14,4,Not Improved
+MBR200948,jennifer.lee31@outlook.com,Jennifer,Lee,DBT,True,10,10,9,10,0,Not Improved
+MBR200949,dorothy.miller31@yahoo.com,Dorothy,Miller,ACT,True,16,19,20,20,4,Not Improved
+MBR200950,susan.moore5@gmail.com,Susan,Moore,ACT,True,11,12,11,10,-1,Not Improved
+MBR200951,karen.anderson23@outlook.com,Karen,Anderson,CBT,False,14,13,12,12,-2,Not Improved
+MBR200952,james.martin91@outlook.com,James,Martin,DBT,False,10,9,8,11,1,Not Improved
+MBR200953,anthony.thompson6@outlook.com,Anthony,Thompson,DBT,True,15,16,19,21,6,Not Improved
+MBR200954,nancy.rodriguez89@icloud.com,Nancy,Rodriguez,DBT,False,14,17,17,20,6,Not Improved
+MBR200955,charles.gonzalez97@icloud.com,Charles,Gonzalez,CBT,True,12,15,18,18,6,Not Improved
+MBR200956,thomas.johnson70@hotmail.com,Thomas,Johnson,CBT,False,9,9,12,12,3,Not Improved
+MBR200957,mark.gonzalez18@icloud.com,Mark,Gonzalez,CBT,False,8,8,11,13,5,Not Improved
+MBR200958,michael.gonzalez70@gmail.com,Michael,Gonzalez,Mindfulness-Based,True,12,12,12,14,2,Not Improved
+MBR200959,patricia.johnson59@yahoo.com,Patricia,Johnson,ACT,False,9,9,12,11,2,Not Improved
+MBR200960,dorothy.moore13@yahoo.com,Dorothy,Moore,ACT,False,13,16,18,21,8,Not Improved
+MBR200961,james.brown76@outlook.com,James,Brown,ACT,True,17,18,21,21,4,Not Improved
+MBR200962,christopher.smith3@hotmail.com,Christopher,Smith,ACT,False,8,10,10,9,1,Not Improved
+MBR200963,betty.gonzalez52@gmail.com,Betty,Gonzalez,CBT,False,9,8,8,9,0,Not Improved
+MBR200964,william.johnson86@hotmail.com,William,Johnson,DBT,False,14,15,14,14,0,Not Improved
+MBR200965,ashley.wilson59@gmail.com,Ashley,Wilson,CBT,True,11,13,16,17,6,Not Improved
+MBR200966,jessica.smith36@hotmail.com,Jessica,Smith,ACT,True,14,17,16,17,3,Not Improved
+MBR200967,patricia.perez92@yahoo.com,Patricia,Perez,DBT,True,15,18,19,18,3,Not Improved
+MBR200968,linda.thomas98@icloud.com,Linda,Thomas,Mindfulness-Based,True,8,11,12,14,6,Not Improved
+MBR200969,lisa.martin75@hotmail.com,Lisa,Martin,Mindfulness-Based,True,15,14,17,20,5,Not Improved
+MBR200970,richard.smith14@outlook.com,Richard,Smith,ACT,False,11,11,12,14,3,Not Improved
+MBR200971,joseph.thomas39@icloud.com,Joseph,Thomas,Mindfulness-Based,False,8,11,10,11,3,Not Improved
+MBR200972,barbara.taylor13@outlook.com,Barbara,Taylor,ACT,True,17,17,16,17,0,Not Improved
+MBR200973,matthew.johnson78@icloud.com,Matthew,Johnson,Mindfulness-Based,True,17,20,21,21,4,Not Improved
+MBR200974,christopher.jackson17@hotmail.com,Christopher,Jackson,DBT,False,16,15,17,20,4,Not Improved
+MBR200975,lisa.taylor59@outlook.com,Lisa,Taylor,ACT,True,14,14,15,15,1,Not Improved
+MBR200976,james.miller72@gmail.com,James,Miller,DBT,True,18,19,21,21,3,Not Improved
+MBR200977,patricia.thompson24@gmail.com,Patricia,Thompson,ACT,False,16,19,18,21,5,Not Improved
+MBR200978,anthony.perez3@icloud.com,Anthony,Perez,ACT,True,10,13,16,17,7,Not Improved
+MBR200979,charles.jackson95@gmail.com,Charles,Jackson,DBT,True,15,15,16,19,4,Not Improved
+MBR200980,christopher.martin64@gmail.com,Christopher,Martin,CBT,False,13,13,14,17,4,Not Improved
+MBR200981,christopher.thompson22@yahoo.com,Christopher,Thompson,DBT,True,12,12,15,18,6,Not Improved
+MBR200982,michael.lee34@gmail.com,Michael,Lee,DBT,True,18,20,21,21,3,Not Improved
+MBR200983,thomas.hernandez36@gmail.com,Thomas,Hernandez,ACT,True,18,19,20,21,3,Not Improved
+MBR200984,mary.thomas77@yahoo.com,Mary,Thomas,ACT,True,18,19,19,20,2,Not Improved
+MBR200985,linda.wilson5@yahoo.com,Linda,Wilson,DBT,False,16,15,17,18,2,Not Improved
+MBR200986,sandra.lee86@yahoo.com,Sandra,Lee,DBT,False,15,16,16,19,4,Not Improved
+MBR200987,thomas.perez46@outlook.com,Thomas,Perez,ACT,False,16,19,21,21,5,Not Improved
+MBR200988,donald.perez29@hotmail.com,Donald,Perez,CBT,False,12,11,11,13,1,Not Improved
+MBR200989,sandra.williams79@outlook.com,Sandra,Williams,DBT,True,16,18,17,19,3,Not Improved
+MBR200990,jessica.martin4@gmail.com,Jessica,Martin,ACT,False,13,16,19,19,6,Not Improved
+MBR200991,mark.davis88@hotmail.com,Mark,Davis,ACT,True,12,15,14,13,1,Not Improved
+MBR200992,david.thomas65@hotmail.com,David,Thomas,Mindfulness-Based,False,16,18,20,21,5,Not Improved
+MBR200993,richard.taylor93@yahoo.com,Richard,Taylor,DBT,False,16,17,19,21,5,Not Improved
+MBR200994,patricia.brown75@yahoo.com,Patricia,Brown,CBT,True,16,15,15,15,-1,Not Improved
+MBR200995,charles.jackson95@yahoo.com,Charles,Jackson,DBT,True,18,19,21,21,3,Not Improved
+MBR200996,betty.moore62@hotmail.com,Betty,Moore,ACT,False,12,14,16,15,3,Not Improved
+MBR200997,ashley.johnson83@yahoo.com,Ashley,Johnson,ACT,False,11,11,10,11,0,Not Improved
+MBR200998,matthew.miller61@gmail.com,Matthew,Miller,Mindfulness-Based,False,11,13,13,15,4,Not Improved
+MBR200999,charles.moore48@hotmail.com,Charles,Moore,DBT,False,15,17,20,20,5,Not Improved
